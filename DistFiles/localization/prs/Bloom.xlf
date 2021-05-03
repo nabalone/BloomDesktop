@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:sil="http://sil.org/software/XLiff" xmlns:html="http://www.w3.org/TR/html" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Bloom.exe" source-language="en" datatype="plaintext" product-version="3.1.000.0" sil:hard-linebreak-replacement="\n" target-language="prs">
     <body>
@@ -221,7 +221,7 @@
       <trans-unit id="BloomPackInstallDialog.UnableToReplace" approved="yes">
         <source xml:lang="en">Bloom was not able to remove the existing copy of '{0}'. Quit Bloom if it is running &amp; try again. Otherwise, try again after restarting your computer.</source>
         <note>ID: BloomPackInstallDialog.UnableToReplace</note>
-        <target xml:lang="prs" state="final">بلوم نتواست که کاپی موجود ‎'{0}'‏ را از میان بردارد. اگر بلوم درحالت اجرا باشد آنرا خاموش نمائید و دوباره کوشش نمائید. یا بعد از دوباره فعال کردن کمپیوترتان دوباره کوشش کنید.</target>
+        <target xml:lang="prs" state="final">بلوم نتواست که کاپی موجود '{‎'{0‏ را از میان بردارد. اگر بلوم درحالت اجرا باشد آنرا خاموش نمائید و دوباره کوشش نمائید. یا بعد از دوباره فعال کردن کمپیوترتان دوباره کوشش کنید.</target>
       </trans-unit>
       <trans-unit id="BookEditor.CharacterMap.Instructions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To select, use your mouse wheel or point at what you want, or press the key shown in purple. Finally, release the key that you pressed to show this list.</source>
@@ -238,12 +238,12 @@
       <trans-unit id="BookEditor.ForText" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This formatting is for all text boxes with '{0}' style.</source>
         <note>ID: BookEditor.ForText</note>
-        <target xml:lang="prs" state="final">این فارمت با تمام خانه های متن با ستایل ‎'{0}'‏ است.</target>
+        <target xml:lang="prs" state="final">این فارمت با تمام خانه های متن با ستایل '{‎0}'‏ است.</target>
       </trans-unit>
       <trans-unit id="BookEditor.ForTextInLang" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This formatting is for all {0} text boxes with '{1}' style.</source>
         <note>ID: BookEditor.ForTextInLang</note>
-        <target xml:lang="prs" state="final">این فارمت کردن برای تمام خانه های متن ‎{0}‏ است با ستایل ‎'{1}'‏.</target>
+        <target xml:lang="prs" state="final">این فارمت کردن برای تمام خانه های متن {‎{0‏ است با ستایل '{‎'{1‏.</target>
       </trans-unit>
       <trans-unit id="BookEditor.FormattingDisabled" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sorry, Reader Templates do not allow changes to formatting.</source>
@@ -421,7 +421,7 @@
       <trans-unit id="CollectionSettingsDialog.AndikaNewBasicUpdate1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is switching the default font for "{0}" to the new "Andika New Basic".</source>
         <note>ID: CollectionSettingsDialog.AndikaNewBasicUpdate1</note>
-        <target xml:lang="prs" state="final">بلوم نوع خط اصلی را از ‎"{0}"‏ به ‏"Andika New Basic"‏ تغیر میدهد.</target>
+        <target xml:lang="prs" state="final">بلوم نوع خط اصلی را از "{‎"{0‏ به ‏"Andika New Basic"‏ تغیر میدهد.</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AndikaNewBasicUpdate2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This will improve the printed output for most languages. If your language is one of the few that need "Andika", you can switch it back in Settings:Book Making.</source>
@@ -1070,18 +1070,21 @@
       </trans-unit>
       <trans-unit id="Common.Cancel" approved="yes">
         <source xml:lang="en">Cancel</source>
+        <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".  In English, this is the same as "Common.CancelProcess", but could be different in your language.</note>
         <note>ID: Common.Cancel</note>
         <target xml:lang="prs" state="final">رد کردن</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
+        <note>This is identical to Common.Cancel. The duplication was introduced by a mistake.</note>
+        <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".</note>
         <note>ID: Common.CancelButton</note>
         <target xml:lang="prs" state="final">&amp;لغو</target>
       </trans-unit>
       <trans-unit id="Common.Close">
         <source xml:lang="en">Close</source>
         <note>ID: Common.Close</note>
-        <note>Used typically for a button that closes a dialog (where OK or Cancel are not really appropriate)</note>
+        <note>Used typically for a button that closes a dialog box. Unlike "OK", "Close" is not agreeing to anything, it's just dismissing the dialog box.</note>
         <target xml:lang="prs" state="translated">بسته کردن</target>
       </trans-unit>
       <trans-unit id="Common.Colors.Black" approved="yes">
@@ -1596,7 +1599,7 @@
       <trans-unit id="EditTab.FontMissing" approved="yes">
         <source xml:lang="en">The current selected font is '{0}', but it is not installed on this computer. Some other font will be used.</source>
         <note>ID: EditTab.FontMissing</note>
-        <target xml:lang="prs" state="final">خط فعلی انتخاب شده ‎'{0}'‏ است، اما در این کمپیوتر نصب نیست. خط دیگر استعمال خواهد شد.</target>
+        <target xml:lang="prs" state="final">خط فعلی انتخاب شده '{‎0}'‏ است، اما در این کمپیوتر نصب نیست. خط دیگر استعمال خواهد شد.</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.Alignment" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Alignment</source>
@@ -1939,7 +1942,7 @@
         <source xml:lang="en">Adapted from original, {0}.</source>
         <note>ID: EditTab.FrontMatter.OriginalCopyrightSentence</note>
         <note>On the Credits page of a book being translated, Bloom shows the original copyright. Put {0} in the translation where the copyright notice should go. For example in English, 'Adapted from original, {0}.' comes out like 'Adapted from original, Copyright 2011 SIL'.</note>
-        <target xml:lang="prs" state="final">گرفته شده از اصلی، ‎{0}‏.</target>
+        <target xml:lang="prs" state="final">گرفته شده از اصلی، {‎0}‏.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalHadNoCopyrightSentence" approved="yes">
         <source xml:lang="en">Adapted from original without a copyright notice.</source>
@@ -1951,7 +1954,7 @@
         <source xml:lang="en">Licensed under {0}.</source>
         <note>ID: EditTab.FrontMatter.OriginalLicenseSentence</note>
         <note>On the Credits page of a book being translated, Bloom puts texts like 'Licensed under CC-BY', so that we have a record of what the license was for the original book. Put {0} in the translation, where the license should go in the sentence.</note>
-        <target xml:lang="prs" state="final">جواز شده تحت ‎{0}‏.</target>
+        <target xml:lang="prs" state="final">جواز شده تحت {‎0}‏.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paste Image Credits</source>
@@ -2585,7 +2588,7 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.AllowedWordListTruncated" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom can handle only the first {0} words.</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.AllowedWordListTruncated</note>
-        <target xml:lang="prs" state="final">بلوم تنها میتواند کلیمات اول ‎{0}‏ را استعمال کند.</target>
+        <target xml:lang="prs" state="final">بلوم تنها میتواند کلیمات اول {‎0}‏ را استعمال کند.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.AllowedWordsInThisStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Allowed words in this stage</source>
@@ -3969,19 +3972,19 @@
       <trans-unit id="PublishTab.Android.BloomD.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sharing .bloomd Files</source>
         <note>ID: PublishTab.Android.BloomD.Hint.Heading</note>
-        <note />
+        <note/>
         <target xml:lang="prs" state="final">شریک سازی فایلهای .bloom</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.BloomD.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can use sharing apps like email, Dropbox, and WhatsApp to get your .bloomd file onto a device.</source>
         <note>ID: PublishTab.Android.BloomD.Hint</note>
-        <note />
+        <note/>
         <target xml:lang="prs" state="final">می توانید از برنامه های شریک سازی مانند ایمیل ، Dropbox و WhatsApp برای دریافت پرونده .bloomd خود دریک دستگاه استفاده کنید.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
         <note>ID: PublishTab.Android.USB.Hint.Heading</note>
-        <note />
+        <note/>
         <target xml:lang="prs" state="final"> USB مشکل دارد</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint" sil:dynamic="true" approved="yes">
@@ -3989,7 +3992,7 @@
                             cable, install phone drivers on your computer, or
                             modify settings on your phone.</source>
         <note>ID: PublishTab.Android.USB.Hint</note>
-        <note />
+        <note/>
         <target xml:lang="prs" state="final">برای ارسال از طریق USB ، شاید لازم باشد حق ارسال را بدست آورید
                              کیبل ، درایور تلفون را روی کمپیوتر خود نصب کنید ، یا
                              تنظیمات را بر روی تلفون خود تغییر دهید.</target>
@@ -3997,7 +4000,7 @@
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
-        <note />
+        <note/>
         <target xml:lang="prs" state="final">شبکه Wi-Fi ندارید?</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint" sil:dynamic="true" approved="yes">
@@ -5670,6 +5673,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Close</source>
         <note>ID: ReportProblemDialog.Close</note>
         <note>Shown in the button that closes the dialog after a successful report submission.</note>
+        <note>Obsolete for Bloom 5.0 and later</note>
         <target xml:lang="prs" state="final">بسته کردن</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.CouldNotSendToServer" approved="yes">
