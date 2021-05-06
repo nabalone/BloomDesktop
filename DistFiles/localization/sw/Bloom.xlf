@@ -410,13 +410,13 @@
         <note xml:lang="en">OLD TEXT (before 5.0): Show Experimental Features</note>
         <note xml:lang="en">OLD TEXT (before 4.3): Show Experimental Commands</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Show Experimental Commands (e.g. Export XML for InDesign)</note>
-        <target xml:lang="sw" state="needs-translation">Experimental Features</target>
+        <target xml:lang="sw" state="translated">Vipengele vya majaribio</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources">
         <source xml:lang="en">Show Experimental Book Sources</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources</note>
         <note>OLD TEXT (before 5.0/3.9): Show Experimental Templates (e.g. Picture Dictionary)</note>
-        <target xml:lang="sw" state="needs-translation">Show Experimental Book Sources</target>
+        <target xml:lang="sw" state="translated">Onyesha Vyanzo vya Kitabu vya Majaribio</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AndikaNewBasicUpdate1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is switching the default font for "{0}" to the new "Andika New Basic".</source>
@@ -1704,7 +1704,7 @@
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizQuestion-style" sil:dynamic="true">
         <source xml:lang="en">Quiz Question</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.QuizQuestion-style</note>
-        <target xml:lang="sw" state="needs-translation">Quiz Question</target>
+        <target xml:lang="sw" state="translated">Swali la Jaribio</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.Title-On-Cover-style" sil:dynamic="true">
         <source xml:lang="en">Title On Cover</source>
@@ -2218,12 +2218,12 @@
       <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage2" sil:dynamic="true">
         <source xml:lang="en">Collection Language 2</source>
         <note>ID: EditTab.TextBoxProperties.CollectionLanguage2</note>
-        <target xml:lang="sw" state="needs-translation">Collection Language 2</target>
+        <target xml:lang="sw" state="translated">Mkusanyiko wa Lugha 2</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage3" sil:dynamic="true">
         <source xml:lang="en">Collection Language 3</source>
         <note>ID: EditTab.TextBoxProperties.CollectionLanguage3</note>
-        <target xml:lang="sw" state="needs-translation">Collection Language 3</target>
+        <target xml:lang="sw" state="translated">Mkusanyiko wa Lugha 3</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.HintBubbles" sil:dynamic="true">
         <source xml:lang="en">Hint Bubbles</source>
@@ -2278,7 +2278,7 @@
       <trans-unit id="EditTab.TextBoxProperties.SelectedLanguage" sil:dynamic="true">
         <source xml:lang="en">Selected Language 1</source>
         <note>ID: EditTab.TextBoxProperties.SelectedLanguage</note>
-        <target xml:lang="sw" state="needs-translation">Selected Language 1</target>
+        <target xml:lang="sw" state="translated">Lugha Iliyochaguliwa</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowHintBubble" sil:dynamic="true">
         <source xml:lang="en">Show the hint bubble</source>
@@ -2412,7 +2412,7 @@
         <source xml:lang="en">Circle</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style.Circle</note>
         <note>Refers to the shape of a comic bubble </note>
-        <target xml:lang="sw" state="needs-translation">Circle</target>
+        <target xml:lang="sw" state="translated">Duara</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Ellipse" sil:dynamic="true">
         <source xml:lang="en">Ellipse</source>
@@ -2868,7 +2868,7 @@
         <source xml:lang="en">longest sentence</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.MaxSentenceLength</note>
         <note>length of the longest sentence (in the book)</note>
-        <target xml:lang="sw" state="needs-translation">longest sentence</target>
+        <target xml:lang="sw" state="translated">sentensi ndefu zaidi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.PerPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">per page</source>
@@ -2919,7 +2919,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.TotalInBook" sil:dynamic="true">
         <source xml:lang="en">total in book</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.TotalInBook</note>
-        <target xml:lang="sw" state="needs-translation">total in book</target>
+        <target xml:lang="sw" state="translated">jumla katika kitabu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Unique" sil:dynamic="true" approved="yes">
         <source xml:lang="en">unique</source>
