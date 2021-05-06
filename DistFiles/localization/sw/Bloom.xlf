@@ -2862,7 +2862,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxInBook" sil:dynamic="true">
         <source xml:lang="en">max in book</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.MaxInBook</note>
-        <target xml:lang="sw" state="needs-translation">max in book</target>
+        <target xml:lang="sw" state="translated">upeo katika kitabu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxSentenceLength" sil:dynamic="true">
         <source xml:lang="en">longest sentence</source>
