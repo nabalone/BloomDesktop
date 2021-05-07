@@ -38,7 +38,7 @@
       <trans-unit id="AccessibilityCheck.AutomaticChecksHeading" sil:dynamic="true">
         <source xml:lang="en">Bloom can automatically check these for you:</source>
         <note>ID: AccessibilityCheck.AutomaticChecksHeading</note>
-        <target xml:lang="sw" state="translated">Bloom inaweza kuangalia haya kiotomatiki kwako:</target>
+        <target xml:lang="sw" state="translated">Bloom inaweza kuangalia haya yenyewe kwaajili yako:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.Checklist" sil:dynamic="true">
         <source xml:lang="en">Accessibility Checklist</source>
@@ -49,7 +49,7 @@
       <trans-unit id="AccessibilityCheck.descriptionsForAllImages" sil:dynamic="true">
         <source xml:lang="en">Descriptions for all images</source>
         <note>ID: AccessibilityCheck.descriptionsForAllImages</note>
-        <target xml:lang="sw" state="translated">Maelezo kwa picha zote</target>
+        <target xml:lang="sw" state="translated">Maelezo ya picha zote</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.DescriptionsForAllImages.MissingOnPage">
         <source xml:lang="en">Missing image description on page {0}</source>
