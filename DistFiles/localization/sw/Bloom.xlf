@@ -77,12 +77,12 @@
         <source xml:lang="en">"Accessible Books" are books that work well for people with impaired vision. With the ePUB format*, it is possible to make "Born Accessible" books that work well for everyone**, regardless of vision. Bloom has the following tools to help you create these books:</source>
         <note>ID: AccessibilityCheck.LearnAbout.AccessibleBookDefinition</note>
         <note>The * and ** are footnote markers that should remain the same.</note>
-        <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyofanya kazi vizuri kwa watu wasio na uwezo wa kuona. Muundo wake wa ePUB *, unaweza kutengeneza vitabu vya "Born Accessible" ambavyo ni vizuri kwa kila mtu **, bila kujali hali ya uono. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
+        <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyofanya kazi vizuri kwa watu wasio na uwezo wa kuona. Muundo wake wa ePUB *, unaweza kutengeneza vitabu vya "Born Accessible" ambavyo huwafaa watu wote **, bila kujali hali yao ya uono. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.CheckerHas" sil:dynamic="true">
         <source xml:lang="en">This tool, the Accessibility Checker, has:</source>
         <note>ID: AccessibilityCheck.LearnAbout.CheckerHas</note>
-        <target xml:lang="sw" state="translated">Zana hii, Kikaguaji cha Ufikivu, ina:</target>
+        <target xml:lang="sw" state="translated">Zana hii, Kikaguaji fikivu, ina:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.AccessibilityCheckList" sil:dynamic="true">
         <source xml:lang="en">The "Accessibility Checklist" which is where Bloom checks over your book and points you to anything that needs attention, especially for speakers of minority languages.</source>
