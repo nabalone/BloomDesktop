@@ -4350,7 +4350,7 @@
         <source xml:lang="en">Some audio elements are missing ids</source>
         <note>ID: PublishTab.Audio.ElementsMissingId</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Baadhi ya vipengee vya sauti havina vitambulisho</target>
+        <target xml:lang="sw" state="translated">Baadhi ya vipengele vya sauti havina vitambulisho</target>
       </trans-unit>
       <trans-unit id="PublishTab.BodyOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Insides</source>
@@ -4421,7 +4421,7 @@
       <trans-unit id="PublishTab.Epub.Done">
         <source xml:lang="en">Done</source>
         <note>ID: PublishTab.Epub.Done</note>
-        <target xml:lang="sw" state="translated">Imefanywa</target>
+        <target xml:lang="sw" state="translated">Imekamilika</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Help.AboutEpubs">
         <source xml:lang="en">About ePUBs</source>
@@ -4458,7 +4458,7 @@
         <source xml:lang="en">Sorry, Bloom cannot produce ePUBs if there are any comic bubbles. The first comic bubble is on page {0}.</source>
         <note>ID: PublishTab.Epub.NoComicSupport</note>
         <note>The {0} will be replaced with the page number (or name of page). For example, it might be replaced by "1" or "Front Cover"</note>
-        <target xml:lang="sw" state="translated">Samahani, Bloom haiwezi kutoa ePUBs ikiwa kuna viputo vyovyote vya kuchekesha. Kiputo cha kwanza cha kuchekesha kiko kwenye ukurasa wa {0}.</target>
+        <target xml:lang="sw" state="translated">Samahani, Bloom haiwezi kutoa ePUBs ikiwa kuna viputo vyovyote vya vicheshi. Kiputo cha kwanza cha vicheshi kiko kwenye ukurasa wa {0}.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.OmittedPages">
         <source xml:lang="en">The following pages were removed because they are not supported in ePUBs:</source>
