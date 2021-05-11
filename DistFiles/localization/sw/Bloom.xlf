@@ -4632,7 +4632,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">Compressing PDF</source>
         <note>ID: PublishTab.PdfMaker.Compress</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Kubana PDF</target>
+        <target xml:lang="sw" state="translated">Kukandamiza PDF</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.CompressConvertColor">
         <source xml:lang="en">Compressing PDF &amp; Converting Color to CMYK</source>
@@ -4651,19 +4651,19 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">Error creating, compressing, or recoloring the PDF file</source>
         <note>ID: PublishTab.PdfMaker.ErrorProcessing</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Hitilafu wakati wa kuunda, kubana, au kuweka rangi tena faili ya PDF</target>
+        <target xml:lang="sw" state="translated">Hitilafu wakati wa kuunda, kukandamiza, au kuweka rangi tena faili ya PDF</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.ErrorSaving">
         <source xml:lang="en">Error compressing or recoloring the PDF file</source>
         <note>ID: PublishTab.PdfMaker.ErrorProcessing</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Hitilafu kukandamiza au kuweka rangi tena faili ya PDF</target>
+        <target xml:lang="sw" state="needs-translation">Error compressing or recoloring the PDF file</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Finished">
         <source xml:lang="en">Finished making PDF from HTML</source>
         <note>ID: PublishTab.PdfMaker.Finished</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Imemaliza kutengeneza PDF kutoka kwa HTML</target>
+        <target xml:lang="sw" state="translated">Imekamilisha kutengeneza PDF kutoka kwa HTML</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.FullBleed">
         <source xml:lang="en">Full Bleed</source>
@@ -4749,7 +4749,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">The PDF file has not been saved because you chose not to allow producing a "PDF for print shop".</source>
         <note>ID: PublishTab.PdfNotSavedWhy</note>
         <note>explanation that file was not saved displayed in a message box</note>
-        <target xml:lang="sw" state="translated">Faili ya PDF haijahifadhiwa kwa sababu umechagua kutoruhusu kutengeneza "PDF ya Mchapishaji".</target>
+        <target xml:lang="sw" state="translated">Faili ya PDF haijahifadhiwa kwa sababu umechagua kutoruhusu kutengeneza "PDF kwa uchapishaji".</target>
       </trans-unit>
       <trans-unit id="PublishTab.PrintButton" approved="yes">
         <source xml:lang="en">&amp;Print...</source>
@@ -4760,7 +4760,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for print shop".  You must agree to the following license in order to perform this task in Bloom.</source>
         <note>ID: PublishTab.PrologToAdobeEula</note>
         <note>Brief explanation of what this license is and why the user needs to agree to it</note>
-        <target xml:lang="sw" state="translated">Bloom hutumia profaili za rangi ya Adobe kubadilisha faili za PDF kutoka kwa kutumia rangi ya RGB na kutumia rangi ya CMYK. Hii ni sehemu ya kuandaa "PDF ya duka la kuchapisha". Lazima ukubali leseni ifuatayo ili ufanye kazi hii katika Bloom.</target>
+        <target xml:lang="sw" state="translated">Bloom hutumia profaili za rangi ya Adobe kubadilisha faili za PDF kutoka kwa kutumia rangi ya RGB na kutumia rangi ya CMYK. Hii ni sehemu ya kuandaa "PDF kwa uchapishaji". Lazima ukubali leseni ifuatayo ili ufanye kazi hii katika Bloom.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Publish" approved="yes">
         <source xml:lang="en">Publish</source>
