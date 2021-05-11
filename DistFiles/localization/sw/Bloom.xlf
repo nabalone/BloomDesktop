@@ -253,23 +253,23 @@
       <trans-unit id="BookMetadata.a11yCertifier">
         <source xml:lang="en">Level certified by</source>
         <note>ID: BookMetadata.a11yCertifier</note>
-        <target xml:lang="sw" state="translated">Kiwango kimethibitiwa na</target>
+        <target xml:lang="sw" state="translated">Kiwango kimethibitiswa na</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yFeatures">
         <source xml:lang="en">Accessibility features</source>
         <note>ID: BookMetadata.a11yFeatures</note>
-        <target xml:lang="sw" state="translated">Vipengele za upatikanaji</target>
+        <target xml:lang="sw" state="translated">Vipengele za ufifikaji</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevel">
         <source xml:lang="en">Accessibility level</source>
         <note>ID: BookMetadata.a11yLevel</note>
-        <target xml:lang="sw" state="translated">Kiwango cha upatikanaji</target>
+        <target xml:lang="sw" state="needs-translation">Accessibility level</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelNone" sil:dynamic="true">
         <source xml:lang="en">None</source>
         <note>ID: BookMetadata.a11yLevelNone</note>
         <note>indicates that no level of accessibility conformance is claimed</note>
-        <target xml:lang="sw" state="translated">Hakuna</target>
+        <target xml:lang="sw" state="translated">Hamna</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelA" sil:dynamic="true">
         <source xml:lang="en">Level A conformance</source>
@@ -365,7 +365,7 @@
       <trans-unit id="BookStorage.CorruptBook">
         <source xml:lang="en">Bloom had a problem reading this book and recovered by restoring a recent backup. Please check recent changes to this book. If this happens for no obvious reason, please click Details below and report it to us.</source>
         <note>ID: BookStorage.CorruptBook</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na shida kusoma kitabu hiki na ilirekibisha kwa kurejesha nakala rudufu ya hivi majuzi. Tafadhali angalia mabadiliko ya hivi karibuni kwenye kitabu hiki. Ikiwa hii itatokea bila sababu dhahiri, tafadhali bonyeza Maelezo hapa chini na uturipoti.</target>
+        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo la kusoma kitabu hiki na ilirekibisha kwa kurejesha nakala rudufu ya hivi majuzi. Tafadhali angalia mabadiliko ya hivi karibuni kwenye kitabu hiki. Ikiwa hii itatokea bila sababu dhahiri, tafadhali bonyeza Maelezo hapa chini na uripoti kwetu.</target>
       </trans-unit>
       <trans-unit id="BookStorage.FolderMoved" approved="yes">
         <source xml:lang="en">It appears that some part of the folder path to this book has been moved or renamed. As a result, Bloom cannot save your changes to this page, and will need to exit now. If you haven't been renaming or moving things, please click Details below and report the problem to the developers.</source>
