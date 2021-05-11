@@ -5893,7 +5893,7 @@ Kwa<g id="mspp-1" ctype="x-html-strong">ukurasa</g>
       <trans-unit id="Settings.Enterprise.Overview" sil:dynamic="true">
         <source xml:lang="en">Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.</source>
         <note>ID: Settings.Enterprise.Overview</note>
-        <target xml:lang="sw" state="translated">Bloom Enterprise inaongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu uliolipwa unakidhi mahitaji yao ya kipekee wakati unasaidia maendeleo na msaada wa watumiaji wa Bloom kwa jamii kwa ujumla.</target>
+        <target xml:lang="sw" state="needs-translation">Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true">
         <source xml:lang="en">Bloom Enterprise Status</source>
