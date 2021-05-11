@@ -4616,7 +4616,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">The book's images might have exceeded the amount of RAM memory available. Please turn on the "Use Less Memory" option which is slower but uses less memory.</source>
         <note>ID: PublishTab.PDF.Error.TrySinglePage</note>
         <note>Error message displayed in a message dialog box.</note>
-        <target xml:lang="sw" state="translated">Picha za kitabu hicho zinaweza kuzidi kiwango cha kumbukumbu ya RAM inayopatikana. Tafadhali washa chaguo la "Tumia Kumbukumbu kidogo" ambayo ni polepole lakini haitumii kumbukumbu ndogo.</target>
+        <target xml:lang="sw" state="translated">Picha za kitabu hicho zinaweza kuzidi kiwango cha kumbukumbu ya RAM iliyopo. Tafadhali washa chaguo la "Tumia Kumbukumbu Mdogo" ambayo ni polepole lakini haitumii kumbukumbu ndogo.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.BadPdf" approved="yes">
         <source xml:lang="en">Bloom had a problem making a PDF of this book. You may need technical help or to contact the developers. But here are some things you can try:</source>
@@ -4626,7 +4626,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.PdfMaker.BadPdfShort">
         <source xml:lang="en">Bloom had a problem making a PDF of this book.</source>
         <note>ID: PublishTab.PdfMaker.BadPdfShort</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na shida kutengeneza PDF ya kitabu hiki.</target>
+        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo kutengeneza PDF ya kitabu hiki.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Compress">
         <source xml:lang="en">Compressing PDF</source>
