@@ -434,12 +434,6 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionSettingsDialog.BookMakingTab.BookMakingTabLabel</note>
         <target xml:lang="es-ES" state="final">Creando Libros</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.Branding" approved="yes">
-        <source xml:lang="en">Branding</source>
-        <note>ID: CollectionSettingsDialog.BookMakingTab.Branding</note>
-        <note xml:lang="en">Used in 3.9 and 4.0; not used in 4.1</note>
-        <target xml:lang="es-ES" state="final">Marcación (Branding)</target>
-      </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Branding.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Branding.None</note>
@@ -924,13 +918,6 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionTab.MakeBookUsingThisTemplate_ToolTip_</note>
         <target xml:lang="es-ES" state="final">Crear un libro en mi idioma utilizando este Libro Fuente</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.MoreLanguagesMenuItem" approved="yes">
-        <source xml:lang="en">More...</source>
-        <note>ID: CollectionTab.MoreLanguagesMenuItem</note>
-        <note>Brings up the localization dialog</note>
-        <note xml:lang="en">used in 3.9 and earlier; feature removed in 4.0</note>
-        <target xml:lang="es-ES" state="final">Más...</target>
-      </trans-unit>
       <trans-unit id="CollectionTab.Open/CreateCollectionButton" approved="yes">
         <source xml:lang="en">Other Collection</source>
         <note>ID: CollectionTab.Open/CreateCollectionButton</note>
@@ -1237,6 +1224,12 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
         <target xml:lang="es-ES" state="final">Ver {0}.</target>
       </trans-unit>
+      <trans-unit id="Common.SelectAll">
+        <source xml:lang="en">Select all</source>
+        <note>ID: Common.SelectAll</note>
+        <note>used for a menu item for selecting all text in a text box</note>
+        <target xml:lang="es-ES" state="needs-translation">Select all</target>
+      </trans-unit>
       <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
         <note>ID: Common.Settings</note>
@@ -1316,7 +1309,6 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutTitle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose Different Layout...</source>
         <note>ID: EditTab.AddPageDialog.ChooseLayoutTitle</note>
-        <note>found in 3.9 and earlier</note>
         <target xml:lang="es-ES" state="final">Elegir un diseño diferente...</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutWillLoseData" sil:dynamic="true" approved="yes">
@@ -1344,14 +1336,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
       <trans-unit id="EditTab.AddPageDialog.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Page...</source>
         <note>ID: EditTab.AddPageDialog.Title</note>
-        <note>found in 3.9 and earlier</note>
         <target xml:lang="es-ES" state="final">Agregar página...</target>
-      </trans-unit>
-      <trans-unit id="EditTab.AddTextBoxToImage" approved="yes">
-        <source xml:lang="en">Add Text Box To Image</source>
-        <note>ID: EditTab.AddTextBoxToImage</note>
-        <note>Obsolete for Bloom 4.7 and later</note>
-        <target xml:lang="es-ES" state="final">Añadir cuadro de texto a la imagen</target>
       </trans-unit>
       <trans-unit id="EditTab.BackMatter.InsideBackCoverTextPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">If you need somewhere to put more information about the book, you can use this page, which is the inside of the back cover.</source>
@@ -1512,12 +1497,6 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: EditTab.DeletePageButton.ToolTipWhenDisabled</note>
         <note>Button that tells Bloom to delete the currently selected page.</note>
         <target xml:lang="es-ES" state="final">Esta página no se puede eliminar</target>
-      </trans-unit>
-      <trans-unit id="EditTab.DeleteTextBoxFromImage" approved="yes">
-        <source xml:lang="en">Delete Text Box From Image</source>
-        <note>ID: EditTab.DeleteTextBoxFromImage</note>
-        <note>Obsolete for Bloom 4.7 and later</note>
-        <target xml:lang="es-ES" state="final">Eliminar cuadro de texto de la imagen</target>
       </trans-unit>
       <trans-unit id="EditTab.DirectFormatting.Bold" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bold</source>
@@ -2353,27 +2332,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>A background color that looks like old lace</note>
         <target xml:lang="es-ES" state="final">Encaje antiguo</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToCalico" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">White to Calico</source>
-        <note>ID: EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToCalico</note>
-        <note>A background color that is a gradient starting with white blending into calico color</note>
-        <note>Obsolete for Bloom 4.9 and later</note>
-        <target xml:lang="es-ES" state="final">Blanco a Calico</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToFrenchPass" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">White to French Pass</source>
-        <note>ID: EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToFrenchPass</note>
-        <note>A background color that is a gradient starting with white blending into the "French pass" color</note>
-        <note>Obsolete for Bloom 4.9 and later</note>
-        <target xml:lang="es-ES" state="final">Blanco a Paso Francés</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToPortafino" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">White to Portafino</source>
-        <note>ID: EditTab.Toolbox.ComicTool.Options.BackgroundColor.WhiteToPortafino</note>
-        <note>A background color that is a gradient starting with white blending into the "Portafino" color</note>
-        <note>Obsolete for Bloom 4.9 and later</note>
-        <target xml:lang="es-ES" state="final">Blanco a Portafino</target>
-      </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.Duplicate" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Duplicate</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Duplicate</note>
@@ -2677,13 +2635,13 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.Stage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stage</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.Stage</note>
-        <note>Obsolete for Bloom 5.0 and later</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">Etapa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageOf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">of</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.StageOf</note>
-        <note>Obsolete for Bloom 5.0 and later</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">de</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageNofM" sil:dynamic="true" approved="yes">
@@ -2734,30 +2692,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">This image should not be described.</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ShouldNotDescribe</note>
         <target xml:lang="es-ES" state="final">Esta imagen no debe ser descrita.</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.BeConcise" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Be Concise</source>
-        <note>ID: EditTab.Toolbox.ImageDescriptionTool.BeConcise</note>
-        <note>Obsolete for Bloom 4.5 and later</note>
-        <target xml:lang="es-ES" state="final">Sé conciso</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.BeObjective" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Be Objective</source>
-        <note>ID: EditTab.Toolbox.ImageDescriptionTool.BeObjective</note>
-        <note>Obsolete for Bloom 4.5 and later</note>
-        <target xml:lang="es-ES" state="final">Sé objetivo</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.BloomTrainingVideo" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Bloom training video</source>
-        <note>ID: EditTab.Toolbox.ImageDescriptionTool.BloomTrainingVideo</note>
-        <note>Obsolete for Bloom 4.5 and later</note>
-        <target xml:lang="es-ES" state="final">Vídeo de capacitación Bloom</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.CheckDescription" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Check your image description against each of these reminders:</source>
-        <note>ID: EditTab.Toolbox.ImageDescriptionTool.CheckDescription</note>
-        <note>Obsolete for Bloom 4.5 and later</note>
-        <target xml:lang="es-ES" state="final">Revise su descripción de la imagen tomando en cuenta estos recordatorios:</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ConsiderAudience" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Consider your Audience</source>
@@ -2846,14 +2780,14 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">Level</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Level</note>
         <note>Used to create string "Level # of #". The space after this word is added programmatically.</note>
-        <note>Obsolete for Bloom 5.0 and later</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">Nivel</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelOf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">of</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.LevelOf</note>
         <note>Used to create string "Level # of #". The spaces on each side of this word are added programmatically.</note>
-        <note>Obsolete for Bloom 5.0 and later</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">de</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelNofM" sil:dynamic="true" approved="yes">
@@ -3107,26 +3041,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>As in, move the selection "BACK"wards to the previous sentence.</note>
         <target xml:lang="es-ES" state="final">Regresar</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.Check" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">4) Check</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.Check</note>
-        <note>As in, play the current audio file to "CHECK" that the audio is OK.</note>
-        <note>Last used in version 4.4, deprecated in 4.5</note>
-        <target xml:lang="es-ES" state="final">4) Revisar</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.CheckLabel" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Check</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.CheckLabel</note>
-        <note>As in, play the current audio file to "CHECK" that the audio is OK.</note>
-        <note>Please make it match EditTab.Toolbox.TalkingBookTool.Check if possible, but without the number</note>
-        <target xml:lang="es-ES" state="final">Revisar</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.CheckSettings" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">1) Check that you are recording into the correct device and that these levels are showing blue:</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.CheckSettings</note>
-        <note>Last used in version 4.4, deprecated in 4.5</note>
-        <target xml:lang="es-ES" state="final">1) Averigüe si está grabando en el dispositivo correcto y que los siguientes niveles se muestren azules:</target>
-      </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.CheckSettingsLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Check that you are recording into the correct device and that these levels are showing blue:</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.CheckSettingsLabel</note>
@@ -3166,12 +3080,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage</note>
         <target xml:lang="es-ES" state="final">Si importa esta grabación, reemplazará todo el audio de este cuadro de texto.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentence" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">2) Look at the highlighted text</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.LookAtSentence</note>
-        <note>Last used in version 4.4, deprecated in 4.5</note>
-        <target xml:lang="es-ES" state="final">2) Mirar la oración resaltada</target>
-      </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Look at the highlighted text</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel</note>
@@ -3183,23 +3091,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: EditTab.Toolbox.TalkingBookTool.MicrophoneProblem</note>
         <target xml:lang="es-ES" state="final">Bloom está teniendo dificultades con la conexión a su micrófono. Favor de reiniciar su computadora e inténtelo de nuevo.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.Next" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">5) Next</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.Next</note>
-        <note>Last used in version 4.4, deprecated in 4.5</note>
-        <target xml:lang="es-ES" state="final">5) Siguiente</target>
-      </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.NextLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Next</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.NextLabel</note>
         <note>Please make it match EditTab.Toolbox.TalkingBookTool.Next if possible, but without the number</note>
         <target xml:lang="es-ES" state="final">Siguiente</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordBySentences" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Record by sentences</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.RecordBySentences</note>
-        <note>Deprecated in Bloom Version 4.5</note>
-        <target xml:lang="es-ES" state="final">Grabar por oraciones</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordByTextBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Record by whole text box, then let Bloom split it into sentences later.</source>
@@ -3232,12 +3128,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ShowPlaybackOrder</note>
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
         <target xml:lang="es-ES" state="final">Mostrar los botones de orden de reproducción</target>
-      </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.Speak" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">3) Speak</source>
-        <note>ID: EditTab.Toolbox.TalkingBookTool.Speak</note>
-        <note>Last used in version 4.4, deprecated in 4.5</note>
-        <target xml:lang="es-ES" state="final">3) Hablar</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.SpeakLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Speak</source>
@@ -3432,12 +3322,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: Errors.SomethingWentWrong</note>
         <target xml:lang="es-ES" state="final">Lo sentimos, algo no funcionó.</target>
       </trans-unit>
-      <trans-unit id="Errors.SpecifiedXMatterNotFound" approved="yes">
-        <source xml:lang="en">This Book called for Front/Back Matter pack named '{0}', but Bloom couldn't find that on this computer. You can either install a Bloom Pack that will give you '{0}', or change the book's Front/Back Matter pack setting.</source>
-        <note>ID: Errors.SpecifiedXMatterNotFound</note>
-        <note xml:lang="en">Not found in version 3.9 or later)</note>
-        <target xml:lang="es-ES" state="final">Este libro utiliza el Paquete de Material Preliminar/Final llamado'{0}', pero Bloom no pudo encontrarlo en esta computadora. Puede instalar un Paquete de Bloom que le dará '{0}', o puede cambiar la configuración del Paquete de Material Preliminar/Final del libro.</target>
-      </trans-unit>
       <trans-unit id="Errors.XMatterNotFound" approved="yes">
         <source xml:lang="en">This Collection called for Front/Back Matter pack named '{0}', but this version of Bloom does not have it, and Bloom could not find it on this computer. The collection has been changed to use the default Front/Back Matter pages.</source>
         <note>ID: Errors.XMatterNotFound</note>
@@ -3482,10 +3366,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="es-ES" state="final">Acerca de Bloom...</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
-        <source xml:lang="en">Documentation</source>
+      <trans-unit id="HelpMenu.DocumentationMenuItem">
+        <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
-        <target xml:lang="es-ES" state="final">Documentación (inglés)</target>
+        <note>Prior to 5.0, this was "Documentation"</note>
+        <target xml:lang="es-ES" state="translated">Documentación (inglés)</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -3500,6 +3385,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="HelpMenu.KeyBloomConceptsToolStripMenuItem" approved="yes">
         <source xml:lang="en">Key Bloom Concepts</source>
         <note>ID: HelpMenu.KeyBloomConceptsToolStripMenuItem</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">Conceptos importantes de Bloom</target>
       </trans-unit>
       <trans-unit id="HelpMenu.MakeASuggestionMenuItem" approved="yes">
@@ -3527,6 +3413,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
       <trans-unit id="HelpMenu.ShowEventLogMenuItem" approved="yes">
         <source xml:lang="en">Show Event Log</source>
         <note>ID: HelpMenu.ShowEventLogMenuItem</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">Mostrar el registro de eventos</target>
       </trans-unit>
       <trans-unit id="HelpMenu.UsingReaderTemplatesMenuItem" approved="yes">
@@ -4566,13 +4453,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>was previously just "Options"</note>
         <target xml:lang="es-ES" state="final">Opciones de PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.OptionsMenu.SizeLayout" approved="yes">
-        <source xml:lang="en">Size/Orientation</source>
-        <note>ID: PublishTab.OptionsMenu.SizeLayout</note>
-        <note>Header for a region of the menu which lists various standard page sizes and orientations</note>
-        <note>obsolete as of Bloom 4.9</note>
-        <target xml:lang="es-ES" state="final">Tamaño/Diseño</target>
-      </trans-unit>
       <trans-unit id="PublishTab.OptionsMenu.PreparePrintshop" approved="yes">
         <source xml:lang="en">Prepare for Print Shop:</source>
         <note>ID: PublishTab.OptionsMenu.PreparePrintshop</note>
@@ -4712,13 +4592,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>Previously this item was "PDF with CMYK ..." and it occurred as an option within the Save dialog for PDF files</note>
         <target xml:lang="es-ES" state="final">PDF con color CMYK (U.S. Web Coated (SWOP) v2)</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.PdfWithRGB" approved="yes">
-        <source xml:lang="en">PDF with RGB color</source>
-        <note>ID: PublishTab.PdfMaker.PdfWithRGB</note>
-        <note>displayed as file type for Save File dialog. 'RGB' may not be translatable, it is a standard.</note>
-        <note>obsolete as of Bloom 4.9</note>
-        <target xml:lang="es-ES" state="final">PDF con color RGB</target>
-      </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Saving" approved="yes">
         <source xml:lang="en">Saving PDF...</source>
         <note>ID: PublishTab.PdfMaker.Saving</note>
@@ -4783,12 +4656,6 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">&amp;Save ePUB...</source>
         <note>ID: PublishTab.SaveEpub</note>
         <target xml:lang="es-ES" state="final">&amp;Guardar como ePUB...</target>
-      </trans-unit>
-      <trans-unit id="PublishTab.Upload.AccesibleToVisuallyImpaired" approved="yes">
-        <source xml:lang="en">Accessible to the Visually Impaired</source>
-        <note>ID: PublishTab.Upload.AccesibleToVisuallyImpaired</note>
-        <note>last used in Bloom 4.4</note>
-        <target xml:lang="es-ES" state="final">Accesible para personas con discapacidad visual</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.AccessibleToBlind" approved="yes">
         <source xml:lang="en">Accessible to the Blind</source>
@@ -5195,13 +5062,6 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.BookHeader</note>
         <target xml:lang="es-ES" state="final">Libro</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.BookMaxWords" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Maximum Words in Book</source>
-        <note>ID: ReaderSetup.BookMaxWords</note>
-        <note xml:lang="en">OLD TEXT (before 3.9): Maximum Words per Book</note>
-        <note>obsolete as of 4.9</note>
-        <target xml:lang="es-ES" state="final">Cantidad máxima de palabras por libro</target>
-      </trans-unit>
       <trans-unit id="ReaderSetup.BookMaxWords2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Per **Book**</source>
         <note>ID: ReaderSetup.BookMaxWords2</note>
@@ -5289,13 +5149,6 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.LevelHeader</note>
         <target xml:lang="es-ES" state="final">Nivel</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.LevelLabel" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Level </source>
-        <note>ID: ReaderSetup.LevelLabel</note>
-        <note xml:lang="en">OLD TEXT (before 3.9, use literal NBSP character): Level&amp;nbsp;</note>
-        <note>obsolete as of 4.9. New LevelLabelMax replaces it</note>
-        <target xml:lang="es-ES" state="final">Nivel</target>
-      </trans-unit>
       <trans-unit id="ReaderSetup.LevelLabelMax" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level {0} Maximums</source>
         <note>ID: ReaderSetup.LevelLabelMax</note>
@@ -5375,12 +5228,6 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Page</source>
         <note>ID: ReaderSetup.PageHeader</note>
         <target xml:lang="es-ES" state="final">Página</target>
-      </trans-unit>
-      <trans-unit id="ReaderSetup.PageMaxWords" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Maximum Words on each Page</source>
-        <note>ID: ReaderSetup.PageMaxWords</note>
-        <note>obsolete as of Bloom 4.9</note>
-        <target xml:lang="es-ES" state="final">Cantidad máxima de palabras en cada página</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.PageMaxWords2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Per **Page**</source>
@@ -5476,12 +5323,6 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Sentences</source>
         <note>ID: ReaderSetup.Sentences</note>
         <target xml:lang="es-ES" state="final">Frases</target>
-      </trans-unit>
-      <trans-unit id="ReaderSetup.SentenceMaxWords" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Maximum Words in each Sentence</source>
-        <note>ID: ReaderSetup.SentenceMaxWords</note>
-        <note>obsolete as of Bloom 4.9</note>
-        <target xml:lang="es-ES" state="final">Cantidad máxima de palabras en cada oración</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SentenceMaxWords2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Per **Sentence**</source>
@@ -5679,7 +5520,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Close</source>
         <note>ID: ReportProblemDialog.Close</note>
         <note>Shown in the button that closes the dialog after a successful report submission.</note>
-        <note>Obsolete for Bloom 5.0 and later</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="es-ES" state="final">Cerrar</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.CouldNotSendToServer" approved="yes">
