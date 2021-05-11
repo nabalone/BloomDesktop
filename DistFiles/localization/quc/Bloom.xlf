@@ -895,6 +895,12 @@ K'ate k'u ri' chatzoqopij ri cholnak'tz'ib' ri xapitz'o rech kuk'ut ri cholb'i'a
         <note>ID: CollectionTab.EditBookButton</note>
         <target xml:lang="quc" state="final">Ukolomaxik we wuj</target>
       </trans-unit>
+      <trans-unit id="CollectionTab.GetABetterBloom">
+        <source xml:lang="en">Click to get a better Bloom!</source>
+        <note>ID: CollectionTab.GetABetterBloom</note>
+        <note>Clicking this message loads a web page which describes how to upgrade Bloom.</note>
+        <target xml:lang="quc" state="needs-translation">Click to get a better Bloom!</target>
+      </trans-unit>
       <trans-unit id="CollectionTab.HiddenBookExplanationForSourceCollections" approved="yes">
         <source xml:lang="en">Because this is a source collection, Bloom isn't offering any existing shells as sources for new shells. If you want to add a language to a shell, instead you need to edit the collection containing the shell, rather than making a copy of it. Also, the Wall Calendar currently can't be used to make a new Shell.</source>
         <note>ID: CollectionTab.HiddenBookExplanationForSourceCollections</note>
