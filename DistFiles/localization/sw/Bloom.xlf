@@ -4480,7 +4480,7 @@
       <trans-unit id="PublishTab.Epub.PreparingPreview">
         <source xml:lang="en">Preparing Preview</source>
         <note>ID: PublishTab.Epub.PreparingPreview</note>
-        <target xml:lang="sw" state="translated">Inaandaa Hakikisho</target>
+        <target xml:lang="sw" state="translated">Inaandaa Kihakiki</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.ReadiumCredit">
         <source xml:lang="en">This ePUB preview is provided by [Readium]. This book may render differently in various ePUB readers.</source>
