@@ -5893,7 +5893,7 @@ Kwa<g id="mspp-1" ctype="x-html-strong">ukurasa</g>
       <trans-unit id="Settings.Enterprise.Overview" sil:dynamic="true">
         <source xml:lang="en">Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.</source>
         <note>ID: Settings.Enterprise.Overview</note>
-        <target xml:lang="sw" state="translated">Bloom Enterprise inaongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa watumiaji wa Bloom na kwa jamii kwa ujumla.</target>
+        <target xml:lang="sw" state="translated">Bloom Enterprise inaongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa utumiaji wa Bloom kwa jamii kwa ujumla.</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true">
         <source xml:lang="en">Bloom Enterprise Status</source>
@@ -6159,7 +6159,7 @@ Kwa<g id="mspp-1" ctype="x-html-strong">ukurasa</g>
       <trans-unit id="TemplateBooks.PageDescription.Quiz Page" sil:dynamic="true">
         <source xml:lang="en">An interactive page with a question and some answers. Works on the web and Bloom Reader. When used with Bloom Reader, your project's dashboard can show aggregated comprehension scores.</source>
         <note>ID: TemplateBooks.PageDescription.Quiz Page</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa maingiliano na swali na majibu kadhaa. Inafanya kazi kwenye wavuti na Bloom Reader. Inapotumiwa na Bloom Reader, dashibodi ya mradi wako inaweza kuonyesha alama za jumla za ufahamu.</target>
+        <target xml:lang="sw" state="translated">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako unaweza kuonyesha alama za jumla za ufahamu.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Translation Instructions" sil:dynamic="true">
         <source xml:lang="en">A page of instructions to translators which appears only in the Edit tab.</source>
