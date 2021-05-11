@@ -111,7 +111,7 @@
         <source xml:lang="en">RFC5646 code:</source>
         <note>ID: CustomIdentifierView.betterLabel1</note>
         <note>label describes the code for a custom identifier. Translate only 'code'</note>
-        <target xml:lang="sw" state="translated">Msimbo:</target>
+        <target xml:lang="sw" state="translated">Msimbo RFC5646:</target>
       </trans-unit>
       <trans-unit id="CustomIdentifierView.linkLabel1">
         <source xml:lang="en">Read about language identifiers on the web</source>
@@ -631,7 +631,7 @@
         <source xml:lang="en">Factory password for these settings is "{0}". If you forget it, you can always visit the {1} support page: {2}</source>
         <note>ID: SettingsProtection.PasswordNoticeWithSupportUrl</note>
         <note>The localization for this should be kept in sync with "SettingsProtection.PasswordNotice". Param 0: Factory password; Param 1: product name; Param 2: URL of support page</note>
-        <target xml:lang="sw" state="translated">Nenosiri la kiwanda la mipangilio hii ni "{0}". Ukisahau, unaweza kutembelea kila wakati {1} ukurasa wa msaada: {2}</target>
+        <target xml:lang="sw" state="translated">Nenosiri la kiwanda la mipangilio hii ni "{0}". Ukisahau, unaweza kulitafuta kila wakati {1} ukurasa wa msaada: {2}</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.RequirePasswordCheckBox" approved="yes">
         <source xml:lang="en">Require the factory password to get into settings.</source>
