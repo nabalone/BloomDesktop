@@ -1228,7 +1228,7 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <source xml:lang="en">Select all</source>
         <note>ID: Common.SelectAll</note>
         <note>used for a menu item for selecting all text in a text box</note>
-        <target xml:lang="es-ES" state="needs-translation">Select all</target>
+        <target xml:lang="es-ES" state="translated">Seleccione todo</target>
       </trans-unit>
       <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
