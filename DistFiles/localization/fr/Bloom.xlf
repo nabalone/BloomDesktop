@@ -1223,11 +1223,11 @@
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
         <target xml:lang="fr" state="final">Voir {0}.</target>
       </trans-unit>
-      <trans-unit id="Common.SelectAll">
+      <trans-unit id="Common.SelectAll" approved="yes">
         <source xml:lang="en">Select all</source>
         <note>ID: Common.SelectAll</note>
         <note>used for a menu item for selecting all text in a text box</note>
-        <target xml:lang="fr" state="needs-translation">Select all</target>
+        <target xml:lang="fr" state="final">Tout sélectionner</target>
       </trans-unit>
       <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
