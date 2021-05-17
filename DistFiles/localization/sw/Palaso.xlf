@@ -181,13 +181,13 @@
       <trans-unit id="ImageToolbox.EditMetadataLink" approved="yes">
         <source xml:lang="en">Edit...</source>
         <note>ID: ImageToolbox.EditMetadataLink</note>
-        <target xml:lang="sw" state="final">Hakiki...</target>
+        <target xml:lang="sw" state="final">Hariri...</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.EnterSearchTerms" approved="yes">
         <source xml:lang="en">In the box above, type what you are searching for, then press ENTER.</source>
         <note>ID: ImageToolbox.EnterSearchTerms</note>
         <note xml:lang="en">OLD TEXT (before 4.1.000.0): This is the 'Art Of Reading' gallery. In the box above, type what you are searching for, then press ENTER. You can type words in English and Indonesian.</note>
-        <target xml:lang="sw" state="final">Hii ni sanaa ya 'Sanaa ya Kusoma'. Katika kisanduku kilicho hapo juu, andika unachotafuta, kisha ubonyeze INGIA. Unaweza kupiga chapa maneno kwa Kiingereza na kiindonesia.</target>
+        <target xml:lang="sw" state="final">Katika kisanduku kilicho hapo juu, andika unachotafuta, kisha ubonyeze INGIA.</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.FileButton" approved="yes">
         <source xml:lang="en">File</source>
@@ -198,7 +198,7 @@
         <source xml:lang="en">Choose Picture File</source>
         <note>ID: ImageToolbox.FileChooserTitle</note>
         <note>Title shown for a file chooser dialog brought up by the ImageToolbox</note>
-        <target xml:lang="sw" state="translated">Chagua faili ya picha</target>
+        <target xml:lang="sw" state="translated">Chagua Faili ya Picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.Galleries">
         <source xml:lang="en">Galleries</source>
