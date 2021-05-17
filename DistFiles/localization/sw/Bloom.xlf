@@ -3368,7 +3368,7 @@
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="sw" state="translated">Hifadhi ya hati</target>
+        <target xml:lang="sw" state="translated">Hifadhi ya hati...</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
