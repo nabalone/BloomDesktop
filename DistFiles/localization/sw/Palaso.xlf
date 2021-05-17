@@ -80,12 +80,12 @@
       <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="sw" state="translated">La</target>
+        <target xml:lang="sw" state="translated">La/Hapana</target>
       </trans-unit>
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
-        <target xml:lang="sw" state="translated">&amp;La</target>
+        <target xml:lang="sw" state="translated">&amp;La/ Hapana</target>
       </trans-unit>
       <trans-unit id="Common.OKButton" approved="yes">
         <source xml:lang="en">&amp;OK</source>
@@ -105,7 +105,7 @@
       <trans-unit id="Common.YesButton">
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
-        <target xml:lang="sw" state="translated">&amp;Ndio</target>
+        <target xml:lang="sw" state="translated">&amp;Ndiyo</target>
       </trans-unit>
       <trans-unit id="CustomIdentifierView.betterLabel1">
         <source xml:lang="en">RFC5646 code:</source>
