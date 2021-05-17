@@ -113,11 +113,11 @@
         <note>label describes the code for a custom identifier. Translate only 'code'</note>
         <target xml:lang="sw" state="translated">Msimbo RFC5646:</target>
       </trans-unit>
-      <trans-unit id="CustomIdentifierView.linkLabel1">
+      <trans-unit id="CustomIdentifierView.linkLabel1" approved="yes">
         <source xml:lang="en">Read about language identifiers on the web</source>
         <note>ID: CustomIdentifierView.linkLabel1</note>
         <note>text used in the link to a webpage that describes the language identifiers</note>
-        <target xml:lang="sw" state="translated">Soma kuhusu vitambulisho vya lugha kwenye wavuti</target>
+        <target xml:lang="sw" state="final">Soma kuhusu vitambulisho vya lugha kwenye wavuti</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.MessageForMultipleItems" approved="yes">
         <source xml:lang="en">{0} will be moved to the Recycle Bin.</source>
