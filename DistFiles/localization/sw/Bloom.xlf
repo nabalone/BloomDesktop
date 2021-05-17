@@ -263,7 +263,7 @@
       <trans-unit id="BookMetadata.a11yLevel">
         <source xml:lang="en">Accessibility level</source>
         <note>ID: BookMetadata.a11yLevel</note>
-        <target xml:lang="sw" state="needs-translation">Accessibility level</target>
+        <target xml:lang="sw" state="translated">Kiwango cha upatikanaji</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelNone" sil:dynamic="true">
         <source xml:lang="en">None</source>
