@@ -65,27 +65,27 @@
       <trans-unit id="Common.AbortButton">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="sw" state="translated">&amp;Avya</target>
+        <target xml:lang="sw" state="translated">&amp;Katisha</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: Common.CancelButton</note>
         <target xml:lang="sw" state="final">U&amp;batilishe</target>
       </trans-unit>
-      <trans-unit id="Common.IgnoreButton">
+      <trans-unit id="Common.IgnoreButton" approved="yes">
         <source xml:lang="en">&amp;Ignore</source>
         <note>ID: Common.IgnoreButton</note>
-        <target xml:lang="sw" state="translated">&amp;Puuza</target>
+        <target xml:lang="sw" state="final">&amp;Puuza</target>
       </trans-unit>
-      <trans-unit id="Common.No" approved="yes">
+      <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="sw" state="final">La</target>
+        <target xml:lang="sw" state="translated">La</target>
       </trans-unit>
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
-        <target xml:lang="sw" state="translated">&amp;Hakuna</target>
+        <target xml:lang="sw" state="translated">&amp;La</target>
       </trans-unit>
       <trans-unit id="Common.OKButton" approved="yes">
         <source xml:lang="en">&amp;OK</source>
