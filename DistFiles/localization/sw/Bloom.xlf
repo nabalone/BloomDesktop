@@ -1227,7 +1227,7 @@
         <source xml:lang="en">Select all</source>
         <note>ID: Common.SelectAll</note>
         <note>used for a menu item for selecting all text in a text box</note>
-        <target xml:lang="sw" state="needs-translation">Select all</target>
+        <target xml:lang="sw" state="translated">Chagua yote/zote/vyote</target>
       </trans-unit>
       <trans-unit id="Common.Settings">
         <source xml:lang="en">Settings</source>
