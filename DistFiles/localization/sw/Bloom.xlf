@@ -2295,23 +2295,23 @@
       <trans-unit id="EditTab.TextBoxProperties.WhatToPut" sil:dynamic="true">
         <source xml:lang="en">What should authors put in this box?</source>
         <note>ID: EditTab.TextBoxProperties.WhatToPut</note>
-        <target xml:lang="sw" state="translated">Je! Waandishi wanapaswa kuweka nini kwenye sanduku hili?</target>
+        <target xml:lang="sw" state="translated">Je! Ni nini ambacho waandishi wanapaswa kuweka kwenye sanduku hili?</target>
       </trans-unit>
       <trans-unit id="EditTab.TitleOfCopyIPToWholeBooksDialog" approved="yes">
         <source xml:lang="en">Picture Intellectual Property Information</source>
         <note>ID: EditTab.TitleOfCopyIPToWholeBooksDialog</note>
         <target xml:lang="sw" state="final">Habari kuhusu Taaluma ya Kifaa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Comic Tool</source>
         <note>ID: EditTab.Toolbox.ComicTool</note>
         <note>This tool allows users to insert speech bubbles or callouts, which are pieces of text connected by a line, arrow, or other graphic to a part of a picture. These may be used to give dialogue or to give more information about a specific part of the picture.</note>
-        <target xml:lang="sw" state="translated">Zana ya Vichekesho</target>
+        <target xml:lang="sw" state="final">Zana ya Vichekesho</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.DragInstructions" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.DragInstructions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Drag to add to an image</source>
         <note>ID: EditTab.Toolbox.ComicTool.DragInstructions</note>
-        <target xml:lang="sw" state="translated">Buruta ili kuongeza picha</target>
+        <target xml:lang="sw" state="final">Buruta ili kuongeza picha</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.AddChildBubble" sil:dynamic="true">
         <source xml:lang="en">Add Child Bubble</source>
@@ -2342,41 +2342,41 @@
         <note>Refers to the Outer Outline Color of the bubble used by the callout</note>
         <target xml:lang="sw" state="translated">Rangi ya muzunguko wa nje</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.OuterOutlineColor.None" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.OuterOutlineColor.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.OuterOutlineColor.None</note>
-        <target xml:lang="sw" state="translated">Hamna</target>
+        <target xml:lang="sw" state="final">Hamna</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.RoundedCorners" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.RoundedCorners" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Rounded Corners</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.RoundedCorners</note>
         <note>This checkbox indicates whether a text box has rounded corners instead of square corners.</note>
-        <target xml:lang="sw" state="translated">Pembe Zilizozunguka</target>
+        <target xml:lang="sw" state="final">Pembe Zilizozunguka</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.ShowTail" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.ShowTail" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Show Tail</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.ShowTail</note>
         <note>This checkbox indicates if a line tail should be shown or not.</note>
-        <target xml:lang="sw" state="translated">Onyesha Mkia</target>
+        <target xml:lang="sw" state="final">Onyesha Mkia</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Style</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style</note>
         <note>Refers to the STYLE of bubble used by the callout</note>
-        <target xml:lang="sw" state="translated">Mtindo</target>
+        <target xml:lang="sw" state="final">Mtindo</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Caption" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Caption" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Caption</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style.Caption</note>
         <note>Refers to the style of bubble used by the callout</note>
         <note>This style represents a description which is not directly stated by any characters.</note>
-        <target xml:lang="sw" state="translated">Maelezo mafupi</target>
+        <target xml:lang="sw" state="final">Maelezo mafupi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Circle" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Circle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Circle</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style.Circle</note>
         <note>Refers to the shape of a comic bubble </note>
-        <target xml:lang="sw" state="translated">Duara</target>
+        <target xml:lang="sw" state="final">Duara</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Ellipse" sil:dynamic="true">
         <source xml:lang="en">Ellipse</source>
