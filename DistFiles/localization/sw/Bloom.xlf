@@ -2527,17 +2527,17 @@
       <trans-unit id="EditTab.Toolbox.Music.Overview" sil:dynamic="true">
         <source xml:lang="en">You can set up background music to play with this page when the book is viewed in the Bloom Reader app.</source>
         <note>ID: EditTab.Toolbox.Music.Overview</note>
-        <target xml:lang="sw" state="translated">Unaweza kuweka muziki wa chini ili kucheza na ukurasa huu wakati kitabu kinatazamwa katika programu ya Bloom Reader.</target>
+        <target xml:lang="sw" state="translated">Unaweza kuweka muziki wa nyuma ucheze na ukurasa huu wakati kitabu kinatazamwa katika programu ya Bloom Reader.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.NewMusic" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Music.NewMusic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Start new music</source>
         <note>ID: EditTab.Toolbox.Music.NewMusic</note>
-        <target xml:lang="sw" state="translated">Anza muziki mpya</target>
+        <target xml:lang="sw" state="final">Anza muziki mpya</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.NoMusic" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Music.NoMusic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Music</source>
         <note>ID: EditTab.Toolbox.Music.NoMusic</note>
-        <target xml:lang="sw" state="translated">Hakuna muziki</target>
+        <target xml:lang="sw" state="final">Hakuna muziki</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.MusicTool" sil:dynamic="true">
         <source xml:lang="en">Music Tool</source>
@@ -2916,30 +2916,30 @@
         <note>ID: EditTab.Toolbox.SignLanguage.FileDialogVideoFiles</note>
         <target xml:lang="sw" state="translated">Faili za Video</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.ImportVideo" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.ImportVideo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Import</source>
         <note>ID: EditTab.Toolbox.SignLanguage.ImportVideo</note>
-        <target xml:lang="sw" state="translated">Agiza</target>
+        <target xml:lang="sw" state="final">Agiza</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.ShowInFolder" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.ShowInFolder" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Show in Folder</source>
         <note>ID: EditTab.Toolbox.SignLanguage.ShowInFolder</note>
-        <target xml:lang="sw" state="translated">Onyesha kwenye folda</target>
+        <target xml:lang="sw" state="final">Onyesha kwenye folda</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.NoCameraFound" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.NoCameraFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No camera found</source>
         <note>ID: EditTab.Toolbox.SignLanguage.NoCameraFound</note>
-        <target xml:lang="sw" state="translated">Hakuna Kamera iliyopatikana</target>
+        <target xml:lang="sw" state="final">Hakuna Kamera iliyopatikana</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.PressCancel" sil:dynamic="true">
         <source xml:lang="en">Press any key to cancel</source>
         <note>ID: EditTab.Toolbox.SignLanguage.PressCancel</note>
-        <target xml:lang="sw" state="translated">Bonyeza kitufe chochote kubatilisha</target>
+        <target xml:lang="sw" state="translated">Bonyeza kitufe chochote kughairi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.PressStop" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.PressStop" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Press any key to stop</source>
         <note>ID: EditTab.Toolbox.SignLanguage.PressStop</note>
-        <target xml:lang="sw" state="translated">Bonyeza kitufe chochote kuacha</target>
+        <target xml:lang="sw" state="final">Bonyeza kitufe chochote kuacha</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.Processing" sil:dynamic="true">
         <source xml:lang="en">Processing</source>
@@ -2947,21 +2947,21 @@
         <note>Displayed while video just recorded is processed into a more compressed form</note>
         <target xml:lang="sw" state="translated">Inashugulikiwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.Recording" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.Recording" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Recording</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Recording</note>
-        <target xml:lang="sw" state="translated">Kurekodi</target>
+        <target xml:lang="sw" state="final">Kurekodi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.RestoreOriginal" sil:dynamic="true">
         <source xml:lang="en">Restore Original</source>
         <note>ID: EditTab.Toolbox.SignLanguage.RestoreOriginal</note>
-        <target xml:lang="sw" state="translated">Rudisha ilivyokuwa</target>
+        <target xml:lang="sw" state="translated">Rudisha ilivyokuwa mwanzoni</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.SelectedVideo">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.SelectedVideo" approved="yes">
         <source xml:lang="en">The selected video</source>
         <note>ID: EditTab.Toolbox.SignLanguage.SelectedVideo</note>
         <note>Appears in the context "X will be moved to the recycle bin"</note>
-        <target xml:lang="sw" state="translated">Video iliyochaguliwa</target>
+        <target xml:lang="sw" state="final">Video iliyochaguliwa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.SelectSignLanguageBox" sil:dynamic="true">
         <source xml:lang="en">To use this tool, select a sign language box on the page.</source>
