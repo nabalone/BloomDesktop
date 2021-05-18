@@ -553,11 +553,11 @@
         <note>The meaning of  "non-commercial" is vague but important. This hyperlink takes you somewhere that defines it.</note>
         <target xml:lang="sw" state="final">habari zaidi</target>
       </trans-unit>
-      <trans-unit id="MetadataEditor.linkToPublicDomainCC0">
+      <trans-unit id="MetadataEditor.linkToPublicDomainCC0" approved="yes">
         <source xml:lang="en">about {0} Public Domain</source>
         <note>ID: MetadataEditor.linkToPublicDomainCC0</note>
         <note>{0} is replaced by an untranslatable abbreviation functioning as an adjective ("CC0")</note>
-        <target xml:lang="sw" state="translated">kuhusu{0} Kikoa cha umma</target>
+        <target xml:lang="sw" state="final">kuhusu{0} Kikoa cha umma</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.linkToWarningAboutRefiningCreativeCommons" approved="yes">
         <source xml:lang="en">Not Enforceable</source>
@@ -570,15 +570,15 @@
         <note>ID: ScriptsAndVariants.ScriptsAndVariantsDialog._cancelButton</note>
         <target xml:lang="sw" state="translated">Batilisha</target>
       </trans-unit>
-      <trans-unit id="ScriptsAndVariants.ScriptsAndVariantsDialog._okButton">
+      <trans-unit id="ScriptsAndVariants.ScriptsAndVariantsDialog._okButton" approved="yes">
         <source xml:lang="en">OK</source>
         <note>ID: ScriptsAndVariants.ScriptsAndVariantsDialog._okButton</note>
-        <target xml:lang="sw" state="translated">Sawa</target>
+        <target xml:lang="sw" state="final">Sawa</target>
       </trans-unit>
-      <trans-unit id="ScriptsAndVariantsDialog.ScriptsAndVariants">
+      <trans-unit id="ScriptsAndVariantsDialog.ScriptsAndVariants" approved="yes">
         <source xml:lang="en">Script and Variant</source>
         <note>ID: ScriptsAndVariantsDialog.ScriptsAndVariants</note>
-        <target xml:lang="sw" state="translated">Hati na Lahaja</target>
+        <target xml:lang="sw" state="final">Hati na Lahaja</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.AlsoHideOthersNotice" approved="yes">
         <source xml:lang="en">This may also hide other buttons which are not needed by the non-advanced user.</source>
