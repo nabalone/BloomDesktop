@@ -2254,43 +2254,43 @@
         <note>ID: EditTab.TextBoxProperties.OtherLanguagesLabel</note>
         <target xml:lang="sw" state="translated">Tumia moja ya haya kwa visanduku rahisi za maandishi ambazo kila wakati ziko katika lugha moja tu.</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Regional Language</source>
         <note>ID: EditTab.TextBoxProperties.RegionalLanguage</note>
         <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="sw" state="translated">Lugha ya Mkoa</target>
+        <target xml:lang="sw" state="final">Lugha ya Mkoa</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.SelectedLanguage" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.SelectedLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Selected Language 1</source>
         <note>ID: EditTab.TextBoxProperties.SelectedLanguage</note>
-        <target xml:lang="sw" state="translated">Lugha Iliyochaguliwa</target>
+        <target xml:lang="sw" state="final">Lugha Iliyochaguliwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.ShowHintBubble" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.ShowHintBubble" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Show the hint bubble</source>
         <note>ID: EditTab.TextBoxProperties.ShowHintBubble</note>
         <note>Label above pull-down menu with options, ShowOnGroup/ShowOnEach</note>
-        <target xml:lang="sw" state="translated">Onesha kiputo cha vidokezo</target>
+        <target xml:lang="sw" state="final">Onesha kiputo cha vidokezo</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowOnEach" sil:dynamic="true">
         <source xml:lang="en">On each language-field in the group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnEach</note>
-        <target xml:lang="sw" state="translated">Kwenya kila uga wa lugha katika kikundi</target>
+        <target xml:lang="sw" state="translated">Katika kila uwanja wa lugha ndani ya kikundi</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.ShowOnGroup" sil:dynamic="true">
         <source xml:lang="en">Just once on the whole group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnGroup</note>
-        <target xml:lang="sw" state="translated">Mara moja tu kwa kikundi chote</target>
+        <target xml:lang="sw" state="translated">Mara moja tu kwenye kikundi kizima</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.Title" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Box Properties</source>
         <note>ID: EditTab.TextBoxProperties.Title</note>
-        <target xml:lang="sw" state="translated">Vipengele vya sanduku la maandishi</target>
+        <target xml:lang="sw" state="final">Vipengele vya sanduku la maandishi</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.VerticalAlignment" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.VerticalAlignment" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Vertical Alignment</source>
         <note>ID: EditTab.TextBoxProperties.VerticalAlignment</note>
         <note>Label above the set of options, Top/Center/Bottom</note>
-        <target xml:lang="sw" state="translated">Mpangilio wa wima</target>
+        <target xml:lang="sw" state="final">Mpangilio wa wima</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.WhatToPut" sil:dynamic="true">
         <source xml:lang="en">What should authors put in this box?</source>
