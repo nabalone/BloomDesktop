@@ -27,51 +27,51 @@
         <source xml:lang="en">Some text is missing a recording for an image description on page {0}</source>
         <note>ID: AccessibilityCheck.AudioForAllImageDescriptions.MissingOnPage</note>
         <note>The {0} is where the page number will be inserted.</note>
-        <target xml:lang="sw" state="translated">Maandishi mengine hayana kumbukumbu kwa maelezo ya picha kwenye ukurasa {0}</target>
+        <target xml:lang="sw" state="translated">Maandishi mengine hayana rekodi kwa maelezo ya picha kwenye ukurasa {0}</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.AudioForAllText.MissingOnPage">
+      <trans-unit id="AccessibilityCheck.AudioForAllText.MissingOnPage" approved="yes">
         <source xml:lang="en">Some text is missing a recording on page {0}</source>
         <note>ID: AccessibilityCheck.AudioForAllText.MissingOnPage</note>
         <note>The {0} is where the page number will be inserted.</note>
-        <target xml:lang="sw" state="translated">Baadhi ya maandishi hayana rekodi kwenye ukurasa {0}</target>
+        <target xml:lang="sw" state="final">Baadhi ya maandishi hayana rekodi kwenye ukurasa {0}</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.AutomaticChecksHeading" sil:dynamic="true">
         <source xml:lang="en">Bloom can automatically check these for you:</source>
         <note>ID: AccessibilityCheck.AutomaticChecksHeading</note>
         <target xml:lang="sw" state="translated">Bloom inaweza kuangalia haya yenyewe kwaajili yako:</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.Checklist" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.Checklist" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Accessibility Checklist</source>
         <note>ID: AccessibilityCheck.Checklist</note>
         <note>Used as the name on a tab of the Accessibility Checks screen.</note>
-        <target xml:lang="sw" state="translated">Orodha ya upatikanaji</target>
+        <target xml:lang="sw" state="final">Orodha ya upatikanaji</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.descriptionsForAllImages" sil:dynamic="true">
         <source xml:lang="en">Descriptions for all images</source>
         <note>ID: AccessibilityCheck.descriptionsForAllImages</note>
         <target xml:lang="sw" state="translated">Maelezo ya picha zote</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.DescriptionsForAllImages.MissingOnPage">
+      <trans-unit id="AccessibilityCheck.DescriptionsForAllImages.MissingOnPage" approved="yes">
         <source xml:lang="en">Missing image description on page {0}</source>
         <note>ID: AccessibilityCheck.DescriptionsForAllImages.MissingOnPage</note>
         <note>The {0} is where the page number will be inserted.</note>
-        <target xml:lang="sw" state="translated">Maelezo ya picha hayapo kwenye ukurasa{0}</target>
+        <target xml:lang="sw" state="final">Maelezo ya picha hayapo kwenye ukurasa{0}</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.FindingAce" sil:dynamic="true">
         <source xml:lang="en">Finding Ace by DAISY on this computer...</source>
         <note>ID: AccessibilityCheck.FindingAce</note>
-        <target xml:lang="sw" state="translated">Kupata Ace kwa DAISY kwenye kompyuta hii...</target>
+        <target xml:lang="sw" state="translated">Kupata Ace na DAISY kwenye kompyuta hii...</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.FoundAce" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.FoundAce" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Found.</source>
         <note>ID: AccessibilityCheck.FoundAce</note>
-        <target xml:lang="sw" state="translated">Patikana.</target>
+        <target xml:lang="sw" state="final">Patikana.</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.LearnAbout" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.LearnAbout" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn About Accessibility</source>
         <note>ID: AccessibilityCheck.LearnAbout</note>
         <note>Used as the name on a tab of the Accessibility Checks screen.</note>
-        <target xml:lang="sw" state="translated">Jifunze namna ya Ufikiaji</target>
+        <target xml:lang="sw" state="final">Jifunze Kuhusu Ufikiaji</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.AccessibleBookDefinition" sil:dynamic="true">
         <source xml:lang="en">"Accessible Books" are books that work well for people with impaired vision. With the ePUB format*, it is possible to make "Born Accessible" books that work well for everyone**, regardless of vision. Bloom has the following tools to help you create these books:</source>
