@@ -250,7 +250,7 @@
       <trans-unit id="ImageToolbox.NoArtOfReading" approved="yes">
         <source xml:lang="en">This computer doesn't appear to have the 'Art Of Reading' gallery installed yet.</source>
         <note>ID: ImageToolbox.NoArtOfReading</note>
-        <target xml:lang="sw" state="final">Kompyuta hii inaonekana bado haijawekwa sanaa ya 'Sanaa ya Kusoma'.</target>
+        <target xml:lang="sw" state="final">Kompyuta hii inaonekana bado haijawekwa kichanja cha 'Sanaa ya Kusoma'.</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.NoGalleries">
         <source xml:lang="en">This computer doesn't appear to have any galleries installed yet.</source>
