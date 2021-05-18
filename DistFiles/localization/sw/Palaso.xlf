@@ -388,15 +388,15 @@
         <note>ID: LanguageLookup._cannotFindLanguageLink</note>
         <target xml:lang="sw" state="final">Hauwezi Kupata lugha yako?</target>
       </trans-unit>
-      <trans-unit id="LanguageLookup._scriptsAndVariantsLabel">
+      <trans-unit id="LanguageLookup._scriptsAndVariantsLabel" approved="yes">
         <source xml:lang="en">my script variant label</source>
         <note>ID: LanguageLookup._scriptsAndVariantsLabel</note>
-        <target xml:lang="sw" state="translated">lebo yangu tofauti ya hati</target>
+        <target xml:lang="sw" state="final">lebo yangu tofauti ya hati</target>
       </trans-unit>
-      <trans-unit id="LanguageLookup._scriptsAndVariantsLink">
+      <trans-unit id="LanguageLookup._scriptsAndVariantsLink" approved="yes">
         <source xml:lang="en">Script and Variant</source>
         <note>ID: LanguageLookup._scriptsAndVariantsLink</note>
-        <target xml:lang="sw" state="translated">Hati na Lahaja</target>
+        <target xml:lang="sw" state="final">Hati na Lahaja</target>
       </trans-unit>
       <trans-unit id="MemoryWarning" approved="yes">
         <source xml:lang="en">Unfortunately, {0} is starting to get short of memory, and may soon slow down or experience other problems. We recommend that you quit and restart it when convenient.</source>
@@ -458,7 +458,7 @@
         <source xml:lang="en">You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.PublicDomain</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="translated">Unaweza kunakili, kurekebisha, na kusambaza kazi hii, hata kwa sababu za kibiashara, yote bila kuomba ruhusa.</target>
+        <target xml:lang="sw" state="translated">Unaweza kunakili, kurekebisha, na kusambaza kazi hii, hata kwa madhumuni ya kibiashara, yote bila ya kuomba ruhusa.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.NullLicense" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For permission to reuse, contact the copyright holder.</source>
@@ -489,12 +489,12 @@
       <trans-unit id="MetadataEditor.CopyrightYear">
         <source xml:lang="en">Copyright Year</source>
         <note>ID: MetadataEditor.CopyrightYear</note>
-        <target xml:lang="sw" state="translated">Mwaka wa Haki miliki</target>
+        <target xml:lang="sw" state="translated">Mwaka wa Hakimiliki</target>
       </trans-unit>
-      <trans-unit id="MetadataEditor.CreativeCommons">
+      <trans-unit id="MetadataEditor.CreativeCommons" approved="yes">
         <source xml:lang="en">Creative Commons</source>
         <note>ID: MetadataEditor.CreativeCommons</note>
-        <target xml:lang="sw" state="translated">Ubunifu wa Kawaida</target>
+        <target xml:lang="sw" state="final">Ubunifu wa Kawaida</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreativeCommons.Intergovernmental" approved="yes">
         <source xml:lang="en">Intergovernmental Version</source>
@@ -511,15 +511,15 @@
         <note>ID: MetadataEditor.CustomLicense</note>
         <target xml:lang="sw" state="final">Kawaida</target>
       </trans-unit>
-      <trans-unit id="MetadataEditor.License">
+      <trans-unit id="MetadataEditor.License" approved="yes">
         <source xml:lang="en">License</source>
         <note>ID: MetadataEditor.License</note>
-        <target xml:lang="sw" state="translated">Leseni</target>
+        <target xml:lang="sw" state="final">Leseni</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.PublicDomain">
         <source xml:lang="en">The copyright holder waives all rights</source>
         <note>ID: MetadataEditor.PublicDomain</note>
-        <target xml:lang="sw" state="translated">Mmiliki wa hakimiliki anaachilia haki zote</target>
+        <target xml:lang="sw" state="translated">Mmiliki wa hakimiliki anaondoa haki zote</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.TitleNoCredit" approved="yes">
         <source xml:lang="en">Copyright and License</source>
