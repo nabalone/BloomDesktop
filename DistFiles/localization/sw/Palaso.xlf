@@ -631,7 +631,7 @@
         <source xml:lang="en">Factory password for these settings is "{0}". If you forget it, you can always visit the {1} support page: {2}</source>
         <note>ID: SettingsProtection.PasswordNoticeWithSupportUrl</note>
         <note>The localization for this should be kept in sync with "SettingsProtection.PasswordNotice". Param 0: Factory password; Param 1: product name; Param 2: URL of support page</note>
-        <target xml:lang="sw" state="translated">Nenosiri la kiwanda la mipangilio hii ni "{0}". Ukisahau, unaweza kulitafuta kila wakati {1} ukurasa wa msaada: {2}</target>
+        <target xml:lang="sw" state="translated">Nenosiri la kiwanda la mipangilio hii ni "{0}". Ukilisahau, unaweza kulitafuta kila wakati kwenye {1} ukurasa wa msaada: {2}</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.RequirePasswordCheckBox" approved="yes">
         <source xml:lang="en">Require the factory password to get into settings.</source>
@@ -648,11 +648,11 @@
         <note>ID: ShowReleaseNotesDialog.WindowTitle</note>
         <target xml:lang="sw" state="final">Muhtasari wa toleo</target>
       </trans-unit>
-      <trans-unit id="VoiceIdentifierView.betterLabel1">
+      <trans-unit id="VoiceIdentifierView.betterLabel1" approved="yes">
         <source xml:lang="en">In applications which support this option, fields with this input system will be able to play and record voice.</source>
         <note>ID: VoiceIdentifierView.betterLabel1</note>
         <note>Displayed if a user selects the voice special option in writing system setup</note>
-        <target xml:lang="sw" state="translated">Katika programu zinazounga mkono chaguo hili, sehemu zilizo na mfumo huu wa kuingiza zitaweza kucheza na kurekodi sauti.</target>
+        <target xml:lang="sw" state="final">Katika programu zinazounga mkono chaguo hili, sehemu zilizo na mfumo huu wa kuingiza zitaweza kucheza na kurekodi sauti.</target>
       </trans-unit>
       <trans-unit id="WSFontControl.Font" approved="yes">
         <source xml:lang="en">&amp;Font:</source>
@@ -679,29 +679,29 @@
         <note>ID: WSFontControl.TestArea</note>
         <target xml:lang="sw" state="final">&amp;Eneo la kujaribisha:</target>
       </trans-unit>
-      <trans-unit id="WSIdentifierView.betterLabel4">
+      <trans-unit id="WSIdentifierView.betterLabel4" approved="yes">
         <source xml:lang="en">Abbreviation</source>
         <note>ID: WSIdentifierView.betterLabel4</note>
         <note>In writing system setup general tab: label before abbreviation text box</note>
-        <target xml:lang="sw" state="translated">Kifupisho</target>
+        <target xml:lang="sw" state="final">Kifupisho</target>
       </trans-unit>
-      <trans-unit id="WSIdentifierView.betterLabel5">
+      <trans-unit id="WSIdentifierView.betterLabel5" approved="yes">
         <source xml:lang="en">Special:</source>
         <note>ID: WSIdentifierView.betterLabel5</note>
         <note>In writing system setup general tab:  Label before combo box with 'Special' choices</note>
-        <target xml:lang="sw" state="translated">Maalum:</target>
+        <target xml:lang="sw" state="final">Maalum:</target>
       </trans-unit>
-      <trans-unit id="WSIdentifiers.IpaIdentifierView.Default">
+      <trans-unit id="WSIdentifiers.IpaIdentifierView.Default" approved="yes">
         <source xml:lang="en">Default</source>
         <note>ID: WSIdentifiers.IpaIdentifierView.Default</note>
         <note>Choice for most users</note>
-        <target xml:lang="sw" state="translated">Chaguo-msingi</target>
+        <target xml:lang="sw" state="final">Chaguo-msingi</target>
       </trans-unit>
-      <trans-unit id="WSIdentifiers.IpaIdentifierView.Emic">
+      <trans-unit id="WSIdentifiers.IpaIdentifierView.Emic" approved="yes">
         <source xml:lang="en">Emic (uses phonology of the language)</source>
         <note>ID: WSIdentifiers.IpaIdentifierView.Emic</note>
         <note>Only translate text inside of the parentheses ()</note>
-        <target xml:lang="sw" state="translated">(hutumia fonolojia ya lugha)</target>
+        <target xml:lang="sw" state="final">(hutumia fonolojia ya lugha)</target>
       </trans-unit>
       <trans-unit id="WSIdentifiers.IpaIdentifierView.Etic">
         <source xml:lang="en">Etic (raw phonetic transcription)</source>
@@ -744,10 +744,10 @@
         <note>ID: WSKeyboardControl.SelectKeyboardLabel</note>
         <target xml:lang="sw" state="final">Chagua kibodi ambayo utatumia kuandika maandishi {0}</target>
       </trans-unit>
-      <trans-unit id="WSKeyboardControl.SetupKeyboards">
+      <trans-unit id="WSKeyboardControl.SetupKeyboards" approved="yes">
         <source xml:lang="en">Set up keyboards</source>
         <note>ID: WSKeyboardControl.SetupKeyboards</note>
-        <target xml:lang="sw" state="translated">Anzisha kibodi</target>
+        <target xml:lang="sw" state="final">Anzisha kibodi</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.TestAreaCaption" approved="yes">
         <source xml:lang="en">&amp;Test Area (Use this area to type something to test out your keyboard.)</source>
@@ -769,10 +769,10 @@
         <note>ID: WritingSystemSetupView.UnableToConnectToSldrText</note>
         <target xml:lang="sw" state="final">Programu imeshindwa kuunganishwa na Akiba ya Data ya SIL ili kupata habari ya hivi karibuni kuhusu lugha hii. Iwapo utatengeneza mfumo huu wa kuandika, mipangilio ya awali inaweza kutokuwa sahihi au kupitwa na wakati. Una uhakika kuwa unataka kutengeneza mfumo mpya wa kuandika?</target>
       </trans-unit>
-      <trans-unit id="XkbKeyboardAdaptor.MissingKeyboard">
+      <trans-unit id="XkbKeyboardAdaptor.MissingKeyboard" approved="yes">
         <source xml:lang="en">[Missing] {0} ({1})</source>
         <note>ID: XkbKeyboardAdaptor.MissingKeyboard</note>
-        <target xml:lang="sw" state="translated">[Imekosekana){0}{1}</target>
+        <target xml:lang="sw" state="final">[Imekosekana){0}{1}</target>
       </trans-unit>
     </body>
   </file>
