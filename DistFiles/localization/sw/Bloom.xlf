@@ -13,15 +13,15 @@
         <note>Used as the name on a tab of the Accessibility Checks screen.</note>
         <target xml:lang="sw" state="translated">Kikaguzi otomatiki cha Ace kwa DAISY</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.audioForAllText" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.audioForAllText" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Audio for all text</source>
         <note>ID: AccessibilityCheck.audioForAllText</note>
-        <target xml:lang="sw" state="translated">Sauti kwa maandishi yote</target>
+        <target xml:lang="sw" state="final">Sauti kwa maandishi yote</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.audioForAllImageDescriptions" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.audioForAllImageDescriptions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Audio for all image descriptions</source>
         <note>ID: AccessibilityCheck.audioForAllImageDescriptions</note>
-        <target xml:lang="sw" state="translated">Sauti kwa maelezo yote ya picha</target>
+        <target xml:lang="sw" state="final">Sauti kwa maelezo yote ya picha</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.AudioForAllImageDescriptions.MissingOnPage">
         <source xml:lang="en">Some text is missing a recording for an image description on page {0}</source>
