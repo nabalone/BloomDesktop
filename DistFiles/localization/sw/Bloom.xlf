@@ -3076,18 +3076,18 @@
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage" sil:dynamic="true">
         <source xml:lang="en">If you import this recording, it will replace all the audio for this text box.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage</note>
-        <target xml:lang="sw" state="translated">Ukiingiza rekodi hii, itachukua nafasi ya sauti zote kwa kisanduku hiki cha maandishi.</target>
+        <target xml:lang="sw" state="translated">Ukiagiza rekodi hii, itachukua nafasi ya sauti zote kwa kisanduku hiki cha maandishi.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel" sil:dynamic="true">
         <source xml:lang="en">Look at the highlighted text</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel</note>
         <note>Please make it match EditTab.Toolbox.TalkingBookTool.LookAtSentence if possible, but without the number</note>
-        <target xml:lang="sw" state="translated">Angalia sentensi iliyosisitizwa</target>
+        <target xml:lang="sw" state="translated">Angalia maandishi yaliyoangaziwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.MicrophoneProblem" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.MicrophoneProblem" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is having problems connecting to your microphone. Please restart your computer and try again.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.MicrophoneProblem</note>
-        <target xml:lang="sw" state="translated">Bloom ina tatizo la kuunganisha na maikrofoni yako. Tafadhali washa tena kompyuta yako na ujaribu tena.</target>
+        <target xml:lang="sw" state="final">Bloom ina tatizo la kuunganisha na maikrofoni yako. Tafadhali washa tena kompyuta yako na ujaribu tena.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.NextLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Next</source>
@@ -3099,7 +3099,7 @@
         <source xml:lang="en">Record by whole text box, then let Bloom split it into sentences later.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.RecordByTextBox</note>
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
-        <target xml:lang="sw" state="translated">Rekodi kwa kisanduku kizima cha maandishi, kisha wacha Bloom igawanye katika sentensi baadaye.</target>
+        <target xml:lang="sw" state="translated">Rekodi kwa kisanduku kizima cha maandishi, kisha wacha Bloom ikigawe katika sentensi baadaye.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeClearExistingRecordings" sil:dynamic="true">
         <source xml:lang="en">Please clear all existing recordings on this page before changing modes.</source>
@@ -3107,19 +3107,19 @@
         <note>Shown if you open TalkingBookTool, make a recording, and then attempt to toggle the "Record by Sentences" input (without first clearing the audio recordings you are about to lose)</note>
         <target xml:lang="sw" state="translated">Tafadhali futa rekodi zote zilizopo kwenye ukurasa huu kabla ya kubadilisha hali tumizi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeSplitOrClearExistingRecordingTextBox" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeSplitOrClearExistingRecordingTextBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please split or clear the existing recording in this text box before changing modes.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.RecordingModeSplitOrClearExistingRecordingTextBox</note>
         <note>Shown if you open TalkingBookTool, enable "Record the whole text box...", make a recording, and then attempt to uncheck the "Record the whole text box..." input (without first clearing the audio recordings you are about to lose)</note>
         <note>For "split", please use same terminology as in ID: EditTab.Toolbox.TalkingBookTool.SplitLabel</note>
         <note>For "clear", please use same terminology as in ID: EditTab.Toolbox.TalkingBookTool.Clear</note>
-        <target xml:lang="sw" state="translated">Tafadhali gawanya au futa rekodi iliyopo kwenye kisanduku hiki cha maandishi kabla ya kubadilisha hali-tumizi.</target>
+        <target xml:lang="sw" state="final">Tafadhali gawanya au futa rekodi iliyopo kwenye kisanduku hiki cha maandishi kabla ya kubadilisha hali-tumizi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeXMatter" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeXMatter" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sorry, front and back-matter pages must be recorded by sentences.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.RecordingModeXMatter</note>
         <note>Shown if you open TalkingBookTool and then attempt to toggle the "Record by Sentences" input on an XMatter page</note>
-        <target xml:lang="sw" state="translated">Samahani, kurasa za mbele na nyuma lazima zirekodiwe na sentensi.</target>
+        <target xml:lang="sw" state="final">Samahani, kurasa za mbele na nyuma lazima zirekodiwe na sentensi.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ShowPlaybackOrder" sil:dynamic="true">
         <source xml:lang="en">Show playback order buttons</source>
@@ -3133,17 +3133,17 @@
         <note>Please make it match EditTab.Toolbox.TalkingBookTool.Speak if possible, but without the number</note>
         <target xml:lang="sw" state="final">Zungumza</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.SplitError">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.SplitError" approved="yes">
         <source xml:lang="en">Something went wrong while splitting the recording.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.SplitError</note>
         <note>This text appears if an error occurs while perfoming automatic splitting of audio (an audio file corresponding to an entire text box will be split into multiple sections, one section per sentence).</note>
-        <target xml:lang="sw" state="translated">Hitilafu imetokea wakati wa kugawanya rekodi.</target>
+        <target xml:lang="sw" state="final">Hitilafu imetokea wakati wa kugawanya rekodi.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.SplitLabel">
         <source xml:lang="en">Split</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.SplitLabel</note>
         <note>This text appears on the button the user can press to trigger automatic splitting of audio. An audio file corresponding to an entire text box will be split into multiple audio files (one per sentence) instead. (Also known as "Forced Alignment" in technical terms)</note>
-        <target xml:lang="sw" state="translated">Tenga</target>
+        <target xml:lang="sw" state="translated">Gawa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ToolPurpose" sil:dynamic="true">
         <source xml:lang="en">Make an e-book that can play audio recordings while highlighting text.</source>
