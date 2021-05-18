@@ -1650,58 +1650,58 @@
         <source xml:lang="en">Equation</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Equation-style</note>
         <note>Used on the Arithmetic template</note>
-        <target xml:lang="sw" state="translated">Mlinganyo</target>
+        <target xml:lang="sw" state="translated">Mlingano</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Heading1-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Heading1-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Heading 1</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Heading1-style</note>
         <note>Used on the Arithmetic template</note>
-        <target xml:lang="sw" state="translated">Kichwa 1</target>
+        <target xml:lang="sw" state="final">Kichwa 1</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Heading2-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Heading2-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Heading 2</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Heading2-style</note>
         <note>A default style</note>
-        <target xml:lang="sw" state="translated">Kichwa 2</target>
+        <target xml:lang="sw" state="final">Kichwa 2</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.normal-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.normal-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Normal</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.normal-style</note>
         <note>Appears in most templates</note>
-        <target xml:lang="sw" state="translated">Kawaida</target>
+        <target xml:lang="sw" state="final">Kawaida</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.quiz-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.quiz-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.quiz-style</note>
         <note>Special template</note>
-        <target xml:lang="sw" state="translated">Jaribio</target>
+        <target xml:lang="sw" state="final">Jaribio</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizAnswer-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizAnswer-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Answer</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.QuizAnswer-style</note>
-        <target xml:lang="sw" state="translated">Jibu la Jaribio</target>
+        <target xml:lang="sw" state="final">Jibu la Jaribio</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizHeader-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizHeader-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Header</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.QuizHeader-style</note>
-        <target xml:lang="sw" state="translated">Mada ya Jaribio</target>
+        <target xml:lang="sw" state="final">Mada ya Jaribio</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizQuestion-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizQuestion-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Question</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.QuizQuestion-style</note>
-        <target xml:lang="sw" state="translated">Swali la Jaribio</target>
+        <target xml:lang="sw" state="final">Swali la Jaribio</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Title-On-Cover-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Title-On-Cover-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Title On Cover</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Title-On-Cover-style</note>
         <note>Used on the Front Cover page of most Front/Back Matter packs</note>
-        <target xml:lang="sw" state="translated">Mada kwenye Jalada</target>
+        <target xml:lang="sw" state="final">Mada kwenye Jalada</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Title-On-Title-Page-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Title-On-Title-Page-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Title On Title Page</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Title-On-Title-Page-style</note>
         <note>Used on the Title Page of most Front/Back Matter packs</note>
-        <target xml:lang="sw" state="translated">Mada kwenye ukurasa wa mada</target>
+        <target xml:lang="sw" state="final">Mada kwenye ukurasa wa mada</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DontSeeNeed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Don't see what you need?</source>
@@ -1741,7 +1741,7 @@
       <trans-unit id="EditTab.FormatDialog.Indent" sil:dynamic="true">
         <source xml:lang="en">Indent</source>
         <note>ID: EditTab.FormatDialog.Indent</note>
-        <target xml:lang="sw" state="translated">Jongezo</target>
+        <target xml:lang="sw" state="translated">Jongeza</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.LineSpacingToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change the spacing between lines of text</source>
@@ -1753,15 +1753,15 @@
         <note>ID: EditTab.FormatDialog.NewStyle</note>
         <target xml:lang="sw" state="final">Mtindo mpya</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.ParagraphSpacing" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.ParagraphSpacing" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Space Between Paragraphs</source>
         <note>ID: EditTab.FormatDialog.ParagraphSpacing</note>
-        <target xml:lang="sw" state="translated">Nafasi kati ya aya</target>
+        <target xml:lang="sw" state="final">Nafasi kati ya aya</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.ParagraphTab" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.ParagraphTab" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paragraph</source>
         <note>ID: EditTab.FormatDialog.ParagraphTab</note>
-        <target xml:lang="sw" state="translated">Aya</target>
+        <target xml:lang="sw" state="final">Aya</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.PleaseUseAlpha" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please use only alphabetical characters. Numbers at the end are ok, as in "part2".</source>
@@ -1818,12 +1818,12 @@
         <note>ID: EditTab.FrontMatter.BigBook.Translator</note>
         <target xml:lang="sw" state="final">Unapotengeneza kitabu kutoka kwa sheli, tumia kitabu hiki kusema aliyetafsri.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.BookSingleCredit">
+      <trans-unit id="EditTab.FrontMatter.BookSingleCredit" approved="yes">
         <source xml:lang="en">Images by {0}.</source>
         <note>ID: EditTab.FrontMatter.BookSingleCredit</note>
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked and all the images in the book are by one illustrator. Put {0} in the translation where the image credits should go. For example in English, 'Images by {0}.' comes out like 'Images by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Picha na.{0}.</target>
+        <target xml:lang="sw" state="final">Picha na.{0}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.BookTitlePrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Book title in {lang}</source>
@@ -1836,16 +1836,16 @@
         <note>ID: EditTab.FrontMatter.CopyrightPrompt</note>
         <target xml:lang="sw" state="final">Bofya kwenye Kuhakiki Haki ya Kunakili na Leseni.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.CreditTranslator" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.CreditTranslator" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Acknowledgments for this version, in {lang}. For example, give credit to the translator for this version.</source>
         <note>ID: EditTab.FrontMatter.CreditTranslator</note>
         <note>Put {lang} in your translation, so it can be replaced by the language name.</note>
-        <target xml:lang="sw" state="translated">Shukrani za toleo hili, katika {lang}. Kwa mfano, mpe sifa mtafsiri kwa toleo hili.</target>
+        <target xml:lang="sw" state="final">Shukrani za toleo hili, katika {lang}. Kwa mfano, mpe sifa mtafsiri kwa toleo hili.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.EditOriginalTitleCaption" sil:dynamic="true">
         <source xml:lang="en">Edit Original Title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitleCaption</note>
-        <target xml:lang="sw" state="translated">Hariri kichwa asili</target>
+        <target xml:lang="sw" state="translated">Hariri mada asili</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.EditOriginalTitleLabel" sil:dynamic="true">
         <source xml:lang="en">Original Title</source>
