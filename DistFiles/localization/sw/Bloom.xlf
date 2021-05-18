@@ -331,36 +331,36 @@
         <note>ID: BookMetadata.motionSimulationHazard</note>
         <target xml:lang="sw" state="translated">Athari ya uigaji wa mwendo</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.name">
+      <trans-unit id="BookMetadata.name" approved="yes">
         <source xml:lang="en">Name</source>
         <note>ID: BookMetadata.name</note>
-        <target xml:lang="sw" state="translated">Jina</target>
+        <target xml:lang="sw" state="final">Jina</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.numberOfPages">
+      <trans-unit id="BookMetadata.numberOfPages" approved="yes">
         <source xml:lang="en">Number of pages</source>
         <note>ID: BookMetadata.numberOfPages</note>
-        <target xml:lang="sw" state="translated">Idadi ya Kurasa</target>
+        <target xml:lang="sw" state="final">Idadi ya Kurasa</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.signLanguage">
+      <trans-unit id="BookMetadata.signLanguage" approved="yes">
         <source xml:lang="en">Sign Language</source>
         <note>ID: BookMetadata.signLanguage</note>
-        <target xml:lang="sw" state="translated">Lugha ya Ishara</target>
+        <target xml:lang="sw" state="final">Lugha ya Ishara</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.subjects">
+      <trans-unit id="BookMetadata.subjects" approved="yes">
         <source xml:lang="en">Subjects</source>
         <note>ID: BookMetadata.subjects</note>
-        <target xml:lang="sw" state="translated">Mada</target>
+        <target xml:lang="sw" state="final">Mada</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.typicalAgeRange">
+      <trans-unit id="BookMetadata.typicalAgeRange" approved="yes">
         <source xml:lang="en">Typical age range</source>
         <note>ID: BookMetadata.typicalAgeRange</note>
-        <target xml:lang="sw" state="translated">Kiwango cha kawaida cha umri</target>
+        <target xml:lang="sw" state="final">Kiwango cha kawaida cha umri</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.WhatsThis" sil:dynamic="true">
+      <trans-unit id="BookMetadata.WhatsThis" sil:dynamic="true" approved="yes">
         <source xml:lang="en">What's this?</source>
         <note>ID: BookMetadata.WhatsThis</note>
         <note>minimal question indicating a link to information</note>
-        <target xml:lang="sw" state="translated">Hii ni nini?</target>
+        <target xml:lang="sw" state="final">Hii ni nini?</target>
       </trans-unit>
       <trans-unit id="BookStorage.CorruptBook">
         <source xml:lang="en">Bloom had a problem reading this book and recovered by restoring a recent backup. Please check recent changes to this book. If this happens for no obvious reason, please click Details below and report it to us.</source>
