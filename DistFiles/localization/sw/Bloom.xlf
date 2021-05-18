@@ -2461,68 +2461,68 @@
       <trans-unit id="EditTab.Toolbox.Motion.Intro" sil:dynamic="true">
         <source xml:lang="en">Motion Books are Bloom Reader books with two modes. Normally, they are Talking Books. When you turn the phone sideways, the picture fills the screen. It pans and zooms from rectangle "1" to rectangle "2".</source>
         <note>ID: EditTab.Toolbox.Motion.Intro</note>
-        <target xml:lang="sw" state="translated">Vitabu vya sinema ni vitabu vya Bloom Reader vilivyo na njia mbili. Kwa kawaida, ni Vitabu vya Kuzungumza. Unapogeuza simu upande, picha inajaza skrini. Inapindulia na kufifiza kutoka mstatili "1" hadi mstatili "2".</target>
+        <target xml:lang="sw" state="translated">Vitabu vya sinema ni vitabu vya Bloom Reader vilivyo na namna mbili. Kwa kawaida, ni Vitabu vya Kuzungumza. Ukigeuza simu upande, picha hujaza skrini. Hupungua na kuongezeka kutoka mstatili "1" hadi mstatili "2".</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.Preview" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.Preview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Preview</source>
         <note>ID: EditTab.Toolbox.Motion.Preview</note>
-        <target xml:lang="sw" state="translated">Hakiki</target>
+        <target xml:lang="sw" state="final">Hakiki</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.Preview.Motion" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.Preview.Motion" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Motion</source>
         <note>ID: EditTab.Toolbox.Motion.Preview.Motion</note>
         <note>The label of a checkbox indicating whether motion is included in Preview (currently it always is, so the box is always checked)</note>
-        <target xml:lang="sw" state="translated">Mwendo</target>
+        <target xml:lang="sw" state="final">Mwendo</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.Preview.Music" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.Preview.Music" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Music</source>
         <note>ID: EditTab.Toolbox.Motion.Preview.Music</note>
         <note>The label of a checkbox indicating whether background music is played during Preview.</note>
-        <target xml:lang="sw" state="translated">Muziki</target>
+        <target xml:lang="sw" state="final">Muziki</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.Preview.Voice" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.Preview.Voice" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Voice</source>
         <note>ID: EditTab.Toolbox.Motion.Preview.Voice</note>
         <note>The label of a checkbox controlling whether voice narration plays during Preview.</note>
-        <target xml:lang="sw" state="translated">Sauti</target>
+        <target xml:lang="sw" state="final">Sauti</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Motion.ThisPage" sil:dynamic="true">
         <source xml:lang="en">Enable motion on this page</source>
         <note>ID: EditTab.Toolbox.Motion.ThisPage</note>
         <target xml:lang="sw" state="translated">Washa msogeo kwenye ukurasa huu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.MotionTool" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.MotionTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Motion Tool</source>
         <note>ID: EditTab.Toolbox.MotionTool</note>
         <note>Used as the overall title of the toolbox panel</note>
-        <target xml:lang="sw" state="translated">Zana ya Msogeo</target>
+        <target xml:lang="sw" state="final">Zana ya Msogeo</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.Choose" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Music.Choose" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose...</source>
         <note>ID: EditTab.Toolbox.Music.Choose</note>
-        <target xml:lang="sw" state="translated">Chagua...</target>
+        <target xml:lang="sw" state="final">Chagua...</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.ContinueMusic" sil:dynamic="true">
         <source xml:lang="en">Continue music from previous page</source>
         <note>ID: EditTab.Toolbox.Music.ContinueMusic</note>
-        <target xml:lang="sw" state="translated">Endelea na muziki kutoka ukurasa uliopita</target>
+        <target xml:lang="sw" state="translated">Endeleza muziki kutoka ukurasa uliopita</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.FileDialogSoundFiles">
+      <trans-unit id="EditTab.Toolbox.Music.FileDialogSoundFiles" approved="yes">
         <source xml:lang="en">Sound files</source>
         <note>ID: EditTab.Toolbox.Music.FileDialogSoundFiles</note>
-        <target xml:lang="sw" state="translated">Faili za sauti</target>
+        <target xml:lang="sw" state="final">Faili za sauti</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.InvalidMp3File">
+      <trans-unit id="EditTab.Toolbox.Music.InvalidMp3File" approved="yes">
         <source xml:lang="en">The selected sound file "{0}" cannot be played by Bloom.  Please choose another sound file.</source>
         <note>ID: EditTab.Toolbox.Music.InvalidMp3File</note>
         <note>The {0} is replaced by the filename.</note>
-        <target xml:lang="sw" state="translated">Faili ya sauti iliyochaguliwa "{0}" haiwezi kuchezwa na Bloom. Tafadhali chagua faili nyingine ya sauti.</target>
+        <target xml:lang="sw" state="final">Faili ya sauti iliyochaguliwa "{0}" haiwezi kuchezwa na Bloom. Tafadhali chagua faili nyingine ya sauti.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.InvalidMp3FileTitle">
+      <trans-unit id="EditTab.Toolbox.Music.InvalidMp3FileTitle" approved="yes">
         <source xml:lang="en">Choose Another Sound File</source>
         <note>ID: EditTab.Toolbox.Music.InvalidMp3FileTitle</note>
         <note>Title for a message box</note>
-        <target xml:lang="sw" state="translated">Chagua Faili Nyingine ya Sauti</target>
+        <target xml:lang="sw" state="final">Chagua Faili Nyingine ya Sauti</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.Overview" sil:dynamic="true">
         <source xml:lang="en">You can set up background music to play with this page when the book is viewed in the Bloom Reader app.</source>
