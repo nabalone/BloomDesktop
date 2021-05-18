@@ -757,7 +757,7 @@
         <source xml:lang="en">Note: The Bloom Library contains shell books, whereas your current collection is a "source collection", meaning it is for making shell books, not for translating them into the local language.</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerification.Part1</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="translated">Kumbuka: Maktaba ya Bloom ina vitabu vya sheli, wakati mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", ikimaanisha ni ya kutengeneza vitabu vya sheli, sio kwa kutafsiri kwa lugha ya hapa.</target>
+        <target xml:lang="sw" state="translated">Tambihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part2">
         <source xml:lang="en">When you've made a shell, you can then upload it to the Bloom Library from the Publish tab.</source>
@@ -1436,11 +1436,11 @@
         <note>ID: EditTab.CustomPage.ChangeLayout</note>
         <target xml:lang="sw" state="final">Badilisha Muundo</target>
       </trans-unit>
-      <trans-unit id="EditTab.CustomPage.HtmlWidget" sil:dynamic="true">
+      <trans-unit id="EditTab.CustomPage.HtmlWidget" sil:dynamic="true" approved="yes">
         <source xml:lang="en">HTML Widget</source>
         <note>ID: EditTab.CustomPage.HtmlWidget</note>
         <note>Describes where the user can select an interactive HTML page to insert into a book page (alternative to text, picture, or video)</note>
-        <target xml:lang="sw" state="translated">Wijeti ya HTML</target>
+        <target xml:lang="sw" state="final">Wijeti ya HTML</target>
       </trans-unit>
       <trans-unit id="EditTab.CustomPage.Or" sil:dynamic="true" approved="yes">
         <source xml:lang="en">or</source>
@@ -1459,10 +1459,10 @@
         <note>ID: EditTab.CustomPage.Text</note>
         <target xml:lang="sw" state="final">Maandishi</target>
       </trans-unit>
-      <trans-unit id="EditTab.CustomPage.Video" sil:dynamic="true">
+      <trans-unit id="EditTab.CustomPage.Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Video</source>
         <note>ID: EditTab.CustomPage.Video</note>
-        <target xml:lang="sw" state="translated">Video</target>
+        <target xml:lang="sw" state="final">Video</target>
       </trans-unit>
       <trans-unit id="EditTab.CustomPage.TextBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Box</source>
@@ -1503,11 +1503,11 @@
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
         <target xml:lang="sw" state="translated">Herufi nzito</target>
       </trans-unit>
-      <trans-unit id="EditTab.DirectFormatting.Italic" sil:dynamic="true">
+      <trans-unit id="EditTab.DirectFormatting.Italic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Italic</source>
         <note>ID: EditTab.DirectFormatting.Italic</note>
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
-        <target xml:lang="sw" state="translated">Italiki</target>
+        <target xml:lang="sw" state="final">Italiki</target>
       </trans-unit>
       <trans-unit id="EditTab.DirectFormatting.Superscript" sil:dynamic="true">
         <source xml:lang="en">Superscript</source>
@@ -1515,11 +1515,11 @@
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
         <target xml:lang="sw" state="translated">Hati juu</target>
       </trans-unit>
-      <trans-unit id="EditTab.DirectFormatting.Underline" sil:dynamic="true">
+      <trans-unit id="EditTab.DirectFormatting.Underline" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Underline</source>
         <note>ID: EditTab.DirectFormatting.Underline</note>
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
-        <target xml:lang="sw" state="translated">Pigia Mstari</target>
+        <target xml:lang="sw" state="final">Pigia Mstari</target>
       </trans-unit>
       <trans-unit id="EditTab.DuplicatePageButton" approved="yes">
         <source xml:lang="en">Duplicate Page</source>
@@ -1564,32 +1564,32 @@
         <note>ID: EditTab.EditTab.Toolbox.LeveledReaderTool.SentenceTooLong</note>
         <target xml:lang="sw" state="final">Sentensi ni ndefu sana kwa hatua hii.</target>
       </trans-unit>
-      <trans-unit id="EditTab.EnterpriseSettingsButton" sil:dynamic="true">
+      <trans-unit id="EditTab.EnterpriseSettingsButton" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Enterprise Settings</source>
         <note>ID: EditTab.EnterpriseSettingsButton</note>
         <note>Text of button that appears when Bloom Enterprise is needed for access to a feature.</note>
-        <target xml:lang="sw" state="translated">Mipangilio ya Bloom Enterprise</target>
+        <target xml:lang="sw" state="final">Mipangilio ya Bloom Enterprise</target>
       </trans-unit>
       <trans-unit id="EditTab.ExperimentalNotice" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This page is an experimental prototype which may have many problems, for which we apologize.</source>
         <note>ID: EditTab.ExperimentalNotice</note>
         <target xml:lang="sw" state="final">Ukurasa huu ni sampuli ya awali ya majaribio ambayo inaweza kuwa na matatizo mengi, ambapo tunaomba radhi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FileDialogVideoFiles">
+      <trans-unit id="EditTab.FileDialogVideoFiles" approved="yes">
         <source xml:lang="en">Video files</source>
         <note>ID: EditTab.FileDialogVideoFiles</note>
         <note>Used to identify the kind of files wanted in a file Open dialog</note>
-        <target xml:lang="sw" state="translated">Faili za Video</target>
+        <target xml:lang="sw" state="final">Faili za Video</target>
       </trans-unit>
       <trans-unit id="EditTab.FontMissing" approved="yes">
         <source xml:lang="en">The current selected font is '{0}', but it is not installed on this computer. Some other font will be used.</source>
         <note>ID: EditTab.FontMissing</note>
         <target xml:lang="sw" state="final">Fonti iliyochaguliwa kwa sasa ni '', lakini haijawekwa kwenye kompyuta hii.Fonti nyingine itatumiwa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.Alignment" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.Alignment" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Alignment</source>
         <note>ID: EditTab.FormatDialog.Alignment</note>
-        <target xml:lang="sw" state="translated">Mpangilio</target>
+        <target xml:lang="sw" state="final">Mpangilio</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.AlreadyExists" sil:dynamic="true" approved="yes">
         <source xml:lang="en">That style already exists. Please choose another name.</source>
@@ -1616,17 +1616,17 @@
         <note>ID: EditTab.FormatDialog.CreateStyle</note>
         <target xml:lang="sw" state="final">Tengeneza mtindo mpya</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.BigWords-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.BigWords-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Words</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.BigWords-style</note>
         <note>Appears in most templates</note>
-        <target xml:lang="sw" state="translated">Maneno Makubwa</target>
+        <target xml:lang="sw" state="final">Maneno Makubwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Bubble-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Bubble-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bubble</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Bubble-style</note>
         <note>Default style for comic bubbles</note>
-        <target xml:lang="sw" state="translated">Kiputo</target>
+        <target xml:lang="sw" state="final">Kiputo</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.Cover-Default-style" sil:dynamic="true">
         <source xml:lang="en">Cover Default</source>
@@ -1634,17 +1634,17 @@
         <note>A default style for various fields usually on the Front Cover</note>
         <target xml:lang="sw" state="translated">Chaguo-msingi wa Jalada</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Credits-Page-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Credits-Page-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Credits Page</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Credits-Page-style</note>
         <note>Used on the Credits page of most Front/Back Matter packs</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa Sifa</target>
+        <target xml:lang="sw" state="final">Ukurasa wa Sifa</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.ImageDescriptionEdit-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.ImageDescriptionEdit-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image Description Edit</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.ImageDescriptionEdit-style</note>
         <note>Style appears when editing image descriptions. The trailing 'edit' indicates that it is just used for editing the description, not for publishing it.</note>
-        <target xml:lang="sw" state="translated">Hariri ya maelezo ya picha</target>
+        <target xml:lang="sw" state="final">Hariri ya maelezo ya picha</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.Equation-style" sil:dynamic="true">
         <source xml:lang="en">Equation</source>
