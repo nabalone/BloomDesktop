@@ -77,7 +77,7 @@
         <source xml:lang="en">"Accessible Books" are books that work well for people with impaired vision. With the ePUB format*, it is possible to make "Born Accessible" books that work well for everyone**, regardless of vision. Bloom has the following tools to help you create these books:</source>
         <note>ID: AccessibilityCheck.LearnAbout.AccessibleBookDefinition</note>
         <note>The * and ** are footnote markers that should remain the same.</note>
-        <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyofanya kazi vizuri kwa watu wasio na uwezo wa kuona. Muundo wake wa ePUB *, unaweza kutengeneza vitabu vya "Born Accessible" ambavyo huwafaa watu wote **, bila kujali hali yao ya uono. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
+        <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyowafaa watu wasio na uwezo wa kuona vizuri. Kwa muundo wa ePUB *, kuna uwezekano wa kutengeneza "Born Accessible" vitabu ambavyo huwafaa watu wote **, bila kujali uwezo wa kuona. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.CheckerHas" sil:dynamic="true">
         <source xml:lang="en">This tool, the Accessibility Checker, has:</source>
@@ -311,20 +311,20 @@
         <note>ID: BookMetadata.inLanguage</note>
         <target xml:lang="sw" state="translated">Lugha</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.level">
+      <trans-unit id="BookMetadata.level" approved="yes">
         <source xml:lang="en">Reading level</source>
         <note>ID: BookMetadata.level</note>
-        <target xml:lang="sw" state="translated">Kiwango cha kusoma</target>
+        <target xml:lang="sw" state="final">Kiwango cha kusoma</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.License">
+      <trans-unit id="BookMetadata.License" approved="yes">
         <source xml:lang="en">License</source>
         <note>ID: BookMetadata.License</note>
-        <target xml:lang="sw" state="translated">Leseni</target>
+        <target xml:lang="sw" state="final">Leseni</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.metapicture">
+      <trans-unit id="BookMetadata.metapicture" approved="yes">
         <source xml:lang="en">Picture</source>
         <note>ID: BookMetadata.metapicture</note>
-        <target xml:lang="sw" state="translated">Picha</target>
+        <target xml:lang="sw" state="final">Picha</target>
       </trans-unit>
       <trans-unit id="BookMetadata.motionSimulationHazard">
         <source xml:lang="en">Motion Simulation Hazard</source>
