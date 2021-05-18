@@ -4537,7 +4537,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">Error compressing or recoloring the PDF file</source>
         <note>ID: PublishTab.PdfMaker.ErrorProcessing</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="needs-translation">Error compressing or recoloring the PDF file</target>
+        <target xml:lang="sw" state="translated">Hitilafu ya kufupisha au kuweka rangi tena kwenye faili ya PDF</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Finished">
         <source xml:lang="en">Finished making PDF from HTML</source>
