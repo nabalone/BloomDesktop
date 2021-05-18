@@ -2945,7 +2945,7 @@
         <source xml:lang="en">Processing</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Processing</note>
         <note>Displayed while video just recorded is processed into a more compressed form</note>
-        <target xml:lang="sw" state="translated">Inashugulikiwa</target>
+        <target xml:lang="sw" state="translated">Usindikaji</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.Recording" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Recording</source>
@@ -2963,42 +2963,42 @@
         <note>Appears in the context "X will be moved to the recycle bin"</note>
         <target xml:lang="sw" state="final">Video iliyochaguliwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.SelectSignLanguageBox" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.SelectSignLanguageBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To use this tool, select a sign language box on the page.</source>
         <note>ID: EditTab.Toolbox.SignLanguage.SelectSignLanguageBox</note>
-        <target xml:lang="sw" state="translated">Kutumia zana hii, chagua kisanduku cha lugha ya ishara kwenye ukurasa.</target>
+        <target xml:lang="sw" state="final">Kutumia zana hii, chagua kisanduku cha lugha ya ishara kwenye ukurasa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.StartRecording" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.StartRecording" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Start Recording</source>
         <note>ID: EditTab.Toolbox.SignLanguage.StartRecording</note>
-        <target xml:lang="sw" state="translated">Anza Kurekodi</target>
+        <target xml:lang="sw" state="final">Anza Kurekodi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.Timeout">
         <source xml:lang="en">The initial processing of the video file timed out after one minute.  The raw video output will be stored.</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Timeout</note>
-        <target xml:lang="sw" state="translated">Usindikaji wa awali wa faili ya video umeisha baada ya dakika moja. Pato la nakala ya video ghafi litahifadhiwa.</target>
+        <target xml:lang="sw" state="translated">Usindikaji wa awali wa faili ya video unaisha baada ya dakika moja. Pato la nakala ya video ghafi litahifadhiwa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.Trim" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.Trim" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Trim</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Trim</note>
         <note>Appears above sign language video trimming sliders</note>
-        <target xml:lang="sw" state="translated">Punguza</target>
+        <target xml:lang="sw" state="final">Punguza</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.VideoProcessingError">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.VideoProcessingError" approved="yes">
         <source xml:lang="en">Error output from ffmpeg trying to produce {0}: {1}{2}The raw video output will be stored.</source>
         <note>ID: EditTab.Toolbox.SignLanguage.VideoProcessingError</note>
         <note>{0} is the path to the video file, {1} is the error message from the ffmpeg program, and {2} is a newline character</note>
-        <target xml:lang="sw" state="translated">Hitilafu kutoka kwa ffmpeg kujaribu kutengeneza {0}: {1} {2} Pato la video ghafi litahifadhiwa.</target>
+        <target xml:lang="sw" state="final">Hitilafu kutoka kwa ffmpeg kujaribu kutengeneza {0}: {1} {2} Pato la video ghafi litahifadhiwa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.WhatCameraSees" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.WhatCameraSees" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Here is what your camera sees:</source>
         <note>ID: EditTab.Toolbox.SignLanguage.WhatCameraSees</note>
-        <target xml:lang="sw" state="translated">Hivi ndivyo kamera yako inavyoona:</target>
+        <target xml:lang="sw" state="final">Hivi ndivyo kamera yako inavyoona:</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguageTool" sil:dynamic="true">
         <source xml:lang="en">Sign Language Tool</source>
         <note>ID: EditTab.Toolbox.SignLanguageTool</note>
-        <target xml:lang="sw" state="translated">Chombo cha lugha ya ishara</target>
+        <target xml:lang="sw" state="translated">Zana ya lugha ya ishara</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBook.BadState" approved="yes">
         <source xml:lang="en">Bloom recording is in an unusual state, possibly caused by unplugging a microphone. You will need to restart.</source>
@@ -3006,11 +3006,11 @@
         <note>This is very low priority for translation.</note>
         <target xml:lang="sw" state="final">Kurekodi kwa Bloom kuko katika hali isiyo ya kawaida, ambayo huenda ikawa imesababishwa na kutoa mikrofoni. Utahitajika kuianzisha upya.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBook.MissingDependency">
+      <trans-unit id="EditTab.Toolbox.TalkingBook.MissingDependency" approved="yes">
         <source xml:lang="en">To split recordings into sentences, first install this {0} system.</source>
         <note>ID: EditTab.Toolbox.TalkingBook.MissingDependency</note>
         <note>The placeholder {0} will be replaced with the dependency that needs to be installed.</note>
-        <target xml:lang="sw" state="translated">Ili kugawanya rekodi katika sentensi, kwanza sakinisha mfumo huu wa {0}.</target>
+        <target xml:lang="sw" state="final">Ili kugawanya rekodi katika sentensi, kwanza sakinisha mfumo huu wa {0}.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBook.NoInput" approved="yes">
         <source xml:lang="en">No input device</source>
@@ -3051,22 +3051,22 @@
         <note>As in, "CLEAR" (or delete) the existing recording file.</note>
         <target xml:lang="sw" state="final">Maliza</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ESpeakPreview.Error">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ESpeakPreview.Error" approved="yes">
         <source xml:lang="en">eSpeak failed.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ESpeakPreview.Error</note>
         <note>This text is shown if an error occurred while running eSpeak. eSpeak is a piece of software that this program uses to do text-to-speech (have the computer read text out loud).</note>
-        <target xml:lang="sw" state="translated">eSpeak imeshindwa.</target>
+        <target xml:lang="sw" state="final">eSpeak imeshindwa.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.Listen" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Listen to the whole page</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.Listen</note>
         <target xml:lang="sw" state="final">Sikiliza ukurasa wote</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Import Recording</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording</note>
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
-        <target xml:lang="sw" state="translated">Agiza rekodi</target>
+        <target xml:lang="sw" state="final">Agiza rekodi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplace" sil:dynamic="true">
         <source xml:lang="en">Replace with new audio?</source>
