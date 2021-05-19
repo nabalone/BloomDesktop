@@ -4003,50 +4003,50 @@
         <note>{0} is a file path</note>
         <target xml:lang="sw" state="final">Hifadhi kama{0}</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.File.Progress.SubstitutingAndika" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.File.Progress.SubstitutingAndika" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom will substitute \"{0}\" instead."</source>
         <note>ID: PublishTab.Android.File.Progress.SubstitutingAndika</note>
         <note>{0} is a font name</note>
-        <target xml:lang="sw" state="translated">Bloom itabadilisha \"{0}\" badala yake. "</target>
+        <target xml:lang="sw" state="final">Bloom itabadilisha \"{0}\" badala yake. "</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.GetBloomReader" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.GetBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Get Bloom Reader App</source>
         <note>ID: PublishTab.Android.GetBloomReader</note>
         <note>Link to find Bloom Reader on Google Play Store</note>
-        <target xml:lang="sw" state="translated">Pata programu ya Bloom Reader</target>
+        <target xml:lang="sw" state="final">Pata programu ya Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Intro" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Intro" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Send Your Book to the Bloom Reader Android App</source>
         <note>ID: PublishTab.Android.Intro</note>
         <note>This is displayed at the top of the Android screen.</note>
-        <target xml:lang="sw" state="translated">Tuma Kitabu chako kwenye programu ya Android ya Bloom Reader</target>
+        <target xml:lang="sw" state="final">Tuma Kitabu chako kwenye programu ya Android ya Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Method" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Method" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose how to send to device</source>
         <note>ID: PublishTab.Android.Method</note>
         <note>There are several methods for pushing a book to android. This is the heading above the chooser.</note>
-        <target xml:lang="sw" state="translated">Chagua jinsi ya kutuma kwa kifaa</target>
+        <target xml:lang="sw" state="final">Chagua jinsi ya kutuma kwa kifaa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.MotionBookMode" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.MotionBookMode" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Motion Book</source>
         <note>ID: PublishTab.Android.MotionBookMode</note>
         <note>Motion Book checkbox label</note>
-        <target xml:lang="sw" state="translated">Kitabu cha Msogeo</target>
+        <target xml:lang="sw" state="final">Kitabu cha Msogeo</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Preview" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Preview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Preview</source>
         <note>ID: PublishTab.Android.Preview</note>
-        <target xml:lang="sw" state="translated">Hakiki</target>
+        <target xml:lang="sw" state="final">Hakiki</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Publish" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Publish" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Publish</source>
         <note>ID: PublishTab.Android.Publish</note>
-        <target xml:lang="sw" state="translated">Chapisha</target>
+        <target xml:lang="sw" state="final">Chapisha</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Creating" sil:dynamic="true">
         <source xml:lang="en">Creating Digital Book</source>
         <note>ID: PublishTab.Android.Creating</note>
-        <target xml:lang="sw" state="translated">Kuunda kitabu cha digitali</target>
+        <target xml:lang="sw" state="translated">Kuunda kitabu cha kidijitali</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.AboutBloomReader" sil:dynamic="true">
         <source xml:lang="en">About Bloom Reader</source>
