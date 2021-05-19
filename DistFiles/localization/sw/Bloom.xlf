@@ -4113,22 +4113,22 @@
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
         <target xml:lang="sw" state="translated">Inatafuta kifaa cha Android kilichounganishwa na kebo ya USB na kusanidiwa kwa MTP...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForExisting</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Inatafuta "{0}" iliyopo...</target>
+        <target xml:lang="sw" state="final">Inatafuta "{0}" iliyopo...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Vifaa vifuatavyo vilivyounganishwa vyote vimewekwa Bloom Reader. Tafadhali unganisha moja tu ya vifaa hivi.</target>
+        <target xml:lang="sw" state="final">Vifaa vifuatavyo vilivyounganishwa vyote vimewekwa Bloom Reader. Tafadhali unganisha moja tu ya vifaa hivi.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No device found. Still looking...</source>
         <note>ID: PublishTab.Android.Usb.Progress.NoDeviceFound</note>
-        <target xml:lang="sw" state="translated">Hakuna kifaa kilichopatikana. Bado inatafuta...</target>
+        <target xml:lang="sw" state="final">Hakuna kifaa kilichopatikana. Bado inatafuta...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.PackagingBook" sil:dynamic="true">
         <source xml:lang="en">Packaging "{0}" for use with Bloom Reader...</source>
@@ -4148,48 +4148,48 @@
         <note>{0} is a book title</note>
         <target xml:lang="sw" state="translated">Inatuma "{0}" kwenye kifaa chako cha Android...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.Stopped" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.Stopped" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stopped</source>
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
-        <target xml:lang="sw" state="translated">Imesimamishwa</target>
+        <target xml:lang="sw" state="final">Imesimamishwa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
-        <target xml:lang="sw" state="translated">Imeshindwa kuunganisha kwenye kifaa chochote cha Android ambacho kina Bloom Reader.</target>
+        <target xml:lang="sw" state="final">Imeshindwa kuunganisha kwenye kifaa chochote cha Android ambacho kina Bloom Reader.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connect with USB cable</source>
         <note>ID: PublishTab.Android.Usb.Start</note>
         <note>Button that tells Bloom to send the book to a device via USB cable.</note>
-        <target xml:lang="sw" state="translated">Unganisha na kebo ya USB</target>
+        <target xml:lang="sw" state="final">Unganisha na kebo ya USB</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Stop" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Stop" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stop Trying</source>
         <note>ID: PublishTab.Android.Usb.Stop</note>
-        <target xml:lang="sw" state="translated">Acha Kujaribu</target>
+        <target xml:lang="sw" state="final">Acha Kujaribu</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.BadBookRequest" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.BadBookRequest" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Got a book request we could not process. Possibly the device is running an incompatible version of BloomReader?</source>
         <note>ID: PublishTab.Android.Wifi.Progress.BadBookRequest</note>
-        <target xml:lang="sw" state="translated">Tuna ombi la kitabu ambacho hatukuweza kushughulikia. Labda kifaa kinaendesha toleo lisilokubaliana na BloomReader?</target>
+        <target xml:lang="sw" state="final">Tuna ombi la kitabu ambacho hatukuweza kushughulikia. Labda kifaa kinaendesha toleo lisilokubaliana na BloomReader?</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Failed" sil:dynamic="true">
         <source xml:lang="en">Sending the book failed. Possibly the device was disconnected? If you can't see a reason for this the following may be helpful to report to the developers:</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Failed</note>
-        <target xml:lang="sw" state="translated">Kutuma kitabu hakukufaulu. Inawezekana kifaa kilitenganishwa? Ikiwa huwezi kuona sababu ya hii yafuatayo inaweza kusaidia kuripoti kwa watengenezaji:</target>
+        <target xml:lang="sw" state="translated">Kutuma kitabu hakukufaulu. Inawezekana kifaa kilitenganishwa? Ikiwa huwezi kuona sababu ya hii yafuatayo yanaweza kusaidia kuripoti kwa watengenezaji:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.Finished" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.Finished" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Finished sending "{0}" to device {1}</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Finished</note>
         <note>{0} is the name of the book, {1} is the name of the device</note>
-        <target xml:lang="sw" state="translated">Imemaliza kutuma "{0}" kwa kifaa{1}</target>
+        <target xml:lang="sw" state="final">Imemaliza kutuma "{0}" kwa kifaa{1}</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.Sending" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.Sending" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sending "{0}" to device {1}</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Sending</note>
         <note>{0} is the name of the book, {1} is the name of the device</note>
-        <target xml:lang="sw" state="translated">Kutuma "{0}"kwa kifaa {1}</target>
+        <target xml:lang="sw" state="final">Kutuma "{0}"kwa kifaa {1}</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped Advertising.</source>
