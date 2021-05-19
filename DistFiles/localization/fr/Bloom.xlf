@@ -3043,7 +3043,7 @@
         <source xml:lang="en">Check</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.CheckLabel</note>
         <note>As in, play the current audio file to "CHECK" that the audio is OK.</note>
-        <target xml:lang="fr" state="final">Vérifiez</target>
+        <target xml:lang="fr" state="final">Contrôler</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.CheckSettingsLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Check that you are recording into the correct device and that these levels are showing blue:</source>
