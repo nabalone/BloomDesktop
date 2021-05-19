@@ -4480,11 +4480,11 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.OverwriteWarning.WindowTitle</note>
         <target xml:lang="sw" state="final">Tangazo</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PDF.Error.Failed">
+      <trans-unit id="PublishTab.PDF.Error.Failed" approved="yes">
         <source xml:lang="en">Bloom was not able to create the PDF file ({0}).{1}{1}Details: BloomPdfMaker (command line) did not produce the expected document.</source>
         <note>ID: PublishTab.PDF.Error.Failed</note>
         <note>Error message displayed in a message dialog box. {0} is the filename, {1} is a newline character.</note>
-        <target xml:lang="sw" state="translated">Bloom haikuweza kuunda faili ya PDF ({0}). {1} {1} Maelezo: BloomPdfMaker (mstari wa amri) haukutoa hati inayotarajiwa.</target>
+        <target xml:lang="sw" state="final">Bloom haikuweza kuunda faili ya PDF ({0}). {1} {1} Maelezo: BloomPdfMaker (mstari wa amri) haukutoa hati inayotarajiwa.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PDF.Error.PrinterError">
         <source xml:lang="en">Bloom requires access to a printer in order to make a PDF, even though you are not printing.  Windows gave this error when Bloom tried to access the default printer: {0}</source>
