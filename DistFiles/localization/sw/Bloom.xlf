@@ -3305,16 +3305,16 @@
         <note>ID: Errors.ProblemImportingVideo</note>
         <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo la kuagiza video hii.</target>
       </trans-unit>
-      <trans-unit id="Errors.ReadOnlyBookFolder">
+      <trans-unit id="Errors.ReadOnlyBookFolder" approved="yes">
         <source xml:lang="en">This book cannot be edited because its folder is read-only.</source>
         <note>ID: Errors.ReadOnlyBookFolder</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki hakiwezi kuhaririwa kwa sababu folda yake ni ya kusoma tu.</target>
+        <target xml:lang="sw" state="final">Kitabu hiki hakiwezi kuhaririwa kwa sababu folda yake ni ya kusoma tu.</target>
       </trans-unit>
       <trans-unit id="Errors.RemoveExcessHtml">
         <source xml:lang="en">Please remove all but one of the files ending in .htm.  Bloom will now open this folder for you.</source>
         <note>ID: Errors.RemoveExcessHtml</note>
         <note>This follows the Errors.MultipleHtmlFiles message and a list of HTML files.</note>
-        <target xml:lang="sw" state="translated">Tafadhali ondoa faili zote isipokuwa moja tu inayoishia .htm. Bloom sasa itakufungulia folda hii.</target>
+        <target xml:lang="sw" state="translated">Tafadhali ondoa faili zote isipokuwa moja tu inayoishia kwa .htm. Bloom sasa itakufungulia folda hii.</target>
       </trans-unit>
       <trans-unit id="Errors.ReportThisProblemButton" approved="yes">
         <source xml:lang="en">Report this problem to Bloom Support</source>
@@ -3332,27 +3332,27 @@
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): This Book called for Front/Back Matter pack named '{0}', but Bloom couldn't find that on this computer. You can either install a Bloom Pack that will give you '{0}', or go to Settings:Book Making and change to another Front/Back Matter Pack.</note>
         <target xml:lang="sw" state="final">Kitabu hiki kilihitaji seti ya machapisho ya Mbele/Nyuma iitwayo '{0}', lakini Bloom haikuipata kwenye kompyuta hii. Unaweza kuweka Seti ya Bloom itakayokupa '{0}', au uende kwa Mpangilio:Kutengeneza Kitabu na ubadilishe kuwa seti tofauti ya machapisho ya Mbele/Nyuma.</target>
       </trans-unit>
-      <trans-unit id="Errors.XMatterProblemLabel">
+      <trans-unit id="Errors.XMatterProblemLabel" approved="yes">
         <source xml:lang="en">Front/Back Matter Problem</source>
         <note>ID: Errors.XMatterProblemLabel</note>
         <note>This shows in the 'toast' that pops up to notify the user of a non-fatal problem.</note>
-        <target xml:lang="sw" state="translated">Tatizo la sehemu ya Mbele/Nyuma</target>
+        <target xml:lang="sw" state="final">Tatizo la sehemu ya Mbele/Nyuma</target>
       </trans-unit>
       <trans-unit id="Errors.XMatterSpecifiedByBookNotFound">
         <source xml:lang="en">This book called for a Front/Back Matter pack named '{0}', but this version of Bloom does not have it, and Bloom could not find it on this computer. The book has been changed to use the Front/Back Matter pages from the Collection Settings.</source>
         <note>ID: Errors.XMatterSpecifiedByBookNotFound</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kilihitaji kifurushi cha Mbele / Nyuma kiitwayo '{0}', lakini toleo hili la Bloom halina, na Bloom haikuweza kuipata kwenye kompyuta hii. Kitabu kimebadilishwa ili kutumia kurasa za Mbele / Nyuma za kutoka kwenye Mipangilio wa mkusanyiko.</target>
+        <target xml:lang="sw" state="translated">Kitabu hiki kilihitaji kifurushi cha Mbele / Nyuma kiitwacho '{0}', lakini toleo hili la Bloom halina, na Bloom haikuweza kuipata kwenye kompyuta hii. Kitabu kimebadilishwa ili kutumia kurasa za Mbele / Nyuma za kutoka kwenye Mipangilio wa mkusanyiko.</target>
       </trans-unit>
       <trans-unit id="Errors.ZoneAlarm" approved="yes">
         <source xml:lang="en">Bloom cannot start properly, and this symptom has been observed on machines with ZoneAlarm installed. Note: disabling ZoneAlarm does not help. Nor does restarting with it turned off. Something about the installation of ZoneAlarm causes the problem, and so far only uninstalling ZoneAlarm has been shown to fix the problem.</source>
         <note>ID: Errors.ZoneAlarm</note>
         <target xml:lang="sw" state="final">Bloom haiwezi kujifungua inavyofaa, na dalili hii imeonekana kwenye mashine zilizowekwa King'ora cha Eneo. Kumbuka: kuzima King'ora cha Eneo hakusaidii. Wala kufungua upya huku kikiwa kimezimwa. Kitu fulani kuhusu uwekaji wa King'ora cha Eneo husababisha tatizo, na hivyo kukitoa king'ora cha eneo tu kumeonyesha kusuluhisha tatizo.</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.AskAQuestionMenuItem">
+      <trans-unit id="HelpMenu.AskAQuestionMenuItem" approved="yes">
         <source xml:lang="en">Ask a Question</source>
         <note>ID: HelpMenu.AskAQuestionMenuItem</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Ask a Question (web)</note>
-        <target xml:lang="sw" state="translated">Uliza Swali</target>
+        <target xml:lang="sw" state="final">Uliza Swali</target>
       </trans-unit>
       <trans-unit id="HelpMenu.BuildingReaderTemplatesMenuItem" approved="yes">
         <source xml:lang="en">Building Reader Templates</source>
@@ -3436,11 +3436,11 @@
         <note>ID: HelpMenu.trainingVideos</note>
         <target xml:lang="sw" state="final">Video za Kufundisha</target>
       </trans-unit>
-      <trans-unit id="ImageUtils.PreparingImage">
+      <trans-unit id="ImageUtils.PreparingImage" approved="yes">
         <source xml:lang="en">Preparing image: {0}</source>
         <note>ID: ImageUtils.PreparingImage</note>
         <note>{0} is a placeholder for the image filename</note>
-        <target xml:lang="sw" state="translated">Kuandaa Picha:{0}</target>
+        <target xml:lang="sw" state="final">Kuandaa Picha:{0}</target>
       </trans-unit>
       <trans-unit id="InstallProblem.BloomPdfMaker" approved="yes">
         <source xml:lang="en">A component of Bloom, BloomPdfMaker.exe, seems to be missing. This prevents previews and printing. Antivirus software sometimes does this. You may need technical help to repair the Bloom installation and protect this file from being deleted again.</source>
@@ -3451,7 +3451,7 @@
         <source xml:lang="en">Cannot replace mp3 file. Check antivirus</source>
         <note>ID: LameEncoder.DeleteFailedShort</note>
         <note>short message for a popup toast notification</note>
-        <target xml:lang="sw" state="translated">Haiwezi kubadilisha faili ya mp3</target>
+        <target xml:lang="sw" state="translated">Haiwezi kubadilisha faili ya mp3. Angalia kinga ya virusi</target>
       </trans-unit>
       <trans-unit id="LameEncoder.DeleteFailedLong">
         <source xml:lang="en">Bloom could not replace an mp3 file. If this continues, check your antivirus.</source>
