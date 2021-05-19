@@ -3499,17 +3499,17 @@
       <trans-unit id="LayoutChoices.A4Portrait" sil:dynamic="true">
         <source xml:lang="en">A4 Portrait</source>
         <note>ID: LayoutChoices.A4Portrait</note>
-        <target xml:lang="sw" state="translated">Picha ya A4</target>
+        <target xml:lang="sw" state="translated">Kurasa wima wa A4</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A5Landscape" sil:dynamic="true">
         <source xml:lang="en">A5 Landscape</source>
         <note>ID: LayoutChoices.A5Landscape</note>
-        <target xml:lang="sw" state="translated">Muundo wa A5</target>
+        <target xml:lang="sw" state="translated">Kurasa mlalo wa A5</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A5Portrait" sil:dynamic="true">
         <source xml:lang="en">A5 Portrait</source>
         <note>ID: LayoutChoices.A5Portrait</note>
-        <target xml:lang="sw" state="translated">Picha ya A5</target>
+        <target xml:lang="sw" state="translated">Kurasa wima wa A5</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A6Landscape" sil:dynamic="true">
         <source xml:lang="en">A6 Landscape</source>
