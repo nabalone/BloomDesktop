@@ -4324,18 +4324,18 @@
       <trans-unit id="PublishTab.Epub.Help.EReaders">
         <source xml:lang="en">Compatible ePUB Readers</source>
         <note>ID: PublishTab.Epub.Help.EReaders</note>
-        <target xml:lang="sw" state="translated">Epub Readers tangamanifu</target>
+        <target xml:lang="sw" state="translated">ePUB Readers zilizotangamana</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Help.Publishing">
+      <trans-unit id="PublishTab.Epub.Help.Publishing" approved="yes">
         <source xml:lang="en">Getting ePUBs onto a device</source>
         <note>ID: PublishTab.Epub.Help.Publishing</note>
-        <target xml:lang="sw" state="translated">Kuweka ePUBs kwenye kifaa</target>
+        <target xml:lang="sw" state="final">Kuweka ePUBs kwenye kifaa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.ImageDescriptionLinkLabel">
+      <trans-unit id="PublishTab.Epub.ImageDescriptionLinkLabel" approved="yes">
         <source xml:lang="en">Image Description</source>
         <note>ID: PublishTab.Epub.ImageDescriptionLinkLabel</note>
         <note>Used in Epubs as the text of a link that leads to the description of an image</note>
-        <target xml:lang="sw" state="translated">Maelezo ya picha</target>
+        <target xml:lang="sw" state="final">Maelezo ya picha</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.IncludeOnPage">
         <source xml:lang="en">Include image descriptions on page</source>
