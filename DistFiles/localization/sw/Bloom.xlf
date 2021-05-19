@@ -4068,11 +4068,11 @@
         <note>ID: PublishTab.Android.TextLanguages</note>
         <target xml:lang="sw" state="final">Lugha za Maandishi</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Thumbnail" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Thumbnail" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Thumbnail</source>
         <note>ID: PublishTab.Android.Thumbnail</note>
         <note>The heading at the top of the Settings section, which shows a thumbnail of the front cover and can be used to change the underlying page color.</note>
-        <target xml:lang="sw" state="translated">Kijipicha</target>
+        <target xml:lang="sw" state="final">Kijipicha</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Troubleshooting" sil:dynamic="true">
         <source xml:lang="en">Troubleshooting Tips</source>
@@ -4083,7 +4083,7 @@
         <source xml:lang="en">You can now read "{0}" in Bloom Reader!</source>
         <note>ID: PublishTab.Android.Usb.Progress.BookSent</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Sasa unaweza kusoma{0} Katika Bloom Reader!</target>
+        <target xml:lang="sw" state="translated">Sasa unaweza kusoma "{0}" katika Bloom Reader!</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.Connected" sil:dynamic="true">
         <source xml:lang="en">Connected to {0} via USB...</source>
@@ -4091,21 +4091,21 @@
         <note>{0} is a the name of the device Bloom connected to</note>
         <target xml:lang="sw" state="translated">Imeunganishwa{0} kupitia USB...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.DeviceOutOfMemory" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.DeviceOutOfMemory" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The device reported that it does not have enough space for this book. The book is {0} MB.</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceOutOfMemory</note>
         <note>{0} is the size of the book that Bloom is trying to copy over to the Android device.</note>
-        <target xml:lang="sw" state="translated">Kifaa kiliripoti kuwa hakina nafasi ya kutosha kwa kitabu hiki. Kitabu ni {0} MB.</target>
+        <target xml:lang="sw" state="final">Kifaa kiliripoti kuwa hakina nafasi ya kutosha kwa kitabu hiki. Kitabu ni {0} MB.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
         <target xml:lang="sw" state="translated">Vifaa vifuatavyo vimeunganishwa lakini haionekani kuwa na Bloom Reader inayoendesha:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true" approved="yes">
         <source xml:lang="en">An error occurred and the book was not sent to your Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
-        <target xml:lang="sw" state="translated">Hitilafu ilitokea na kitabu hakikutumwa kwa kifaa chako cha Android.</target>
+        <target xml:lang="sw" state="final">Hitilafu ilitokea na kitabu hakikutumwa kwa kifaa chako cha Android.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
         <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
