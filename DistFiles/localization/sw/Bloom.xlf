@@ -3921,7 +3921,7 @@
       <trans-unit id="PublishTab.Android.CantGetLicenseInfo" sil:dynamic="true">
         <source xml:lang="en">To publish this book, Bloom must check which languages the copyright owner has permitted, but Bloom is having trouble reaching the server that has this information.</source>
         <note>ID: PublishTab.Android.CantGetLicenseInfo</note>
-        <target xml:lang="sw" state="translated">Ili kuchapisha kitabu hiki, Bloom lazima iangalie ni mmiliki gani wa hakimiliki ameruhusu, lakini Bloom ina shida kufikia seva iliyo na habari hii.</target>
+        <target xml:lang="sw" state="translated">Ili kuchapisha kitabu hiki, Bloom lazima iangalie ni lugha zipi mmiliki wa hakimiliki ameruhusu, lakini Bloom ina shida kufikia seva iliyo na ujumbe huu.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseFile" sil:dynamic="true">
         <source xml:lang="en">Save Bloom Reader File</source>
