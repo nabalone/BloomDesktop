@@ -4211,11 +4211,11 @@
         <note>ID: PublishTab.Android.Wifi.Progress.beginAdvertising</note>
         <target xml:lang="sw" state="translated">Kutangaza kitabu kwa programu za Bloom reader kwenye mtandao wa ndani...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Start" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Share</source>
         <note>ID: PublishTab.Android.Wifi.Start</note>
         <note>Button that tells Bloom to begin offering this book on the wifi network.</note>
-        <target xml:lang="sw" state="translated">Shiriki</target>
+        <target xml:lang="sw" state="final">Shiriki</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WrongLayout.Message">
         <source xml:lang="en">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</source>
