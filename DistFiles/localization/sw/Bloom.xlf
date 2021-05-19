@@ -3835,23 +3835,23 @@
         <note>ID: PageList.CantMoveWhenTranslating</note>
         <target xml:lang="sw" state="final">Kurasa haziwezi kupangwa upya unapotafsiri kitabu.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.AdobeEulaTitle">
+      <trans-unit id="PublishTab.AdobeEulaTitle" approved="yes">
         <source xml:lang="en">Adobe Color Profile License Agreement</source>
         <note>ID: PublishTab.AdobeEulaTitle</note>
         <note>dialog title for license agreement</note>
-        <target xml:lang="sw" state="translated">Mkataba wa Leseni ya Profaili ya Rangi ya Adobe</target>
+        <target xml:lang="sw" state="final">Mkataba wa Leseni ya Profaili ya Rangi ya Adobe</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Common.Publishing">
+      <trans-unit id="PublishTab.Common.Publishing" approved="yes">
         <source xml:lang="en">Publishing</source>
         <note>This is shown while Bloom is sharing a book over wifi, over a usb cable, or uploading. </note>
         <note>ID: PublishTab.Common.Publishing</note>
-        <target xml:lang="sw" state="translated">Kuchapisha</target>
+        <target xml:lang="sw" state="final">Kuchapisha</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Common.StopPublishing">
+      <trans-unit id="PublishTab.Common.StopPublishing" approved="yes">
         <source xml:lang="en">Stop Publishing</source>
         <note>This is shown while Bloom is sharing a book over wifi or over a usb cable. </note>
         <note>ID: PublishTab.Common.StopPublishing</note>
-        <target xml:lang="sw" state="translated">Acha Kuchapisha</target>
+        <target xml:lang="sw" state="final">Acha Kuchapisha</target>
       </trans-unit>
       <trans-unit id="PublishTab.AdobeReaderControl.NotInstalled" approved="yes">
         <source xml:lang="en">Please install Adobe Reader so that Bloom can show your completed book. Until then, you can still save the PDF Book and open it in some other program.</source>
@@ -3868,23 +3868,23 @@
         <note>ID: PublishTab.AdobeReaderControl.UnknownError</note>
         <target xml:lang="sw" state="final">Ripoti Mbaya. Bloom haikuweza kupata Kifaa cha Adobe cha Kusoma ili kuonyesha hapa, hivyo Bloom haiwezi kukuonyesha kitabu chako kilichokamilika.\nTafadhali toa tafsiri ilioko ya 'Kifaa cha kusoma cha Adobe' na uweke upya 'Kifaa cha kusoma cha Adobe'.\nHadi utakapoweza kufanya hivyo, bado uaweza kuhifadhi PDF Kitabu na kukifungua kwenye programu nyingine.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.BloomD.Hint.Heading" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.BloomD.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sharing .bloomd Files</source>
         <note>ID: PublishTab.Android.BloomD.Hint.Heading</note>
         <note/>
-        <target xml:lang="sw" state="translated">Kushiriki Faili za Bloomd</target>
+        <target xml:lang="sw" state="final">Kushiriki Faili za Bloomd</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.BloomD.Hint" sil:dynamic="true">
         <source xml:lang="en">You can use sharing apps like email, Dropbox, and WhatsApp to get your .bloomd file onto a device.</source>
         <note>ID: PublishTab.Android.BloomD.Hint</note>
         <note/>
-        <target xml:lang="sw" state="translated">Unaweza kutumia kushiriki programu kama barua pepe, Dropbox, na WhatsApp kupata faili yako ya .bloomd kwenye kifaa.</target>
+        <target xml:lang="sw" state="translated">Unaweza kutumia programu za kushiriki kama vile barua pepe, Dropbox, na WhatsApp kupata faili yako ya .bloomd kwenye kifaa.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
         <note>ID: PublishTab.Android.USB.Hint.Heading</note>
         <note/>
-        <target xml:lang="sw" state="translated"> USB ni ngumu</target>
+        <target xml:lang="sw" state="final"> USB ni ngumu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint" sil:dynamic="true">
         <source xml:lang="en">To Send via USB, you may need to get the right
