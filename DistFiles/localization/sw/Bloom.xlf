@@ -4196,15 +4196,15 @@
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
         <target xml:lang="sw" state="translated">Ilisimamisha matangazo.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
-        <target xml:lang="sw" state="translated">Kwenye Android, endesha Bloom Reader, fungua menyu na uchague 'Pokea Vitabu kutoka kwa kompyuta'.</target>
+        <target xml:lang="sw" state="final">Kwenye Android, endesha Bloom Reader, fungua menyu na uchague 'Pokea Vitabu kutoka kwa kompyuta'.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions2</note>
-        <target xml:lang="sw" state="translated">Unaweza kufanya hivyo kwenye vifaa vingi unavyopenda. Hakikisha kila kifaa kimeunganishwa kwenye mtandao sawa na kompyuta hii.</target>
+        <target xml:lang="sw" state="final">Unaweza kufanya hivyo kwenye vifaa vingi unavyopenda. Hakikisha kila kifaa kimeunganishwa kwenye mtandao sawa na kompyuta hii.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.beginAdvertising" sil:dynamic="true">
         <source xml:lang="en">Advertising book to Bloom Readers on local network...</source>
