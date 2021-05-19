@@ -4618,11 +4618,11 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.PdfMaker.TrySmallerImages</note>
         <target xml:lang="sw" state="final">Weka picha zilizo na uthabiti wa chini kwenye nafasi ya zile zilizo na udhabiti wa juu kwenye chapisho lako</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfNotSaved">
+      <trans-unit id="PublishTab.PdfNotSaved" approved="yes">
         <source xml:lang="en">PDF Not Saved</source>
         <note>ID: PublishTab.PdfNotSaved</note>
         <note>title for the message box</note>
-        <target xml:lang="sw" state="translated">PDF haijahifadhiwa</target>
+        <target xml:lang="sw" state="final">PDF haijahifadhiwa</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfNotSavedWhy">
         <source xml:lang="en">The PDF file has not been saved because you chose not to allow producing a "PDF for print shop".</source>
