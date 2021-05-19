@@ -4271,7 +4271,7 @@
       <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true">
         <source xml:lang="en">Upload your book to BloomLibrary.org so that other people can read it, download it to their devices and share it with other people.</source>
         <note>ID: PublishTab.ButtonThatShowsUploadForm-tooltip</note>
-        <target xml:lang="sw" state="translated">Weka kwa BloomLibrary.org, pale ambapo watu wengine wanaweza kukitoa na kukitafsiri kwa lugha zao wenyewe.</target>
+        <target xml:lang="sw" state="translated">Weka kitabu chako kwenye BloomLibrary.org, ndio watu wengine waweze kukisoma, kukipakua katika vifaa vyao na kukishirikisha na watu wengine.</target>
       </trans-unit>
       <trans-unit id="PublishTab.CoverOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Cover</source>
@@ -4283,16 +4283,16 @@
         <note>ID: PublishTab.CoverOnlyRadio-tooltip</note>
         <target xml:lang="sw" state="final">Tengeneza PDF ya mbele tu na nyuma (pande zote), ili uweze kuchapisha kwenye karatasi ya rangi.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.BackLinkLabel">
+      <trans-unit id="PublishTab.Epub.BackLinkLabel" approved="yes">
         <source xml:lang="en">Back</source>
         <note>ID: PublishTab.Epub.BackLinkLabel</note>
         <note>Used in Epubs as the text of a link that leads from the image description back to the main page</note>
-        <target xml:lang="sw" state="translated">Nyuma</target>
+        <target xml:lang="sw" state="final">Nyuma</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Accessible.MainContent">
         <source xml:lang="en">Main Content</source>
         <note>ID: PublishTab.Epub.Accessible.MainContent</note>
-        <target xml:lang="sw" state="translated">Yaliyomo Kuu</target>
+        <target xml:lang="sw" state="translated">Maudhui Kuu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Accessibility">
         <source xml:lang="en">Accessibility</source>
