@@ -4223,21 +4223,21 @@
         <note>{0} and {1} are book layout tags.</note>
         <target xml:lang="sw" state="translated">Mpangilio wa kitabu hiki kwa sasa ni "{0}". Bloom Reader itauonyesha kwa kutumia "{1}", kwa hivyo maandishi yanaweza kosa kutoshea. Ili kuona ikiwa kuna kitu kinachohitaji kurekebishwa, rudi kwenye Kichupo cha Hariri na ubadilishe mpangilio kuwa "{1}".</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.bloomdFileFormatLabel">
+      <trans-unit id="PublishTab.Android.bloomdFileFormatLabel" approved="yes">
         <source xml:lang="en">Bloom Book for Devices</source>
         <note>ID: PublishTab.Android.bloomdFileFormatLabel</note>
         <note>This is shown in the 'Save' dialog when you save a bloom book in the format that works with the Bloom Reader Android App</note>
-        <target xml:lang="sw" state="translated">Kitabu cha Bloom kwa vifaa</target>
+        <target xml:lang="sw" state="final">Kitabu cha Bloom kwa vifaa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.AndroidButton">
+      <trans-unit id="PublishTab.AndroidButton" approved="yes">
         <source xml:lang="en">Bloom Reader</source>
         <note>ID: PublishTab.AndroidButton</note>
-        <target xml:lang="sw" state="translated">Programu ya Bloom Reader</target>
+        <target xml:lang="sw" state="final">Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.AndroidButton-tooltip" sil:dynamic="true">
+      <trans-unit id="PublishTab.AndroidButton-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Publish to an Android device.</source>
         <note>ID: PublishTab.AndroidButton-tooltip</note>
-        <target xml:lang="sw" state="translated">Chapisha kwenye kifaa cha Android.</target>
+        <target xml:lang="sw" state="final">Chapisha kwenye kifaa cha Android.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Audio.ElementsMissingId">
         <source xml:lang="en">Some audio elements are missing ids</source>
@@ -4256,11 +4256,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, add newline): Make a booklet from the inside pages of the book. Pages will be laid out and reordered so that when you fold it, you'll have a booklet.\n</note>
         <target xml:lang="sw" state="final">Tengeneza kijitabu kutokana na kurasa za ndani za kitabuKurasa zitatolewa na kupangwa upya ili utakapokikunja, utakuwa na kijitabua.\n</target>
       </trans-unit>
-      <trans-unit id="PublishTab.BookMetadata">
+      <trans-unit id="PublishTab.BookMetadata" approved="yes">
         <source xml:lang="en">Book Metadata</source>
         <note>ID: PublishTab.BookMetadata</note>
         <note>This link opens a dialog box that lets you put in information someone (often a librarian) might use to search for a book with particular characteristics.</note>
-        <target xml:lang="sw" state="translated">Metadata ya Kitabu</target>
+        <target xml:lang="sw" state="final">Metadata ya Kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.ButtonThatShowsUploadForm" approved="yes">
         <source xml:lang="en">Share on the Web</source>
