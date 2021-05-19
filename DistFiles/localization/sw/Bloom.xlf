@@ -4337,10 +4337,10 @@
         <note>Used in Epubs as the text of a link that leads to the description of an image</note>
         <target xml:lang="sw" state="final">Maelezo ya picha</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.IncludeOnPage">
+      <trans-unit id="PublishTab.Epub.IncludeOnPage" approved="yes">
         <source xml:lang="en">Include image descriptions on page</source>
         <note>ID: PublishTab.Epub.IncludeOnPage</note>
-        <target xml:lang="sw" state="translated">Jumuisha maelezo ya picha kwenye ukurasa</target>
+        <target xml:lang="sw" state="final">Jumuisha maelezo ya picha kwenye ukurasa</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.NoAudioDescriptions">
         <source xml:lang="en">No recorded audio image descriptions</source>
