@@ -4194,7 +4194,7 @@
       <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true">
         <source xml:lang="en">Stopped Advertising.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
-        <target xml:lang="sw" state="translated">Kusimamishwa matangazo.</target>
+        <target xml:lang="sw" state="translated">Ilisimamisha matangazo.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
@@ -4397,10 +4397,10 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Epub.Title</note>
         <target xml:lang="sw" state="translated">Unda Kitabu cha ePub</target>
       </trans-unit>
-      <trans-unit id="PublishTab.EpubButton">
+      <trans-unit id="PublishTab.EpubButton" approved="yes">
         <source xml:lang="en">ePUB</source>
         <note>ID: PublishTab.EpubButton</note>
-        <target xml:lang="sw" state="translated">ePUB</target>
+        <target xml:lang="sw" state="final">ePUB</target>
       </trans-unit>
       <trans-unit id="PublishTab.EpubRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make an ePUB (electronic book) out of this book, allowing it to be read on various electronic reading devices.</source>
@@ -4418,17 +4418,17 @@ kisomaji cha ePUB</target>
         <note>This is the title of a dialog about exporting a Bloom book to the InDesign XML format</note>
         <target xml:lang="sw" state="final">Habari kuhusu Muundo wa Ndani wa XML</target>
       </trans-unit>
-      <trans-unit id="PublishTab.LessMemoryPdfMode">
+      <trans-unit id="PublishTab.LessMemoryPdfMode" approved="yes">
         <source xml:lang="en">Use less memory (slower)</source>
         <note>ID: PublishTab.LessMemoryPdfMode</note>
         <note>The parenthesized word indicates the negative effect of using this option. This text is for a menu item.</note>
-        <target xml:lang="sw" state="translated">Tumia kumbukumbu ndogo(polepole)</target>
+        <target xml:lang="sw" state="final">Tumia kumbukumbu ndogo(polepole)</target>
       </trans-unit>
-      <trans-unit id="PublishTab.NoBookletsMessage">
+      <trans-unit id="PublishTab.NoBookletsMessage" approved="yes">
         <source xml:lang="en">Bloom cannot make booklets using the current page size.</source>
         <note>ID: PublishTab.NoBookletsMessage</note>
         <note>If a book has a paper size that is too big (like A4), Bloom does not know how to make booklets with it. So the controls for booklets get disabled and this message is shown.</note>
-        <target xml:lang="sw" state="translated">Bloom haiwezi kutengeneza vijitabu kwa kutumia saizi ya ukurasa wa sasa.</target>
+        <target xml:lang="sw" state="final">Bloom haiwezi kutengeneza vijitabu kwa kutumia saizi ya ukurasa wa sasa.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Notifications.AdobeReaderRecommendation" approved="yes">
         <source xml:lang="en">This PDF viewer can be improved by installing the free Adobe Reader on this computer.</source>
@@ -4451,24 +4451,24 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.OpenThePDFInTheSystemPDFViewer</note>
         <target xml:lang="sw" state="final">Fungua PDF kifaa cha kutazama kwenye mfumo wa kawaida PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options">
+      <trans-unit id="PublishTab.Options" approved="yes">
         <source xml:lang="en">PDF Options</source>
         <note>ID: PublishTab.Options</note>
         <note>menu header in the Publish tab</note>
         <note>was previously just "Options"</note>
-        <target xml:lang="sw" state="translated">Chaguzi za PDF</target>
+        <target xml:lang="sw" state="final">Chaguzi za PDF</target>
       </trans-unit>
       <trans-unit id="PublishTab.OptionsMenu.PreparePrintshop">
         <source xml:lang="en">Prepare for Print Shop:</source>
         <note>ID: PublishTab.OptionsMenu.PreparePrintshop</note>
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
-        <target xml:lang="sw" state="translated">Andaa kwa uchapishaji:</target>
+        <target xml:lang="sw" state="translated">Andaa kwa duka la kuchapisha:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_">
+      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>menu header in the Publish tab</note>
-        <target xml:lang="sw" state="translated">Chagua ukubwa wa ukurasa na mwelekeo</target>
+        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na mwelekeo</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
