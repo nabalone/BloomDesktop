@@ -3926,7 +3926,7 @@
       <trans-unit id="PublishTab.Android.ChooseFile" sil:dynamic="true">
         <source xml:lang="en">Save Bloom Reader File</source>
         <note>ID: PublishTab.Android.ChooseFile</note>
-        <target xml:lang="sw" state="translated">Okoa faili ya Bloom Reader</target>
+        <target xml:lang="sw" state="translated">Hifadhi faili ya Bloom Reader</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true">
         <source xml:lang="en">Choose landscape to activate Motion Book mode</source>
@@ -3937,29 +3937,29 @@
       <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true">
         <source xml:lang="en">Send over USB Cable</source>
         <note>ID: PublishTab.Android.ChooseUSB</note>
-        <target xml:lang="sw" state="translated">Tuma kwa kebo ys USB</target>
+        <target xml:lang="sw" state="translated">Tuma kwa kebo ya USB</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.ChooseWifi" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.ChooseWifi" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Share over Wi-Fi</source>
         <note>ID: PublishTab.Android.ChooseWifi</note>
-        <target xml:lang="sw" state="translated">Shiriki kwa mtandao wa Wi-Fi</target>
+        <target xml:lang="sw" state="final">Shiriki kwa mtandao wa Wi-Fi</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Control" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Control" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Send or Save</source>
         <note>ID: PublishTab.Android.Control</note>
         <note>This is the heading above various buttons that control the publishing of the book to Android.</note>
-        <target xml:lang="sw" state="translated">Tuma au Hifadhi</target>
+        <target xml:lang="sw" state="final">Tuma au Hifadhi</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.CopyToClipboard" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.CopyToClipboard" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Copy to Clipboard</source>
         <note>ID: PublishTab.Android.CopyToClipboard</note>
-        <target xml:lang="sw" state="translated">Nakili kwenya Ubao wa kunakili</target>
+        <target xml:lang="sw" state="final">Nakili kwenya Ubao wa kunakili</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Features" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Features" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Features</source>
         <note>ID: PublishTab.Android.Features</note>
         <note>The second heading in the Settings section, which shows a checklist of various features.</note>
-        <target xml:lang="sw" state="translated">Vipengele</target>
+        <target xml:lang="sw" state="final">Vipengele</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.UnlicensedLanguages" sil:dynamic="true">
         <source xml:lang="en">The copyright holder of this book has not licensed it for publishing in {0}. Please contact the copyright holder to learn more about licensing.</source>
