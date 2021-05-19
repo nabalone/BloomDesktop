@@ -4390,12 +4390,12 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Epub.Saving">
         <source xml:lang="en">Saving</source>
         <note>ID: PublishTab.Epub.Saving</note>
-        <target xml:lang="sw" state="translated">Hifadhi</target>
+        <target xml:lang="sw" state="translated">Inahifadhi</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Title">
+      <trans-unit id="PublishTab.Epub.Title" approved="yes">
         <source xml:lang="en">Create an ePUB book</source>
         <note>ID: PublishTab.Epub.Title</note>
-        <target xml:lang="sw" state="translated">Unda Kitabu cha ePub</target>
+        <target xml:lang="sw" state="final">Unda Kitabu cha ePub</target>
       </trans-unit>
       <trans-unit id="PublishTab.EpubButton" approved="yes">
         <source xml:lang="en">ePUB</source>
@@ -4597,11 +4597,11 @@ kisomaji cha ePUB</target>
         <note>Previously this item was "PDF with CMYK ..." and it occurred as an option within the Save dialog for PDF files</note>
         <target xml:lang="sw" state="translated">Rangi ya CMYK( U.S.Web Coated (SOP) v2</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.Saving">
+      <trans-unit id="PublishTab.PdfMaker.Saving" approved="yes">
         <source xml:lang="en">Saving PDF...</source>
         <note>ID: PublishTab.PdfMaker.Saving</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Inahifadhi PDF...</target>
+        <target xml:lang="sw" state="final">Inahifadhi PDF...</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.TryMoreMemory" approved="yes">
         <source xml:lang="en">Try doing this on a computer with more memory</source>
