@@ -3476,25 +3476,25 @@
         <note>ID: LanguageFontDetails.TallerLinesCheck</note>
         <target xml:lang="sw" state="final">Hati hii inahitaji mistari mirefu zaidi</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A3Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A3Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A3 Landscape</source>
         <note>ID: LayoutChoices.A3Landscape</note>
-        <target xml:lang="sw" state="translated">Kurasa mlalo ya A3</target>
+        <target xml:lang="sw" state="final">Kurasa mlalo ya A3</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Landscape" sil:dynamic="true">
         <source xml:lang="en">A4 Landscape</source>
         <note>ID: LayoutChoices.A4Landscape</note>
-        <target xml:lang="sw" state="translated">Aina ya muundo wa A4</target>
+        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Landscape SideBySide" sil:dynamic="true">
         <source xml:lang="en">A4 Landscape (Side By Side)</source>
         <note>ID: LayoutChoices.A4Landscape SideBySide</note>
-        <target xml:lang="sw" state="translated">Muundo wa A4 wa Kila upande</target>
+        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4 (Upande kwa Upande)</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Landscape SplitAcrossPages" sil:dynamic="true">
         <source xml:lang="en">A4 Landscape (Split Across Pages)</source>
         <note>ID: LayoutChoices.A4Landscape SplitAcrossPages</note>
-        <target xml:lang="sw" state="translated">Muundo wa A4 Hugawanya Katikati ya Kurasa</target>
+        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4 (Uliogawanyika Katika Kurasa)</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Portrait" sil:dynamic="true">
         <source xml:lang="en">A4 Portrait</source>
@@ -3576,10 +3576,10 @@
         <note>ID: LayoutChoices.ComicPortrait</note>
         <target xml:lang="sw" state="translated">Picha ya vichekesho</target>
       </trans-unit>
-      <trans-unit id="LicenseDialog.WindowTitle">
+      <trans-unit id="LicenseDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Bloom {0}</source>
         <note>ID: LicenseDialog.WindowTitle</note>
-        <target xml:lang="sw" state="translated">Bloom{0}</target>
+        <target xml:lang="sw" state="final">Bloom{0}</target>
       </trans-unit>
       <trans-unit id="LicenseDialog._acceptButton" approved="yes">
         <source xml:lang="en">I accept the terms of the license agreement</source>
@@ -3621,10 +3621,10 @@
         <note>ID: LoginDialog.ShowTerms</note>
         <target xml:lang="sw" state="final">Onyesha Masharti ya Matumizi</target>
       </trans-unit>
-      <trans-unit id="LoginDialog.WindowTitle">
+      <trans-unit id="LoginDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Sign in to BloomLibrary.org</source>
         <note>ID: LoginDialog.WindowTitle</note>
-        <target xml:lang="sw" state="translated">Ingia kwenye BloomLibrary.org</target>
+        <target xml:lang="sw" state="final">Ingia kwenye BloomLibrary.org</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.AlreadyCollectionWithThatName" approved="yes">
         <source xml:lang="en">There is already a collection with that name, at &lt;a href='file://{0}'&gt;{0}&lt;/a&gt;.\nPlease pick a unique name.</source>
@@ -3665,7 +3665,7 @@
         <source xml:lang="en">OK, that's all we need to get started with your new '{0}' collection.\nClick on the 'Finish' button.</source>
         <note>ID: NewCollectionWizard.FinishPageContent</note>
         <note>{0} is the name of the new collection</note>
-        <target xml:lang="sw" state="translated">Sawa, ndio tu tunahitaji kuanza na mkusanyiko wako mpya wa '{0}'. \nBonyeza kitufe cha 'Maliza'.</target>
+        <target xml:lang="sw" state="translated">Sawa, hayo tu ndio tunahitaji ili kuanza mkusanyiko wako mpya wa '{0}'. \nBonyeza kitufe cha 'Maliza'.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.FontAndScriptPage" approved="yes">
         <source xml:lang="en">Font and Script</source>
