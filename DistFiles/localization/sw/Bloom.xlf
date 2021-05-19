@@ -4142,11 +4142,11 @@
         <note>{0} is a book title</note>
         <target xml:lang="sw" state="translated">Kuchukua nafasi ya zilizopo "{0}"...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.SendingBook" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.SendingBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sending "{0}" to your Android device...</source>
         <note>ID: PublishTab.Android.Usb.Progress.SendingBook</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Inatuma "{0}" kwenye kifaa chako cha Android...</target>
+        <target xml:lang="sw" state="final">Inatuma "{0}" kwenye kifaa chako cha Android...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.Stopped" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stopped</source>
