@@ -4359,27 +4359,27 @@
         <note>Shown in a progress box when Bloom finds interactive pages in an EPUB. Followed by a list of page labels.</note>
         <target xml:lang="sw" state="translated">Kurasa zifuatazo ziliondolewa kwa sababu haziwezi kutumika katika ePUBs:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.PageLabel.Content">
+      <trans-unit id="PublishTab.Epub.PageLabel.Content" approved="yes">
         <source xml:lang="en">Content</source>
         <note>ID: PublishTab.Epub.PageLabel.Content</note>
         <note>label for the book content in the ePUB's Table of Contents</note>
-        <target xml:lang="sw" state="translated">Yaliyomo</target>
+        <target xml:lang="sw" state="final">Yaliyomo</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.PreparingDoc">
+      <trans-unit id="PublishTab.Epub.PreparingDoc" approved="yes">
         <source xml:lang="en">Preparing document</source>
         <note>ID: PublishTab.Epub.PreparingDoc</note>
-        <target xml:lang="sw" state="translated">Kuandaa hati</target>
+        <target xml:lang="sw" state="final">Kuandaa hati</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.PreparingPreview">
         <source xml:lang="en">Preparing Preview</source>
         <note>ID: PublishTab.Epub.PreparingPreview</note>
-        <target xml:lang="sw" state="translated">Inaandaa Kihakiki</target>
+        <target xml:lang="sw" state="translated">Inaandaa Kuhakiki</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.ReadiumCredit">
         <source xml:lang="en">This ePUB preview is provided by [Readium]. This book may render differently in various ePUB readers.</source>
         <note>ID: PublishTab.Epub.ReadiumCredit</note>
         <note>[Readium] should be left untranslated as a noun.  It will be changed into an HTML link to the Readium web page (https://readium.org/).  If the term "Readium" has been translated on a translated version of that web page, then the translated term may be substituted within the square brackets.  (Be sure to keep the square brackets [] around Readium or its translation!)</note>
-        <target xml:lang="sw" state="translated">Uhakiki huu wa ePUB umetolewa na [Readium]. Kitabu hiki kinaweza kutoa tofauti katika wasomaji anuwai wa ePUB.</target>
+        <target xml:lang="sw" state="translated">Uhakiki huu wa ePUB umetolewa na [Readium]. Kitabu hiki kinaweza kutoa maana tofauti kwa wasomaji anuwai wa ePUB.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.RemoveFontSizes">
         <source xml:lang="en">Use ePUB reader's text size</source>
