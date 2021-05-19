@@ -4048,25 +4048,25 @@
         <note>ID: PublishTab.Android.Creating</note>
         <target xml:lang="sw" state="translated">Kuunda kitabu cha kidijitali</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.AboutBloomReader" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.AboutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Bloom Reader</source>
         <note>ID: PublishTab.Android.AboutBloomReader</note>
-        <target xml:lang="sw" state="translated">Kuhusu programu ya Bloom reader</target>
+        <target xml:lang="sw" state="final">Kuhusu programu ya Bloom reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.AboutBookFeatures" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.AboutBookFeatures" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Book Features</source>
         <note>ID: PublishTab.Android.AboutBookFeatures</note>
-        <target xml:lang="sw" state="translated">Kuhusu Vipengele vya Kitabu</target>
+        <target xml:lang="sw" state="final">Kuhusu Vipengele vya Kitabu</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Settings" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Settings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Settings</source>
         <note>ID: PublishTab.Android.Settings</note>
-        <target xml:lang="sw" state="translated">Mipangilio</target>
+        <target xml:lang="sw" state="final">Mipangilio</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.TextLanguages" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.TextLanguages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Languages</source>
         <note>ID: PublishTab.Android.TextLanguages</note>
-        <target xml:lang="sw" state="translated">Lugha za Maandishi</target>
+        <target xml:lang="sw" state="final">Lugha za Maandishi</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Thumbnail" sil:dynamic="true">
         <source xml:lang="en">Thumbnail</source>
