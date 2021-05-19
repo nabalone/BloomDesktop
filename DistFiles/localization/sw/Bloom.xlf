@@ -3263,20 +3263,20 @@
         <note>ID: Errors.FeatureRequiresNewerVersionPlural</note>
         <note>The placeholder {0} represents the required version of Bloom. For example, {0} might be replaced with "4.4"</note>
         <note>A bulleted list of features (in English) will follow underneath this text</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia vipengele zifuatazo:</target>
+        <target xml:lang="sw" state="translated">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia vipengele vifuatavyo:</target>
       </trans-unit>
-      <trans-unit id="Errors.FeatureRequiresNewerVersionSingular">
+      <trans-unit id="Errors.FeatureRequiresNewerVersionSingular" approved="yes">
         <source xml:lang="en">This book requires Bloom {0} or greater because it uses the feature "{1}".</source>
         <note>ID: Errors.FeatureRequiresNewerVersionSingular</note>
         <note>The placeholder {0} represents the required version of Bloom. For example, {0} might be replaced with "4.4"</note>
         <note>The placeholder {1} represents a short description of the feature For example, {1} might be replaced with "Whole Text Audio"</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia kipengele "{1}".</target>
+        <target xml:lang="sw" state="final">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia kipengele "{1}".</target>
       </trans-unit>
       <trans-unit id="Errors.MultipleHtmlFiles">
         <source xml:lang="en">Bloom book folders must have only one file ending in .htm.  In the book "{0}", these are the files ending in .htm:</source>
         <note>ID: Errors.MultipleHtmlFiles</note>
         <note>{0} will get the name of the book</note>
-        <target xml:lang="sw" state="translated">Folda za kitabu cha Bloom lazima ziwe na faili moja tu inayoishia .htm. Katika kitabu "{0}", hizi ni faili zinazoishia kwa .htm:</target>
+        <target xml:lang="sw" state="translated">Folda za kitabu cha Bloom lazima ziwe na faili moja tu inayoishia kwa .htm. Katika kitabu "{0}", hizi ni faili zinazoishia kwa .htm:</target>
       </trans-unit>
       <trans-unit id="Errors.NeedNewerVersion" approved="yes">
         <source xml:lang="en">{0} requires a newer version of Bloom. Download the latest version of Bloom from {1}</source>
@@ -3285,10 +3285,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9, removed period): {0} requires a newer version of Bloom. Download the latest version of Bloom from {1}.</note>
         <target xml:lang="sw" state="final">{0} huhitaji tafsiri mpya zaidi ya Bloom. Toa tafsiti mpya ya Bloom kutoka kwa {1}.</target>
       </trans-unit>
-      <trans-unit id="Errors.NewVersionNeededHeader">
+      <trans-unit id="Errors.NewVersionNeededHeader" approved="yes">
         <source xml:lang="en">This book needs a new version of Bloom.</source>
         <note>ID: Errors.NewVersionNeededHeader</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kinahitaji toleo jipya la Bloom.</target>
+        <target xml:lang="sw" state="final">Kitabu hiki kinahitaji toleo jipya la Bloom.</target>
       </trans-unit>
       <trans-unit id="Errors.ProblemDeletingFile" approved="yes">
         <source xml:lang="en">Bloom had a problem deleting this file: {0}</source>
@@ -3300,10 +3300,10 @@
         <note>ID: Errors.ProblemImportingPicture</note>
         <target xml:lang="sw" state="final">Bloom ilipata tatizo katika kuipokea picha hii</target>
       </trans-unit>
-      <trans-unit id="Errors.ProblemImportingVideo">
+      <trans-unit id="Errors.ProblemImportingVideo" approved="yes">
         <source xml:lang="en">Bloom had a problem importing this video.</source>
         <note>ID: Errors.ProblemImportingVideo</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo la kuagiza video hii.</target>
+        <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo la kuagiza video hii.</target>
       </trans-unit>
       <trans-unit id="Errors.ReadOnlyBookFolder">
         <source xml:lang="en">This book cannot be edited because its folder is read-only.</source>
