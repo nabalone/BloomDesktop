@@ -7,24 +7,24 @@
         <target xml:lang="sw" state="translated">Vidokezo vya utatuzi wa Uchapishaji wa Android</target>
         <note>ID: android.publish.trouble.tips</note>
       </trans-unit>
-      <trans-unit id="android.publish.wifi">
+      <trans-unit id="android.publish.wifi" approved="yes">
         <source xml:lang="en">Share over Wi-Fi</source>
-        <target xml:lang="sw" state="translated">Shiriki kwa mtandao wa Wi-Fi</target>
+        <target xml:lang="sw" state="final">Shiriki kwa mtandao wa Wi-Fi</target>
         <note>ID: android.publish.wifi</note>
       </trans-unit>
-      <trans-unit id="android.publish.wifi.unseen">
+      <trans-unit id="android.publish.wifi.unseen" approved="yes">
         <source xml:lang="en">Problem: Android Device is not seeing book advertisements</source>
-        <target xml:lang="sw" state="translated">Tatizo: Kifaa cha Android hakioni matangazo ya kitabu</target>
+        <target xml:lang="sw" state="final">Tatizo: Kifaa cha Android hakioni matangazo ya kitabu</target>
         <note>ID: android.publish.wifi.unseen</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.run.receive">
         <source xml:lang="en">When using this method, you need to run Bloom Reader, open its menu, and choose "Receive from Wi-Fi".</source>
-        <target xml:lang="sw" state="translated">Unapotumia njia hii, unahitaji kutumia Bloom Reader, kufungua menyu yake, na uchague "Pokea kutoka kwa Wi-Fi".</target>
+        <target xml:lang="sw" state="translated">Unapotumia njia hii, unahitaji kuendesha Bloom Reader, fungua menyu yake, na uchague "Pokea kutoka kwa Wi-Fi".</target>
         <note>ID: android.publish.wifi.run.receive</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.receive.from">
         <source xml:lang="en">Make sure the device is in the "Receive from Wi-Fi" screen</source>
-        <target xml:lang="sw" state="translated">Hakikisha kifaa kiko kwenye skrini "Pokea kutoka kwa Wi-Fi"</target>
+        <target xml:lang="sw" state="translated">Hakikisha kifaa kiko kwenye skrini ya "Pokea kutoka kwa Wi-Fi"</target>
         <note>ID: android.publish.wifi.receive.from</note>
       </trans-unit>
       <trans-unit id="android.publish.wifi.same.network">
