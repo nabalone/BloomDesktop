@@ -4790,7 +4790,7 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Upload.Login.AlreadyHaveAccount</note>
         <note xml:lang="en">OLD TEXT (before 3.9, added space): We cannot sign you up with that address, because we already have an account with that address. Would you like to log in instead?</note>
         <note xml:lang="en">OLD TEXT (before 4.9, changed log in to sign in): We cannot sign you up with that address, because we already have an account with that address.  Would you like to log in instead?</note>
-        <target xml:lang="sw" state="translated">Hatuwezi tukakufungulia akaunti kwa kutumia anwani hiyo, kwa kuwa tayari tuna akaunti inayotumia anwani hiyo. Je, badala yake ungependa kuingia kwenye akaunti yako?</target>
+        <target xml:lang="sw" state="translated">Hatuwezi kukusajili na anwani hiyo, kwa sababu tayari tuna akaunti inayotumia anwani hiyo. Je, ungependa kuingia kwenye akaunti yako badala yake?</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.LoginConnectFailed" approved="yes">
         <source xml:lang="en">Bloom could not connect to the server to verify your login. Please check your network connection.</source>
@@ -4865,7 +4865,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.LoginFailure">
         <source xml:lang="en">Bloom could not sign in to BloomLibrary.org using your saved credentials. Please check your network connection.</source>
         <note>ID: PublishTab.Upload.LoginFailure</note>
-        <target xml:lang="sw" state="translated">Bloom haijaweza kuingia kwa BloomLibrary.org kwa kutumia hati za utambulisho zilizohifadhiwa. Tafadhali angalia intaneti yako.</target>
+        <target xml:lang="sw" state="translated">Bloom haijaweza kuingia kwa BloomLibrary.org kutumia hati zako za utambulisho zilizohifadhiwa. Tafadhali angalia unganisho lako la mtandao.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.LoginLink">
         <source xml:lang="en">Sign up or sign in to BloomLibrary.org</source>
@@ -4873,12 +4873,12 @@ kisomaji cha ePUB</target>
         <note xml:lang="en">OLD TEXT (before 4.9, added "sign in" and changed "log in" to "sign in"): Log in to BloomLibrary.org</note>
         <note>We have kept the old message ID since a translation of that will be better than nothing. The terminology should ideally match the buttons in the dialog,
           which we don't control, such as "Sign in with Google", but so far we haven't been able to get those localized.</note>
-        <target xml:lang="sw" state="translated">Ingia au Jisajili kwenye BloomLibrary.org</target>
+        <target xml:lang="sw" state="translated">Jisajili au ingia kwa BloomLibrary.org</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.Logout">
+      <trans-unit id="PublishTab.Upload.Logout" approved="yes">
         <source xml:lang="en">Sign out of BloomLibrary.org</source>
         <note>ID: PublishTab.Upload.Logout</note>
-        <target xml:lang="sw" state="translated">Toka kwenye BloomLibrary.org</target>
+        <target xml:lang="sw" state="final">Toka kwenye BloomLibrary.org</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.MakingPdf" approved="yes">
         <source xml:lang="en">Making PDF Preview...</source>
