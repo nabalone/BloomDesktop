@@ -2428,10 +2428,10 @@
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer</note>
         <target xml:lang="sw" state="translated">Kionyeshi cha uharibifu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.BlueYellow" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.BlueYellow" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Blue-Yellow</source>
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer.BlueYellow</note>
-        <target xml:lang="sw" state="translated">Samawati-Manjano</target>
+        <target xml:lang="sw" state="final">Samawati-Manjano</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.Cataracts" sil:dynamic="true">
         <source xml:lang="en">Cataracts</source>
