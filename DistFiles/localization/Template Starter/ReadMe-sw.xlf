@@ -51,23 +51,24 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
       </trans-unit>
       <trans-unit id="template.starter.document">
         <source xml:lang="en">Document Your Template</source>
-        <target xml:lang="sw" state="translated">Orodesha Kiolezo chako</target>
+        <target xml:lang="sw" state="translated">Andika Kiolezo Chako</target>
         <note>ID: template.starter.document</note>
       </trans-unit>
       <trans-unit id="template.starter.describeyours">
         <source xml:lang="en">Also consider adding a description of your template, like the one you are reading now. To do this, put a text file named <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g> in your template's folder. This file should follow the <g id="genid-9" ctype="x-html-a" html:href="http://spec.commonmark.org/dingus/">markdown standard</g>. To provide your instructions in other languages, make versions of that file that change the "en" to each language's two letter code. For example <g id="genid-10" ctype="x-html-code">ReadMe-fr.md</g> would be shown when Bloom is set to show labels in French. You can also include screenshots, like we have in this document. Place any images you use in a folder named "ReadMeImages", so that images are referenced like this:</source>
-        <target xml:lang="sw" state="translated">Pia fikiria kuongeza maelezo ya kiolezi chako, kama ile unayosoma sasa. Ili kufanya hivyo, weka faili ya maandishi iitwayo <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g>kwenye folda ya kiolezo chako. Faili hii inapaswa kufuata<g id="genid-9" ctype="x-html-a" html:href="http://spec.commonmark.org/dingus/">markdown standard</g>.
- Ili kutoa maagizo yako katika lugha zingine, fanya matoleo ya faili hiyo ambayo hubadilisha "en" kwa herufi mbili za msimbo za kila lugha. Kwa mfano<g id="genid-10" ctype="x-html-code"> ReadMe-fr.md </g> itaonyeshwa wakati Bloom imewekwa kuonyesha lebo katika Kifaransa. Unaweza pia kujumuisha viwambo vya skrini, kama tulivyo katika hati hii. Weka picha zozote unazotumia kwenye folda iitwayo "ReadMeImages", ili picha zirejeshwe kama hii:</target>
+        <target xml:lang="sw" state="translated">Pia fikiria kuongeza maelezo ya kiolezo chako, kama yale unayosoma sasa. Ili kufanya hivi, weka faili ya maandishi iitwayo <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g>kwenye folda ya kiolezo chako.
+ Faili hii inastahili kufuata<g id="genid-9" ctype="x-html-a" html:href="http://spec.commonmark.org/dingus/">markdown standard</g>.
+ Ili kutoa maagizo yako katika lugha zingine, fanya matoleo ya faili hiyo ambayo hubadilisha "en" kwa herufi mbili za msimbo za kila lugha. Kwa mfano<g id="genid-10" ctype="x-html-code"> ReadMe-fr.md </g> itaonyeshwa wakati Bloom imewekwa kuonyesha lebo kwa Kifaransa. Unaweza pia kujumuisha viwambo vya skrini, kama tulivyo navyo katika hati hii. Weka picha zozote unazotumia kwenye folda iitwayo "ReadMeImages", ili picha zirejelewe hivi:</target>
         <note>ID: template.starter.describeyours</note>
       </trans-unit>
       <trans-unit id="template.starter.thumbnailsshown">
         <source xml:lang="en">When the Add Page dialog box shows your template pages, it will show a thumbnail:</source>
-        <target xml:lang="sw" state="translated">Wakati kisanduku kidadisi cha Ongeza Ukurasa kinaonyesha kurasa zako za violezi, itaonyesha kijipicha:</target>
+        <target xml:lang="sw" state="translated">Wakati kisanduku kidadisi cha Ongeza Ukurasa kinaonyesha kurasa zako za violezo, itaonyesha kijipicha:</target>
         <note>ID: template.starter.thumbnailsshown</note>
       </trans-unit>
-      <trans-unit id="template.starter.share">
+      <trans-unit id="template.starter.share" approved="yes">
         <source xml:lang="en">Share Your Template</source>
-        <target xml:lang="sw" state="translated">Shiriki kiolezo chako</target>
+        <target xml:lang="sw" state="final">Shiriki kiolezo chako</target>
         <note>ID: template.starter.share</note>
       </trans-unit>
       <trans-unit id="template.starter.share.publish">
