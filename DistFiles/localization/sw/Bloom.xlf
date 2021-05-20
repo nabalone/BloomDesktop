@@ -5760,7 +5760,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TeamCollection.Available" sil:dynamic="true">
         <source xml:lang="en">This book is available for editing</source>
         <note>ID: TeamCollection.Available</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki chaweza kuhaririwa</target>
+        <target xml:lang="sw" state="translated">Kitabu kinapatikani ili kuhaririwa</target>
       </trans-unit>
       <!--
 // Don't want these actually translated until things stabilize. Will need re-ordering.
@@ -5912,10 +5912,10 @@ Do you want to go ahead?</note>
         <note>{1} is the error message from the system</note>
       </trans-unit>
 -->
-      <trans-unit id="TemplateBooks.BookName.Arithmetic Template" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.BookName.Arithmetic Template" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Arithmetic Template</source>
         <note>ID: TemplateBooks.BookName.Arithmetic Template</note>
-        <target xml:lang="sw" state="translated">Kiolezo cha Hesabu</target>
+        <target xml:lang="sw" state="final">Kiolezo cha Hesabu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Basic Book" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Basic Book</source>
@@ -5942,25 +5942,25 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.BookName.Picture Dictionary</note>
         <target xml:lang="sw" state="final">Kamusi ya Picha</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.BookName.Sign Language" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.BookName.Sign Language" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sign Language</source>
         <note>ID: TemplateBooks.BookName.Sign Language</note>
-        <target xml:lang="sw" state="translated">Lugha ya Ishara</target>
+        <target xml:lang="sw" state="final">Lugha ya Ishara</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.BookName.Special" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.BookName.Special" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Special</source>
         <note>ID: TemplateBooks.BookName.Special</note>
-        <target xml:lang="sw" state="translated">Maalum</target>
+        <target xml:lang="sw" state="final">Maalum</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.BookName.Template Starter" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.BookName.Template Starter" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Template Starter</source>
         <note>ID: TemplateBooks.BookName.Template Starter</note>
-        <target xml:lang="sw" state="translated">Kianzishi cha Kiolezi</target>
+        <target xml:lang="sw" state="final">Kianzishi cha Kiolezi</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.BookName.The Moon and the Cap" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.BookName.The Moon and the Cap" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The Moon and the Cap</source>
         <note>ID: TemplateBooks.BookName.The Moon and the Cap</note>
-        <target xml:lang="sw" state="translated">Mwezi na Kofia</target>
+        <target xml:lang="sw" state="final">Mwezi na Kofia</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Vaccinations" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Vaccinations</source>
@@ -5975,17 +5975,17 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageDescription.Bloom Reader Quiz" sil:dynamic="true">
         <source xml:lang="en">Use for comprehension testing on devices.</source>
         <note>ID: TemplateBooks.PageDescription.Bloom Reader Quiz</note>
-        <target xml:lang="sw" state="translated">Tumia kwa kupima ufahamu kwenye vifaa.</target>
+        <target xml:lang="sw" state="translated">Tumia kwa upimaji wa ufahamu kwenye vifaa.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Custom" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A blank page that allows you to add items.</source>
         <note>ID: TemplateBooks.PageDescription.Custom</note>
         <target xml:lang="sw" state="final">Ukurasa ulio mtupu unaokuruhusu kuongeza vipengee.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageDescription.Flyleaf" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageDescription.Flyleaf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This page was automatically inserted because the following page is marked as part of a two page spread.</source>
         <note>ID: TemplateBooks.PageDescription.Flyleaf</note>
-        <target xml:lang="sw" state="translated">Ukurasa huu uliingizwa kiotomatiki kwa sababu ukurasa ufuatao umewekwa alama kama sehemu ya kuenea kwa kurasa mbili.</target>
+        <target xml:lang="sw" state="final">Ukurasa huu uliingizwa kiotomatiki kwa sababu ukurasa ufuatao umewekwa alama kama sehemu ya kuenea kwa kurasa mbili.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Picture &amp; Word" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Page with a picture on top and a large, centered word below.</source>
@@ -5996,12 +5996,12 @@ Do you want to go ahead?</note>
         <source xml:lang="en">For use with Landscape orientation.</source>
         <note>ID: TemplateBooks.PageDescription.Picture on Left</note>
         <note>New string in Bloom 4.2</note>
-        <target xml:lang="sw" state="translated">Kwa matumizi na mwelekeo wa Kurasa mlalo.</target>
+        <target xml:lang="sw" state="translated">Kwa matumizi na mwelekeo wa ukurasa mlalo.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Quiz Page" sil:dynamic="true">
         <source xml:lang="en">An interactive page with a question and some answers. Works on the web and Bloom Reader. When used with Bloom Reader, your project's dashboard can show aggregated comprehension scores.</source>
         <note>ID: TemplateBooks.PageDescription.Quiz Page</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako unaweza kuonyesha alama za jumla za ufahamu.</target>
+        <target xml:lang="sw" state="translated">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako inaweza kuonyesha alama za jumla za ufahamu.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Translation Instructions" sil:dynamic="true">
         <source xml:lang="en">A page of instructions to translators which appears only in the Edit tab.</source>
