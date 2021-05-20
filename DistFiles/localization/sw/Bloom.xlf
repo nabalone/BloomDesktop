@@ -4646,11 +4646,11 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Publish</note>
         <target xml:lang="sw" state="final">Chapisha</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Save" sil:dynamic="true">
+      <trans-unit id="PublishTab.Save" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Save...</source>
         <note>ID: PublishTab.Save</note>
         <note>Button that tells Bloom to save the book in the current format.</note>
-        <target xml:lang="sw" state="translated">Hifadhi...</target>
+        <target xml:lang="sw" state="final">Hifadhi...</target>
       </trans-unit>
       <trans-unit id="PublishTab.SaveButton" approved="yes">
         <source xml:lang="en">&amp;Save PDF...</source>
@@ -4662,10 +4662,10 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.SaveEpub</note>
         <target xml:lang="sw" state="final">U&amp;hifadhi ePUB...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.AccessibleToBlind">
+      <trans-unit id="PublishTab.Upload.AccessibleToBlind" approved="yes">
         <source xml:lang="en">Accessible to the Blind</source>
         <note>ID: PublishTab.Upload.AccessibleToBlind</note>
-        <target xml:lang="sw" state="translated">Inapatika kwa wasioona</target>
+        <target xml:lang="sw" state="final">Inapatika kwa wasioona</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Acknowledgments" approved="yes">
         <source xml:lang="en">Acknowledgments</source>
@@ -4682,15 +4682,15 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Upload.AllReserved</note>
         <target xml:lang="sw" state="final">Haki zote zimehifadhiwa (Wasiliana na anayemiliki haki ili kupata Idhini yoyote.)</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.BackgroundMusic">
+      <trans-unit id="PublishTab.Upload.BackgroundMusic" approved="yes">
         <source xml:lang="en">Background Music</source>
         <note>ID: PublishTab.Upload.BackgroundMusic</note>
-        <target xml:lang="sw" state="translated">Muziki wa nyuma</target>
+        <target xml:lang="sw" state="final">Muziki wa nyuma</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.Cancelled">
+      <trans-unit id="PublishTab.Upload.Cancelled" approved="yes">
         <source xml:lang="en">Upload was cancelled</source>
         <note>ID: PublishTab.Upload.Cancelled</note>
-        <target xml:lang="sw" state="translated">Upakiaji ulighairiwa</target>
+        <target xml:lang="sw" state="final">Upakiaji ulighairiwa</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.CheckEmail">
         <source xml:lang="en">Please check your email and click on the link there, then sign in again.</source>
