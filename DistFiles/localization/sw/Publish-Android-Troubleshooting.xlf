@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="android.publish.usb.automatic">
         <source xml:lang="en">When using this method, you do not have to go into any special mode to receive books. Just run Bloom Reader. Books should automatically appear when they are transferred.</source>
-        <target xml:lang="sw" state="translated">Unapotumia njia hii, sio lazima uingie katika hali yoyote maalum ya kupokea vitabu. Endesha tu Bloom Reader. Vitabu vinapaswa kuonekana moja kwa moja wakati vinahamishwa.</target>
+        <target xml:lang="sw" state="translated">Unapotumia njia hii, huhitaji kuingia katika mbinu yoyote maalum ya kupokea vitabu. Endesha tu Bloom Reader. Vitabu vinastahili kuonekana kiotomatiki wakati vinahamishwa.</target>
         <note>ID: android.publish.usb.automatic</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.uses.mtp">
