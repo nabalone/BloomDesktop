@@ -2022,10 +2022,10 @@
         <note>ID: EditTab.Image.MissingInfo</note>
         <target xml:lang="sw" state="translated">Picha inakosa habari kwenye Sifa, Hakimiliki, au Leseni</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.PasteImage" sil:dynamic="true" approved="yes">
+      <trans-unit id="EditTab.Image.PasteImage" sil:dynamic="true">
         <source xml:lang="en">Paste Image</source>
         <note>ID: EditTab.Image.PasteImage</note>
-        <target xml:lang="sw" state="final">Weka Picha</target>
+        <target xml:lang="sw" state="translated">Bandika Picha</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true">
         <source xml:lang="en">Bloom ran out of memory loading this image ({0}), which is quite large ({1} by {2} pixels). Click Help for suggestions.</source>
@@ -2050,7 +2050,7 @@
       <trans-unit id="EditTab.JpegWarningDialog.Photograph" approved="yes">
         <source xml:lang="en">Use the JPEG file</source>
         <note>ID: EditTab.JpegWarningDialog.Photograph</note>
-        <target xml:lang="sw" state="final">Tumia JPEG Jalada</target>
+        <target xml:lang="sw" state="final">Tumia faili ya JPEG</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.WarningText" approved="yes">
         <source xml:lang="en">The file you’ve chosen is a “JPEG” file. JPEG files are perfect for photographs and color artwork. However, JPEG files are a big problem for black and white line art. Problems include:\n• Fuzziness and grey dots.\n• Large file sizes, making the book hard to share.\n• If there are many large JPEGs, Bloom may not have enough memory to make PDF files.\n\nNote: Because JPEG is “lossy”, converting a JPEG to PNG, TIFF, or BMP actually makes things even worse. If this is black and white line art, you want to get an original scan in one of those formats.\n\nPlease select from one of the following, then click “OK”:</source>
@@ -2128,20 +2128,20 @@
         <note>ID: EditTab.PageList.Heading</note>
         <target xml:lang="sw" state="final">Kurasa</target>
       </trans-unit>
-      <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip" approved="yes">
+      <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip">
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: EditTab.PageSizeAndOrientation.Tooltip</note>
-        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na maelekezo</target>
+        <target xml:lang="sw" state="translated">Chagua ukubwa wa ukurasa na mwelekeo</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton" approved="yes">
         <source xml:lang="en">Paste</source>
         <note>ID: EditTab.PasteButton</note>
-        <target xml:lang="sw" state="final">Weka baada ya kunakili</target>
+        <target xml:lang="sw" state="final">Bandika</target>
       </trans-unit>
-      <trans-unit id="EditTab.PasteButton.ToolTip" approved="yes">
+      <trans-unit id="EditTab.PasteButton.ToolTip">
         <source xml:lang="en">Paste (Ctrl+V)</source>
         <note>ID: EditTab.PasteButton.ToolTip</note>
-        <target xml:lang="sw" state="final">Weka baada ya kunakili(Ctrl+V)</target>
+        <target xml:lang="sw" state="translated">Bandika (Ctrl+V)</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton.ToolTipWhenDisabled" approved="yes">
         <source xml:lang="en">There is nothing on the Clipboard that you can paste here.</source>
