@@ -4695,17 +4695,17 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.CheckEmail">
         <source xml:lang="en">Please check your email and click on the link there, then sign in again.</source>
         <note>ID: PublishTab.Upload.CheckEmail</note>
-        <target xml:lang="sw" state="translated">Tafadhali angalia barua pepe yako na bonyeza kwenye kiunga hapo, kisha ingia tena.</target>
+        <target xml:lang="sw" state="translated">Tafadhali angalia barua pepe yako na bonyeza hapo kwenye kiungo, kisha ingia tena.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.CcLink">
+      <trans-unit id="PublishTab.Upload.CcLink" approved="yes">
         <source xml:lang="en">CC-BY-NC</source>
         <note>ID: PublishTab.Upload.CcLink</note>
-        <target xml:lang="sw" state="translated">CC-BY-NC</target>
+        <target xml:lang="sw" state="final">CC-BY-NC</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.ChooseSignLanguageWarning">
+      <trans-unit id="PublishTab.Upload.ChooseSignLanguageWarning" approved="yes">
         <source xml:lang="en">Please choose the sign language for this book</source>
         <note>ID: PublishTab.Upload.ChooseSignLanguageWarning</note>
-        <target xml:lang="sw" state="translated">Tafadhali chagua lugha ya ishara kwa kitabu hiki</target>
+        <target xml:lang="sw" state="final">Tafadhali chagua lugha ya ishara ya kitabu hiki</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.ConfirmReplaceExisting" approved="yes">
         <source xml:lang="en">BloomLibrary.org already has a previous version of this book from you.  If you upload it again, it will be replaced with your current version.</source>
@@ -4728,10 +4728,10 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Upload.ErrorUploading</note>
         <target xml:lang="sw" state="final">Samahani, kulikuwa na tatizo katika kuweka {0}. Baadhi ya maelezo yanafuata. Unaweza kuhitaji usaidizi wa kiufundi.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.Features">
+      <trans-unit id="PublishTab.Upload.Features" approved="yes">
         <source xml:lang="en">Features</source>
         <note>ID: PublishTab.Upload.Features</note>
-        <target xml:lang="sw" state="translated">Vipengele</target>
+        <target xml:lang="sw" state="final">Vipengele</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.FieldsNeedAttention" approved="yes">
         <source xml:lang="en">One or more fields above need your attention before uploading.</source>
@@ -4753,15 +4753,15 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Upload.GenericUploadProblemNotice</note>
         <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kuweka kitabu chako.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.GiveBack">
+      <trans-unit id="PublishTab.Upload.GiveBack" approved="yes">
         <source xml:lang="en">It’s easy to “give back”</source>
         <note>ID: PublishTab.Upload.GiveBack</note>
-        <target xml:lang="sw" state="translated">Ni rahisi "kurudisha"</target>
+        <target xml:lang="sw" state="final">Ni rahisi "kurudisha"</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.HelpEachOther">
         <source xml:lang="en">In the Bloom community, we help each other by sharing both new and newly translated books on the Bloom Library.</source>
         <note>ID: PublishTab.Upload.HelpEachOther</note>
-        <target xml:lang="sw" state="translated">Katika jamii ya Bloom, tunasaidiana kwa kushiriki vitabu vipya na vipya vilivyotafsiriwa kwenye Maktaba ya Bloom.</target>
+        <target xml:lang="sw" state="translated">Katika jamii ya Bloom, tunasaidiana kwa kushiriki vitabu vipya na pia vitabu vipya vilivyotafsiriwa kwenye Maktaba ya Bloom.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.IncompleteTranslation" approved="yes">
         <source xml:lang="en">(incomplete translation)</source>
