@@ -3743,10 +3743,10 @@
         <note>ID: NewCollectionWizard.ProjectName</note>
         <target xml:lang="sw" state="final">Jina la Mradi</target>
       </trans-unit>
-      <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName" approved="yes">
+      <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName">
         <source xml:lang="en">Unable to create a new collection using that name.</source>
         <note>ID: NewCollectionWizard.UnableToCreateANewCollectionUsingThatName</note>
-        <target xml:lang="sw" state="final">Imeshindwa kutengeneza jina la mkusanyiko.</target>
+        <target xml:lang="sw" state="translated">Imeshindwa kutengeneza mkusanyiko mpya kwa kutumia jina hilo.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.WelcomePage" approved="yes">
         <source xml:lang="en">Welcome To Bloom!</source>
