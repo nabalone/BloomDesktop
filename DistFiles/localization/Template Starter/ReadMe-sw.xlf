@@ -73,17 +73,17 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
       </trans-unit>
       <trans-unit id="template.starter.share.publish">
         <source xml:lang="en">Remember that Bloom is about planting seeds, about sharing. So plan to share your template on the BloomLibrary for people around the world to find. This takes just a few clicks in the Publish Tab.</source>
-        <target xml:lang="sw" state="translated">Kumbuka kwamba Bloom ni juu ya kupanda mbegu, juu ya kushiriki. Kwa hivyo panga kushiriki kiolezo chako kwenye BloomLibrary kwa watu kote ulimwenguni kupata. Hii inachukua mibofyo michache tu kwenye Kichupo cha Chapisha.</target>
+        <target xml:lang="sw" state="translated">Kumbuka kwamba Bloom inahusu kupanda mbegu, kuhusu kushiriki. Kwa hivyo panga kushiriki kiolezo chako kwenye BloomLibrary ili watu walioko ulimwenguni kote wapate. Hili huchukua mibofyo michache tu kwenye Kichupo cha Chapisha.</target>
         <note>ID: template.starter.share.publish</note>
       </trans-unit>
       <trans-unit id="template.starter.share.bloompack">
         <source xml:lang="en">For local colleagues, an easy way to distribute your template is via a Bloom Pack. In the collections tab, right-click on your template's thumbnail. Choose 'Make Bloom Pack'. Save that somewhere, for example to a USB Key. Then take it to another computer, double click on the file you made, and your template will be added to the "Sources for New Books" on that computer.</source>
-        <target xml:lang="sw" state="translated">Kwa wenzako wa hapa, njia rahisi ya kusambaza kiolezi chako ni kupitia Kifurushi cha Bloom. Katika kichupo cha makusanyo, bonyeza-kulia kwenye kijipicha cha kiolezi chako. Chagua 'Tengeneza Kifurushi cha Bloom'. Hifadhi hiyo mahali pengine, kwa mfano kwenya USB. Kisha upeleke kwenye kompyuta nyingine, bonyeza mara mbili kwenye faili uliyotengeneza, na templeti yako itaongezwa kwenye "Vyanzo vya Vitabu vipya" kwenye kompyuta hiyo.</target>
+        <target xml:lang="sw" state="translated">Kwa wenzako wa hapa, njia rahisi ya kusambaza kiolezo chako ni kupitia Kifurushi cha Bloom. Katika kichupo cha makusanyo, bonyeza-kulia kwenye kijipicha cha kiolezo chako. Chagua 'Tengeneza Kifurushi cha Bloom'. Hifadhi hilo mahali pengine, kwa mfano kwenye ufunguo wa USB. Kisha upeleke kwenye kompyuta nyingine, bonyeza mara mbili kwenye faili uliyotengeneza, na kiolezo chako kitaongezwa kwenye "Vyanzo vya Vitabu Vipya" kwenye kompyuta hiyo.</target>
         <note>ID: template.starter.share.bloompack</note>
       </trans-unit>
-      <trans-unit id="template.starter.notes">
+      <trans-unit id="template.starter.notes" approved="yes">
         <source xml:lang="en">Notes</source>
-        <target xml:lang="sw" state="translated">Maelezo</target>
+        <target xml:lang="sw" state="final">Maelezo</target>
         <note>ID: template.starter.notes</note>
       </trans-unit>
       <trans-unit id="template.starter.nothingautomatic">
