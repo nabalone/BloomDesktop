@@ -4967,7 +4967,7 @@ kisomaji cha ePUB</target>
         <note xml:lang="en">OLD TEXT (before 4.0, mark newlines properly): This book seems to be a template, that is, it contains blank pages for authoring a new book rather than content to translate into other languages. If that is not what you intended, you should get expert help before uploading this book.
 
 Do you want to go ahead?</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kinaonekana kuwa kiolezo, ambayo ni kwamba, ina kurasa tupu za kuandikia kitabu kipya badala ya yaliyomo kutafsiri katika lugha zingine. Ikiwa haukukusudia hivyo, unapaswa kupata msaada wa wataalam kabla ya kupakia kitabu hiki. \n\nJe, unataka kuendelea?</target>
+        <target xml:lang="sw" state="translated">Kitabu hiki kinaonekana kuwa kiolezo, ya kwamba, kina kurasa tupu za kuandikia kitabu kipya badala ya yale yaliyomo kutafsiriwa katika lugha zingine. Ikiwa haukukusudia hivyo, unapaswa kupata msaada wa wataalam kabla ya kupakia kitabu hiki. \n\nJe, unataka kuendelea?</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.TermsLink" approved="yes">
         <source xml:lang="en">Show Terms of Use</source>
@@ -4984,10 +4984,10 @@ Do you want to go ahead?</note>
         <note>ID: PublishTab.Upload.Title</note>
         <target xml:lang="sw" state="final">Mada</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.UploadAudio">
+      <trans-unit id="PublishTab.Upload.UploadAudio" approved="yes">
         <source xml:lang="en">Upload Audio</source>
         <note>ID: PublishTab.Upload.UploadAudio</note>
-        <target xml:lang="sw" state="translated">Pakia Sauti</target>
+        <target xml:lang="sw" state="final">Pakia Sauti</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadButton" approved="yes">
         <source xml:lang="en">Upload Book</source>
@@ -5026,11 +5026,11 @@ Do you want to go ahead?</note>
         <note>ID: PublishTab.Upload.UploadingStatus</note>
         <target xml:lang="sw" state="final">Kuweka {0}</target>
       </trans-unit>
-      <trans-unit id="Quiz.CheckYourUnderstanding" sil:dynamic="true">
+      <trans-unit id="Quiz.CheckYourUnderstanding" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Check Your Understanding</source>
         <note>ID: Quiz.CheckYourUnderstanding</note>
         <note>This string is intentionally duplicated in Bloom Reader's translation file</note>
-        <target xml:lang="sw" state="translated">Angalia Uelewa Wako</target>
+        <target xml:lang="sw" state="final">Angalia Uelewa Wako</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.AddLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Level</source>
@@ -5057,10 +5057,10 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.AllowedWordsFileHeader</note>
         <target xml:lang="sw" state="final">Faili za maneno zinazokubaliwa</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.AverageHeader" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.AverageHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Avg</source>
         <note>ID: ReaderSetup.AverageHeader</note>
-        <target xml:lang="sw" state="translated">Wastani</target>
+        <target xml:lang="sw" state="final">Wastani</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.BookHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Book</source>
@@ -5071,7 +5071,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Per **Book**</source>
         <note>ID: ReaderSetup.BookMaxWords2</note>
         <note>follows headings "maximum" and "words" to convey "maximum words per book. Surround text that should be bold in double asterisks.</note>
-        <target xml:lang="sw" state="translated">Kwa <g id="bmw-1" ctype="x-html-strong">Kitabu</g></target>
+        <target xml:lang="sw" state="translated">Kwa **Kitabu**</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.ChooseAllowedWordsFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose...</source>
@@ -5134,15 +5134,15 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.Letters.LetterHelp2</note>
         <target xml:lang="sw" state="final">Tambua kuwa orodha ya kiingereza inajumuisha alama zinazotumiwa kutengeneza maneno, kama ' katika </target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.Letters.LetterHelp3" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.Letters.LetterHelp3" sil:dynamic="true" approved="yes">
         <source xml:lang="en">it's</source>
         <note>ID: ReaderSetup.Letters.LetterHelp3</note>
-        <target xml:lang="sw" state="translated">ni</target>
+        <target xml:lang="sw" state="final">ni</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.Letters.LetterHelp4" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.Letters.LetterHelp4" sil:dynamic="true" approved="yes">
         <source xml:lang="en">.</source>
         <note>ID: ReaderSetup.Letters.LetterHelp4</note>
-        <target xml:lang="sw" state="translated">.</target>
+        <target xml:lang="sw" state="final">.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.Letters.LetterHelp5" sil:dynamic="true">
         <source xml:lang="en">Do not include punctuation in this list. Bloom does not support the inclusion of punctuation in decodable stages.</source>
