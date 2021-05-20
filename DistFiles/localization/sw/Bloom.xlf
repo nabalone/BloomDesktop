@@ -970,10 +970,10 @@
         <note>ID: CollectionTab.SourcesForNewShellsHeading</note>
         <target xml:lang="sw" state="final">Vyanzo Vya Sheli Mpya</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.Templates" sil:dynamic="true" approved="yes">
+      <trans-unit id="CollectionTab.Templates" sil:dynamic="true">
         <source xml:lang="en">Templates</source>
         <note>ID: CollectionTab.Templates</note>
-        <target xml:lang="sw" state="final">Vielelezo</target>
+        <target xml:lang="sw" state="translated">Violezo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.TitleMissing" approved="yes">
         <source xml:lang="en">Title Missing</source>
@@ -1024,12 +1024,12 @@
       <trans-unit id="CollectionTab.UpdateNow" approved="yes">
         <source xml:lang="en">Update Now</source>
         <note>ID: CollectionTab.UpdateNow</note>
-        <target xml:lang="sw" state="final">Fanya maboresho upya Sasa</target>
+        <target xml:lang="sw" state="final">Sasisha Sasa</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdatesAvailable" approved="yes">
         <source xml:lang="en">A new version of Bloom is available.</source>
         <note>ID: CollectionTab.UpdatesAvailable</note>
-        <target xml:lang="sw" state="final">Tafsiri mpya ya Bloom inapatikana.</target>
+        <target xml:lang="sw" state="final">Toleo jipya la Bloom linapatikana.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Updating" approved="yes">
         <source xml:lang="en">Downloading update to {0} ({1}K)</source>
