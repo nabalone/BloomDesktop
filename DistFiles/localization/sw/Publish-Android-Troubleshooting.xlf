@@ -61,12 +61,12 @@
       </trans-unit>
       <trans-unit id="android.publish.usb.uses.mtp">
         <source xml:lang="en">Some Android devices have multiple modes they can be in when connected to a computer. Some will ask you as soon as you connect the cable to the computer. Bloom will be trying to talk to the device using a protocol called "MTP". If you're not sure that your device is connecting using MTP, try googling the name of your device + "MTP".</source>
-        <target xml:lang="sw" state="translated">Vifaa vingine vya Android vina njia nyingi ambazo vinaweza kuwa wakati wa kuunganishwa na kompyuta. Wengine watakuuliza mara tu utakapounganisha kebo kwenye kompyuta. Bloom itajaribu kuzungumza na kifaa kwa kutumia itifaki inayoitwa "MTP". Ikiwa hauna hakika kuwa kifaa chako kinaunganisha kwa kutumia MTP, jaribu kutafuta jina la kifaa chako + "MTP".</target>
+        <target xml:lang="sw" state="translated">Vifaa vingine vya Android vina njia nyingi ambazo zinaweza kuwa wakati wa vimeunganishwa na kompyuta. Vingine vitakuuliza mara tu unapounganisha kebo kwenye kompyuta. Bloom itajaribu kuzungumza na kifaa kwa kutumia itifaki inayoitwa "MTP". Ikiwa hauna hakika kuwa kifaa chako kinaunganisha kwa kutumia MTP, jaribu kutafuta jina la kifaa chako + "MTP".</target>
         <note>ID: android.publish.usb.uses.mtp</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.windows">
         <source xml:lang="en">The device should be showing up in Windows File Explorer (this feature is Windows-only)</source>
-        <target xml:lang="sw" state="translated">Kifaa kinapaswa kuonekana kwenye Windows File Explorer (huduma hii ni Windows tu)</target>
+        <target xml:lang="sw" state="translated">Kifaa kinastahili kuonekana kwenye Windows File Explorer (kipengele hiki ni Windows tu)</target>
         <note>ID: android.publish.usb.windows</note>
       </trans-unit>
       <trans-unit id="android.publish.usb.cable.or.port">
