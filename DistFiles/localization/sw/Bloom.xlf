@@ -6345,22 +6345,22 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true">
         <source xml:lang="en">SIL-Cameroon</source>
         <note>ID: TemplateBooks.PageLabel.SIL-Cameroon</note>
-        <target xml:lang="sw" state="translated">SIL Cameroon</target>
+        <target xml:lang="sw" state="translated">SIL-Kamerun</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Super Paper Saver" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Super Paper Saver</source>
         <note>ID: TemplateBooks.PageLabel.Super Paper Saver</note>
         <target xml:lang="sw" state="final">Kihifadhi Karatasi kilicho Bora zaidi</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Text Over Video" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Text Over Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Over Video</source>
         <note>ID: TemplateBooks.PageLabel.Text Over Video</note>
-        <target xml:lang="sw" state="translated">Maandishi juu ya Video</target>
+        <target xml:lang="sw" state="final">Maandishi juu ya Video</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.The End" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.The End" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The End</source>
         <note>ID: TemplateBooks.PageLabel.The End</note>
-        <target xml:lang="sw" state="translated">Mwisho</target>
+        <target xml:lang="sw" state="final">Mwisho</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.This Page Is Intentionally Blank" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This Page Is Intentionally Blank</source>
@@ -6377,16 +6377,16 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Traditional</note>
         <target xml:lang="sw" state="final">Jadi</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Translation Instructions" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Translation Instructions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Translation Instructions</source>
         <note>ID: TemplateBooks.PageLabel.Translation Instructions</note>
         <note>This page type only shows in Edit Mode to give instructions to translators. It does not print.</note>
-        <target xml:lang="sw" state="translated">Maagizo ya Tafsiri</target>
+        <target xml:lang="sw" state="final">Maagizo ya Tafsiri</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Video Over Text" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Video Over Text" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Video Over Text</source>
         <note>ID: TemplateBooks.PageLabel.Video Over Text</note>
-        <target xml:lang="sw" state="translated">Video juu ya maandishi</target>
+        <target xml:lang="sw" state="final">Video juu ya maandishi</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.Wall Calendar.TitleOfSetupDialog" approved="yes">
         <source xml:lang="en">Setup</source>
@@ -6394,15 +6394,15 @@ Do you want to go ahead?</note>
         <note>This is the dialog used to set up the wall calendar</note>
         <target xml:lang="sw" state="final">Pangilia</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.Quiz.HintBubble.Answer" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.Quiz.HintBubble.Answer" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Put a possible answer here. Check it if it is correct.</source>
         <note>ID: TemplateBooks.Quiz.HintBubble.Answer</note>
-        <target xml:lang="sw" state="translated">Weka jibu linalowezekana hapa. Liangalie ikiwa ni sahihi.</target>
+        <target xml:lang="sw" state="final">Weka jibu linalowezekana hapa. Liangalie ikiwa ni sahihi.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.Quiz.HintBubble.Question" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.Quiz.HintBubble.Question" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Put a comprehension question here</source>
         <note>ID: TemplateBooks.Quiz.HintBubble.Question</note>
-        <target xml:lang="sw" state="translated">Weka swali la ufahamu hapa</target>
+        <target xml:lang="sw" state="final">Weka swali la ufahamu hapa</target>
       </trans-unit>
       <trans-unit id="Topics.Agriculture" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Agriculture</source>
@@ -6518,22 +6518,22 @@ Do you want to go ahead?</note>
         <note>shows in the topics chooser in the edit tab</note>
         <target xml:lang="sw" state="final">Hadithi za Kitamaduni</target>
       </trans-unit>
-      <trans-unit id="Warning">
+      <trans-unit id="Warning" approved="yes">
         <source xml:lang="en">Warning</source>
         <note>ID: Warning</note>
-        <target xml:lang="sw" state="translated">Onyo</target>
+        <target xml:lang="sw" state="final">Onyo</target>
       </trans-unit>
-      <trans-unit id="WebServer.Warning.NoFile">
+      <trans-unit id="WebServer.Warning.NoFile" approved="yes">
         <source xml:lang="en">Cannot Find File</source>
         <note>ID: WebServer.Warning.NoFile</note>
         <note>displays as a "toast"</note>
-        <target xml:lang="sw" state="translated">Faili haipatikani</target>
+        <target xml:lang="sw" state="final">Faili haipatikani</target>
       </trans-unit>
-      <trans-unit id="WebServer.Warning.NoImageFile">
+      <trans-unit id="WebServer.Warning.NoImageFile" approved="yes">
         <source xml:lang="en">Cannot Find Image File</source>
         <note>ID: WebServer.Warning.NoImageFile</note>
         <note>displays as a "toast"</note>
-        <target xml:lang="sw" state="translated">Haiwezi kupata faili ya picha</target>
+        <target xml:lang="sw" state="final">Haiwezi kupata faili ya picha</target>
       </trans-unit>
     </body>
   </file>
