@@ -5147,18 +5147,18 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.Letters.LetterHelp5" sil:dynamic="true">
         <source xml:lang="en">Do not include punctuation in this list. Bloom does not support the inclusion of punctuation in decodable stages.</source>
         <note>ID: ReaderSetup.Letters.LetterHelp5</note>
-        <target xml:lang="sw" state="translated">Usijumuishe alama ya kituo katika orodha hii. Bloom haiungi mkono ujumuishaji wa alama y akituo katika hatua zinazoweza kutolewa.</target>
+        <target xml:lang="sw" state="translated">Usiweke uakifishaji katika orodha hii. Bloom haiungi mkono ujumuishaji wa uakifishaji katika hatua zinazoweza kutolewa.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.LevelHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level</source>
         <note>ID: ReaderSetup.LevelHeader</note>
         <target xml:lang="sw" state="final">Hatua</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.LevelLabelMax" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.LevelLabelMax" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level {0} Maximums</source>
         <note>ID: ReaderSetup.LevelLabelMax</note>
         <note xml:lang="en">{0} is a number. A heading for several items each of which specfies a maximum for a different quantity for a reader of the level specified by the number.</note>
-        <target xml:lang="sw" state="translated">Kiwango {0} Upeo</target>
+        <target xml:lang="sw" state="final">Kiwango {0} Upeo</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.Levels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Reader Levels</source>
@@ -5174,16 +5174,14 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Average per Word in **Book**</source>
         <note>ID: ReaderSetup.MaxAverageGlyphsPerWord</note>
         <note>follows headings like "Level 1 Maximum" and "Letters". Should combine with those to convey "Maximum letters in any word". Surround text that should be bold in double asterisks.</note>
-        <target xml:lang="sw" state="translated">
-Wastani kwa kila Neno katika<g id="magpw-1" ctype="x-html-strong">kitabu</g>
-        </target>
+        <target xml:lang="sw" state="translated">Wastani kwa kila Neno katika **Kitabu**</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MaxAverageWords" sil:dynamic="true">
         <source xml:lang="en">Average per **Sentence** in **Book**</source>
         <note>ID: ReaderSetup.MaxAverageWords</note>
         <note>Prior to 4.9, was "Maximum Average Length of Sentences in Book"</note>
         <note>follows headings like "Level 1 Maximum" and "Words". Should combine with those to convey "Maximum averate sentence length in book". Surround text that should be bold in double asterisks.</note>
-        <target xml:lang="sw" state="translated">Urefu wa wastani wa juu zaidi wa sentensi katika kitabu</target>
+        <target xml:lang="sw" state="translated">Wastani kwa **Sentensi** katika **Kitabu**</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MaxAverageWordsPerPage" sil:dynamic="true">
         <source xml:lang="en">
