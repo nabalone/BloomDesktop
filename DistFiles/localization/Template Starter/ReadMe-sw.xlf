@@ -103,7 +103,7 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
       </trans-unit>
       <trans-unit id="template.starter.editrawhtml">
         <source xml:lang="en"><g id="genid-14" ctype="x-html-a" html:id="note4">4</g>: If you want the Add Page screen to also provide a short description of the page, you'll need to quit Bloom and edit the template's html in Notepad, like this: <x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></source>
-        <target xml:lang="sw" state="translated"><g id="genid-14" ctype="x-html-a" html:id="note4"> Ikiwa unataka skrini ya Ongeza ukurasa pia itoe maelezo mafupi ya ukurasa, utahitaji kuacha Bloom na kuhariri html ya kiolezi kwenye Notepad, kama hii:<x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></target>
+        <target xml:lang="sw" state="translated"><g id="genid-14" ctype="x-html-a" html:id="note4"> Ikiwa unataka skrini ya Ongeza Ukurasa pia itoe maelezo mafupi ya ukurasa, utahitaji kuacha Bloom na kuhariri html ya kiolezo kwenye Notepad, kama hii:<x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></target>
         <note>ID: template.starter.editrawhtml</note>
       </trans-unit>
     </body>
