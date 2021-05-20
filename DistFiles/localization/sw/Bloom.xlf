@@ -6003,15 +6003,15 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageDescription.Quiz Page</note>
         <target xml:lang="sw" state="translated">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako inaweza kuonyesha alama za jumla za ufahamu.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageDescription.Translation Instructions" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageDescription.Translation Instructions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A page of instructions to translators which appears only in the Edit tab.</source>
         <note>ID: TemplateBooks.PageDescription.Translation Instructions</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa maagizo kwa watafsiri ambao unaonekana tu kwenye kichupo cha Hariri.</target>
+        <target xml:lang="sw" state="final">Ukurasa wa maagizo kwa watafsiri ambao unaonekana tu kwenye kichupo cha Hariri.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.1" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">1</source>
         <note>ID: TemplateBooks.PageLabel.1</note>
-        <target xml:lang="sw" state="translated">1</target>
+        <target xml:lang="sw" state="final">1</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.1 Problem" sil:dynamic="true" approved="yes">
         <source xml:lang="en">1 Problem</source>
@@ -6019,60 +6019,60 @@ Do you want to go ahead?</note>
         <note>This label indicates a page with one arithmetic problem on it.</note>
         <target xml:lang="sw" state="final">Tatizo 1</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.10" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.10" sil:dynamic="true" approved="yes">
         <source xml:lang="en">10</source>
         <note>ID: TemplateBooks.PageLabel.10</note>
-        <target xml:lang="sw" state="translated">10</target>
+        <target xml:lang="sw" state="final">10</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.11" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.11" sil:dynamic="true" approved="yes">
         <source xml:lang="en">11</source>
         <note>ID: TemplateBooks.PageLabel.11</note>
-        <target xml:lang="sw" state="translated">11</target>
+        <target xml:lang="sw" state="final">11</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.12" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.12" sil:dynamic="true" approved="yes">
         <source xml:lang="en">12</source>
         <note>ID: TemplateBooks.PageLabel.12</note>
-        <target xml:lang="sw" state="translated">12</target>
+        <target xml:lang="sw" state="final">12</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.13" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.13" sil:dynamic="true" approved="yes">
         <source xml:lang="en">13</source>
         <note>ID: TemplateBooks.PageLabel.13</note>
-        <target xml:lang="sw" state="translated">13</target>
+        <target xml:lang="sw" state="final">13</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.14" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.14" sil:dynamic="true" approved="yes">
         <source xml:lang="en">14</source>
         <note>ID: TemplateBooks.PageLabel.14</note>
-        <target xml:lang="sw" state="translated">14</target>
+        <target xml:lang="sw" state="final">14</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.15" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.15" sil:dynamic="true" approved="yes">
         <source xml:lang="en">15</source>
         <note>ID: TemplateBooks.PageLabel.15</note>
-        <target xml:lang="sw" state="translated">15</target>
+        <target xml:lang="sw" state="final">15</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.16" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.16" sil:dynamic="true" approved="yes">
         <source xml:lang="en">16</source>
         <note>ID: TemplateBooks.PageLabel.16</note>
-        <target xml:lang="sw" state="translated">16</target>
+        <target xml:lang="sw" state="final">16</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.17" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.17" sil:dynamic="true" approved="yes">
         <source xml:lang="en">17</source>
         <note>ID: TemplateBooks.PageLabel.17</note>
-        <target xml:lang="sw" state="translated">17</target>
+        <target xml:lang="sw" state="final">17</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.18" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.18" sil:dynamic="true" approved="yes">
         <source xml:lang="en">18</source>
         <note>ID: TemplateBooks.PageLabel.18</note>
-        <target xml:lang="sw" state="translated">18</target>
+        <target xml:lang="sw" state="final">18</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.19" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.19" sil:dynamic="true" approved="yes">
         <source xml:lang="en">19</source>
         <note>ID: TemplateBooks.PageLabel.19</note>
-        <target xml:lang="sw" state="translated">19</target>
+        <target xml:lang="sw" state="final">19</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.2" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">2</source>
         <note>ID: TemplateBooks.PageLabel.2</note>
-        <target xml:lang="sw" state="translated">2</target>
+        <target xml:lang="sw" state="final">2</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.2 Problems" sil:dynamic="true" approved="yes">
         <source xml:lang="en">2 Problems</source>
@@ -6080,20 +6080,20 @@ Do you want to go ahead?</note>
         <note>This label indicates a page with two arithmetic problems on it.</note>
         <target xml:lang="sw" state="final">Matatizo 2</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.20" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.20" sil:dynamic="true" approved="yes">
         <source xml:lang="en">20</source>
         <note>ID: TemplateBooks.PageLabel.20</note>
-        <target xml:lang="sw" state="translated">20</target>
+        <target xml:lang="sw" state="final">20</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.21" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.21" sil:dynamic="true" approved="yes">
         <source xml:lang="en">21</source>
         <note>ID: TemplateBooks.PageLabel.21</note>
-        <target xml:lang="sw" state="translated">21</target>
+        <target xml:lang="sw" state="final">21</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.3" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.3" sil:dynamic="true" approved="yes">
         <source xml:lang="en">3</source>
         <note>ID: TemplateBooks.PageLabel.3</note>
-        <target xml:lang="sw" state="translated">3</target>
+        <target xml:lang="sw" state="final">3</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.3 Problems" sil:dynamic="true" approved="yes">
         <source xml:lang="en">3 Problems</source>
@@ -6101,10 +6101,10 @@ Do you want to go ahead?</note>
         <note>This label indicates a page with three arithmetic problems on it.</note>
         <target xml:lang="sw" state="final">Matatizo 3</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.4" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.4" sil:dynamic="true" approved="yes">
         <source xml:lang="en">4</source>
         <note>ID: TemplateBooks.PageLabel.4</note>
-        <target xml:lang="sw" state="translated">4</target>
+        <target xml:lang="sw" state="final">4</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.4 Problems" sil:dynamic="true" approved="yes">
         <source xml:lang="en">4 Problems</source>
@@ -6112,36 +6112,36 @@ Do you want to go ahead?</note>
         <note>This label indicates a page with four arithmetic problems on it.</note>
         <target xml:lang="sw" state="final">Matatizo 4</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.5" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.5" sil:dynamic="true" approved="yes">
         <source xml:lang="en">5</source>
         <note>ID: TemplateBooks.PageLabel.5</note>
-        <target xml:lang="sw" state="translated">5</target>
+        <target xml:lang="sw" state="final">5</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.6" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.6" sil:dynamic="true" approved="yes">
         <source xml:lang="en">6</source>
         <note>ID: TemplateBooks.PageLabel.6</note>
-        <target xml:lang="sw" state="translated">6</target>
+        <target xml:lang="sw" state="final">6</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.7" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.7" sil:dynamic="true" approved="yes">
         <source xml:lang="en">7</source>
         <note>ID: TemplateBooks.PageLabel.7</note>
-        <target xml:lang="sw" state="translated">7</target>
+        <target xml:lang="sw" state="final">7</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.8" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.8" sil:dynamic="true" approved="yes">
         <source xml:lang="en">8</source>
         <note>ID: TemplateBooks.PageLabel.8</note>
-        <target xml:lang="sw" state="translated">8</target>
+        <target xml:lang="sw" state="final">8</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.9" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.9" sil:dynamic="true" approved="yes">
         <source xml:lang="en">9</source>
         <note>ID: TemplateBooks.PageLabel.9</note>
-        <target xml:lang="sw" state="translated">9</target>
+        <target xml:lang="sw" state="final">9</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.About" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.About" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About</source>
         <note>ID: TemplateBooks.PageLabel.About</note>
         <note>Caption of 2nd page in books made from Template Starter</note>
-        <target xml:lang="sw" state="translated">Kuhusu</target>
+        <target xml:lang="sw" state="final">Kuhusu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Alphabet" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Alphabet</source>
