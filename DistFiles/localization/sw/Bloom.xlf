@@ -6161,27 +6161,27 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot Text Over Video" sil:dynamic="true">
         <source xml:lang="en">Big Picture Diglot Text Over Video</source>
         <note>ID: TemplateBooks.PageLabel.Big Picture Diglot Text Over Video</note>
-        <target xml:lang="sw" state="translated">Picha kubwa kwa lugha mbili juu ya video</target>
+        <target xml:lang="sw" state="translated">Picha kubwa kwa maandishi ya lugha mbili juu ya video</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Picture Diglot</source>
         <note>ID: TemplateBooks.PageLabel.Big Picture Diglot</note>
-        <target xml:lang="sw" state="translated">Picha kubwa kwa lugha mbili</target>
+        <target xml:lang="sw" state="final">Picha kubwa kwa lugha mbili</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Big Text Diglot" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Big Text Diglot" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Text Diglot</source>
         <note>ID: TemplateBooks.PageLabel.Big Text Diglot</note>
-        <target xml:lang="sw" state="translated">Maandishi makubwa kwa lugha mbili</target>
+        <target xml:lang="sw" state="final">Maandishi makubwa kwa lugha mbili</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Big Video Diglot" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Big Video Diglot" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Video Diglot</source>
         <note>ID: TemplateBooks.PageLabel.Big Video Diglot</note>
-        <target xml:lang="sw" state="translated">Video Kubwa ya lugha mbili</target>
+        <target xml:lang="sw" state="final">Video Kubwa ya lugha mbili</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Bloom Reader Quiz" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Bloom Reader Quiz" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Reader Quiz</source>
         <note>ID: TemplateBooks.PageLabel.Bloom Reader Quiz</note>
-        <target xml:lang="sw" state="translated">Jaribio la programu ya Bloom reader</target>
+        <target xml:lang="sw" state="final">Jaribio la programu ya Bloom reader</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Credits Page" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Credits Page</source>
@@ -6231,7 +6231,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Flyleaf" sil:dynamic="true">
         <source xml:lang="en">Flyleaf</source>
         <note>ID: TemplateBooks.PageLabel.Flyleaf</note>
-        <target xml:lang="sw" state="translated">Kurasa tupu</target>
+        <target xml:lang="sw" state="translated">Ukurasa mtupu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Front Cover" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Front Cover</source>
@@ -6247,7 +6247,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Image For Thumbnail</source>
         <note>ID: TemplateBooks.PageLabel.Image For Thumbnail</note>
         <note>Caption of first page in books made from Template Starter</note>
-        <target xml:lang="sw" state="translated">Kijipicha cha Picha</target>
+        <target xml:lang="sw" state="translated">Picha ya Kijipicha</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Image On Bottom" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image On Bottom</source>
@@ -6290,10 +6290,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Just an Image</note>
         <target xml:lang="sw" state="final">Picha tu</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Just Video" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Just Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Just Video</source>
         <note>ID: TemplateBooks.PageLabel.Just Video</note>
-        <target xml:lang="sw" state="translated">Video Tu</target>
+        <target xml:lang="sw" state="final">Video Tu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Outside Back Cover" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Outside Back Cover</source>
@@ -6305,10 +6305,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Paper Saver</note>
         <target xml:lang="sw" state="final">Kihifadhi Karatasi</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Picture &amp; Video" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Picture &amp; Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture &amp; Video</source>
         <note>ID: TemplateBooks.PageLabel.Picture &amp; Video</note>
-        <target xml:lang="sw" state="translated">Picha&amp; Video</target>
+        <target xml:lang="sw" state="final">Picha&amp; Video</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Picture &amp; Word" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture &amp; Word</source>
@@ -6329,18 +6329,18 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Picture on Left</source>
         <note>ID: TemplateBooks.PageLabel.Picture on Left</note>
         <note>New string in Bloom 4.2</note>
-        <target xml:lang="sw" state="translated">Picha Kushoto</target>
+        <target xml:lang="sw" state="translated">Picha upande wa Kushoto</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Quiz" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Quiz" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz</source>
         <note>ID: TemplateBooks.PageLabel.Quiz</note>
         <note>Used in page preview for Comprehension Question pages. Should be short.</note>
-        <target xml:lang="sw" state="translated">Jaribio</target>
+        <target xml:lang="sw" state="final">Jaribio</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Quiz Page" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Quiz Page" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Page</source>
         <note>ID: TemplateBooks.PageLabel.Quiz Page</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa Jaribio</target>
+        <target xml:lang="sw" state="final">Ukurasa wa Jaribio</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true">
         <source xml:lang="en">SIL-Cameroon</source>
