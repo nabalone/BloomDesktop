@@ -26,22 +26,22 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
       </trans-unit>
       <trans-unit id="template.starter.labelpages">
         <source xml:lang="en">Label Your Pages</source>
-        <target xml:lang="sw" state="translated">Weka lebo kwa kila Ukurasa</target>
+        <target xml:lang="sw" state="translated">Weka lebo kwenye Kurasa Zako</target>
         <note>ID: template.starter.labelpages</note>
       </trans-unit>
       <trans-unit id="template.starter.labeleachpage">
         <source xml:lang="en">When you add pages to your template, make sure to give each one a useful label<g id="genid-5" ctype="x-html-sup"><g id="genid-6" ctype="x-html-a" html:href="#note3">3</g>,<g id="genid-7" ctype="x-html-a" html:href="#note4">4</g></g>:</source>
-        <target xml:lang="sw" state="translated">Unapoongeza kurasa kwenye kiolezo chako, hakikisha kuipa kila kiolezi lebo muhimu<g id="genid-5" ctype="x-html-sup"><g id="genid-5" ctype="x-html-sup">:</target>
+        <target xml:lang="sw" state="translated">Unapoongeza kurasa kwenye kiolezo chako, hakikisha umeupa kila ukurasa lebo muhimu<g id="genid-5" ctype="x-html-sup"><g id="genid-5" ctype="x-html-sup">:</target>
         <note>ID: template.starter.labeleachpage</note>
       </trans-unit>
-      <trans-unit id="template.starter.thumbnails">
+      <trans-unit id="template.starter.thumbnails" approved="yes">
         <source xml:lang="en">Check Your Thumbnails</source>
-        <target xml:lang="sw" state="translated">Angalia vijipicha vyako</target>
+        <target xml:lang="sw" state="final">Angalia vijipicha vyako</target>
         <note>ID: template.starter.thumbnails</note>
       </trans-unit>
       <trans-unit id="template.starter.thumbnails.onlyonce">
         <source xml:lang="en">To speed things up, Bloom only makes this thumbnail once, and stores it in the "template" subdirectory of your template:</source>
-        <target xml:lang="sw" state="translated">Ili kuharakisha mambo, Bloom hufanya tu kijipicha hiki mara moja, na kukihifadhi kwenye kijitabu cha "kiolezo" cha kiolezo yako:</target>
+        <target xml:lang="sw" state="translated">Ili kufanya mambo yaende mbio, Bloom hutengeneza kijipicha hiki mara moja tu, na kukihifadhi kwenye "kiolezo" saraka ndogo ya kiolezo chako:</target>
         <note>ID: template.starter.thumbnails.onlyonce</note>
       </trans-unit>
       <trans-unit id="template.starter.thumbnails.update">
