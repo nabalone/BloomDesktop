@@ -5343,7 +5343,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SentencePunctuation.Help" sil:dynamic="true">
         <source xml:lang="en">Bloom already knows which characters in the world's languages always mark the end of sentences. To add others, enter the Unicode character escapes here. For example for Thai script languages, enter \U0020 to tell Bloom that normal spaces are used to break sentences.</source>
         <note>ID: ReaderSetup.SentencePunctuation.Help</note>
-        <target xml:lang="sw" state="translated">Bloom tayari inajua ni alama gani katika lugha za ulimwengu kila wakati zinaashiria mwisho wa sentensi. Ili kuongeza zingine, ingiza herufi ya Unicode hapa. Kwa mfano kwa lugha za maandishi ya Thai, ingiza \ U0020 kuambia Bloom kwamba nafasi za kawaida hutumiwa kuvunja sentensi.</target>
+        <target xml:lang="sw" state="translated">Bloom tayari inajua ni herufi gani katika lugha za ulimwengu kila wakati zinaashiria mwisho wa sentensi. Ili kuongeza zingine, ingiza herufi ya Unicode hapa. Kwa mfano kwa lugha za maandishi ya Thai, ingiza \ U0020 kuambia Bloom kwamba nafasi za kawaida hutumiwa kuvunja sentensi.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.SetUpDecodableReaderTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Set up Decodable Reader Tool</source>
@@ -5385,10 +5385,10 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.Stages</note>
         <target xml:lang="sw" state="final">Hatua</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.Synphony" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.Synphony" sil:dynamic="true" approved="yes">
         <source xml:lang="en">SynPhony</source>
         <note>ID: ReaderSetup.Synphony</note>
-        <target xml:lang="sw" state="translated">SynPhony</target>
+        <target xml:lang="sw" state="final">SynPhony</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.ToRemember" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Things to remember for this level:</source>
@@ -5400,11 +5400,11 @@ Do you want to go ahead?</note>
         <note>ID: ReaderSetup.UniqueHeader</note>
         <target xml:lang="sw" state="final">Kipekee</target>
       </trans-unit>
-      <trans-unit id="ReaderSetup.Words" sil:dynamic="true">
+      <trans-unit id="ReaderSetup.Words" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Words</source>
         <note>ID: ReaderSetup.Words</note>
         <note>Header for a series of items giving maximum values for various word counts</note>
-        <target xml:lang="sw" state="translated">Maneno</target>
+        <target xml:lang="sw" state="final">Maneno</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.Words.Intro" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To help you make decodable readers, Bloom can suggest words that fit within the current stage.  There are two ways to give words to Bloom:</source>
@@ -5448,10 +5448,10 @@ Do you want to go ahead?</note>
         <note xml:lang="en">OLD TEXT (before 3.9, remove unwanted backslashes): In addition, this Bloom Pack will carry your latest decodable and leveled reader settings for the \"{0}\" language. Anyone opening this Bloom Pack, who then opens a \"{0}\" collection, will have their current decodable and leveled reader settings replaced by the settings in this Bloom Pack. They will also get the current set of words for use in decodable readers.</note>
         <target xml:lang="sw" state="final">Kwa kuongeza, seti hii ya Bloom itabeba mpangilio wa kifaa cha kusoma kilichopewa ngazi na kinachoweza kufasiriwa cha hivi karibuni cha lugha ya \"{0}\". Yeyote anayefungua seti hii ya Bloom, ambaye basi anafungua mkusanyiko wa \"{0}\" , atahitajika kubadilisha mpangilio wa kifaa chake cha kusoma kilichopewa ngazi na kutumia mpangilio ulio kwenye seti hii ya Bloom. Pia atapata kikundi cha majina ya kisasa ili kuyatumia kwenye vifaa vya kusoma vinavyoweza kufasiriwa.</target>
       </trans-unit>
-      <trans-unit id="ReaderTemplateBloomPackDialog.HelpButtonLabel">
+      <trans-unit id="ReaderTemplateBloomPackDialog.HelpButtonLabel" approved="yes">
         <source xml:lang="en">Help</source>
         <note>ID: ReaderTemplateBloomPackDialog.HelpButtonLabel</note>
-        <target xml:lang="sw" state="translated">Usaidizi</target>
+        <target xml:lang="sw" state="final">Usaidizi</target>
       </trans-unit>
       <trans-unit id="ReaderTemplateBloomPackDialog.IntroLabel" approved="yes">
         <source xml:lang="en">The following books will be made into templates:</source>
@@ -5735,27 +5735,27 @@ Do you want to go ahead?</note>
       <trans-unit id="Settings.Enterprise.Overview" sil:dynamic="true">
         <source xml:lang="en">Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.</source>
         <note>ID: Settings.Enterprise.Overview</note>
-        <target xml:lang="sw" state="translated">Bloom Enterprise inaongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa utumiaji wa Bloom kwa jamii kwa ujumla.</target>
+        <target xml:lang="sw" state="translated">Bloom Enterprise huongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa utumiaji wa Bloom kwa jamii kwa ujumla.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Enterprise Status</source>
         <note>ID: Settings.Enterprise.Status</note>
-        <target xml:lang="sw" state="translated">Hali ya Bloom Enterprise</target>
+        <target xml:lang="sw" state="final">Hali ya Bloom Enterprise</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Subscription" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.Subscription" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Enterprise Subscription</source>
         <note>ID: Settings.Enterprise.Subscription</note>
-        <target xml:lang="sw" state="translated">Usajili kwa Enterprise</target>
+        <target xml:lang="sw" state="final">Usajili kwa Enterprise</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.SubscriptionCode" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.SubscriptionCode" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Subscription Code:</source>
         <note>ID: Settings.Enterprise.SubscriptionCode</note>
-        <target xml:lang="sw" state="translated">Nambari ya usajili:</target>
+        <target xml:lang="sw" state="final">Nambari ya usajili:</target>
       </trans-unit>
       <trans-unit id="TeamCollection.TeamCollection">
         <source xml:lang="en">Team Collection</source>
         <note>ID: TeamCollection.TeamCollection</note>
-        <target xml:lang="sw" state="translated">Mkusanyiko wa Bloom</target>
+        <target xml:lang="sw" state="translated">Mkusanyiko wa Timu</target>
       </trans-unit>
       <trans-unit id="TeamCollection.Available" sil:dynamic="true">
         <source xml:lang="en">This book is available for editing</source>
