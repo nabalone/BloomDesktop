@@ -345,7 +345,7 @@
       <trans-unit id="LanguageLookup.CodeHeader" approved="yes">
         <source xml:lang="en">Code</source>
         <note>ID: LanguageLookup.CodeHeader</note>
-        <target xml:lang="sw" state="final">Jina la fupi</target>
+        <target xml:lang="sw" state="final">Msimbo</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CountryCount" approved="yes">
         <source xml:lang="en">{0} Countries</source>
@@ -484,7 +484,7 @@
       <trans-unit id="MetadataEditor.CopyrightHolder" approved="yes">
         <source xml:lang="en">Copyright Holder</source>
         <note>ID: MetadataEditor.CopyrightHolder</note>
-        <target xml:lang="sw" state="final">Anayemiliki haki ya Kunakili</target>
+        <target xml:lang="sw" state="final">Mmiliki wa hatimiliki</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CopyrightYear">
         <source xml:lang="en">Copyright Year</source>
