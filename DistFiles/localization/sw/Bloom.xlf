@@ -2559,10 +2559,10 @@
         <note>ID: EditTab.Toolbox.DecodableReaderTool.AllowedWordsInThisStage</note>
         <target xml:lang="sw" state="final">Majina yanayokubaliwa katika awamu hii</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles" approved="yes">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles">
         <source xml:lang="en">Text files</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles</note>
-        <target xml:lang="sw" state="final">Jalada za  maandishi</target>
+        <target xml:lang="sw" state="translated">Faili za maandishi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters" approved="yes">
         <source xml:lang="en">Letters: {0}</source>
@@ -3055,7 +3055,7 @@
         <source xml:lang="en">Clear</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.Clear</note>
         <note>As in, "CLEAR" (or delete) the existing recording file.</note>
-        <target xml:lang="sw" state="final">Maliza</target>
+        <target xml:lang="sw" state="final">Futa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ESpeakPreview.Error" approved="yes">
         <source xml:lang="en">eSpeak failed.</source>
@@ -3404,10 +3404,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): Registration</note>
         <target xml:lang="sw" state="final">Usajili</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.ReleaseNotesMenuItem" approved="yes">
+      <trans-unit id="HelpMenu.ReleaseNotesMenuItem">
         <source xml:lang="en">Release Notes...</source>
         <note>ID: HelpMenu.ReleaseNotesMenuItem</note>
-        <target xml:lang="sw" state="final">Achilia muhtasari...</target>
+        <target xml:lang="sw" state="translated">Toa Maelezo...</target>
       </trans-unit>
       <trans-unit id="HelpMenu.ReportAProblemToolStripMenuItem" approved="yes">
         <source xml:lang="en">Report a Problem...</source>
