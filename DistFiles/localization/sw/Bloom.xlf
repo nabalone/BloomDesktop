@@ -4890,10 +4890,10 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.Upload.MakingThumbnail</note>
         <target xml:lang="sw" state="final">Kutengeneza picha ya ukucha wa dole gumbai...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.Narration">
+      <trans-unit id="PublishTab.Upload.Narration" approved="yes">
         <source xml:lang="en">Narration</source>
         <note>ID: PublishTab.Upload.Narration</note>
-        <target xml:lang="sw" state="translated">Masimulizi</target>
+        <target xml:lang="sw" state="final">Masimulizi</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.NoLangsFound" approved="yes">
         <source xml:lang="en">(None found)</source>
@@ -4908,7 +4908,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.PleaseLogIn">
         <source xml:lang="en">Please sign in to BloomLibrary.org (or sign up) before uploading</source>
         <note>ID: PublishTab.Upload.PleaseLogIn</note>
-        <target xml:lang="sw" state="translated">Tafadhali ingia kwenye BloomLibrary.org (au ufungue akaunti) kabla ya kuweka</target>
+        <target xml:lang="sw" state="translated">Tafadhali ingia kwenye BloomLibrary.org (au jisajili) kabla ya kupakia</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.PleaseSetThis" approved="yes">
         <source xml:lang="en">Please set this from the edit tab</source>
@@ -4916,25 +4916,25 @@ kisomaji cha ePUB</target>
         <note>This shows next to the license, if the license has not yet been set.</note>
         <target xml:lang="sw" state="final">Tafadhali andaa hii kutoka kwa chaguo la kuhariri</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.SetSignLanguageLink">
+      <trans-unit id="PublishTab.Upload.SetSignLanguageLink" approved="yes">
         <source xml:lang="en">Set Sign Language...</source>
         <note>ID: PublishTab.Upload.SetSignLanguageLink</note>
-        <target xml:lang="sw" state="translated">Weka lugha ya Ishara...</target>
+        <target xml:lang="sw" state="final">Weka lugha ya Ishara...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.SignLanguage">
+      <trans-unit id="PublishTab.Upload.SignLanguage" approved="yes">
         <source xml:lang="en">Sign Language</source>
         <note>ID: PublishTab.Upload.SignLanguage</note>
-        <target xml:lang="sw" state="translated">Lugha ya Ishara</target>
+        <target xml:lang="sw" state="final">Lugha ya Ishara</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.SignInSignUp">
+      <trans-unit id="PublishTab.Upload.SignInSignUp" approved="yes">
         <source xml:lang="en">Sign In / Sign Up to BloomLibrary.org</source>
         <note>ID: PublishTab.Upload.SignUpLogin</note>
-        <target xml:lang="sw" state="translated">Ingia/Jisajili kwa Bloomlibrary.org</target>
+        <target xml:lang="sw" state="final">Ingia/Jisajili kwa Bloomlibrary.org</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.SomethingWrong">
+      <trans-unit id="PublishTab.Upload.SomethingWrong" approved="yes">
         <source xml:lang="en">Oops, something went wrong when trying to sign you into our database.</source>
         <note>ID: PublishTab.Upload.SomethingWrong</note>
-        <target xml:lang="sw" state="translated">Lo, kuna kitu kilienda mrama wakati wa kujaribu kukusajili kwenye hifadhidata yetu.</target>
+        <target xml:lang="sw" state="final">Lo, kuna kitu kilienda mrama wakati wa kujaribu kukusajili kwenye hifadhidata yetu.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Step1" approved="yes">
         <source xml:lang="en">Step 1: Confirm Metadata</source>
