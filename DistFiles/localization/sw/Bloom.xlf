@@ -139,7 +139,7 @@
         <source xml:lang="en">Just let me know about the new version</source>
         <note>ID: AutoUpdateSoftwareDialog.LetMeKnow</note>
         <note>Radio button label</note>
-        <target xml:lang="sw" state="translated">Nijulishe tu juu ya toleo jipya</target>
+        <target xml:lang="sw" state="translated">Nijulishe tu kuhusu toleo jipya</target>
       </trans-unit>
       <trans-unit id="BloomIntegrity.WindowTitle" approved="yes">
         <source xml:lang="en">Bloom Problem</source>
@@ -250,26 +250,26 @@
         <note>ID: BookEditor.FormattingDisabled</note>
         <target xml:lang="sw" state="final">Samahani, Vigezo vya msomaji haviruhusu mabadiliko kwa muundo.</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yCertifier">
+      <trans-unit id="BookMetadata.a11yCertifier" approved="yes">
         <source xml:lang="en">Level certified by</source>
         <note>ID: BookMetadata.a11yCertifier</note>
-        <target xml:lang="sw" state="translated">Kiwango kimethibitiswa na</target>
+        <target xml:lang="sw" state="final">Kiwango kimethibitiswa na</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yFeatures">
         <source xml:lang="en">Accessibility features</source>
         <note>ID: BookMetadata.a11yFeatures</note>
-        <target xml:lang="sw" state="translated">Vipengele za ufifikaji</target>
+        <target xml:lang="sw" state="translated">Vipengele vya ufifikaji</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevel">
         <source xml:lang="en">Accessibility level</source>
         <note>ID: BookMetadata.a11yLevel</note>
         <target xml:lang="sw" state="translated">Kiwango cha upatikanaji</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yLevelNone" sil:dynamic="true">
+      <trans-unit id="BookMetadata.a11yLevelNone" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
         <note>ID: BookMetadata.a11yLevelNone</note>
         <note>indicates that no level of accessibility conformance is claimed</note>
-        <target xml:lang="sw" state="translated">Hamna</target>
+        <target xml:lang="sw" state="final">Hamna</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelA" sil:dynamic="true">
         <source xml:lang="en">Level A conformance</source>
