@@ -801,10 +801,10 @@
         <note>ID: CollectionTab.BookMenu.MakeBloomPack</note>
         <target xml:lang="sw" state="translated">Tengeneza seti ya Bloom...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem">
+      <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
         <source xml:lang="en">Save as single file (.bloom)...</source>
         <note>ID: CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem</note>
-        <target xml:lang="sw" state="translated">Hifadhi kama faili moja (bloom)...</target>
+        <target xml:lang="sw" state="final">Hifadhi kama faili moja (bloom)...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
@@ -886,21 +886,21 @@
         <note>ID: CollectionTab.EditBookButton</note>
         <target xml:lang="sw" state="final">Hariri kitabu hiki</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.GetABetterBloom">
+      <trans-unit id="CollectionTab.GetABetterBloom" approved="yes">
         <source xml:lang="en">Click to get a better Bloom!</source>
         <note>ID: CollectionTab.GetABetterBloom</note>
         <note>Clicking this message loads a web page which describes how to upgrade Bloom.</note>
-        <target xml:lang="sw" state="translated">Bofya kupata Bloom bora!</target>
+        <target xml:lang="sw" state="final">Bofya kupata Bloom bora!</target>
       </trans-unit>
       <trans-unit id="CollectionTab.HiddenBookExplanationForSourceCollections" approved="yes">
         <source xml:lang="en">Because this is a source collection, Bloom isn't offering any existing shells as sources for new shells. If you want to add a language to a shell, instead you need to edit the collection containing the shell, rather than making a copy of it. Also, the Wall Calendar currently can't be used to make a new Shell.</source>
         <note>ID: CollectionTab.HiddenBookExplanationForSourceCollections</note>
         <target xml:lang="sw" state="final">Kwa kuwa huu ni mkusanyiko wa chanzo, Broom haipeani sheli zozote zingine kama vyanzo vya sheli mpya. Iwapo unataka kuongeza lugha kwa sheli, badala yake unapaswa kuhariri mkusanyiko ulio na sheli, badala ya kutengeneza nakala yake. Pia, Kalenda ya Ukuta kwa sasa haiwezi kutumika kutengeneza Sheli mpya.</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.LanguageMenu.ShowUnapprovedTranslations">
+      <trans-unit id="CollectionTab.LanguageMenu.ShowUnapprovedTranslations" approved="yes">
         <source xml:lang="en">Show translations which have not been approved yet</source>
         <note>ID: CollectionTab.LanguageMenu.ShowUnapprovedTranslations</note>
-        <target xml:lang="sw" state="translated">Onyesha tafsiri ambazo bado hazijaidhinishwa</target>
+        <target xml:lang="sw" state="final">Onyesha tafsiri ambazo bado hazijaidhinishwa</target>
       </trans-unit>
       <trans-unit id="CollectionTab.MakeBloomPackButton" approved="yes">
         <source xml:lang="en">Make Bloom Pack</source>
@@ -934,10 +934,10 @@
         <note>ID: CollectionTab.OpenCreateCollectionMenuItem</note>
         <target xml:lang="sw" state="final">Fungua au Utengeneze Mkusanyiko Mwingine</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.Progress">
+      <trans-unit id="CollectionTab.Progress" approved="yes">
         <source xml:lang="en">({0}% complete)</source>
         <note>ID: CollectionTab.Progress</note>
-        <target xml:lang="sw" state="translated">({0}% Imekamilika)</target>
+        <target xml:lang="sw" state="final">({0}% Imekamilika)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.RestartToUpdate">
         <source xml:lang="en">Restart Bloom to Update</source>
