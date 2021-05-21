@@ -1951,10 +1951,10 @@
         <note>ID: EditTab.FrontMatter.PasteMissingCredits</note>
         <target xml:lang="sw" state="translated">Sifa Zilizokosekana:</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</source>
         <note>ID: EditTab.FrontMatter.SimpleLineDrawings</note>
-        <target xml:lang="sw" state="translated">Michoro rahisi ya laini inaonekana bora. Badala ya kutumia ukurasa huu, unaweza pia kutengeneza faili yako ya kijipicha.png na kuiweka kwa Soma tu ili Bloom isiandike juu yake.</target>
+        <target xml:lang="sw" state="final">Michoro rahisi ya laini inaonekana bora. Badala ya kutumia ukurasa huu, unaweza pia kutengeneza faili yako ya kijipicha.png na kuiweka kwa Soma tu ili Bloom isiandike juu yake.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.SingleImageCredit">
         <source xml:lang="en">Image on page {0} by {1}.</source>
@@ -1962,7 +1962,7 @@
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the page number of an image should go and put {1} in the translation where the image credits should go. For example in English, 'Image on page {0} by {1}.' comes out like 'Image on page 3 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Image on page {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Picha kwenye ukurasa{0} kwa{1}.</target>
+        <target xml:lang="sw" state="translated">Picha kwenye ukurasa{0} na{1}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.TopicPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click to choose topic</source>
@@ -1979,11 +1979,11 @@
         <note>ID: EditTab.HowToUnlockBook</note>
         <target xml:lang="sw" state="final">Ili kufungua kitabu hiki cha sheli, nenda kwenye kijisanduku cha vifaa katika upande wa kulia, tafuta ikoni ya gia, na ukliki 'Kubali mabadiliko kwa kitabu hiki cha sheli'.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.AltMsg">
+      <trans-unit id="EditTab.Image.AltMsg" approved="yes">
         <source xml:lang="en">This picture, {0}, is missing or was loading too slowly.</source>
         <note>ID: EditTab.Image.AltMsg</note>
         <note>The {0} is replaced by the filename of the picture.</note>
-        <target xml:lang="sw" state="translated">Picha hii, {0}, haipo au ilikuwa inapakia polepole mno.</target>
+        <target xml:lang="sw" state="final">Picha hii, {0}, haipo au ilikuwa inapakia polepole mno.</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.ChangeImage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change Image</source>
@@ -1998,13 +1998,13 @@
       <trans-unit id="EditTab.Image.CopyImageFailed" sil:dynamic="true">
         <source xml:lang="en">Bloom had problems using your computer's clipboard. Some other program may be interfering.</source>
         <note>ID: EditTab.Image.CopyImageFailed</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo kutumia ubao nakili ya kompyuta yako. Programu nyingine inaweza kuwa inaingilia.</target>
+        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo kutumia ubao nakili wa kompyuta yako. Programu nyingine inaweza kuwa inaingilia.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.Corrupt" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.Corrupt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom was not able to load {0}. The file may be corrupted. Please try another image. Here are some technical details: </source>
         <note>ID: EditTab.Image.Corrupt</note>
         <note>{0} is required, and will be replaced with a file path. After the message Bloom will append a further message.</note>
-        <target xml:lang="sw" state="translated">Bloom haikuweza kupakia {0}. Faili inaweza kuwa imevurugwa. Tafadhali jaribu picha nyingine. Hapa kuna maelezo ya kiufundi: </target>
+        <target xml:lang="sw" state="final">Bloom haikuweza kupakia {0}. Faili inaweza kuwa imevurugwa. Tafadhali jaribu picha nyingine. Hapa kuna maelezo ya kiufundi: </target>
       </trans-unit>
       <trans-unit id="EditTab.Image.CutImage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cut Image</source>
@@ -2030,12 +2030,12 @@
       <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true">
         <source xml:lang="en">Bloom ran out of memory loading this image ({0}), which is quite large ({1} by {2} pixels). Click Help for suggestions.</source>
         <note>ID: EditTab.Image.TooLarge</note>
-        <target xml:lang="sw" state="translated">Bloom iliishiwa na kumbukumbu ya kupakia picha hii ({0}), ambayo ni kubwa kabisa ({1} kwa saizi {2}). Bonyeza Msaada kwa maoni.</target>
+        <target xml:lang="sw" state="translated">Bloom iliishiwa na kumbukumbu ya kupakia picha hii ({0}), ambayo ni kubwa kabisa ({1} kwa saizi {2}). Bonyeza Msaada kwa mapendekezo.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.TryRestart" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.TryRestart" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Try closing other programs and restart your computer if necessary.</source>
         <note>ID: EditTab.Image.TryRestart</note>
-        <target xml:lang="sw" state="translated">Jaribu kufunga programu zingine na uanze tena kompyuta yako ikiwa ni lazima.</target>
+        <target xml:lang="sw" state="final">Jaribu kufunga programu zingine na uanze tena kompyuta yako ikiwa ni lazima.</target>
       </trans-unit>
       <trans-unit id="EditTab.Instructions.DeleteAllowed" sil:dynamic="true">
         <source xml:lang="en">Feel free to modify or delete this page.</source>
