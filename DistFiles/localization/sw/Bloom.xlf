@@ -530,10 +530,10 @@
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gujarati</note>
         <target xml:lang="sw" state="final">Kigujarati</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gurmukhi" sil:dynamic="true">
+      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gurmukhi" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Gurmukhi</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gurmukhi</note>
-        <target xml:lang="sw" state="translated">Gurmukhi</target>
+        <target xml:lang="sw" state="final">Kigurmukhi</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Hebrew" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Hebrew</source>
@@ -757,7 +757,7 @@
         <source xml:lang="en">Note: The Bloom Library contains shell books, whereas your current collection is a "source collection", meaning it is for making shell books, not for translating them into the local language.</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerification.Part1</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="translated">Tambihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
+        <target xml:lang="sw" state="translated">Tanbihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part2">
         <source xml:lang="en">When you've made a shell, you can then upload it to the Bloom Library from the Publish tab.</source>
