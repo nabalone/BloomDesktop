@@ -62,10 +62,10 @@
         <note>{0} is the application name</note>
         <target xml:lang="sw" state="final">Kungoja {0} nyingine kumaliza...</target>
       </trans-unit>
-      <trans-unit id="Common.AbortButton">
+      <trans-unit id="Common.AbortButton" approved="yes">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="sw" state="translated">&amp;Katisha</target>
+        <target xml:lang="sw" state="final">&amp;Katisha</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
@@ -85,7 +85,7 @@
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
-        <target xml:lang="sw" state="translated">&amp;La/ Hapana</target>
+        <target xml:lang="sw" state="translated">&amp;La</target>
       </trans-unit>
       <trans-unit id="Common.OKButton" approved="yes">
         <source xml:lang="en">&amp;OK</source>
