@@ -943,7 +943,7 @@
         <source xml:lang="en">Restart Bloom to Update</source>
         <note>ID: CollectionTab.RestartToUpdate</note>
         <note>Restart the Bloom program, not Windows</note>
-        <target xml:lang="sw" state="translated">Anzisha upya Bloom ili Kusasisha</target>
+        <target xml:lang="sw" state="translated">Iwashe Bloom tena ili Kusasisha</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Sample Shells" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sample Shells</source>
@@ -1043,17 +1043,17 @@
         <note>This color has a particular percentage of transparency.</note>
         <target xml:lang="sw" state="translated">{0}% Uwazi</target>
       </trans-unit>
-      <trans-unit id="ColorPicker.New" sil:dynamic="true">
+      <trans-unit id="ColorPicker.New" sil:dynamic="true" approved="yes">
         <source xml:lang="en">New...</source>
         <note>ID: ColorPicker.New</note>
         <note>A background color selection that enables a color picker.</note>
-        <target xml:lang="sw" state="translated">Mpya...</target>
+        <target xml:lang="sw" state="final">Mpya...</target>
       </trans-unit>
-      <trans-unit id="Common.Advanced">
+      <trans-unit id="Common.Advanced" approved="yes">
         <source xml:lang="en">Advanced</source>
         <note>ID: Common.Advanced</note>
         <note>Used in various places where something can be opened or linked to for advanced features. One use is an expandable area in Sign Language toolbox.</note>
-        <target xml:lang="sw" state="translated">Ya hali ya juu</target>
+        <target xml:lang="sw" state="final">Ya hali ya juu</target>
       </trans-unit>
       <trans-unit id="Common.BackButton" approved="yes">
         <source xml:lang="en">Back</source>
@@ -1074,53 +1074,53 @@
         <note>ID: Common.CancelButton</note>
         <target xml:lang="sw" state="final">U&amp;batilishe</target>
       </trans-unit>
-      <trans-unit id="Common.Close">
+      <trans-unit id="Common.Close" approved="yes">
         <source xml:lang="en">Close</source>
         <note>ID: Common.Close</note>
         <note>Used typically for a button that closes a dialog box. Unlike "OK", "Close" is not agreeing to anything, it's just dismissing the dialog box.</note>
-        <target xml:lang="sw" state="translated">Funga</target>
+        <target xml:lang="sw" state="final">Funga</target>
       </trans-unit>
-      <trans-unit id="Common.Colors.Black">
+      <trans-unit id="Common.Colors.Black" approved="yes">
         <source xml:lang="en">Black</source>
         <note>ID: Common.Colors.Black</note>
-        <target xml:lang="sw" state="translated">Nyeusi</target>
+        <target xml:lang="sw" state="final">Nyeusi</target>
       </trans-unit>
-      <trans-unit id="Common.Colors.Crimson">
+      <trans-unit id="Common.Colors.Crimson" approved="yes">
         <source xml:lang="en">Crimson</source>
         <note>ID: Common.Colors.Crimson</note>
-        <target xml:lang="sw" state="translated">Nyekundu</target>
+        <target xml:lang="sw" state="final">Nyekundu</target>
       </trans-unit>
-      <trans-unit id="Common.Colors.White">
+      <trans-unit id="Common.Colors.White" approved="yes">
         <source xml:lang="en">White</source>
         <note>ID: Common.Colors.White</note>
-        <target xml:lang="sw" state="translated">Nyeupe</target>
+        <target xml:lang="sw" state="final">Nyeupe</target>
       </trans-unit>
       <trans-unit id="Common.Colors.Yellow">
         <source xml:lang="en">Yellow</source>
         <note>ID: Common.Colors.Yellow</note>
-        <target xml:lang="sw" state="translated">Njano</target>
+        <target xml:lang="sw" state="translated">Manjano</target>
       </trans-unit>
       <trans-unit id="Common.Copy">
         <source xml:lang="en">Copy</source>
         <note>ID: Common.Copy</note>
-        <target xml:lang="sw" state="translated">Nakala</target>
+        <target xml:lang="sw" state="translated">Nakili</target>
       </trans-unit>
-      <trans-unit id="Common.Delete">
+      <trans-unit id="Common.Delete" approved="yes">
         <source xml:lang="en">Delete</source>
         <note>ID: Common.Delete</note>
-        <target xml:lang="sw" state="translated">Futa</target>
+        <target xml:lang="sw" state="final">Futa</target>
       </trans-unit>
-      <trans-unit id="Common.Done">
+      <trans-unit id="Common.Done" approved="yes">
         <source xml:lang="en">Done</source>
         <note>ID: Common.Done</note>
         <note>Shown in a list of messages when Bloom has completed a task.</note>
-        <target xml:lang="sw" state="translated">Imekamilika</target>
+        <target xml:lang="sw" state="final">Imekamilika</target>
       </trans-unit>
-      <trans-unit id="Common.Error">
+      <trans-unit id="Common.Error" approved="yes">
         <source xml:lang="en">Error</source>
         <note>ID: Common.Error</note>
         <note>A heading shown above some messages.</note>
-        <target xml:lang="sw" state="translated">Kosa</target>
+        <target xml:lang="sw" state="final">Kosa</target>
       </trans-unit>
       <trans-unit id="Common.Finish" approved="yes">
         <source xml:lang="en">&amp;Finish</source>
@@ -1138,18 +1138,18 @@
         <note>ID: Common.HelpButton</note>
         <target xml:lang="sw" state="final">&amp;Usaidie</target>
       </trans-unit>
-      <trans-unit id="Common.Info">
+      <trans-unit id="Common.Info" approved="yes">
         <source xml:lang="en">Info</source>
         <note>ID: Common.Info</note>
         <note>Used as a label for additional information, like duration etc in the Sign Language Tool</note>
-        <target xml:lang="sw" state="translated">Maelezo</target>
+        <target xml:lang="sw" state="final">Maelezo</target>
       </trans-unit>
-      <trans-unit id="Common.LearnMore" sil:dynamic="true">
+      <trans-unit id="Common.LearnMore" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn More</source>
         <note>ID: Common.LearnMore</note>
         <note>A link or button that leads to something that tells the user more about what they just read.</note>
         <note>This is the same as Settings.Enterprise.LearnMore</note>
-        <target xml:lang="sw" state="translated">Jifunze zaidi</target>
+        <target xml:lang="sw" state="final">Jifunze zaidi</target>
       </trans-unit>
       <trans-unit id="Common.Loading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Loading...</source>
@@ -1173,7 +1173,7 @@
         <source xml:lang="en">Note</source>
         <note>ID: Common.Note</note>
         <note>A heading shown above some messages.</note>
-        <target xml:lang="sw" state="translated">Kumbuka</target>
+        <target xml:lang="sw" state="translated">Tanbihi</target>
       </trans-unit>
       <trans-unit id="Common.OK" approved="yes">
         <source xml:lang="en">OK</source>
@@ -1190,38 +1190,38 @@
         <note>ID: Common.Optional</note>
         <target xml:lang="sw" state="final">Hiyari</target>
       </trans-unit>
-      <trans-unit id="Common.Preview">
+      <trans-unit id="Common.Preview" approved="yes">
         <source xml:lang="en">Preview</source>
         <note>ID: Common.Preview</note>
-        <target xml:lang="sw" state="translated">Hakiki</target>
+        <target xml:lang="sw" state="final">Hakiki</target>
       </trans-unit>
-      <trans-unit id="Common.Progress">
+      <trans-unit id="Common.Progress" approved="yes">
         <source xml:lang="en">Progress</source>
         <note>ID: Common.Progress</note>
-        <target xml:lang="sw" state="translated">Maendeleo</target>
+        <target xml:lang="sw" state="final">Maendeleo</target>
       </trans-unit>
-      <trans-unit id="Common.Refresh">
+      <trans-unit id="Common.Refresh" approved="yes">
         <source xml:lang="en">Refresh</source>
         <note>ID: Common.Refresh</note>
         <note>Sense of refreshing a web page.</note>
-        <target xml:lang="sw" state="translated">Onyesha upya</target>
+        <target xml:lang="sw" state="final">Onyesha upya</target>
       </trans-unit>
-      <trans-unit id="Common.Replace">
+      <trans-unit id="Common.Replace" approved="yes">
         <source xml:lang="en">Replace</source>
         <note>ID: Common.Replace</note>
-        <target xml:lang="sw" state="translated">Badilisha</target>
+        <target xml:lang="sw" state="final">Badilisha</target>
       </trans-unit>
-      <trans-unit id="Common.Report">
+      <trans-unit id="Common.Report" approved="yes">
         <source xml:lang="en">REPORT</source>
         <note>ID: Common.Report</note>
         <note>Used for a link that signifies "Bring up a dialog for sending a report of a problem. We usually want all-caps, unless inappropriate in a particular language"</note>
-        <target xml:lang="sw" state="translated">RIPOTI</target>
+        <target xml:lang="sw" state="final">RIPOTI</target>
       </trans-unit>
-      <trans-unit id="Common.SeeWebPage">
+      <trans-unit id="Common.SeeWebPage" approved="yes">
         <source xml:lang="en">See {0}.</source>
         <note>ID: Common.SeeWebPage</note>
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
-        <target xml:lang="sw" state="translated">Tazama {0}.</target>
+        <target xml:lang="sw" state="final">Tazama {0}.</target>
       </trans-unit>
       <trans-unit id="Common.SelectAll">
         <source xml:lang="en">Select all</source>
