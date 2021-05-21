@@ -1229,16 +1229,16 @@
         <note>used for a menu item for selecting all text in a text box</note>
         <target xml:lang="sw" state="translated">Chagua yote/zote/vyote</target>
       </trans-unit>
-      <trans-unit id="Common.Settings">
+      <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
         <note>ID: Common.Settings</note>
-        <target xml:lang="sw" state="translated">Mipangilio</target>
+        <target xml:lang="sw" state="final">Mipangilio</target>
       </trans-unit>
-      <trans-unit id="Common.Warning">
+      <trans-unit id="Common.Warning" approved="yes">
         <source xml:lang="en">Info</source>
         <note>ID: Common.Warning</note>
         <note>A heading shown above some messages.</note>
-        <target xml:lang="sw" state="translated">Maelezo</target>
+        <target xml:lang="sw" state="final">Maelezo</target>
       </trans-unit>
       <trans-unit id="Download.Completed" approved="yes">
         <source xml:lang="en">Your download ({0}) is complete. You can see it in the 'Books from BloomLibrary.org' section of your Collections.</source>
