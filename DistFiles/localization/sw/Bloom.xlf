@@ -763,7 +763,7 @@
         <source xml:lang="en">When you've made a shell, you can then upload it to the Bloom Library from the Publish tab.</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerification.Part2</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="translated">Unapotengeneza sheli, unaweza kuiweka kwenye Maktaba ya Bloom kutoka kwa kichupo cha Chapisha.</target>
+        <target xml:lang="sw" state="translated">Unapotengeneza shell, unaweza kuiweka kwenye Maktaba ya Bloom kutoka kwa kichupo cha Chapisha.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerificationCaption" approved="yes">
         <source xml:lang="en">Source Collection</source>
@@ -3074,10 +3074,10 @@
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
         <target xml:lang="sw" state="final">Agiza rekodi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplace" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplace" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Replace with new audio?</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplace</note>
-        <target xml:lang="sw" state="translated">Badilisha na sauti mpya?</target>
+        <target xml:lang="sw" state="final">Badilisha na sauti mpya?</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage" sil:dynamic="true">
         <source xml:lang="en">If you import this recording, it will replace all the audio for this text box.</source>
