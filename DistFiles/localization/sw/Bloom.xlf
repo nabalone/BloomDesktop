@@ -4655,7 +4655,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.SaveButton" approved="yes">
         <source xml:lang="en">&amp;Save PDF...</source>
         <note>ID: PublishTab.SaveButton</note>
-        <target xml:lang="sw" state="final">&amp;Uhifadhi ...</target>
+        <target xml:lang="sw" state="final">&amp; Hifadhi PDF...</target>
       </trans-unit>
       <trans-unit id="PublishTab.SaveEpub" approved="yes">
         <source xml:lang="en">&amp;Save ePUB...</source>
