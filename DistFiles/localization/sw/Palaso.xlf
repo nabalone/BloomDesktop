@@ -255,7 +255,7 @@
       <trans-unit id="ImageToolbox.NoGalleries">
         <source xml:lang="en">This computer doesn't appear to have any galleries installed yet.</source>
         <note>ID: ImageToolbox.NoGalleries</note>
-        <target xml:lang="sw" state="translated">Kompyuta hii haionekani kuwa na kichanja chochote kilicho sakinishwa.</target>
+        <target xml:lang="sw" state="translated">Kompyuta hii haionekani kuwa na vichanja vyovyote vilivyosakinishwa.</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.NoMatchingImages" approved="yes">
         <source xml:lang="en">Found no matching images</source>
