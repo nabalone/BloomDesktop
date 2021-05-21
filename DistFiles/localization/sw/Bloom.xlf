@@ -274,27 +274,27 @@
       <trans-unit id="BookMetadata.a11yLevelA" sil:dynamic="true">
         <source xml:lang="en">Level A conformance</source>
         <note>ID: BookMetadata.a11yLevelA</note>
-        <target xml:lang="sw" state="translated">Ulinganifu na Kiwango cha A</target>
+        <target xml:lang="sw" state="translated">Ulinganifu wa Kiwango cha A</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelAA" sil:dynamic="true">
         <source xml:lang="en">Level AA conformance</source>
         <note>ID: BookMetadata.a11yLevelAA</note>
-        <target xml:lang="sw" state="translated">Ulinganifu na Kwango cha AA</target>
+        <target xml:lang="sw" state="translated">Ulinganifu wa kiwango cha AA</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelAAA" sil:dynamic="true">
         <source xml:lang="en">Level AAA conformance</source>
         <note>ID: BookMetadata.a11yLevelAAA</note>
-        <target xml:lang="sw" state="translated">Kulingana na kiwango cha AAA</target>
+        <target xml:lang="sw" state="translated">Ulinganifu wa kiwango cha AAA</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.alternativeText">
+      <trans-unit id="BookMetadata.alternativeText" approved="yes">
         <source xml:lang="en">Has Image Descriptions</source>
         <note>ID: BookMetadata.alternativeText</note>
-        <target xml:lang="sw" state="translated">Ina maelezo ya picha</target>
+        <target xml:lang="sw" state="final">Ina maelezo ya picha</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.author">
+      <trans-unit id="BookMetadata.author" approved="yes">
         <source xml:lang="en">Author</source>
         <note>ID: BookMetadata.author</note>
-        <target xml:lang="sw" state="translated">Mwandishi</target>
+        <target xml:lang="sw" state="final">Mwandishi</target>
       </trans-unit>
       <trans-unit id="BookMetadata.flashingHazard">
         <source xml:lang="en">Flashing Hazard</source>
