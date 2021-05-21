@@ -2037,10 +2037,10 @@
         <note>ID: EditTab.Image.TryRestart</note>
         <target xml:lang="sw" state="final">Jaribu kufunga programu zingine na uanze tena kompyuta yako ikiwa ni lazima.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Instructions.DeleteAllowed" sil:dynamic="true">
+      <trans-unit id="EditTab.Instructions.DeleteAllowed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Feel free to modify or delete this page.</source>
         <note>ID: EditTab.Instructions.DeleteAllowed</note>
-        <target xml:lang="sw" state="translated">Jisikie huru kurekebisha au kufuta ukurasa huu.</target>
+        <target xml:lang="sw" state="final">Jisikie huru kurekebisha au kufuta ukurasa huu.</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.DoNotUse" approved="yes">
         <source xml:lang="en">Cancel this import</source>
@@ -2067,11 +2067,11 @@
         <note>ID: EditTab.LayoutInPublishTabOnlyNotice</note>
         <target xml:lang="sw" state="final">Chaguo hili linapatikana tu kwenye nembo ya Kuchapisha.</target>
       </trans-unit>
-      <trans-unit id="EditTab.LockBook.ToolTip" sil:dynamic="true">
+      <trans-unit id="EditTab.LockBook.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book is temporarily unlocked.</source>
         <note>ID: EditTab.LockBook.ToolTip</note>
         <note>Button that tells Bloom to re-lock a shell book so it can't be modified (other than translation).</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kimefunguliwa kwa muda.</target>
+        <target xml:lang="sw" state="final">Kitabu hiki kimefunguliwa kwa muda.</target>
       </trans-unit>
       <trans-unit id="EditTab.Monolingual" approved="yes">
         <source xml:lang="en">One Language</source>
@@ -2079,11 +2079,11 @@
         <note>Shown in edit tab multilingualism chooser, for monolingual mode, one language per page</note>
         <target xml:lang="sw" state="final">Lugha moja</target>
       </trans-unit>
-      <trans-unit id="EditTab.NeverLocked.ToolTip" sil:dynamic="true">
+      <trans-unit id="EditTab.NeverLocked.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Books are never locked in a Source Collection.</source>
         <note>ID: EditTab.NeverLocked.ToolTip</note>
         <note>Button in a state that indicates books in this collection are always unlocked.</note>
-        <target xml:lang="sw" state="translated">Vitabu havifungwi kamwe katika Mkusanyiko wa Chanzo.</target>
+        <target xml:lang="sw" state="final">Vitabu havifungwi kamwe katika Mkusanyiko wa Chanzo.</target>
       </trans-unit>
       <trans-unit id="EditTab.NewBookName" approved="yes">
         <source xml:lang="en">Book</source>
@@ -2096,16 +2096,16 @@
         <note>ID: EditTab.NoImageFoundOnClipboard</note>
         <target xml:lang="sw" state="final">Kabla ya kuweka picha, nakili moja kwa 'klipbodi', kutoka kwa programu nyingine.</target>
       </trans-unit>
-      <trans-unit id="EditTab.NoValidImageFoundOnClipboard">
+      <trans-unit id="EditTab.NoValidImageFoundOnClipboard" approved="yes">
         <source xml:lang="en">Bloom failed to interpret the clipboard contents as an image. Possibly it was a damaged file, or too large. Try copying something else.</source>
         <note>ID: EditTab.NoValidImageFoundOnClipboard</note>
-        <target xml:lang="sw" state="translated">Bloom ilishindwa kutafsiri yaliyomo kwenye ubao nakili kama picha. Labda ilikuwa faili iliyoharibiwa, au kubwa sana. Jaribu kunakili kitu kingine.</target>
+        <target xml:lang="sw" state="final">Bloom ilishindwa kutafsiri yaliyomo kwenye ubao nakili kama picha. Labda ilikuwa faili iliyoharibiwa, au kubwa sana. Jaribu kunakili kitu kingine.</target>
       </trans-unit>
       <trans-unit id="EditTab.NoOtherLayouts">
         <source xml:lang="en">There are no other options for this template.</source>
         <note>ID: EditTab.NoOtherLayouts</note>
         <note>Show in the size/orientation chooser dropdown of the edit tab, if there was only a single choice</note>
-        <target xml:lang="sw" state="translated">Hakuna chaguo lingine la miundo kwa kigezo hiki.</target>
+        <target xml:lang="sw" state="translated">Hakuna chaguo lingine kwa kiolezo hiki.</target>
       </trans-unit>
       <trans-unit id="EditTab.Overflow" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This box has more text than will fit</source>
@@ -2148,10 +2148,10 @@
         <note>ID: EditTab.PasteButton.ToolTipWhenDisabled</note>
         <target xml:lang="sw" state="final">Hakuna chochote kwenye klipbodi ambacho unaweza kuweka hapa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.PastePage">
+      <trans-unit id="EditTab.PastePage" approved="yes">
         <source xml:lang="en">Paste Page</source>
         <note>ID: EditTab.PastePage</note>
-        <target xml:lang="sw" state="translated">Bandika Ukurasa</target>
+        <target xml:lang="sw" state="final">Bandika Ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.ReadOnlyInAuthorMode" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You cannot put anything in there while making an original book.</source>
@@ -2162,12 +2162,12 @@
         <source xml:lang="en">To use this feature, you'll need to enable Bloom Enterprise.</source>
         <note>ID: EditTab.RequiresEnterprise</note>
         <note>Appears in notice (possibly obscuring other controls when they may not be used) because no Bloom Enterprise project has been selected.</note>
-        <target xml:lang="sw" state="translated">Ili kutumia huduma hii, utahitaji kuwezesha Bloom Enterprise.</target>
+        <target xml:lang="sw" state="translated">Ili kutumia kipengele hiki, utahitaji kuwezesha Bloom Enterprise.</target>
       </trans-unit>
-      <trans-unit id="EditTab.SavingNotification" sil:dynamic="true">
+      <trans-unit id="EditTab.SavingNotification" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Saving...</source>
         <note>ID: EditTab.SavingNotification</note>
-        <target xml:lang="sw" state="translated">Hifadhi...</target>
+        <target xml:lang="sw" state="final">Hifadhi...</target>
       </trans-unit>
       <trans-unit id="EditTab.SourceBubbleCopied" sil:dynamic="true">
         <source xml:lang="en">Copied</source>
