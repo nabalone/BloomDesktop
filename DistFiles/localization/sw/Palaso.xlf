@@ -80,7 +80,7 @@
       <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="sw" state="translated">La/Hapana</target>
+        <target xml:lang="sw" state="translated">Hapana</target>
       </trans-unit>
       <trans-unit id="Common.NoButton">
         <source xml:lang="en">&amp;No</source>
@@ -92,10 +92,10 @@
         <note>ID: Common.OKButton</note>
         <target xml:lang="sw" state="final">&amp;Sawa</target>
       </trans-unit>
-      <trans-unit id="Common.RetryButton">
+      <trans-unit id="Common.RetryButton" approved="yes">
         <source xml:lang="en">&amp;Retry</source>
         <note>ID: Common.RetryButton</note>
-        <target xml:lang="sw" state="translated">&amp;Jaribu tena</target>
+        <target xml:lang="sw" state="final">&amp;Jaribu tena</target>
       </trans-unit>
       <trans-unit id="Common.Yes" approved="yes">
         <source xml:lang="en">Yes</source>
@@ -107,11 +107,11 @@
         <note>ID: Common.YesButton</note>
         <target xml:lang="sw" state="translated">&amp;Ndiyo</target>
       </trans-unit>
-      <trans-unit id="CustomIdentifierView.betterLabel1">
+      <trans-unit id="CustomIdentifierView.betterLabel1" approved="yes">
         <source xml:lang="en">RFC5646 code:</source>
         <note>ID: CustomIdentifierView.betterLabel1</note>
         <note>label describes the code for a custom identifier. Translate only 'code'</note>
-        <target xml:lang="sw" state="translated">Msimbo RFC5646:</target>
+        <target xml:lang="sw" state="final">Msimbo RFC5646:</target>
       </trans-unit>
       <trans-unit id="CustomIdentifierView.linkLabel1" approved="yes">
         <source xml:lang="en">Read about language identifiers on the web</source>
