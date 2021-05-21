@@ -1303,7 +1303,7 @@
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutConvertBookCheckbox" sil:dynamic="true">
         <source xml:lang="en">Change all similar pages in this book to this layout.</source>
         <note>ID: EditTab.AddPageDialog.ChooseLayoutConvertBookCheckbox</note>
-        <target xml:lang="sw" state="translated">Badilisha kurasa zote zinazofanana katika kitabu hiki kwa mpangilio huu.</target>
+        <target xml:lang="sw" state="translated">Badilisha kurasa zote zinazofanana katika kitabu hiki ziwe na muundo huu.</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutTitle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose Different Layout...</source>
@@ -1318,19 +1318,19 @@
       <trans-unit id="EditTab.AddPageDialog.DigitalPage" sil:dynamic="true">
         <source xml:lang="en">This kind of page will be included only in digital book outputs, not in PDF.</source>
         <note>ID: EditTab.AddPageDialog.DigitalPage</note>
-        <target xml:lang="sw" state="translated">Aina hii ya ukurasa itajumuishwa tu kwenye matokeo ya kitabu cha dijiti, sio kwa PDF.</target>
+        <target xml:lang="sw" state="translated">Aina hii ya ukurasa itajumuishwa tu kwenye matokeo ya kitabu cha kidijitali, sio kwa PDF.</target>
       </trans-unit>
-      <trans-unit id="EditTab.AddPageDialog.NoTemplate" sil:dynamic="true">
+      <trans-unit id="EditTab.AddPageDialog.NoTemplate" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Could not find {0}</source>
         <note>ID: EditTab.AddPageDialog.NoTemplate</note>
         <note>Seen when the book's main template page file is missing.</note>
         <note xml:lang="en">OLD TEXT (before 3.9): (no template file found)</note>
-        <target xml:lang="sw" state="translated">Haipatikani {0}</target>
+        <target xml:lang="sw" state="final">Haipatikani {0}</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.NumberOfPagesTooltip" sil:dynamic="true">
         <source xml:lang="en">Number of pages to add</source>
         <note>ID: EditTab.AddPageDialog.NumberOfPagesTooltip</note>
-        <target xml:lang="sw" state="translated">Idadi ya Kurasa ya kuongeza</target>
+        <target xml:lang="sw" state="translated">Idadi ya Kurasa za kuongeza</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Page...</source>
@@ -1400,10 +1400,10 @@
         <note>ID: EditTab.ContentLanguagesDropdown.ToolTip</note>
         <target xml:lang="sw" state="final">Chagua lugha ili kufanya hiki kuwa kitabu cha lugha mbili au lugha tatu</target>
       </trans-unit>
-      <trans-unit id="EditTab.ContentLanguagesDropdown_ToolTip_">
+      <trans-unit id="EditTab.ContentLanguagesDropdown_ToolTip_" approved="yes">
         <source xml:lang="en">Choose language to make this a bilingual or trilingual book</source>
         <note>ID: EditTab.ContentLanguagesDropdown_ToolTip_</note>
-        <target xml:lang="sw" state="translated">Chagua lugha ili kukifanya kitabu hiki kuwa cha lugha mbili au lugha tatu</target>
+        <target xml:lang="sw" state="final">Chagua lugha ili kukifanya kitabu hiki kuwa cha lugha mbili au lugha tatu</target>
       </trans-unit>
       <trans-unit id="EditTab.CopyButton" approved="yes">
         <source xml:lang="en">Copy</source>
@@ -1426,10 +1426,10 @@
         <note>get this after you edit the metadata of an image</note>
         <target xml:lang="sw" state="final">Nakili habari hii kwenye picha zote katika kitabu hiki?</target>
       </trans-unit>
-      <trans-unit id="EditTab.CopyPage">
+      <trans-unit id="EditTab.CopyPage" approved="yes">
         <source xml:lang="en">Copy Page</source>
         <note>ID: EditTab.CopyPage</note>
-        <target xml:lang="sw" state="translated">Nakili ukurasa</target>
+        <target xml:lang="sw" state="final">Nakili ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.CustomPage.ChangeLayout" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change Layout</source>
@@ -1497,11 +1497,11 @@
         <note>Button that tells Bloom to delete the currently selected page.</note>
         <target xml:lang="sw" state="final">Ukurasa huu hauwezi kutolewa</target>
       </trans-unit>
-      <trans-unit id="EditTab.DirectFormatting.Bold" sil:dynamic="true">
+      <trans-unit id="EditTab.DirectFormatting.Bold" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bold</source>
         <note>ID: EditTab.DirectFormatting.Bold</note>
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
-        <target xml:lang="sw" state="translated">Herufi nzito</target>
+        <target xml:lang="sw" state="final">Herufi nzito</target>
       </trans-unit>
       <trans-unit id="EditTab.DirectFormatting.Italic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Italic</source>
@@ -1509,11 +1509,11 @@
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
         <target xml:lang="sw" state="final">Italiki</target>
       </trans-unit>
-      <trans-unit id="EditTab.DirectFormatting.Superscript" sil:dynamic="true">
+      <trans-unit id="EditTab.DirectFormatting.Superscript" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Superscript</source>
         <note>ID: EditTab.DirectFormatting.Superscript</note>
         <note>This is for the 4-button panel that pops up when the user selects more than one character in a textbox.</note>
-        <target xml:lang="sw" state="translated">Hati juu</target>
+        <target xml:lang="sw" state="final">Hati juu</target>
       </trans-unit>
       <trans-unit id="EditTab.DirectFormatting.Underline" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Underline</source>
