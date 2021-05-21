@@ -1847,15 +1847,15 @@
         <note>ID: EditTab.FrontMatter.EditOriginalTitleCaption</note>
         <target xml:lang="sw" state="translated">Hariri mada asili</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.EditOriginalTitleLabel" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.EditOriginalTitleLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Original Title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitleLabel</note>
-        <target xml:lang="sw" state="translated">Mada Asili</target>
+        <target xml:lang="sw" state="final">Mada Asili</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.EditOriginalTitlePlaceholder" sil:dynamic="true">
         <source xml:lang="en">click to edit original title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitlePlaceholder</note>
-        <target xml:lang="sw" state="translated">bonyeza kuhariri kichwa asili</target>
+        <target xml:lang="sw" state="translated">bonyeza kuhariri mada asili</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.FullOriginalCopyrightLicenseSentence" sil:dynamic="true">
         <source xml:lang="en">Adapted from original, {0}, {1}. Licensed under {2}.</source>
@@ -1873,32 +1873,32 @@
         <note>ID: EditTab.FrontMatter.ISBNPrompt</note>
         <target xml:lang="sw" state="final">Nambari ya Wastani ya Kitabu ya Kimataifa. Acha wazi iwapo huna mojawapo ya hizi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.ImageCreditMissing">
+      <trans-unit id="EditTab.FrontMatter.ImageCreditMissing" approved="yes">
         <source xml:lang="en"> {0} (page {1})</source>
         <note>ID: EditTab.FrontMatter.MissingCredit</note>
         <note>The {0} is replaced by the filename of an image.  The {1} is replaced by a reference to the first page in the book where that image occurs.</note>
-        <target xml:lang="sw" state="translated"> {0} (ukurasa{1})</target>
+        <target xml:lang="sw" state="final"> {0} (ukurasa{1})</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.InsideFrontCoverTextPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">If you need somewhere to put more information about the book, you can use this page, which is the inside of the front cover.</source>
         <note>ID: EditTab.FrontMatter.InsideFrontCoverTextPrompt</note>
         <target xml:lang="sw" state="final">Iwapo unahitaji mahali pa kuandika habari zaidi kuhusu kitabu, unaweza kutumia ukurasa huu, ambao ni wa upande wa ndani wa jalada la mbele.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.ListSeparator">
+      <trans-unit id="EditTab.FrontMatter.ListSeparator" approved="yes">
         <source xml:lang="en">, </source>
         <note>ID: EditTab.FrontMatter.ListSeparator</note>
         <note>This is used to separate items in a list, such as 'Province, District, Country' on the Title Page. For English, that means comma followed by a space. Don't forget the space if your script uses them.</note>
-        <target xml:lang="sw" state="translated">, </target>
+        <target xml:lang="sw" state="final">, </target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.MarkTheBookEnd" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.MarkTheBookEnd" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end of the book.</source>
         <note>ID: EditTab.FrontMatter.MarkTheBookEnd</note>
-        <target xml:lang="sw" state="translated">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho wa kitabu.</target>
+        <target xml:lang="sw" state="final">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho wa kitabu.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MarkTheVideoEnd" sil:dynamic="true">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end.</source>
         <note>ID: EditTab.FrontMatter.MarkTheVideoEnd</note>
-        <target xml:lang="sw" state="translated">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ni mwisho.</target>
+        <target xml:lang="sw" state="translated">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.MultipleImageCredit">
         <source xml:lang="en">Images on pages {0} by {1}.</source>
@@ -1906,7 +1906,7 @@
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the list of page numbers should go and put {1} in the translation where the image credits should go. For example in English, 'Images on pages {0} by {1}.' comes out like 'Images on pages 1, 2, and 4 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Images on pages {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Picha kwenye Kurasa{0} kwa {1}.</target>
+        <target xml:lang="sw" state="translated">Picha kwenye Kurasa{0} na {1}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Name of Translator, in {lang}</source>
@@ -1935,11 +1935,11 @@
         <note>On the Credits page of a book being translated, Bloom shows this if the original book did not have a copyright notice.</note>
         <target xml:lang="sw" state="translated">Ilichukuliwa kutoka kwa asili bila ilani ya hakimiliki.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.OriginalLicenseSentence">
+      <trans-unit id="EditTab.FrontMatter.OriginalLicenseSentence" approved="yes">
         <source xml:lang="en">Licensed under {0}.</source>
         <note>ID: EditTab.FrontMatter.OriginalLicenseSentence</note>
         <note>On the Credits page of a book being translated, Bloom puts texts like 'Licensed under CC-BY', so that we have a record of what the license was for the original book. Put {0} in the translation, where the license should go in the sentence.</note>
-        <target xml:lang="sw" state="translated">Leseni chini ya{0}.</target>
+        <target xml:lang="sw" state="final">Leseni chini ya{0}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true">
         <source xml:lang="en">Paste Image Credits</source>
