@@ -2,10 +2,10 @@
 <xliff xmlns:sil="http://sil.org/software/XLiff" xmlns:html="http://www.w3.org/TR/html" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Bloom.exe" source-language="en" datatype="plaintext" product-version="3.1.000.0" sil:hard-linebreak-replacement="\n" target-language="sw">
     <body>
-      <trans-unit id="AccessibilityCheck.AccessibilityChecker" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.AccessibilityChecker" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Accessibility Checker</source>
         <note>ID: AccessibilityCheck.AccessibilityChecker</note>
-        <target xml:lang="sw" state="translated">Kikagua ufikikaji</target>
+        <target xml:lang="sw" state="final">Kikagua ufikikaji</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.ACEByDaisy" sil:dynamic="true">
         <source xml:lang="en">Ace by DAISY Automated Checks</source>
@@ -46,10 +46,10 @@
         <note>Used as the name on a tab of the Accessibility Checks screen.</note>
         <target xml:lang="sw" state="final">Orodha ya upatikanaji</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.descriptionsForAllImages" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.descriptionsForAllImages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Descriptions for all images</source>
         <note>ID: AccessibilityCheck.descriptionsForAllImages</note>
-        <target xml:lang="sw" state="translated">Maelezo ya picha zote</target>
+        <target xml:lang="sw" state="final">Maelezo ya picha zote</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.DescriptionsForAllImages.MissingOnPage" approved="yes">
         <source xml:lang="en">Missing image description on page {0}</source>
