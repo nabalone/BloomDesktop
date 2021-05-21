@@ -109,31 +109,31 @@
         <note>ID: AccessibilityCheck.ManualChecksHeading</note>
         <target xml:lang="sw" state="final">Unahitaji kukagua hizi mwenyewe:</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.noEssentialInfoByColor" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.noEssentialInfoByColor" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No essential information by color</source>
         <note>ID: AccessibilityCheck.noEssentialInfoByColor</note>
-        <target xml:lang="sw" state="translated">Hakuna habari muhimu kwa rangi</target>
+        <target xml:lang="sw" state="final">Hakuna habari muhimu kwa rangi</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.WindowTitle">
+      <trans-unit id="AccessibilityCheck.WindowTitle" approved="yes">
         <source xml:lang="en">Bloom Accessibility Checker</source>
         <note>ID: AccessibilityCheck.WindowTitle</note>
-        <target xml:lang="sw" state="translated">Kikagua ufikikaji cha Bloom</target>
+        <target xml:lang="sw" state="final">Kikagua ufikikaji cha Bloom</target>
       </trans-unit>
       <trans-unit id="AutoUpdateSoftwareDialog.SoftwareUpdates" sil:dynamic="true">
         <source xml:lang="en">Software Updates</source>
         <note>ID: AutoUpdateSoftwareDialog.SoftwareUpdates</note>
-        <target xml:lang="sw" state="translated">Sasisho la programu</target>
+        <target xml:lang="sw" state="translated">Sasisho za Programu</target>
       </trans-unit>
-      <trans-unit id="AutoUpdateSoftwareDialog.WhatShouldBloomDo" sil:dynamic="true">
+      <trans-unit id="AutoUpdateSoftwareDialog.WhatShouldBloomDo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">What should Bloom do when a new version is available?</source>
         <note>ID: AutoUpdateSoftwareDialog.WhatShouldBloomDo</note>
-        <target xml:lang="sw" state="translated">Bloom inapaswa kufanya nini wakati toleo jipya linapatikana?</target>
+        <target xml:lang="sw" state="final">Bloom inapaswa kufanya nini wakati toleo jipya linapatikana?</target>
       </trans-unit>
-      <trans-unit id="AutoUpdateSoftwareDialog.AutomaticUpdate" sil:dynamic="true">
+      <trans-unit id="AutoUpdateSoftwareDialog.AutomaticUpdate" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Automatically download and install it</source>
         <note>ID: AutoUpdateSoftwareDialog.AutomaticUpdate</note>
         <note>Radio button label</note>
-        <target xml:lang="sw" state="translated">Pakua kiatomati na usakinishe</target>
+        <target xml:lang="sw" state="final">Pakua kiatomati na usakinishe</target>
       </trans-unit>
       <trans-unit id="AutoUpdateSoftwareDialog.LetMeKnow" sil:dynamic="true">
         <source xml:lang="en">Just let me know about the new version</source>
