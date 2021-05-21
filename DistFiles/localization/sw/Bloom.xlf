@@ -299,17 +299,17 @@
       <trans-unit id="BookMetadata.flashingHazard">
         <source xml:lang="en">Flashing Hazard</source>
         <note>ID: BookMetadata.flashingHazard</note>
-        <target xml:lang="sw" state="translated">Ishara ya hatari</target>
+        <target xml:lang="sw" state="translated">Kuangaza Hatari</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.hazards">
+      <trans-unit id="BookMetadata.hazards" approved="yes">
         <source xml:lang="en">Hazards</source>
         <note>ID: BookMetadata.hazards</note>
-        <target xml:lang="sw" state="translated">Hatari</target>
+        <target xml:lang="sw" state="final">Hatari</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.inLanguage">
+      <trans-unit id="BookMetadata.inLanguage" approved="yes">
         <source xml:lang="en">Language</source>
         <note>ID: BookMetadata.inLanguage</note>
-        <target xml:lang="sw" state="translated">Lugha</target>
+        <target xml:lang="sw" state="final">Lugha</target>
       </trans-unit>
       <trans-unit id="BookMetadata.level" approved="yes">
         <source xml:lang="en">Reading level</source>
