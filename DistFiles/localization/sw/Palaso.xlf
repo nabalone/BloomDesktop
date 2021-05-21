@@ -707,7 +707,7 @@
         <source xml:lang="en">Etic (raw phonetic transcription)</source>
         <note>ID: WSIdentifiers.IpaIdentifierView.Etic</note>
         <note>Only translate text inside of the parentheses ()</note>
-        <target xml:lang="sw" state="translated">(nukuu mbichi ya kifonetiki)</target>
+        <target xml:lang="sw" state="translated">Etic (unukuzi wa kifonetiki ambao haujachakatwa)</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeyboardNotListed" approved="yes">
         <source xml:lang="en">If the keyboard you need is not listed, click the appropriate link below to set it up</source>
