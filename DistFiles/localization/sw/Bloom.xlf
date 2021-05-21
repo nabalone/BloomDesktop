@@ -79,10 +79,10 @@
         <note>The * and ** are footnote markers that should remain the same.</note>
         <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyowafaa watu wasio na uwezo wa kuona vizuri. Kwa muundo wa ePUB *, kuna uwezekano wa kutengeneza "Born Accessible" vitabu ambavyo huwafaa watu wote **, bila kujali uwezo wa kuona. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.LearnAbout.CheckerHas" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.LearnAbout.CheckerHas" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This tool, the Accessibility Checker, has:</source>
         <note>ID: AccessibilityCheck.LearnAbout.CheckerHas</note>
-        <target xml:lang="sw" state="translated">Zana hii, Kikaguaji fikivu, ina:</target>
+        <target xml:lang="sw" state="final">Zana hii, Kikaguaji fikivu, ina:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.AccessibilityCheckList" sil:dynamic="true">
         <source xml:lang="en">The "Accessibility Checklist" which is where Bloom checks over your book and points you to anything that needs attention, especially for speakers of minority languages.</source>
