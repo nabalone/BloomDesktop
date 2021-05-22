@@ -22,7 +22,7 @@
       <trans-unit id="AboutDialog._checkForUpdates" approved="yes">
         <source xml:lang="en">Check For Updates</source>
         <note>ID: AboutDialog._checkForUpdates</note>
-        <target xml:lang="sw" state="final">Tafuta utengenezaji upya</target>
+        <target xml:lang="sw" state="final">Angalia vilivyojiri vipya</target>
       </trans-unit>
       <trans-unit id="AboutDialog._releaseNotesLabel" approved="yes">
         <source xml:lang="en">Release Notes</source>
@@ -54,13 +54,13 @@
       <trans-unit id="Application.WaitingFinish.General" approved="yes">
         <source xml:lang="en">Waiting for other application to finish...</source>
         <note>ID: Application.WaitingFinish.General</note>
-        <target xml:lang="sw" state="final">Kungoja programu nyingine kumaliza...</target>
+        <target xml:lang="sw" state="final">Inangojea programu nyingine imalize...</target>
       </trans-unit>
       <trans-unit id="Application.WaitingFinish.Specific" approved="yes">
         <source xml:lang="en">Waiting for other {0} to finish...</source>
         <note>ID: Application.WaitingFinish.Specific</note>
         <note>{0} is the application name</note>
-        <target xml:lang="sw" state="final">Kungoja {0} nyingine kumaliza...</target>
+        <target xml:lang="sw" state="final">Inangojea nyingine {0} imalize...</target>
       </trans-unit>
       <trans-unit id="Common.AbortButton" approved="yes">
         <source xml:lang="en">&amp;Abort</source>
