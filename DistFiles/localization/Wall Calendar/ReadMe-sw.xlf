@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="wall.calendar.thanks" approved="yes">
         <source xml:lang="en">Thanks to Bruce Cox (SIL Cameroon) for getting this template started.</source>
-        <target xml:lang="sw" state="final">Shukrani kwa Bruce Cox (SIL Cameroon) kwa kuanzisha kielelezo hiki.</target>
+        <target xml:lang="sw" state="final">Shukrani kwa Bruce Cox (SIL Kameruni) kwa kufanya kiolezo hiki kianze.</target>
         <note>ID: wall.calendar.thanks</note>
       </trans-unit>
     </body>
