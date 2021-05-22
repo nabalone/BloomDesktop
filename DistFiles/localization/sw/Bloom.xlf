@@ -1169,11 +1169,11 @@
         <note>In a wizard, this button takes you to the next step.</note>
         <target xml:lang="sw" state="final">Inayofuata</target>
       </trans-unit>
-      <trans-unit id="Common.Note">
+      <trans-unit id="Common.Note" approved="yes">
         <source xml:lang="en">Note</source>
         <note>ID: Common.Note</note>
         <note>A heading shown above some messages.</note>
-        <target xml:lang="sw" state="translated">Tanbihi</target>
+        <target xml:lang="sw" state="final">Tanbihi</target>
       </trans-unit>
       <trans-unit id="Common.OK" approved="yes">
         <source xml:lang="en">OK</source>
@@ -1223,11 +1223,11 @@
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
         <target xml:lang="sw" state="final">Tazama {0}.</target>
       </trans-unit>
-      <trans-unit id="Common.SelectAll">
+      <trans-unit id="Common.SelectAll" approved="yes">
         <source xml:lang="en">Select all</source>
         <note>ID: Common.SelectAll</note>
         <note>used for a menu item for selecting all text in a text box</note>
-        <target xml:lang="sw" state="translated">Chagua yote/zote/vyote</target>
+        <target xml:lang="sw" state="final">Chagua yote/zote/vyote</target>
       </trans-unit>
       <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
@@ -1300,10 +1300,10 @@
         <note>ID: EditTab.AddPageDialog.ChooseLayoutContinueCheckbox</note>
         <target xml:lang="sw" state="final">Endelea hata hivyo</target>
       </trans-unit>
-      <trans-unit id="EditTab.AddPageDialog.ChooseLayoutConvertBookCheckbox" sil:dynamic="true">
+      <trans-unit id="EditTab.AddPageDialog.ChooseLayoutConvertBookCheckbox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change all similar pages in this book to this layout.</source>
         <note>ID: EditTab.AddPageDialog.ChooseLayoutConvertBookCheckbox</note>
-        <target xml:lang="sw" state="translated">Badilisha kurasa zote zinazofanana katika kitabu hiki ziwe na muundo huu.</target>
+        <target xml:lang="sw" state="final">Badilisha kurasa zote zinazofanana katika kitabu hiki ziwe na muundo huu.</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutTitle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose Different Layout...</source>
@@ -1315,10 +1315,10 @@
         <note>ID: EditTab.AddPageDialog.ChooseLayoutWillLoseData</note>
         <target xml:lang="sw" state="final">Kubadilisha kwa muundo huu kutafanya baadhi ya yaliyomo kupotea.</target>
       </trans-unit>
-      <trans-unit id="EditTab.AddPageDialog.DigitalPage" sil:dynamic="true">
+      <trans-unit id="EditTab.AddPageDialog.DigitalPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This kind of page will be included only in digital book outputs, not in PDF.</source>
         <note>ID: EditTab.AddPageDialog.DigitalPage</note>
-        <target xml:lang="sw" state="translated">Aina hii ya ukurasa itajumuishwa tu kwenye matokeo ya kitabu cha kidijitali, sio kwa PDF.</target>
+        <target xml:lang="sw" state="final">Aina hii ya ukurasa itajumuishwa tu kwenye matokeo ya kitabu cha kidijitali, sio kwa PDF.</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.NoTemplate" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Could not find {0}</source>
@@ -1327,10 +1327,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9): (no template file found)</note>
         <target xml:lang="sw" state="final">Haipatikani {0}</target>
       </trans-unit>
-      <trans-unit id="EditTab.AddPageDialog.NumberOfPagesTooltip" sil:dynamic="true">
+      <trans-unit id="EditTab.AddPageDialog.NumberOfPagesTooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Number of pages to add</source>
         <note>ID: EditTab.AddPageDialog.NumberOfPagesTooltip</note>
-        <target xml:lang="sw" state="translated">Idadi ya Kurasa za kuongeza</target>
+        <target xml:lang="sw" state="final">Idadi ya Kurasa za kuongeza</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Page...</source>
@@ -1646,11 +1646,11 @@
         <note>Style appears when editing image descriptions. The trailing 'edit' indicates that it is just used for editing the description, not for publishing it.</note>
         <target xml:lang="sw" state="final">Hariri ya maelezo ya picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Equation-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Equation-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Equation</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Equation-style</note>
         <note>Used on the Arithmetic template</note>
-        <target xml:lang="sw" state="translated">Mlingano</target>
+        <target xml:lang="sw" state="final">Mlingano</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.Heading1-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Heading 1</source>
@@ -1738,10 +1738,10 @@
         <note>ID: EditTab.FormatDialog.Format</note>
         <target xml:lang="sw" state="final">mpangilio</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.Indent" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.Indent" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Indent</source>
         <note>ID: EditTab.FormatDialog.Indent</note>
-        <target xml:lang="sw" state="translated">Jongeza</target>
+        <target xml:lang="sw" state="final">Jongeza</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.LineSpacingToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change the spacing between lines of text</source>
@@ -1842,26 +1842,26 @@
         <note>Put {lang} in your translation, so it can be replaced by the language name.</note>
         <target xml:lang="sw" state="final">Shukrani za toleo hili, katika {lang}. Kwa mfano, mpe sifa mtafsiri kwa toleo hili.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.EditOriginalTitleCaption" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.EditOriginalTitleCaption" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Edit Original Title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitleCaption</note>
-        <target xml:lang="sw" state="translated">Hariri mada asili</target>
+        <target xml:lang="sw" state="final">Hariri mada asili</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.EditOriginalTitleLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Original Title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitleLabel</note>
         <target xml:lang="sw" state="final">Mada Asili</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.EditOriginalTitlePlaceholder" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.EditOriginalTitlePlaceholder" sil:dynamic="true" approved="yes">
         <source xml:lang="en">click to edit original title</source>
         <note>ID: EditTab.FrontMatter.EditOriginalTitlePlaceholder</note>
-        <target xml:lang="sw" state="translated">bonyeza kuhariri mada asili</target>
+        <target xml:lang="sw" state="final">bonyeza kuhariri mada asili</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.FullOriginalCopyrightLicenseSentence" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.FullOriginalCopyrightLicenseSentence" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Adapted from original, {0}, {1}. Licensed under {2}.</source>
         <note>ID: EditTab.FrontMatter.FullOriginalCopyrightLicenseSentence</note>
         <note>On the Credits page of a book being translated, Bloom shows the original copyright. {0} is original title, {1} is original copyright, and {2} is license information.</note>
-        <target xml:lang="sw" state="translated">Kimechukuliwa kutoka kwa asili,{0},{1}. Leseni chini ya {2}.</target>
+        <target xml:lang="sw" state="final">Kimechukuliwa kutoka kwa asili,{0},{1}. Leseni chini ya {2}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.FundingAgenciesPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Use this to acknowledge any funding agencies.</source>
@@ -1895,18 +1895,18 @@
         <note>ID: EditTab.FrontMatter.MarkTheBookEnd</note>
         <target xml:lang="sw" state="final">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho wa kitabu.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.MarkTheVideoEnd" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.MarkTheVideoEnd" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Something to tell the reader/viewer that this is the end.</source>
         <note>ID: EditTab.FrontMatter.MarkTheVideoEnd</note>
-        <target xml:lang="sw" state="translated">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho.</target>
+        <target xml:lang="sw" state="final">Kitu cha kumwambia msomaji / mtazamaji kuwa huu ndio mwisho.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.MultipleImageCredit">
+      <trans-unit id="EditTab.FrontMatter.MultipleImageCredit" approved="yes">
         <source xml:lang="en">Images on pages {0} by {1}.</source>
         <note>ID: EditTab.FrontMatter.MultipleImageCredit</note>
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the list of page numbers should go and put {1} in the translation where the image credits should go. For example in English, 'Images on pages {0} by {1}.' comes out like 'Images on pages 1, 2, and 4 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Images on pages {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Picha kwenye Kurasa{0} na {1}.</target>
+        <target xml:lang="sw" state="final">Picha kwenye Kurasa{0} na {1}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Name of Translator, in {lang}</source>
@@ -1923,17 +1923,17 @@
         <note>ID: EditTab.FrontMatter.OriginalContributorsPrompt</note>
         <target xml:lang="sw" state="final">Mchango uliotolewa na waandishi, wafundishi, wahakiki, na kadhalika katika {lang}</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.OriginalCopyrightSentence">
+      <trans-unit id="EditTab.FrontMatter.OriginalCopyrightSentence" approved="yes">
         <source xml:lang="en">Adapted from original, {0}.</source>
         <note>ID: EditTab.FrontMatter.OriginalCopyrightSentence</note>
         <note>On the Credits page of a book being translated, Bloom shows the original copyright. Put {0} in the translation where the copyright notice should go. For example in English, 'Adapted from original, {0}.' comes out like 'Adapted from original, Copyright 2011 SIL'.</note>
-        <target xml:lang="sw" state="translated">Ilichukuliwa kutoka asili,{0}.</target>
+        <target xml:lang="sw" state="final">Ilichukuliwa kutoka asili,{0}.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.OriginalHadNoCopyrightSentence">
+      <trans-unit id="EditTab.FrontMatter.OriginalHadNoCopyrightSentence" approved="yes">
         <source xml:lang="en">Adapted from original without a copyright notice.</source>
         <note>ID: EditTab.FrontMatter.OriginalHadNoCopyrightSentence</note>
         <note>On the Credits page of a book being translated, Bloom shows this if the original book did not have a copyright notice.</note>
-        <target xml:lang="sw" state="translated">Ilichukuliwa kutoka kwa asili bila ilani ya hakimiliki.</target>
+        <target xml:lang="sw" state="final">Ilichukuliwa kutoka kwa asili bila ilani ya hakimiliki.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalLicenseSentence" approved="yes">
         <source xml:lang="en">Licensed under {0}.</source>
@@ -1941,28 +1941,28 @@
         <note>On the Credits page of a book being translated, Bloom puts texts like 'Licensed under CC-BY', so that we have a record of what the license was for the original book. Put {0} in the translation, where the license should go in the sentence.</note>
         <target xml:lang="sw" state="final">Leseni chini ya{0}.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true">
+      <trans-unit id="EditTab.FrontMatter.PasteImageCreditsLink" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paste Image Credits</source>
         <note>ID: EditTab.FrontMatter.PasteImageCreditsLink</note>
-        <target xml:lang="sw" state="translated">Weka sifa za picha</target>
+        <target xml:lang="sw" state="final">Weka sifa za picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.PasteMissingCredits">
+      <trans-unit id="EditTab.FrontMatter.PasteMissingCredits" approved="yes">
         <source xml:lang="en">Missing credits:</source>
         <note>ID: EditTab.FrontMatter.PasteMissingCredits</note>
-        <target xml:lang="sw" state="translated">Sifa Zilizokosekana:</target>
+        <target xml:lang="sw" state="final">Sifa Zilizokosekana:</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</source>
         <note>ID: EditTab.FrontMatter.SimpleLineDrawings</note>
         <target xml:lang="sw" state="final">Michoro rahisi ya laini inaonekana bora. Badala ya kutumia ukurasa huu, unaweza pia kutengeneza faili yako ya kijipicha.png na kuiweka kwa Soma tu ili Bloom isiandike juu yake.</target>
       </trans-unit>
-      <trans-unit id="EditTab.FrontMatter.SingleImageCredit">
+      <trans-unit id="EditTab.FrontMatter.SingleImageCredit" approved="yes">
         <source xml:lang="en">Image on page {0} by {1}.</source>
         <note>ID: EditTab.FrontMatter.SingleImageCredit</note>
         <note>Used on the Title page of a book when "Paste Image Credits" is clicked. Put {0} in the translation where the page number of an image should go and put {1} in the translation where the image credits should go. For example in English, 'Image on page {0} by {1}.' comes out like 'Image on page 3 by John Doe, Copyright John Doe 2017, CC-BY-NC.'</note>
         <note xml:lang="en">OLD TEXT (early 4.1, remove quotation marks): "Image on page {0} by {1}."</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Picha kwenye ukurasa{0} na{1}.</target>
+        <target xml:lang="sw" state="final">Picha kwenye ukurasa{0} na{1}.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.TopicPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click to choose topic</source>
@@ -1995,10 +1995,10 @@
         <note>ID: EditTab.Image.CopyImage</note>
         <target xml:lang="sw" state="final">Nakili Picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.CopyImageFailed" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.CopyImageFailed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom had problems using your computer's clipboard. Some other program may be interfering.</source>
         <note>ID: EditTab.Image.CopyImageFailed</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo kutumia ubao nakili wa kompyuta yako. Programu nyingine inaweza kuwa inaingilia.</target>
+        <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo kutumia ubao nakili wa kompyuta yako. Programu nyingine inaweza kuwa inaingilia.</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.Corrupt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom was not able to load {0}. The file may be corrupted. Please try another image. Here are some technical details: </source>
@@ -2017,20 +2017,20 @@
         <note xml:lang="en">OLD TEXT (before 3.9): Edit Image Credits, Copyright, and License</note>
         <target xml:lang="sw" state="final">Hariri Sifa za Picha, Hakimiliki, &amp; Leseni</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.MissingInfo" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.MissingInfo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image is missing information on Credits, Copyright, or License</source>
         <note>ID: EditTab.Image.MissingInfo</note>
-        <target xml:lang="sw" state="translated">Picha inakosa habari kwenye Sifa, Hakimiliki, au Leseni</target>
+        <target xml:lang="sw" state="final">Picha inakosa habari kwenye Sifa, Hakimiliki, au Leseni</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.PasteImage" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.PasteImage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paste Image</source>
         <note>ID: EditTab.Image.PasteImage</note>
-        <target xml:lang="sw" state="translated">Bandika Picha</target>
+        <target xml:lang="sw" state="final">Bandika Picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true">
+      <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom ran out of memory loading this image ({0}), which is quite large ({1} by {2} pixels). Click Help for suggestions.</source>
         <note>ID: EditTab.Image.TooLarge</note>
-        <target xml:lang="sw" state="translated">Bloom iliishiwa na kumbukumbu ya kupakia picha hii ({0}), ambayo ni kubwa kabisa ({1} kwa saizi {2}). Bonyeza Msaada kwa mapendekezo.</target>
+        <target xml:lang="sw" state="final">Bloom iliishiwa na kumbukumbu ya kupakia picha hii ({0}), ambayo ni kubwa kabisa ({1} kwa saizi {2}). Bonyeza Msaada kwa mapendekezo.</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.TryRestart" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Try closing other programs and restart your computer if necessary.</source>
@@ -2101,11 +2101,11 @@
         <note>ID: EditTab.NoValidImageFoundOnClipboard</note>
         <target xml:lang="sw" state="final">Bloom ilishindwa kutafsiri yaliyomo kwenye ubao nakili kama picha. Labda ilikuwa faili iliyoharibiwa, au kubwa sana. Jaribu kunakili kitu kingine.</target>
       </trans-unit>
-      <trans-unit id="EditTab.NoOtherLayouts">
+      <trans-unit id="EditTab.NoOtherLayouts" approved="yes">
         <source xml:lang="en">There are no other options for this template.</source>
         <note>ID: EditTab.NoOtherLayouts</note>
         <note>Show in the size/orientation chooser dropdown of the edit tab, if there was only a single choice</note>
-        <target xml:lang="sw" state="translated">Hakuna chaguo lingine kwa kiolezo hiki.</target>
+        <target xml:lang="sw" state="final">Hakuna chaguo lingine kwa kiolezo hiki.</target>
       </trans-unit>
       <trans-unit id="EditTab.Overflow" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This box has more text than will fit</source>
@@ -2128,20 +2128,20 @@
         <note>ID: EditTab.PageList.Heading</note>
         <target xml:lang="sw" state="final">Kurasa</target>
       </trans-unit>
-      <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip">
+      <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: EditTab.PageSizeAndOrientation.Tooltip</note>
-        <target xml:lang="sw" state="translated">Chagua ukubwa wa ukurasa na mwelekeo</target>
+        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na mwelekeo</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton" approved="yes">
         <source xml:lang="en">Paste</source>
         <note>ID: EditTab.PasteButton</note>
         <target xml:lang="sw" state="final">Bandika</target>
       </trans-unit>
-      <trans-unit id="EditTab.PasteButton.ToolTip">
+      <trans-unit id="EditTab.PasteButton.ToolTip" approved="yes">
         <source xml:lang="en">Paste (Ctrl+V)</source>
         <note>ID: EditTab.PasteButton.ToolTip</note>
-        <target xml:lang="sw" state="translated">Bandika (Ctrl+V)</target>
+        <target xml:lang="sw" state="final">Bandika (Ctrl+V)</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton.ToolTipWhenDisabled" approved="yes">
         <source xml:lang="en">There is nothing on the Clipboard that you can paste here.</source>
@@ -2158,74 +2158,74 @@
         <note>ID: EditTab.ReadOnlyInAuthorMode</note>
         <target xml:lang="sw" state="final">Huwezi kuweka chochote pale ndani unapotengeneza kitabu cha kwanza.</target>
       </trans-unit>
-      <trans-unit id="EditTab.RequiresEnterprise" sil:dynamic="true">
+      <trans-unit id="EditTab.RequiresEnterprise" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To use this feature, you'll need to enable Bloom Enterprise.</source>
         <note>ID: EditTab.RequiresEnterprise</note>
         <note>Appears in notice (possibly obscuring other controls when they may not be used) because no Bloom Enterprise project has been selected.</note>
-        <target xml:lang="sw" state="translated">Ili kutumia kipengele hiki, utahitaji kuwezesha Bloom Enterprise.</target>
+        <target xml:lang="sw" state="final">Ili kutumia kipengele hiki, utahitaji kuwezesha Bloom Enterprise.</target>
       </trans-unit>
       <trans-unit id="EditTab.SavingNotification" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Saving...</source>
         <note>ID: EditTab.SavingNotification</note>
         <target xml:lang="sw" state="final">Hifadhi...</target>
       </trans-unit>
-      <trans-unit id="EditTab.SourceBubbleCopied" sil:dynamic="true">
+      <trans-unit id="EditTab.SourceBubbleCopied" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Copied</source>
         <note>ID: EditTab.SourceBubbleCopied</note>
         <note>Displays briefly when the user clicks the copy icon in a source bubble.</note>
-        <target xml:lang="sw" state="translated">Kunakiliwa</target>
+        <target xml:lang="sw" state="final">Kunakiliwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.Alignment" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.Alignment" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Alignment</source>
         <note>ID: EditTab.TextBoxProperties.Alignment</note>
-        <target xml:lang="sw" state="translated">Mpangilio</target>
+        <target xml:lang="sw" state="final">Mpangilio</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Background" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Background</source>
         <note>ID: EditTab.TextBoxProperties.Background</note>
         <target xml:lang="sw" state="final">Usuli</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.BorderSides" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.BorderSides" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Border Sides</source>
         <note>ID: EditTab.TextBoxProperties.BorderSides</note>
-        <target xml:lang="sw" state="translated">Pande za mpaka</target>
+        <target xml:lang="sw" state="final">Pande za mpaka</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.BorderStyle" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.BorderStyle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Border Style</source>
         <note>ID: EditTab.TextBoxProperties.BorderStyle</note>
-        <target xml:lang="sw" state="translated">Mtindo wa Mpaka</target>
+        <target xml:lang="sw" state="final">Mtindo wa Mpaka</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.BordersAndBackground" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.BordersAndBackground" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Borders &amp; Background</source>
         <note>ID: EditTab.TextBoxProperties.BordersAndBackground</note>
-        <target xml:lang="sw" state="translated">Mipaka&amp; Usuli</target>
+        <target xml:lang="sw" state="final">Mipaka&amp; Usuli</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage2" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Collection Language 2</source>
         <note>ID: EditTab.TextBoxProperties.CollectionLanguage2</note>
-        <target xml:lang="sw" state="translated">Mkusanyiko wa Lugha 2</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa Lugha 2</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage3" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.CollectionLanguage3" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Collection Language 3</source>
         <note>ID: EditTab.TextBoxProperties.CollectionLanguage3</note>
-        <target xml:lang="sw" state="translated">Mkusanyiko wa Lugha 3</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa Lugha 3</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.HintBubbles" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.HintBubbles" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Hint Bubbles</source>
         <note>ID: EditTab.TextBoxProperties.HintBubbles</note>
         <note>This is the label of a tab in the text properties dialog that appears when you click a cog icon in a text box while changing the layout of a page</note>
-        <target xml:lang="sw" state="translated">Kiputo cha vidokezo</target>
+        <target xml:lang="sw" state="final">Viputo vha Vidokezo</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.IncludeLang" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.IncludeLang" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Include the name of the language using {lang}. For example: "Enter color in {lang}".</source>
         <note>ID: EditTab.TextBoxProperties.IncludeLang</note>
         <note>Becomes visible when "Show on each" option is chosen in combo. Do NOT translate {lang}.</note>
-        <target xml:lang="sw" state="translated">Jumuisha jina la lugha inayotumia {lang}. Kwa mfano: "Ingiza rangi kwenye {lang}".</target>
+        <target xml:lang="sw" state="final">Jumuisha jina la lugha inayotumia {lang}. Kwa mfano: "Ingiza rangi kwenye {lang}".</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.LanguageTab" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.LanguageTab" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Language</source>
         <note>ID: EditTab.TextBoxProperties.LanguageTab</note>
-        <target xml:lang="sw" state="translated">Lugha</target>
+        <target xml:lang="sw" state="final">Lugha</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Local Language</source>
@@ -2418,10 +2418,10 @@
         <note>ID: EditTab.Toolbox.ComicTool.Options.TextColor</note>
         <target xml:lang="sw" state="final">Rangi ya maandishi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.TextBlock" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.TextBlock" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Block</source>
         <note>ID: EditTab.Toolbox.ComicTool.TextBlock</note>
-        <target xml:lang="sw" state="translated">Kijisanduku cha maandishi</target>
+        <target xml:lang="sw" state="final">Kijisanduku cha maandishi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer" sil:dynamic="true">
         <source xml:lang="en">Impairment Visualizer</source>
@@ -3524,17 +3524,17 @@
       <trans-unit id="LayoutChoices.B5Portrait" sil:dynamic="true">
         <source xml:lang="en">B5 Portrait</source>
         <note>ID: LayoutChoices.B5Portrait</note>
-        <target xml:lang="sw" state="translated">Picha ya B5</target>
+        <target xml:lang="sw" state="translated">Ukurasa wima wa B5</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.Device16x9Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.Device16x9Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Device16x9 Landscape</source>
         <note>ID: LayoutChoices.Device16x9Landscape</note>
-        <target xml:lang="sw" state="translated">Kifaa16X9 Kurasa mlalo</target>
+        <target xml:lang="sw" state="final">Kifaa16X9 Kurasa mlalo</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.Device16x9Portrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.Device16x9Portrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Device16x9 Portrait</source>
         <note>ID: LayoutChoices.Device16x9Portrait</note>
-        <target xml:lang="sw" state="translated">Kifaa 16X9 Kurasa wima</target>
+        <target xml:lang="sw" state="final">Kifaa 16X9 Kurasa wima</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.HalfLetterLandscape" sil:dynamic="true">
         <source xml:lang="en">HalfLetter Landscape</source>
@@ -3546,10 +3546,10 @@
         <note>ID: LayoutChoices.HalfLetterPortrait</note>
         <target xml:lang="sw" state="translated">PIcha ya Nusu Herufi</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Letter Landscape</source>
         <note>ID: LayoutChoices.LetterLandscape</note>
-        <target xml:lang="sw" state="translated">Muundo wa Herufi</target>
+        <target xml:lang="sw" state="final">Muundo wa Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.LetterPortrait" sil:dynamic="true">
         <source xml:lang="en">Letter Portrait</source>
