@@ -22,9 +22,9 @@
         <target xml:lang="sw" state="final">Anza mtandao ukitumia kompyuta yako ndogo</target>
         <note>ID: publish.help.tips.tempWiFi.hostednetwork</note>
       </trans-unit>
-      <trans-unit id="publish.help.tips.tempWiFi.hostednetwork.text">
+      <trans-unit id="publish.help.tips.tempWiFi.hostednetwork.text" approved="yes">
         <source xml:lang="en">Windows 10 laptops can also create local Wi-Fi networks. Do a web search for "windows netsh hostednetwork". If your laptop does not support this, you can get inexpensive USB Wi-Fi adaptors that do. When shopping, make sure the adaptor supports "hosted network".</source>
-        <target xml:lang="sw" state="translated">Kompyuta ndogo za Windows 10 zinaweza pia kuunda mitandao ya ndani ya Wi-Fi. Tafuta kwenye wavuti "windows netsh hostednetwork". Ikiwa kompyuta yako ndogo haiwezi kuunga mkono hii, unaweza kupata adapta za bei rahisi za USB ambazo hufanya hivyo. Wakati wa ununuzi, hakikisha adapta inasaidia "mtandao ulioambatanishwa".</target>
+        <target xml:lang="sw" state="final">Kompyuta ndogo za Windows 10 zinaweza pia kuunda mitandao ya ndani ya Wi-Fi. Tafuta kwenye wavuti "windows netsh hostednetwork". Ikiwa kompyuta yako ndogo haiwezi kuunga mkono hii, unaweza kupata adapta za bei rahisi za USB ambazo hufanya hivyo. Wakati wa ununuzi, hakikisha adapta inasaidia "mtandao ulioambatanishwa".</target>
         <note>ID: publish.help.tips.tempWiFi.hostednetwork.text</note>
       </trans-unit>
     </body>
