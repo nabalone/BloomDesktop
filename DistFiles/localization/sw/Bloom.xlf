@@ -185,7 +185,7 @@
       <trans-unit id="BloomPackInstallDialog.ErrorInstallingBloomPack" approved="yes">
         <source xml:lang="en">Bloom was not able to install that Bloom Pack</source>
         <note>ID: BloomPackInstallDialog.ErrorInstallingBloomPack</note>
-        <target xml:lang="sw" state="final">Bloom haikuweza kuweka Seti hiyo ya Bloom.</target>
+        <target xml:lang="sw" state="final">Bloom haikuweza kusakinisha Seti hiyo ya Bloom</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.Extracting" approved="yes">
         <source xml:lang="en">Extracting...</source>
@@ -196,12 +196,12 @@
       <trans-unit id="BloomPackInstallDialog.MustRestartToSee" approved="yes">
         <source xml:lang="en">Bloom is already running, but the contents will not show up until the next time you run Bloom</source>
         <note>ID: BloomPackInstallDialog.MustRestartToSee</note>
-        <target xml:lang="sw" state="final">Bloom tayari inaendelea, lakini yaliyomo hayatajitokeza hadi wakati huo mwingine utakapofungua Bloom</target>
+        <target xml:lang="sw" state="final">Bloom tayari inaendelea kufanya kazi, lakini yaliyomo hayatajitokeza hadi wakati huo mwingine utakapofungua Bloom</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.NotInstalled" approved="yes">
         <source xml:lang="en">The Bloom collection will not be installed.</source>
         <note>ID: BloomPackInstallDialog.NotInstalled</note>
-        <target xml:lang="sw" state="final">Mkusanyiko wa Bloom hautaweza kuweka.</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa Bloom hautasakinishwa.</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.Opening" approved="yes">
         <source xml:lang="en">Opening {0}...</source>
@@ -380,7 +380,7 @@
       <trans-unit id="Browser.OpenPageInFirefox" approved="yes">
         <source xml:lang="en">Open Page in Firefox (which must be in the PATH environment variable)</source>
         <note>ID: Browser.OpenPageInFirefox</note>
-        <target xml:lang="sw" state="final">Fungua ukurasa kwenye Mtandao (ambao ni lazima uwe kwenye hali inayoweza kubadilika ya NJIA).</target>
+        <target xml:lang="sw" state="final">Fungua Ukurasa katika Firefox (ambayo lazima iwe katika anuwai ya mazingira ya PATH)</target>
       </trans-unit>
       <trans-unit id="Browser.ProblemSaving" approved="yes">
         <source xml:lang="en">There was a problem while saving. Please return to the previous page and make sure it looks correct.</source>
@@ -396,7 +396,7 @@
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel" approved="yes">
         <source xml:lang="en">Advanced Program Settings</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel</note>
-        <target xml:lang="sw" state="final">Mpangilio wa hali ya Juu wa Programu</target>
+        <target xml:lang="sw" state="final">Mipangilio ya hali ya Juu ya Programu</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate" approved="yes">
         <source xml:lang="en">Automatically Update Bloom</source>
@@ -477,7 +477,7 @@
         <source xml:lang="en">Traditional</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Traditional</note>
         <note>Name of the default Front/Back Matter Pack</note>
-        <target xml:lang="sw" state="final">Desturi</target>
+        <target xml:lang="sw" state="final">Jadi</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Video</source>
@@ -618,7 +618,7 @@
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.SpecialScriptSettingsLink" approved="yes">
         <source xml:lang="en">Special Script Settings</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.SpecialScriptSettingsLink</note>
-        <target xml:lang="sw" state="final">Mipangilio ya Kipekee ya Hati</target>
+        <target xml:lang="sw" state="final">Mipangilio Maalum ya Hati</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.CollectionSettingsWindowTitle" approved="yes">
         <source xml:lang="en">Settings</source>
