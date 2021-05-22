@@ -36,44 +36,44 @@
         <note>ID: Settings.Enterprise.Community</note>
         <target xml:lang="sw" state="final">Imefadhiliwa tu na jamii ya mtaa</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.CheckUpdates">
+      <trans-unit id="Settings.Enterprise.CheckUpdates" approved="yes">
         <source xml:lang="en">Check for updates</source>
         <note>ID: Settings.Enterprise.CheckUpdates</note>
-        <target xml:lang="sw" state="translated">Angalia vilivyojiri vipya</target>
+        <target xml:lang="sw" state="final">Angalia vilivyojiri vipya</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Expiration">
+      <trans-unit id="Settings.Enterprise.Expiration" approved="yes">
         <source xml:lang="en">Expires:</source>
         <note>ID: Settings.Enterprise.Expiration</note>
-        <target xml:lang="sw" state="translated">Inaisha:</target>
+        <target xml:lang="sw" state="final">Inaisha:</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Expired">
+      <trans-unit id="Settings.Enterprise.Expired" approved="yes">
         <source xml:lang="en">That code has expired.</source>
         <note>ID: Settings.Enterprise.Expired</note>
-        <target xml:lang="sw" state="translated">Msimbo huo umekwisha.</target>
+        <target xml:lang="sw" state="final">Msimbo huo umekwisha.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Incomplete">
+      <trans-unit id="Settings.Enterprise.Incomplete" approved="yes">
         <source xml:lang="en"> The code should look like SOMENAME-123456-7890</source>
         <note>ID: Settings.Enterprise.Incomplete</note>
-        <target xml:lang="sw" state="translated"> Nambari ya siri inapaswa kuonekana kama JINAFULANI-123456-7890</target>
+        <target xml:lang="sw" state="final"> Msimbo huu unastahili kuonekana kama JINAFULANI-123456-7890</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.LearnMore">
+      <trans-unit id="Settings.Enterprise.LearnMore" approved="yes">
         <source xml:lang="en">Learn More</source>
         <note>ID: Settings.Enterprise.LearnMore</note>
-        <target xml:lang="sw" state="translated">Jifunze zaidi</target>
+        <target xml:lang="sw" state="final">Jifunze zaidi</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Overview">
+      <trans-unit id="Settings.Enterprise.Overview" approved="yes">
         <source xml:lang="en">
             Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.
         </source>
         <note>ID: Settings.Enterprise.Overview</note>
-        <target xml:lang="sw" state="translated">
+        <target xml:lang="sw" state="final">
             Bloom Enterprise inaongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu uliolipwa unakidhi mahitaji yao ya kipekee wakati unasaidia maendeleo na msaada wa watumiaji wa Bloom kwa jamii kwa ujumla.
         </target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.None">
+      <trans-unit id="Settings.Enterprise.None" approved="yes">
         <source xml:lang="en">None. Enterprise features will be unavailable.</source>
         <note>ID: Settings.Enterprise.None</note>
-        <target xml:lang="sw" state="translated">Hakuna. Vipengele vya Enterprise havitapatikana.</target>
+        <target xml:lang="sw" state="final">Hakuna. Vipengele vya Enterprise havitapatikana.</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.NeedsCode">
         <source xml:lang="en">In an older version of Bloom, this project used **%0**. To continue to use this you will need to enter a current subscription code. Codes for SIL brandings can be found [here](%1). For other subscriptions, contact your project administrator.</source>
