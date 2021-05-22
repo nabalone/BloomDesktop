@@ -2562,7 +2562,7 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles" approved="yes">
         <source xml:lang="en">Text files</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles</note>
-        <target xml:lang="sw" state="final">Faili za maandishi</target>
+        <target xml:lang="sw" state="final">Mafaili ya maandishi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters" approved="yes">
         <source xml:lang="en">Letters: {0}</source>
@@ -2578,7 +2578,7 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportNewDecodableWords" approved="yes">
         <source xml:lang="en">New Decodable Words: {0}</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportNewDecodableWords</note>
-        <target xml:lang="sw" state="final">Majina Mapya Yanayoweza Kufasiriwa: {0}</target>
+        <target xml:lang="sw" state="final">Maneno Mapya Yanayoweza Kufasiriwa: {0}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportSightWords" approved="yes">
         <source xml:lang="en">New Sight Words: {0}</source>
@@ -2593,7 +2593,7 @@
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList" approved="yes">
         <source xml:lang="en">Complete Word List</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList</note>
-        <target xml:lang="sw" state="final">Kamilisha Orodha ya Majina</target>
+        <target xml:lang="sw" state="final">Orodha ya Maneno Iliyokamilika</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LettersInThisStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Letters in this stage</source>
@@ -2757,7 +2757,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.FoThisLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For this Level</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.FoThisLevel</note>
-        <target xml:lang="sw" state="final">Kwa ngazi hii</target>
+        <target xml:lang="sw" state="final">Kwa kiwango hiki</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Formatting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Formatting</source>
@@ -2779,7 +2779,7 @@
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Level</note>
         <note>Used to create string "Level # of #". The space after this word is added programmatically.</note>
         <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="sw" state="final">Ngazi</target>
+        <target xml:lang="sw" state="final">Kiwango</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelOf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">of</source>
@@ -2792,7 +2792,7 @@
         <source xml:lang="en">Level {0} of {1}</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.LevelNofM</note>
         <note>{0} is replaced with the current level, and {1} with the total number of levels</note>
-        <target xml:lang="sw" state="final">Kiwango{0} ya{1}</target>
+        <target xml:lang="sw" state="final">Kiwango{0} cha{1}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Max" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Max</source>
@@ -2828,7 +2828,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SetUpLevels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Set up Levels</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.SetUpLevels</note>
-        <target xml:lang="sw" state="final">Anzisha ngazi</target>
+        <target xml:lang="sw" state="final">Weka Viwango</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SentenceCounts" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sentence Counts</source>
@@ -2889,7 +2889,7 @@
       <trans-unit id="EditTab.Toolbox.Settings.Unlock" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Allow changes to this shellbook</source>
         <note>ID: EditTab.Toolbox.Settings.Unlock</note>
-        <target xml:lang="sw" state="final">Kubali mabadiliko kwenye kitabu hiki cha sheli</target>
+        <target xml:lang="sw" state="final">Kubali mabadiliko kwenye kitabu hiki cha shell</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Settings.UnlockShellBookIntroductionText" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom normally prevents most changes to shellbooks. If you need to add pages, change images, etc., tick the box below.</source>
@@ -3379,7 +3379,7 @@
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
         <note>ID: HelpMenu.Help Menu</note>
-        <target xml:lang="sw" state="final">Usaidizi</target>
+        <target xml:lang="sw" state="final">Msaada</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu_ToolTip_" approved="yes">
         <source xml:lang="en">Get Help</source>
