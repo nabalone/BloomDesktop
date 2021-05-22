@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="picture.dictionary" approved="yes">
         <source xml:lang="en">About the Picture Dictionary Template</source>
-        <target xml:lang="sw" state="final">Kuhusu Picha ya Kigezo cha Kamusi</target>
+        <target xml:lang="sw" state="final">Kuhusu Kiolezo cha Kamusi ya Picha</target>
         <note>ID: picture.dictionary</note>
       </trans-unit>
       <trans-unit id="picture.dictionary.use" approved="yes">
@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="picture.dictionary.limits" approved="yes">
         <source xml:lang="en">Limitations of this version</source>
-        <target xml:lang="sw" state="final">Udhaifu wa Tafsiri Hii</target>
+        <target xml:lang="sw" state="final">Udhaifu wa toleo hili</target>
         <note>ID: picture.dictionary.limits</note>
       </trans-unit>
       <trans-unit id="picture.dictionary.stillexperimental" approved="yes">
