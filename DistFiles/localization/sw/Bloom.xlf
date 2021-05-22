@@ -4574,10 +4574,10 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.PdfMaker.NoFullBleed</note>
         <target xml:lang="sw" state="final">Uchapishaji nje ya mpaka wa ukurasa haujawezeshwa kwa kitabu hiki</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.NoFullBleedBooklet">
+      <trans-unit id="PublishTab.PdfMaker.NoFullBleedBooklet" approved="yes">
         <source xml:lang="en">Full Bleed is not applicable to booklet printing</source>
         <note>ID: PublishTab.PdfMaker.NoFullBleedBooklet</note>
-        <target xml:lang="sw" state="translated">Uchapishaji nje ya mipaka haitumiki kwa uchapishaji wa vijitabu</target>
+        <target xml:lang="sw" state="final">Uchapishaji nje ya mpaka wa ukurasa hautumiki kwa uchapishaji wa kijitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.OutOfMemory">
         <source xml:lang="en">Bloom ran out of memory while making the PDF. See {0}this article{1} for some suggestions to try.</source>
