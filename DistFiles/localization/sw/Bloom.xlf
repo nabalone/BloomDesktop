@@ -1483,7 +1483,7 @@
         <source xml:lang="en">Remove Page</source>
         <note>ID: EditTab.DeletePageButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Remove\n  Page</note>
-        <target xml:lang="sw" state="final">Toa  \n Ukurasa</target>
+        <target xml:lang="sw" state="final">Ondoa Ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.DeletePageButton.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove this page from the book</source>
@@ -1525,7 +1525,7 @@
         <source xml:lang="en">Duplicate Page</source>
         <note>ID: EditTab.DuplicatePageButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Duplicate\n  Page</note>
-        <target xml:lang="sw" state="final">Fanya kurasa\n kuwa mbili</target>
+        <target xml:lang="sw" state="final">Nakili ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.DuplicatePageButton.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Insert a new page which is a duplicate of this one</source>
@@ -1542,7 +1542,7 @@
       <trans-unit id="EditTab.Edit" approved="yes">
         <source xml:lang="en">Edit</source>
         <note>ID: EditTab.Edit</note>
-        <target xml:lang="sw" state="final">Hakiki</target>
+        <target xml:lang="sw" state="final">Hariri</target>
       </trans-unit>
       <trans-unit id="EditTab.EditNotAllowed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You cannot change these because this is not the original copy.</source>
@@ -1557,7 +1557,7 @@
       <trans-unit id="EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This word is not decodable in this stage.</source>
         <note>ID: EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable</note>
-        <target xml:lang="sw" state="final">Neno ili haliwezi kufasiriwa katika ukurasa huu.</target>
+        <target xml:lang="sw" state="final">Neno hili haliwezi kufasiriwa katika ukurasa huu.</target>
       </trans-unit>
       <trans-unit id="EditTab.EditTab.Toolbox.LeveledReaderTool.SentenceTooLong" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This sentence is too long for this level.</source>
@@ -1731,7 +1731,7 @@
       <trans-unit id="EditTab.FormatDialog.FontSizeToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change the font size</source>
         <note>ID: EditTab.FormatDialog.FontSizeToolTip</note>
-        <target xml:lang="sw" state="final">Badilisha ukubwa wa fonti</target>
+        <target xml:lang="sw" state="final">Badilisha saizi ya fonti</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.Format" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Format</source>
@@ -1834,7 +1834,7 @@
       <trans-unit id="EditTab.FrontMatter.CopyrightPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click to Edit Copyright &amp; License</source>
         <note>ID: EditTab.FrontMatter.CopyrightPrompt</note>
-        <target xml:lang="sw" state="final">Bofya kwenye Kuhakiki Haki ya Kunakili na Leseni.</target>
+        <target xml:lang="sw" state="final">Bofya Kuhariri Hakimiliki &amp; Leseni</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.CreditTranslator" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Acknowledgments for this version, in {lang}. For example, give credit to the translator for this version.</source>
@@ -1911,7 +1911,7 @@
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Name of Translator, in {lang}</source>
         <note>ID: EditTab.FrontMatter.NameofTranslatorPrompt</note>
-        <target xml:lang="sw" state="final">Jina la mtafsiri, aliyepo {lang}</target>
+        <target xml:lang="sw" state="final">Jina la mtafsiri, katika {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalAcknowledgmentsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Original (or Shell) Acknowledgments in {lang}</source>
