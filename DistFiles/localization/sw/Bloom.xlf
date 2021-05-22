@@ -2648,78 +2648,78 @@
         <note>{0} is replaced with the current level, and {1} with the total number of levels</note>
         <target xml:lang="sw" state="final">Hatua{0} ya{1}</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image Description Tool</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool</note>
-        <target xml:lang="sw" state="translated">Zana ya maelezo ya picha</target>
+        <target xml:lang="sw" state="final">Zana ya maelezo ya picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.MoreInformation" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.MoreInformation" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For more information:</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.MoreInformation</note>
-        <target xml:lang="sw" state="translated">Kwa habari zaidi:</target>
+        <target xml:lang="sw" state="final">Kwa habari zaidi:</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.KeepInMind" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.KeepInMind" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Keep these things in mind:</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.KeepInMind</note>
-        <target xml:lang="sw" state="translated">Kumbuka mambo haya:</target>
+        <target xml:lang="sw" state="final">Kumbuka mambo haya:</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ImportantToDescribe" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ImportantToDescribe" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Are there important **actions**, **relationships**, **emotions**, or things in the **scene** that add to the story but are not in the text?</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ImportantToDescribe</note>
         <note>Keep the surrounding **...** but translate the words inside the ** markers.  The ** are markup for emphasis that will be converted into HTML.</note>
-        <target xml:lang="sw" state="translated">Je! Kuna vitendo muhimu **, ** mahusiano **, ** hisia **, au vitu kwenye eneo la ** vinavyoongeza hadithi lakini haimo kwenye maandishi?</target>
+        <target xml:lang="sw" state="final">Je! Kuna vitendo muhimu **, ** mahusiano **, ** hisia **, au vitu kwenye **eneo ** vinavyoongeza hadithi lakini havimo kwenye maandishi?</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.UseSimpleWords" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.UseSimpleWords" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Use words that are **simple** enough for the listener.</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.UseSimpleWords</note>
         <note>Keep the surrounding **...** but translate the words inside the ** markers.  The ** are markup for emphasis that will be converted into HTML.</note>
-        <target xml:lang="sw" state="translated">Tumia maneno ambayo ni ** rahisi ** ya kutosha kwa msikilizaji.</target>
+        <target xml:lang="sw" state="final">Tumia maneno ambayo ni ** rahisi ** ya kutosha kwa msikilizaji.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.KeepItShort" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.KeepItShort" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Keep it **short**.</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.KeepItShort</note>
         <note>Keep the surrounding **...** but translate the words inside the ** markers.  The ** are markup for emphasis that will be converted into HTML.</note>
-        <target xml:lang="sw" state="translated">Iwe **fupi**.</target>
+        <target xml:lang="sw" state="final">Iwe **fupi**.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.CheckThisBox" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.CheckThisBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Otherwise, check this box:</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.CheckThisBox</note>
-        <target xml:lang="sw" state="translated">Vinginevyo, angalia sanduku hili:</target>
+        <target xml:lang="sw" state="final">Vinginevyo, angalia sanduku hili:</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ShouldNotDescribe" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ShouldNotDescribe" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This image should not be described.</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ShouldNotDescribe</note>
-        <target xml:lang="sw" state="translated">Picha hii haipaswi kuelezewa.</target>
+        <target xml:lang="sw" state="final">Picha hii haipaswi kuelezewa.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ConsiderAudience" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ConsiderAudience" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Consider your Audience</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ConsiderAudience</note>
-        <target xml:lang="sw" state="translated">Fikiria unaowalenga</target>
+        <target xml:lang="sw" state="final">Fikiria hadhira yako</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ContextKey" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.ContextKey" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Context is Key</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ContextKey</note>
-        <target xml:lang="sw" state="translated">Muktadha ni Muhimu</target>
+        <target xml:lang="sw" state="final">Muktadha ni Muhimu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.GeneralSpecific" sil:dynamic="true">
         <source xml:lang="en">General to Specific</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.GeneralSpecific</note>
         <target xml:lang="sw" state="translated">Jumla kwa maalum</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.LearnToMake" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.LearnToMake" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn to make effective image descriptions</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.LearnToMake</note>
-        <target xml:lang="sw" state="translated">Jifunze kufanya ufafanuzi mzuri wa picha</target>
+        <target xml:lang="sw" state="final">Jifunze kufanya ufafanuzi mzuri wa picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.PoetDiagram" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.PoetDiagram" sil:dynamic="true" approved="yes">
         <source xml:lang="en">poet.diagramcenter.org</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.PoetDiagram</note>
-        <target xml:lang="sw" state="translated">poet.diagramcenter.org</target>
+        <target xml:lang="sw" state="final">poet.diagramcenter.org</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.WriteYours" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.WriteYours" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Write your image description on the left, in the box next to the picture.</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.WriteYours</note>
-        <target xml:lang="sw" state="translated">Andika maelezo ya picha yako kushoto, kwenye kisanduku kando ya picha.</target>
+        <target xml:lang="sw" state="final">Andika maelezo ya picha yako kushoto, kwenye kisanduku kando ya picha.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Leveled Reader Tool</source>
@@ -2737,17 +2737,17 @@
         <note>a label, needs to fit in about half toolbox width.</note>
         <target xml:lang="sw" state="final">Uwiano kwa kila sentensi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.AverageInBook" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.AverageInBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">avg in book</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.AverageInBook</note>
         <note>a label, needs to fit in about half toolbox width.</note>
-        <target xml:lang="sw" state="translated">wastani kwa kitabu</target>
+        <target xml:lang="sw" state="final">wastani kwa kitabu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.AveragePerPage" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.AveragePerPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">avg per page</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.AveragePerPage</note>
         <note>a label, needs to fit in about half toolbox width.</note>
-        <target xml:lang="sw" state="translated">wastani kwa kila ukurasa</target>
+        <target xml:lang="sw" state="final">wastani kwa kila ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.ChoiceOfTopic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choice of Topic</source>
@@ -2788,27 +2788,27 @@
         <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="sw" state="final">ya</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelNofM" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelNofM" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level {0} of {1}</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.LevelNofM</note>
         <note>{0} is replaced with the current level, and {1} with the total number of levels</note>
-        <target xml:lang="sw" state="translated">Kiwango{0} ya{1}</target>
+        <target xml:lang="sw" state="final">Kiwango{0} ya{1}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Max" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Max</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Max</note>
         <target xml:lang="sw" state="final">Idadi ya juu zaidi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxInBook" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxInBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">max in book</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.MaxInBook</note>
-        <target xml:lang="sw" state="translated">upeo katika kitabu</target>
+        <target xml:lang="sw" state="final">upeo katika kitabu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxSentenceLength" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.MaxSentenceLength" sil:dynamic="true" approved="yes">
         <source xml:lang="en">longest sentence</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.MaxSentenceLength</note>
         <note>length of the longest sentence (in the book)</note>
-        <target xml:lang="sw" state="translated">sentensi ndefu zaidi</target>
+        <target xml:lang="sw" state="final">sentensi ndefu zaidi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.PerPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">per page</source>
@@ -2830,10 +2830,10 @@
         <note>ID: EditTab.Toolbox.LeveledReaderTool.SetUpLevels</note>
         <target xml:lang="sw" state="final">Anzisha ngazi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SentenceCounts" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SentenceCounts" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sentence Counts</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.SentenceCounts</note>
-        <target xml:lang="sw" state="translated">Hesabu ya sentensi</target>
+        <target xml:lang="sw" state="final">Hesabu ya sentensi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.ThisBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This Book</source>
@@ -2845,21 +2845,21 @@
         <note>ID: EditTab.Toolbox.LeveledReaderTool.ThisPage</note>
         <target xml:lang="sw" state="final">Ukurasa Huu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.ThisPageLC" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.ThisPageLC" sil:dynamic="true" approved="yes">
         <source xml:lang="en">this page</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.ThisPageLC</note>
         <note>lower case version of ThisPage</note>
-        <target xml:lang="sw" state="translated">ukurasa huu</target>
+        <target xml:lang="sw" state="final">ukurasa huu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Total" sil:dynamic="true" approved="yes">
         <source xml:lang="en">total</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Total</note>
         <target xml:lang="sw" state="final">jumla</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.TotalInBook" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.TotalInBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">total in book</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.TotalInBook</note>
-        <target xml:lang="sw" state="translated">jumla katika kitabu</target>
+        <target xml:lang="sw" state="final">jumla katika kitabu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Unique" sil:dynamic="true" approved="yes">
         <source xml:lang="en">unique</source>
