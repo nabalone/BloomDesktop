@@ -656,7 +656,7 @@
       <trans-unit id="CollectionSettingsDialog.LanguageTab.RemoveLanguageLink" approved="yes">
         <source xml:lang="en">Remove</source>
         <note>ID: CollectionSettingsDialog.LanguageTab.RemoveLanguageLink</note>
-        <target xml:lang="sw" state="final">Toa</target>
+        <target xml:lang="sw" state="final">Ondoa</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab.SetThirdLanguageLink" approved="yes">
         <source xml:lang="en">Set...</source>
@@ -667,18 +667,18 @@
       <trans-unit id="CollectionSettingsDialog.LanguageTab.VernacularLanguageLabel" approved="yes">
         <source xml:lang="en">Local Language</source>
         <note>ID: CollectionSettingsDialog.LanguageTab.VernacularLanguageLabel</note>
-        <target xml:lang="sw" state="final">Lugha ya Mama</target>
+        <target xml:lang="sw" state="final">Lugha ya Mtaa</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab._language2Label" approved="yes">
         <source xml:lang="en">Language 2 (e.g. National Language)</source>
         <note>ID: CollectionSettingsDialog.LanguageTab._language2Label</note>
-        <target xml:lang="sw" state="final">Lugha ya 2 (e.g. Lugha ya Kitaifa)</target>
+        <target xml:lang="sw" state="final">Lugha ya 2 (mf. Lugha ya Kitaifa)</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab._language3Label" approved="yes">
         <source xml:lang="en">Language 3 (e.g. Regional Language)   (Optional)</source>
         <note>ID: CollectionSettingsDialog.LanguageTab._language3Label</note>
         <note xml:lang="en">OLD TEXT (before 3.9, 1 fewer space): Language 3 (e.g. Regional Language)  (Optional)</note>
-        <target xml:lang="sw" state="final">Lugha yangu 3 (kama vile lugha ya eneo) (Sio lazima)</target>
+        <target xml:lang="sw" state="final">Lugha yangu 3 (mf. lugha ya eneo) (Hiari)</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab.SignLanguageOptional" approved="yes">
         <source xml:lang="en">Sign Language   (Optional)</source>
@@ -688,7 +688,7 @@
       <trans-unit id="CollectionSettingsDialog.ProjectInformationTab.BloomCollectionName" approved="yes">
         <source xml:lang="en">Bloom Collection Name</source>
         <note>ID: CollectionSettingsDialog.ProjectInformationTab.BloomCollectionName</note>
-        <target xml:lang="sw" state="final">Jina la Mkusanyiko wa Bloom</target>
+        <target xml:lang="sw" state="final">Jina la Mkusanyiko la Bloom</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.ProjectInformationTab.BloomEnterpriseProject" approved="yes">
         <source xml:lang="en">Bloom Enterprise Project</source>
@@ -720,7 +720,7 @@
         <source xml:lang="en">Restart</source>
         <note>ID: CollectionSettingsDialog.Restart</note>
         <note>If you make certain changes in the settings dialog, the OK button changes to this.</note>
-        <target xml:lang="sw" state="final">Anzisha upya</target>
+        <target xml:lang="sw" state="final">Anzisha tena</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.RestartMessage" approved="yes">
         <source xml:lang="en">Bloom will close and re-open this project with the new settings.</source>
@@ -730,7 +730,7 @@
       <trans-unit id="CollectionTab.AddMakeReaderTemplateBloomPackToolStripMenuItem" approved="yes">
         <source xml:lang="en">Make Reader Template Bloom Pack...</source>
         <note>ID: CollectionTab.AddMakeReaderTemplateBloomPackToolStripMenuItem</note>
-        <target xml:lang="sw" state="final">Tengeneza Seti ya Bloom ya Kigezo cha Msomaji...</target>
+        <target xml:lang="sw" state="final">Tengeneza Seti ya Bloom ya Kiolezo cha Msomaji...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.AdminManagesUpdates" approved="yes">
         <source xml:lang="en">Your system administrator manages Bloom updates for this computer.</source>
@@ -751,7 +751,7 @@
         <source xml:lang="en">Get more source books at BloomLibrary.org</source>
         <note>ID: CollectionTab.BloomLibraryLinkLabel</note>
         <note>Shown at the bottom of the list of books. User can click on it and it will attempt to open a browser to show the Bloom Library</note>
-        <target xml:lang="sw" state="final">Pata vitabu vingi zaidi vya vyanzo kwenye BloomLibrary.org</target>
+        <target xml:lang="sw" state="final">Pata vitabu vingine zaidi vya mwanzo kwenye BloomLibrary.org</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part1" approved="yes">
         <source xml:lang="en">Note: The Bloom Library contains shell books, whereas your current collection is a "source collection", meaning it is for making shell books, not for translating them into the local language.</source>
@@ -769,7 +769,7 @@
         <source xml:lang="en">Source Collection</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerificationCaption</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="final">Mkusanyiko wa vyanzo</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa chanzo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.DeleteBook" approved="yes">
         <source xml:lang="en">Delete Book</source>
@@ -789,7 +789,7 @@
       <trans-unit id="CollectionTab.BookMenu.ExportToWordOrLibreOffice" approved="yes">
         <source xml:lang="en">Export to Word or LibreOffice...</source>
         <note>ID: CollectionTab.BookMenu.ExportToWordOrLibreOffice</note>
-        <target xml:lang="sw" state="final">Peleka kwenye neno au Ofisi ya Libre...</target>
+        <target xml:lang="sw" state="final">Peleka kwenye Word au LibreOffice...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ExportToXMLForInDesign" approved="yes">
         <source xml:lang="en">Export to XML for InDesign...</source>
@@ -809,12 +809,12 @@
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
         <note>ID: CollectionTab.BookMenu.UpdateFrontMatterToolStrip</note>
-        <target xml:lang="sw" state="final">Tengeneza upya Kitabu</target>
+        <target xml:lang="sw" state="final">Sasisha Kitabu</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateThumbnail" approved="yes">
         <source xml:lang="en">Update Thumbnail</source>
         <note>ID: CollectionTab.BookMenu.UpdateThumbnail</note>
-        <target xml:lang="sw" state="final">Tengeneza upya ukucha wa dole gumba</target>
+        <target xml:lang="sw" state="final">Sasisha kijipicha</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookSourceHeading" approved="yes">
         <source xml:lang="en">Sources For New Books</source>
@@ -834,7 +834,7 @@
       <trans-unit id="CollectionTab.CollectionMenu.doChecksAndUpdatesOfAllBooks" approved="yes">
         <source xml:lang="en">Do Updates of All Books</source>
         <note>ID: CollectionTab.CollectionMenu.doChecksAndUpdatesOfAllBooks</note>
-        <target xml:lang="sw" state="final">Tengeneza Upya Vitabu Vyote</target>
+        <target xml:lang="sw" state="final">Sasisha Vitabu Vyote</target>
       </trans-unit>
       <trans-unit id="CollectionTab.CollectionMenu.doChecksOfAllBooks" approved="yes">
         <source xml:lang="en">Do Checks of All Books</source>
