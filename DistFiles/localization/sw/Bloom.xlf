@@ -759,11 +759,11 @@
         <note>get this clicking on BloomLibrary.org link in source collection</note>
         <target xml:lang="sw" state="final">Tanbihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part2">
+      <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part2" approved="yes">
         <source xml:lang="en">When you've made a shell, you can then upload it to the Bloom Library from the Publish tab.</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerification.Part2</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="translated">Unapotengeneza shell, unaweza kuiweka kwenye Maktaba ya Bloom kutoka kwa kichupo cha Chapisha.</target>
+        <target xml:lang="sw" state="final">Unapotengeneza shell, unaweza kuiweka kwenye Maktaba ya Bloom kutoka kwa kichupo cha Chapisha.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerificationCaption" approved="yes">
         <source xml:lang="en">Source Collection</source>
@@ -939,11 +939,11 @@
         <note>ID: CollectionTab.Progress</note>
         <target xml:lang="sw" state="final">({0}% Imekamilika)</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.RestartToUpdate">
+      <trans-unit id="CollectionTab.RestartToUpdate" approved="yes">
         <source xml:lang="en">Restart Bloom to Update</source>
         <note>ID: CollectionTab.RestartToUpdate</note>
         <note>Restart the Bloom program, not Windows</note>
-        <target xml:lang="sw" state="translated">Iwashe Bloom tena ili Kusasisha</target>
+        <target xml:lang="sw" state="final">Iwashe Bloom tena ili Kusasisha</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Sample Shells" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sample Shells</source>
@@ -970,10 +970,10 @@
         <note>ID: CollectionTab.SourcesForNewShellsHeading</note>
         <target xml:lang="sw" state="final">Vyanzo Vya Sheli Mpya</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.Templates" sil:dynamic="true">
+      <trans-unit id="CollectionTab.Templates" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Templates</source>
         <note>ID: CollectionTab.Templates</note>
-        <target xml:lang="sw" state="translated">Violezo</target>
+        <target xml:lang="sw" state="final">Violezo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.TitleMissing" approved="yes">
         <source xml:lang="en">Title Missing</source>
@@ -981,17 +981,17 @@
         <note>Shown as the thumbnail caption when the book doesn't have a title.</note>
         <target xml:lang="sw" state="final">Mada iliyokosekana</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.UILanguageMenu.HelpTranslate">
+      <trans-unit id="CollectionTab.UILanguageMenu.HelpTranslate" approved="yes">
         <source xml:lang="en">Help us translate Bloom (web)</source>
         <note>ID: CollectionTab.UILanguageMenu.HelpTranslate</note>
         <note>The final item in the UI Language menu. When clicked, it opens Bloom's page in the Crowdin web-based translation system.</note>
-        <target xml:lang="sw" state="translated">Tusaidie kutafsiri Bloom (wavuti)</target>
+        <target xml:lang="sw" state="final">Tusaidie kutafsiri Bloom (wavuti)</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.UILanguageMenu.ItemTooltip">
+      <trans-unit id="CollectionTab.UILanguageMenu.ItemTooltip" approved="yes">
         <source xml:lang="en">{0}% translated</source>
         <note>ID: CollectionTab.UILanguageMenu.ItemTooltip</note>
         <note>Shown when hovering over an item in the UI Language menu. The {0} marker is filled in by a number between 1 and 100.</note>
-        <target xml:lang="sw" state="translated">{0}% Imetafsiriwa</target>
+        <target xml:lang="sw" state="final">{0}% Imetafsiriwa</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UnableToCheckForUpdate" approved="yes">
         <source xml:lang="en">Could not connect to the server to check for an update. Are you connected to the internet?</source>
@@ -1037,11 +1037,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9): Downloading update to {0} ({1}kb).</note>
         <target xml:lang="sw" state="final">Kuchukua maboresho na kuweka kwa {0} ({1}kb).</target>
       </trans-unit>
-      <trans-unit id="ColorPicker.PercentTransparent" sil:dynamic="true">
+      <trans-unit id="ColorPicker.PercentTransparent" sil:dynamic="true" approved="yes">
         <source xml:lang="en">{0}% Transparent</source>
         <note>ID: ColorPicker.PercentTransparent</note>
         <note>This color has a particular percentage of transparency.</note>
-        <target xml:lang="sw" state="translated">{0}% Uwazi</target>
+        <target xml:lang="sw" state="final">{0}% Uwazi</target>
       </trans-unit>
       <trans-unit id="ColorPicker.New" sil:dynamic="true" approved="yes">
         <source xml:lang="en">New...</source>
@@ -2227,32 +2227,32 @@
         <note>ID: EditTab.TextBoxProperties.LanguageTab</note>
         <target xml:lang="sw" state="translated">Lugha</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.LocalLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Local Language</source>
         <note>ID: EditTab.TextBoxProperties.LocalLanguage</note>
         <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="sw" state="translated">Lugha ya Mama</target>
+        <target xml:lang="sw" state="final">Lugha ya Mtaa</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.NationalLanguage" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.NationalLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">National Language</source>
         <note>ID: EditTab.TextBoxProperties.NationalLanguage</note>
         <note>Obsolete for Bloom 5.1 and later</note>
-        <target xml:lang="sw" state="translated">Lugha ya Taifa</target>
+        <target xml:lang="sw" state="final">Lugha ya Taifa</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.Normal" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.Normal" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Normal</source>
         <note>ID: EditTab.TextBoxProperties.Normal</note>
-        <target xml:lang="sw" state="translated">Kawaida</target>
+        <target xml:lang="sw" state="final">Kawaida</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.NormalLabel" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.NormalLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">"Normal" will show the languages you have checked in the Languages control. Use this for most content.</source>
         <note>ID: EditTab.TextBoxProperties.NormalLabel</note>
-        <target xml:lang="sw" state="translated">"Kawaida" itaonyesha lugha ya mahali, na uwezekano wa mkoa au kitaifa, kulingana na mipangilio ya lugha nyingi ya kitabu. Tumia hii kwa yaliyomo zaidi.</target>
+        <target xml:lang="sw" state="final">"Kawaida" itaonyesha lugha ambazo umekagua katika udhibiti lugha. Tumia hii zaidi kwa yale yaliyomo.</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.OtherLanguagesLabel" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.OtherLanguagesLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Use one of these for simple text boxes that are always in only one language.</source>
         <note>ID: EditTab.TextBoxProperties.OtherLanguagesLabel</note>
-        <target xml:lang="sw" state="translated">Tumia moja ya haya kwa visanduku rahisi za maandishi ambazo kila wakati ziko katika lugha moja tu.</target>
+        <target xml:lang="sw" state="final">Tumia moja ya haya kwa visanduku rahisi vya maandishi ambavyo kila wakati viko katika lugha moja tu.</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.RegionalLanguage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Regional Language</source>
@@ -2271,15 +2271,15 @@
         <note>Label above pull-down menu with options, ShowOnGroup/ShowOnEach</note>
         <target xml:lang="sw" state="final">Onesha kiputo cha vidokezo</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.ShowOnEach" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.ShowOnEach" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On each language-field in the group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnEach</note>
-        <target xml:lang="sw" state="translated">Katika kila uwanja wa lugha ndani ya kikundi</target>
+        <target xml:lang="sw" state="final">Katika kila uwanja wa lugha ndani ya kikundi</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.ShowOnGroup" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.ShowOnGroup" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Just once on the whole group</source>
         <note>ID: EditTab.TextBoxProperties.ShowOnGroup</note>
-        <target xml:lang="sw" state="translated">Mara moja tu kwenye kikundi kizima</target>
+        <target xml:lang="sw" state="final">Mara moja tu kwenye kikundi kizima</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.Title" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Box Properties</source>
@@ -2292,10 +2292,10 @@
         <note>Label above the set of options, Top/Center/Bottom</note>
         <target xml:lang="sw" state="final">Mpangilio wa wima</target>
       </trans-unit>
-      <trans-unit id="EditTab.TextBoxProperties.WhatToPut" sil:dynamic="true">
+      <trans-unit id="EditTab.TextBoxProperties.WhatToPut" sil:dynamic="true" approved="yes">
         <source xml:lang="en">What should authors put in this box?</source>
         <note>ID: EditTab.TextBoxProperties.WhatToPut</note>
-        <target xml:lang="sw" state="translated">Je! Ni nini ambacho waandishi wanapaswa kuweka kwenye sanduku hili?</target>
+        <target xml:lang="sw" state="final">Je! Ni nini ambacho waandishi wanapaswa kuweka kwenye sanduku hili?</target>
       </trans-unit>
       <trans-unit id="EditTab.TitleOfCopyIPToWholeBooksDialog" approved="yes">
         <source xml:lang="en">Picture Intellectual Property Information</source>
@@ -2313,16 +2313,16 @@
         <note>ID: EditTab.Toolbox.ComicTool.DragInstructions</note>
         <target xml:lang="sw" state="final">Buruta ili kuongeza picha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.AddChildBubble" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.AddChildBubble" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Child Bubble</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.AddChildBubble</note>
-        <target xml:lang="sw" state="translated">Ongeza kiputo kidogo</target>
+        <target xml:lang="sw" state="final">Ongeza kiputo kidogo</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Background Color</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.BackgroundColor</note>
         <note>Refers to the Background Color of the bubble used by the callout</note>
-        <target xml:lang="sw" state="translated">Rangi msingi</target>
+        <target xml:lang="sw" state="final">Rangi msingi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.OldLace" sil:dynamic="true">
         <source xml:lang="en">Old Lace</source>
