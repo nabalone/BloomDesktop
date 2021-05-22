@@ -4579,23 +4579,23 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.PdfMaker.NoFullBleedBooklet</note>
         <target xml:lang="sw" state="final">Uchapishaji nje ya mpaka wa ukurasa hautumiki kwa uchapishaji wa kijitabu</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.OutOfMemory">
+      <trans-unit id="PublishTab.PdfMaker.OutOfMemory" approved="yes">
         <source xml:lang="en">Bloom ran out of memory while making the PDF. See {0}this article{1} for some suggestions to try.</source>
         <note>ID: PublishTab.PdfMaker.OutOfMemory</note>
         <note>{0} and {1} are HTML link markup.  You can think of them as fancy quotation marks.</note>
-        <target xml:lang="sw" state="translated">Bloom iliishiwa na kumbukumbu wakati wa kutengeneza PDF. Tazama {0} nakala hii {1} ili upate maoni kadhaa ya kujaribu.</target>
+        <target xml:lang="sw" state="final">Bloom iliishiwa na kumbukumbu wakati wa kutengeneza PDF. Tazama {0} nakala hii {1} ili upate mapendekezo kadhaa ya kujaribu.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.PdfFile">
+      <trans-unit id="PublishTab.PdfMaker.PdfFile" approved="yes">
         <source xml:lang="en">PDF file</source>
         <note>ID: PublishTab.PdfMaker.PdfFile</note>
-        <target xml:lang="sw" state="translated">Faili la PDF</target>
+        <target xml:lang="sw" state="final">Faili la PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.PdfWithCmykSwopV2">
+      <trans-unit id="PublishTab.PdfMaker.PdfWithCmykSwopV2" approved="yes">
         <source xml:lang="en">CMYK color (U.S. Web Coated (SWOP) v2)</source>
         <note>ID: PublishTab.PdfMaker.PdfWithCmykSwopV2</note>
         <note>displayed as a checkable menu option for the Publish tab, PDF options menu. The content in parentheses may not be translatable. 'CMYK' may not be translatable, it is a print shop standard.</note>
         <note>Previously this item was "PDF with CMYK ..." and it occurred as an option within the Save dialog for PDF files</note>
-        <target xml:lang="sw" state="translated">Rangi ya CMYK( U.S.Web Coated (SOP) v2</target>
+        <target xml:lang="sw" state="final">Rangi ya CMYK( U.S.Web Coated (SOP) v2</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.Saving" approved="yes">
         <source xml:lang="en">Saving PDF...</source>
