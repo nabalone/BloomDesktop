@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="training.videos" approved="yes">
         <source xml:lang="en">Bloom Training Videos</source>
-        <target xml:lang="sw" state="final">Video ya Bloom ya Kufundisha</target>
+        <target xml:lang="sw" state="final">Video za Bloom za Kufundisha</target>
         <note>ID: training.videos</note>
       </trans-unit>
       <trans-unit id="training.videos.watch" approved="yes">
@@ -35,7 +35,7 @@
         <source xml:lang="en">
           <g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Understanding Templates and Shell Books</g>
         </source>
-        <target xml:lang="sw" state="final"><g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Kuelewa Vielelezo na Vitabu vya Sheli</g></target>
+        <target xml:lang="sw" state="final"><g id="genid-3" ctype="x-html-a" html:href="https://vimeo.com/114024308">Kuelewa Vielelezo na Vitabu vya Shell</g></target>
         <note>ID: training.videos.templates</note>
       </trans-unit>
       <trans-unit id="training.videos.basicbook" approved="yes">
