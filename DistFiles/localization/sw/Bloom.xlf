@@ -1188,7 +1188,7 @@
       <trans-unit id="Common.Optional" approved="yes">
         <source xml:lang="en">optional</source>
         <note>ID: Common.Optional</note>
-        <target xml:lang="sw" state="final">Hiyari</target>
+        <target xml:lang="sw" state="final">hiari</target>
       </trans-unit>
       <trans-unit id="Common.Preview" approved="yes">
         <source xml:lang="en">Preview</source>
@@ -1248,7 +1248,7 @@
       <trans-unit id="Download.CompletedCaption" approved="yes">
         <source xml:lang="en">Download complete</source>
         <note>ID: Download.CompletedCaption</note>
-        <target xml:lang="sw" state="final">Upakuaji mtandaoni umekamilika</target>
+        <target xml:lang="sw" state="final">Upakuaji umekamilika</target>
       </trans-unit>
       <trans-unit id="Download.CopyFailed" approved="yes">
         <source xml:lang="en">Bloom downloaded the book but had problems making it available in Bloom. Please restart your computer and try again. If you get this message again, please click the 'Details' button and report the problem to the Bloom developers</source>
@@ -1259,7 +1259,7 @@
       <trans-unit id="Download.DownloadingDialogTitle" approved="yes">
         <source xml:lang="en">Downloading book</source>
         <note>ID: Download.DownloadingDialogTitle</note>
-        <target xml:lang="sw" state="final">Kupakua kitabu mtandaoni</target>
+        <target xml:lang="sw" state="final">Kupakua kitabu</target>
       </trans-unit>
       <trans-unit id="Download.GenericNetworkProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading the book.  You can try again at a different time, or write to us at issues@bloomlibrary.org if you cannot get the download to work from your location.</source>
@@ -1270,7 +1270,7 @@
       <trans-unit id="Download.ProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading your book. You may need to restart Bloom or get technical help.</source>
         <note>ID: Download.ProblemNotice</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika upakuaji kitabu chako.Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
+        <target xml:lang="sw" state="final">Kulikuwa na tatizo kukipakua kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
       </trans-unit>
       <trans-unit id="Download.TimeoutProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading the book: something took too long. You can try again at a different time, or write to us at issues@bloomlibrary.org if you cannot get the download to work from your location.</source>
@@ -1313,7 +1313,7 @@
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutWillLoseData" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Converting to this layout will cause some content to be lost.</source>
         <note>ID: EditTab.AddPageDialog.ChooseLayoutWillLoseData</note>
-        <target xml:lang="sw" state="final">Kubadilisha hadi kuwa katika muundo huu kutafanya baadhi ya yaliyohumu kupotea.</target>
+        <target xml:lang="sw" state="final">Kubadilisha kwa muundo huu kutafanya baadhi ya yaliyomo kupotea.</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.DigitalPage" sil:dynamic="true">
         <source xml:lang="en">This kind of page will be included only in digital book outputs, not in PDF.</source>
@@ -1356,12 +1356,12 @@
       <trans-unit id="EditTab.BookContextMenu.openHtmlInBrowser" approved="yes">
         <source xml:lang="en">Open the HTML used to make this PDF, in Firefox (must be on path)</source>
         <note>ID: EditTab.BookContextMenu.openHtmlInBrowser</note>
-        <target xml:lang="sw" state="final">Fungua  iliyotumika kutengeneza hima , kwenye mtandao (lazima iwe kwenye njia)</target>
+        <target xml:lang="sw" state="final">Fungua HTML iliyotumika kutengeneza PDF hii, kwenye Firefox (lazima iwe kwenye njia)</target>
       </trans-unit>
       <trans-unit id="EditTab.CannotChangeCopyright" approved="yes">
         <source xml:lang="en">Sorry, the copyright and license for this book cannot be changed.</source>
         <note>ID: EditTab.CannotChangeCopyright</note>
-        <target xml:lang="sw" state="final">Samahani, haki ya kunakili na leseni ya kitabu hiki haiwezi kubadilishwa.</target>
+        <target xml:lang="sw" state="final">Samahani, hakimiliki na leseni ya kitabu hiki haviwezi kubadilishwa.</target>
       </trans-unit>
       <trans-unit id="EditTab.CantPasteImageLocked" approved="yes">
         <source xml:lang="en">Sorry, this book is locked down so that images cannot be changed.</source>
@@ -1383,7 +1383,7 @@
         <source xml:lang="en">&amp;Remove</source>
         <note>ID: EditTab.ConfirmRemovePageDialog.DeleteButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): &amp;Delete</note>
-        <target xml:lang="sw" state="final">U&amp;fute</target>
+        <target xml:lang="sw" state="final">U&amp;ondoa</target>
       </trans-unit>
       <trans-unit id="EditTab.ConfirmRemovePageDialog._messageLabel" approved="yes">
         <source xml:lang="en">This page will be permanently removed.</source>
@@ -1418,7 +1418,7 @@
       <trans-unit id="EditTab.CopyButton.ToolTipWhenDisabled" approved="yes">
         <source xml:lang="en">You need to select some text before you can copy it</source>
         <note>ID: EditTab.CopyButton.ToolTipWhenDisabled</note>
-        <target xml:lang="sw" state="final">Unapaswa kuchagua baadhi ya maandishi kabla ya kuinakili</target>
+        <target xml:lang="sw" state="final">Unapaswa kuchagua baadhi ya maandishi kabla ya kuyanakili</target>
       </trans-unit>
       <trans-unit id="EditTab.CopyImageIPMetadataQuestion" approved="yes">
         <source xml:lang="en">Copy this information to all other pictures in this book?</source>
