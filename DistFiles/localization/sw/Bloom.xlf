@@ -5588,11 +5588,11 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.Name</note>
         <target xml:lang="sw" state="final">Jina</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.NonFatalTitle">
+      <trans-unit id="ReportProblemDialog.NonFatalTitle" approved="yes">
         <source xml:lang="en">Bloom had a problem</source>
         <note>ID: ReportProblemDialog.NonFatalTitle</note>
         <note>The title of the dialog caused by a NonFatal error.</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na shida</target>
+        <target xml:lang="sw" state="final">Bloom ilikuwa na shida</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.PleaseHelpUs" approved="yes">
         <source xml:lang="en">Please help us reproduce this problem on our computers.</source>
