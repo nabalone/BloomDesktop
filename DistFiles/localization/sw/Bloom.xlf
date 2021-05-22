@@ -4551,28 +4551,28 @@ kisomaji cha ePUB</target>
         <note>Message displayed in a progress report dialog box</note>
         <target xml:lang="sw" state="final">Imemaliza kutengeneza PDF kutoka kwa HTML</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.FullBleed">
+      <trans-unit id="PublishTab.PdfMaker.FullBleed" approved="yes">
         <source xml:lang="en">Full Bleed</source>
         <note>ID: PublishTab.PdfMaker.FullBleed</note>
         <note>displayed as an option in the PDF Options menu in Publish tab. Be careful, "full bleed" is a technical term in printing, meaning to print into an area outside the main page content that is ideally trimmed off; do not translate literally</note>
-        <target xml:lang="sw" state="translated">Kuchapisha nje ya mipaka</target>
+        <target xml:lang="sw" state="final">Kuchapisha nje ya mpaka wa ukurasa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.MakingFromHtml">
+      <trans-unit id="PublishTab.PdfMaker.MakingFromHtml" approved="yes">
         <source xml:lang="en">Making PDF from HTML</source>
         <note>ID: PublishTab.PdfMaker.MakingFromHtml</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Kutengeneza PDF kutoka kwa HTML</target>
+        <target xml:lang="sw" state="final">Kutengeneza PDF kutoka kwa HTML</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.MakingPageOfPdf">
+      <trans-unit id="PublishTab.PdfMaker.MakingPageOfPdf" approved="yes">
         <source xml:lang="en">Making Page {0} of the PDF</source>
         <note>ID: PublishTab.PdfMaker.MakingPageOfPdf</note>
         <note>Message displayed in a progress report dialog box, {0} is replaced by the page number</note>
-        <target xml:lang="sw" state="translated">Kutengeneza Ukurasa{0} ya PDF</target>
+        <target xml:lang="sw" state="final">Kutengeneza Ukurasa{0} wa PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.NoFullBleed">
+      <trans-unit id="PublishTab.PdfMaker.NoFullBleed" approved="yes">
         <source xml:lang="en">Full Bleed has not been set up for this book</source>
         <note>ID: PublishTab.PdfMaker.NoFullBleed</note>
-        <target xml:lang="sw" state="translated">Uchapishaji nje ya mipaka haujawezeshwa kwa kitabu hiki</target>
+        <target xml:lang="sw" state="final">Uchapishaji nje ya mpaka wa ukurasa haujawezeshwa kwa kitabu hiki</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.NoFullBleedBooklet">
         <source xml:lang="en">Full Bleed is not applicable to booklet printing</source>
