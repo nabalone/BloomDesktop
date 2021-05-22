@@ -5533,33 +5533,33 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.CouldNotSendToServer</note>
         <target xml:lang="sw" state="final">Bloom haikuweza kupeana ripoti yako moja kwa moja hadi kwa mtandao wetu.Tafadhali jaribu tena au uandike barua pepe {0} kwa {1}.</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.DiagnosticReportIntro">
+      <trans-unit id="ReportProblemDialog.DiagnosticReportIntro" approved="yes">
         <source xml:lang="en">Bloom will include the following diagnostic information with your report:</source>
         <note>ID: ReportProblemDialog.DiagnosticReportIntro</note>
-        <target xml:lang="sw" state="translated">Bloom itajumuisha habari ifuatayo ya uchunguzi na ripoti yako:</target>
+        <target xml:lang="sw" state="final">Bloom itajumuisha habari ifuatayo ya uchunguzi na ripoti yako:</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Email" approved="yes">
         <source xml:lang="en">Email</source>
         <note>ID: ReportProblemDialog.Email</note>
         <target xml:lang="sw" state="final">Barua pepe</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.FatalTitle">
+      <trans-unit id="ReportProblemDialog.FatalTitle" approved="yes">
         <source xml:lang="en">Bloom encountered an error and needs to quit</source>
         <note>ID: ReportProblemDialog.FatalTitle</note>
         <note>The title of the dialog after a Fatal error will cause Bloom to close.</note>
-        <target xml:lang="sw" state="translated">Bloom ilipata hitilafu na inahitaji kuacha</target>
+        <target xml:lang="sw" state="final">Bloom ilipata hitilafu na inahitaji kuacha kufanya kazi</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.FirstTime">
+      <trans-unit id="ReportProblemDialog.FirstTime" approved="yes">
         <source xml:lang="en">First Time</source>
         <note>ID: ReportProblemDialog.FirstTime</note>
         <note>The begin point label for the frequency slider.</note>
-        <target xml:lang="sw" state="translated">Mara ya Kwanza</target>
+        <target xml:lang="sw" state="final">Mara ya Kwanza</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.HowMuch">
+      <trans-unit id="ReportProblemDialog.HowMuch" approved="yes">
         <source xml:lang="en">How much has this happened?</source>
         <note>ID: ReportProblemDialog.HowMuch</note>
         <note>The label above the frequency slider.</note>
-        <target xml:lang="sw" state="translated">Imetokea kiasi gani?</target>
+        <target xml:lang="sw" state="final">Imetokea kiasi gani?</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.IncludeBookButton" approved="yes">
         <source xml:lang="en">Include Book '{0}'</source>
@@ -5571,17 +5571,17 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.IncludeScreenshotButton</note>
         <target xml:lang="sw" state="final">Jumuisha picha hii ya kutoka kwa skrini</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.IssueLink">
+      <trans-unit id="ReportProblemDialog.IssueLink" approved="yes">
         <source xml:lang="en">This issue can be viewed here:</source>
         <note>ID: ReportProblemDialog.IssueLink</note>
         <note>This label is displayed before a link to the issue after it is created.</note>
-        <target xml:lang="sw" state="translated">Suala hili linaweza kutazamwa hapa:</target>
+        <target xml:lang="sw" state="final">Suala hili linaweza kutazamwa hapa:</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.ItKeepsHappening">
+      <trans-unit id="ReportProblemDialog.ItKeepsHappening" approved="yes">
         <source xml:lang="en">It keeps happening</source>
         <note>ID: ReportProblemDialog.ItKeepsHappening</note>
         <note>The end point label for the frequency slider.</note>
-        <target xml:lang="sw" state="translated">Inaendelea kutokea</target>
+        <target xml:lang="sw" state="final">Inaendelea kutokea</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Name" approved="yes">
         <source xml:lang="en">Name</source>
