@@ -335,7 +335,7 @@
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LinkToSILInformationAboutLanguageCodes" approved="yes">
         <source xml:lang="en">About Language 639-3 Codes &amp; How To Apply For New Ones</source>
         <note>ID: LanguageLookup.CannotFindMyLanguage.LinkToSILInformationAboutLanguageCodes</note>
-        <target xml:lang="sw" state="final">Kuhusu Majina Mafupi ya Lugha 639-3 na Jinsi ya Kupata Mengine Mapya</target>
+        <target xml:lang="sw" state="final">Kuhusu Misimbo ya Lugha 639-3 na Jinsi ya Kupata Nyingine Mpya</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguageWindowTitle" approved="yes">
         <source xml:lang="en">About The ISO Language Registry</source>
@@ -366,7 +366,7 @@
       <trans-unit id="LanguageLookup.LanguageLookupDialogWindowTitle" approved="yes">
         <source xml:lang="en">Lookup Language Code...</source>
         <note>ID: LanguageLookup.LanguageLookupDialogWindowTitle</note>
-        <target xml:lang="sw" state="final">Tazama Jina Fupi la Lugha...</target>
+        <target xml:lang="sw" state="final">Tazama Msimbo wa Lugha...</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.PrimaryNameHeader" approved="yes">
         <source xml:lang="en">Name</source>
@@ -401,7 +401,7 @@
       <trans-unit id="MemoryWarning" approved="yes">
         <source xml:lang="en">Unfortunately, {0} is starting to get short of memory, and may soon slow down or experience other problems. We recommend that you quit and restart it when convenient.</source>
         <note>ID: MemoryWarning</note>
-        <target xml:lang="sw" state="final">Kwa bahati mbaya, kumbukumbu la {0} linaanza kuelekea kuisha, na hivi karibuni inaweza kusonga polepole au kupata matatizo mengine. Tunapendekeza kuwa uache au uifungue upya inapofaa.</target>
+        <target xml:lang="sw" state="final">Kwa bahati mbaya, kumbukumbu ya {0} inaanza kuisha, na hivi karibuni inaweza kuanza kufanya kazi polepole au kupata matatizo mengine. Tunapendekeza kuwa uache au uifungue upya inapofaa.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Creator" approved="yes">
         <source xml:lang="en">Creator: {0}</source>
@@ -422,7 +422,7 @@
         <source xml:lang="en">You must keep the copyright and credits for authors, illustrators, etc.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.AttributionRequired</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="final">Ni lazima uweke hati umiliki na sifa kwa waandishi, wachoraji, na kadhalika.</target>
+        <target xml:lang="sw" state="final">Ni lazima uweke hatimiliki na sifa za waandishi, wachoraji, na kadhalika.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.CommercialUseAllowed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You are free to make commercial use of this work.</source>
@@ -434,19 +434,19 @@
         <source xml:lang="en">You may adapt and add to this work.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.Derivatives</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="final">Unaruhusiwa kuibadilisha na kuongeza kwa toleo hili.</target>
+        <target xml:lang="sw" state="final">Unaruhusiwa kuibadilisha na kuongeza kwenye kazi hii.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.DerivativesWithShareAndShareAlike" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You may adapt and add to this work, but you may distribute the resulting work only under the same or similar license to this one.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.DerivativesWithShareAndShareAlike</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="final">Unaweza kuibadilisha na kuongeza kwa toleo hili, lakini lazima usambaze matokeo ya kazi hii tu chini ya leseni hiyo hiyo au leseni inayofanana na hii.</target>
+        <target xml:lang="sw" state="final">Unaweza kuibadilisha na kuongeza kwenye kazi hii, lakini unaweza kusambaza matokeo ya kazi tu chini ya leseni moja au leseni inayofanana na hii.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.NoDerivatives" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You may not make changes or build upon this work without permission.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.NoDerivatives</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="final">Huruhusiwi kufanya mabadiliko au kuongeza chochote zaidi kwa toleo hili bila idhini.</target>
+        <target xml:lang="sw" state="final">Huruhusiwi kufanya mabadiliko au kuongeza chochote zaidi kwa kazi hili bila idhini.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.NonCommercial" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You may not use this work for commercial purposes.</source>
