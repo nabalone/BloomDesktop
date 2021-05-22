@@ -4635,11 +4635,11 @@ kisomaji cha ePUB</target>
         <note>ID: PublishTab.PrintButton</note>
         <target xml:lang="sw" state="final">U&amp;chapisha...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PrologToAdobeEula">
+      <trans-unit id="PublishTab.PrologToAdobeEula" approved="yes">
         <source xml:lang="en">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for print shop".  You must agree to the following license in order to perform this task in Bloom.</source>
         <note>ID: PublishTab.PrologToAdobeEula</note>
         <note>Brief explanation of what this license is and why the user needs to agree to it</note>
-        <target xml:lang="sw" state="translated">Bloom hutumia profaili za rangi ya Adobe kubadilisha faili za PDF kutoka kwa kutumia rangi ya RGB na kutumia rangi ya CMYK. Hii ni sehemu ya kuandaa "PDF kwa uchapishaji". Lazima ukubali leseni ifuatayo ili ufanye kazi hii katika Bloom.</target>
+        <target xml:lang="sw" state="final">Bloom hutumia profaili za rangi ya Adobe kubadilisha mafaili ya PDF kutoka kwa kutumia rangi ya RGB na kutumia rangi ya CMYK. Hii ni sehemu ya kuandaa "PDF kwa duka la kuchapisha". Lazima ukubali leseni ifuatayo ili kufanya kazi hii katika Bloom.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Publish" approved="yes">
         <source xml:lang="en">Publish</source>
@@ -5599,16 +5599,16 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.PleaseHelpUs</note>
         <target xml:lang="sw" state="final">Tafadhali tusaidie kutoa tena tatizo hili kwenye kompyuta zetu.</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.PrivacyInfo">
+      <trans-unit id="ReportProblemDialog.PrivacyInfo" approved="yes">
         <source xml:lang="en">Your report will go into our issue tracking system and will be visible via the web. If you have something private to say, please email to '{0}'.</source>
         <note>ID: ReportProblemDialog.PrivacyInfo</note>
         <note>The {0} is where the Bloom team's private email address will be inserted.</note>
-        <target xml:lang="sw" state="translated">Ripoti yako itaingia kwenye mfumo wetu wa ufuatiliaji wa maswala na itaonekana kupitia wavuti. Ikiwa una jambo la faragha la kusema, tafadhali tuma barua pepe kwa '{0}'.</target>
+        <target xml:lang="sw" state="final">Ripoti yako itaingia kwenye mfumo wetu wa ufuatiliaji wa maswala na itaonekana kupitia wavuti. Ikiwa una jambo la faragha la kusema, tafadhali tuma barua pepe kwa '{0}'.</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.PrivacyNotice">
+      <trans-unit id="ReportProblemDialog.PrivacyNotice" approved="yes">
         <source xml:lang="en">Bloom will include diagnostic information with your report. Your report will not be private.</source>
         <note>ID: ReportProblemDialog.PrivacyNotice</note>
-        <target xml:lang="sw" state="translated">Bloom itajumuisha habari ya uchunguzi na ripoti yako. Ripoti yako haitakuwa ya faragha.</target>
+        <target xml:lang="sw" state="final">Bloom itajumuisha habari ya uchunguzi na ripoti yako. Ripoti yako haitakuwa ya faragha.</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Quit" approved="yes">
         <source xml:lang="en">Quit</source>
