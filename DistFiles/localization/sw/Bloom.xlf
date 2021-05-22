@@ -3084,11 +3084,11 @@
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage</note>
         <target xml:lang="sw" state="translated">Ukiagiza rekodi hii, itachukua nafasi ya sauti zote kwa kisanduku hiki cha maandishi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Look at the highlighted text</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel</note>
         <note>Please make it match EditTab.Toolbox.TalkingBookTool.LookAtSentence if possible, but without the number</note>
-        <target xml:lang="sw" state="translated">Angalia maandishi yaliyoangaziwa</target>
+        <target xml:lang="sw" state="final">Angalia maandishi yaliyoangaziwa</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.MicrophoneProblem" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is having problems connecting to your microphone. Please restart your computer and try again.</source>
@@ -3101,17 +3101,17 @@
         <note>Please make it match EditTab.Toolbox.TalkingBookTool.Next if possible, but without the number</note>
         <target xml:lang="sw" state="final">Inayofuata</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordByTextBox" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordByTextBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Record by whole text box, then let Bloom split it into sentences later.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.RecordByTextBox</note>
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
-        <target xml:lang="sw" state="translated">Rekodi kwa kisanduku kizima cha maandishi, kisha wacha Bloom ikigawe katika sentensi baadaye.</target>
+        <target xml:lang="sw" state="final">Rekodi kwa kisanduku kizima cha maandishi, kisha wacha Bloom ikigawe katika sentensi baadaye.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeClearExistingRecordings" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeClearExistingRecordings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please clear all existing recordings on this page before changing modes.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.RecordingModeClearExistingRecordings</note>
         <note>Shown if you open TalkingBookTool, make a recording, and then attempt to toggle the "Record by Sentences" input (without first clearing the audio recordings you are about to lose)</note>
-        <target xml:lang="sw" state="translated">Tafadhali futa rekodi zote zilizopo kwenye ukurasa huu kabla ya kubadilisha hali tumizi.</target>
+        <target xml:lang="sw" state="final">Tafadhali futa rekodi zote zilizopo kwenye ukurasa huu kabla ya kubadilisha.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.RecordingModeSplitOrClearExistingRecordingTextBox" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please split or clear the existing recording in this text box before changing modes.</source>
@@ -3145,16 +3145,16 @@
         <note>This text appears if an error occurs while perfoming automatic splitting of audio (an audio file corresponding to an entire text box will be split into multiple sections, one section per sentence).</note>
         <target xml:lang="sw" state="final">Hitilafu imetokea wakati wa kugawanya rekodi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.SplitLabel">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.SplitLabel" approved="yes">
         <source xml:lang="en">Split</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.SplitLabel</note>
         <note>This text appears on the button the user can press to trigger automatic splitting of audio. An audio file corresponding to an entire text box will be split into multiple audio files (one per sentence) instead. (Also known as "Forced Alignment" in technical terms)</note>
-        <target xml:lang="sw" state="translated">Gawa</target>
+        <target xml:lang="sw" state="final">Gawa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ToolPurpose" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ToolPurpose" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make an e-book that can play audio recordings while highlighting text.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ToolPurpose</note>
-        <target xml:lang="sw" state="translated">Tengeneza kitabu cha mtandao ambacho kinaweza kucheza yaliyorekodiwa ukiwa unaangaza maandishi.</target>
+        <target xml:lang="sw" state="final">Tengeneza kitabu cha mtandao ambacho kinaweza kucheza yaliyorekodiwa ukiwa unaangaza maandishi.</target>
       </trans-unit>
       <trans-unit id="EditTab.Trilingual" approved="yes">
         <source xml:lang="en">Three Languages</source>
@@ -3212,10 +3212,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9, shorter wording): Bloom was unable to start its own HTTP listener that it uses to talk to its embedded Firefox browser. If this happens even if you just restarted your computer, ask someone to investigate if you have an aggressive firewall product installed. The agressive firewall product may need to be uninstalled before you can use Bloom.</note>
         <target xml:lang="sw" state="final">Bloom ilishindwa kuanzisha kifaa cha HTTP cha kusikiza ambacho huwa inatumia kuwasiliana na kifaa chake kilichotiwa ndani cha mtandao wa intaneti. Iwapo hii itatendeka hata ingawa ulikuwa tu umefungua upya kompyuta yako, ambia mtu achunguze iwapo una kifaa kinachotumika kwa nguvu ambacho kimewekwa kwenye mtandao. Kifaa hiki kinachotumika kwa nguvu kilicho kwenye mtandao kinaweza kuhitajika kutolewa kabla ya wewe kuweza kutumia Bloom.</target>
       </trans-unit>
-      <trans-unit id="Errors.CouldNotSavePage">
+      <trans-unit id="Errors.CouldNotSavePage" approved="yes">
         <source xml:lang="en">Bloom had trouble saving a page. Please click Details below and report this to us. Then quit Bloom, run it again, and check to see if the page you just edited is missing anything. Sorry!</source>
         <note>ID: Errors.CouldNotSavePage</note>
-        <target xml:lang="sw" state="translated">Bloom ilipata shida kuhifadhi ukurasa. Tafadhali bonyeza Maelezo hapa chini na uturipotie hii. Kisha toka kwenye Bloom, urudi tena, na angalia ikiwa ukurasa ambao umeubadilisha umekosa chochote. Samahani!</target>
+        <target xml:lang="sw" state="final">Bloom ilipata shida kuhifadhi ukurasa. Tafadhali bonyeza Maelezo hapa chini na uturipotie hii. Kisha toka kwenye Bloom, urudi tena, na angalia ikiwa ukurasa ambao umeubadilisha umekosa chochote. Samahani!</target>
       </trans-unit>
       <trans-unit id="Errors.CurrentRunningVersion">
         <source xml:lang="en">You are running Bloom {0}</source>
@@ -3240,11 +3240,11 @@
         <note>ID: Errors.DeniedAccess</note>
         <target xml:lang="sw" state="final">Kompyuta yako ilikataza Blook kupata kitabu. Unaweza kuhitaji usaidizi wa kifundi ili kuandaa mfumo wa utenda kazi idhini ya kupata faili hii.</target>
       </trans-unit>
-      <trans-unit id="Errors.DownloadLatestVersion">
+      <trans-unit id="Errors.DownloadLatestVersion" approved="yes">
         <source xml:lang="en">Upgrade to the latest Bloom (requires Internet connection)</source>
         <note>ID: Errors.DownloadLatestVersion</note>
         <note>This is a link that will take them to the Downloads (Installers) web page</note>
-        <target xml:lang="sw" state="translated">Boresha kwa Bloom ya hivi karibuni (inahitaji muunganisho wa mtandao)</target>
+        <target xml:lang="sw" state="final">Boresha kwa Bloom ya hivi karibuni (inahitaji muunganisho wa mtandao)</target>
       </trans-unit>
       <trans-unit id="Errors.ErrorSelecting" approved="yes">
         <source xml:lang="en">There was a problem selecting the book.  Restarting Bloom may fix the problem.  If not, please click the 'Details' button and report the problem to the Bloom Developers.</source>
@@ -3258,12 +3258,12 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added spaces): There was a problem updating the book. Restarting Bloom may fix the problem. If not, please click the 'Details' button and report the problem to the Bloom Developers.</note>
         <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kutengeneza upya kitabu. Kufungua upya Bloom kunaweza kusuluhisha tatizo hili. Iwapo haitawezekana, tafadhali kliki kifute cha 'Maelezo' na uripoti tatizo kwa Wataalamu husika wa Bloom.</target>
       </trans-unit>
-      <trans-unit id="Errors.FeatureRequiresNewerVersionPlural">
+      <trans-unit id="Errors.FeatureRequiresNewerVersionPlural" approved="yes">
         <source xml:lang="en">This book requires Bloom {0} or greater because it uses the following features:</source>
         <note>ID: Errors.FeatureRequiresNewerVersionPlural</note>
         <note>The placeholder {0} represents the required version of Bloom. For example, {0} might be replaced with "4.4"</note>
         <note>A bulleted list of features (in English) will follow underneath this text</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia vipengele vifuatavyo:</target>
+        <target xml:lang="sw" state="final">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia vipengele vifuatavyo:</target>
       </trans-unit>
       <trans-unit id="Errors.FeatureRequiresNewerVersionSingular" approved="yes">
         <source xml:lang="en">This book requires Bloom {0} or greater because it uses the feature "{1}".</source>
@@ -3272,11 +3272,11 @@
         <note>The placeholder {1} represents a short description of the feature For example, {1} might be replaced with "Whole Text Audio"</note>
         <target xml:lang="sw" state="final">Kitabu hiki kinahitaji Bloom {0} au zaidi kwa sababu kinatumia kipengele "{1}".</target>
       </trans-unit>
-      <trans-unit id="Errors.MultipleHtmlFiles">
+      <trans-unit id="Errors.MultipleHtmlFiles" approved="yes">
         <source xml:lang="en">Bloom book folders must have only one file ending in .htm.  In the book "{0}", these are the files ending in .htm:</source>
         <note>ID: Errors.MultipleHtmlFiles</note>
         <note>{0} will get the name of the book</note>
-        <target xml:lang="sw" state="translated">Folda za kitabu cha Bloom lazima ziwe na faili moja tu inayoishia kwa .htm. Katika kitabu "{0}", hizi ni faili zinazoishia kwa .htm:</target>
+        <target xml:lang="sw" state="final">Folda za kitabu cha Bloom lazima ziwe na faili moja tu inayoishia kwa .htm. Katika kitabu "{0}", hizi ni faili zinazoishia kwa .htm:</target>
       </trans-unit>
       <trans-unit id="Errors.NeedNewerVersion" approved="yes">
         <source xml:lang="en">{0} requires a newer version of Bloom. Download the latest version of Bloom from {1}</source>
@@ -3310,11 +3310,11 @@
         <note>ID: Errors.ReadOnlyBookFolder</note>
         <target xml:lang="sw" state="final">Kitabu hiki hakiwezi kuhaririwa kwa sababu folda yake ni ya kusoma tu.</target>
       </trans-unit>
-      <trans-unit id="Errors.RemoveExcessHtml">
+      <trans-unit id="Errors.RemoveExcessHtml" approved="yes">
         <source xml:lang="en">Please remove all but one of the files ending in .htm.  Bloom will now open this folder for you.</source>
         <note>ID: Errors.RemoveExcessHtml</note>
         <note>This follows the Errors.MultipleHtmlFiles message and a list of HTML files.</note>
-        <target xml:lang="sw" state="translated">Tafadhali ondoa faili zote isipokuwa moja tu inayoishia kwa .htm. Bloom sasa itakufungulia folda hii.</target>
+        <target xml:lang="sw" state="final">Tafadhali ondoa faili zote isipokuwa moja tu inayoishia kwa .htm. Bloom sasa itakufungulia folda hii.</target>
       </trans-unit>
       <trans-unit id="Errors.ReportThisProblemButton" approved="yes">
         <source xml:lang="en">Report this problem to Bloom Support</source>
@@ -3338,10 +3338,10 @@
         <note>This shows in the 'toast' that pops up to notify the user of a non-fatal problem.</note>
         <target xml:lang="sw" state="final">Tatizo la sehemu ya Mbele/Nyuma</target>
       </trans-unit>
-      <trans-unit id="Errors.XMatterSpecifiedByBookNotFound">
+      <trans-unit id="Errors.XMatterSpecifiedByBookNotFound" approved="yes">
         <source xml:lang="en">This book called for a Front/Back Matter pack named '{0}', but this version of Bloom does not have it, and Bloom could not find it on this computer. The book has been changed to use the Front/Back Matter pages from the Collection Settings.</source>
         <note>ID: Errors.XMatterSpecifiedByBookNotFound</note>
-        <target xml:lang="sw" state="translated">Kitabu hiki kilihitaji kifurushi cha Mbele / Nyuma kiitwacho '{0}', lakini toleo hili la Bloom halina, na Bloom haikuweza kuipata kwenye kompyuta hii. Kitabu kimebadilishwa ili kutumia kurasa za Mbele / Nyuma za kutoka kwenye Mipangilio wa mkusanyiko.</target>
+        <target xml:lang="sw" state="final">Kitabu hiki kilihitaji kifurushi cha Mbele / Nyuma kiitwacho '{0}', lakini toleo hili la Bloom halina, na Bloom haikuweza kuipata kwenye kompyuta hii. Kitabu kimebadilishwa ili kutumia kurasa za Mbele / Nyuma za kutoka kwenye Mipangilio wa mkusanyiko.</target>
       </trans-unit>
       <trans-unit id="Errors.ZoneAlarm" approved="yes">
         <source xml:lang="en">Bloom cannot start properly, and this symptom has been observed on machines with ZoneAlarm installed. Note: disabling ZoneAlarm does not help. Nor does restarting with it turned off. Something about the installation of ZoneAlarm causes the problem, and so far only uninstalling ZoneAlarm has been shown to fix the problem.</source>
@@ -3404,10 +3404,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): Registration</note>
         <target xml:lang="sw" state="final">Usajili</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.ReleaseNotesMenuItem">
+      <trans-unit id="HelpMenu.ReleaseNotesMenuItem" approved="yes">
         <source xml:lang="en">Release Notes...</source>
         <note>ID: HelpMenu.ReleaseNotesMenuItem</note>
-        <target xml:lang="sw" state="translated">Toa Maelezo...</target>
+        <target xml:lang="sw" state="final">Toa Maelezo...</target>
       </trans-unit>
       <trans-unit id="HelpMenu.ReportAProblemToolStripMenuItem" approved="yes">
         <source xml:lang="en">Report a Problem...</source>
@@ -3447,11 +3447,11 @@
         <note>ID: InstallProblem.BloomPdfMaker</note>
         <target xml:lang="sw" state="final">Sehemu ya Bloom, BloomPdfMaker.exe, inaonekana kupotea. Hii inazuia kuonekana kwa onyesho la awali na uchapishaji. programu ya antivairasi wakati mwingine hufanya hivi. Unaweza kuhitaji usadizi wa kifundi ili kukarabati uwekaji wa Bloom na kuzuia faili hii kufutika tena.</target>
       </trans-unit>
-      <trans-unit id="LameEncoder.DeleteFailedShort">
+      <trans-unit id="LameEncoder.DeleteFailedShort" approved="yes">
         <source xml:lang="en">Cannot replace mp3 file. Check antivirus</source>
         <note>ID: LameEncoder.DeleteFailedShort</note>
         <note>short message for a popup toast notification</note>
-        <target xml:lang="sw" state="translated">Haiwezi kubadilisha faili ya mp3. Angalia kinga ya virusi</target>
+        <target xml:lang="sw" state="final">Haiwezi kubadilisha faili ya mp3. Angalia kinga ya virusi</target>
       </trans-unit>
       <trans-unit id="LameEncoder.DeleteFailedLong">
         <source xml:lang="en">Bloom could not replace an mp3 file. If this continues, check your antivirus.</source>
@@ -3481,50 +3481,50 @@
         <note>ID: LayoutChoices.A3Landscape</note>
         <target xml:lang="sw" state="final">Ukurasa mlalo wa A3</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A4Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A4Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A4 Landscape</source>
         <note>ID: LayoutChoices.A4Landscape</note>
-        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4</target>
+        <target xml:lang="sw" state="final">Ukurasa mlalo wa A4</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A4Landscape SideBySide" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A4Landscape SideBySide" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A4 Landscape (Side By Side)</source>
         <note>ID: LayoutChoices.A4Landscape SideBySide</note>
-        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4 (Upande kwa Upande)</target>
+        <target xml:lang="sw" state="final">Ukurasa mlalo wa A4 (Upande kwa Upande)</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A4Landscape SplitAcrossPages" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A4Landscape SplitAcrossPages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A4 Landscape (Split Across Pages)</source>
         <note>ID: LayoutChoices.A4Landscape SplitAcrossPages</note>
-        <target xml:lang="sw" state="translated">Kurasa mlalo ya A4 (Uliogawanyika Katika Kurasa)</target>
+        <target xml:lang="sw" state="final">Kurasa mlalo ya A4 (Gawa Kwenye Kurasa)</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A4Portrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A4Portrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A4 Portrait</source>
         <note>ID: LayoutChoices.A4Portrait</note>
-        <target xml:lang="sw" state="translated">Kurasa wima wa A4</target>
+        <target xml:lang="sw" state="final">Ukurasa wima wa A4</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A5Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A5Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A5 Landscape</source>
         <note>ID: LayoutChoices.A5Landscape</note>
-        <target xml:lang="sw" state="translated">Kurasa mlalo wa A5</target>
+        <target xml:lang="sw" state="final">Ukurasa mlalo wa A5</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A5Portrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A5Portrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A5 Portrait</source>
         <note>ID: LayoutChoices.A5Portrait</note>
-        <target xml:lang="sw" state="translated">Kurasa wima wa A5</target>
+        <target xml:lang="sw" state="final">Ukurasa wima wa A5</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A6Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A6Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A6 Landscape</source>
         <note>ID: LayoutChoices.A6Landscape</note>
-        <target xml:lang="sw" state="translated">Muundo wa A6</target>
+        <target xml:lang="sw" state="final">Ukurasa mlalo wa A6</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.A6Portrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.A6Portrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A6 Portrait</source>
         <note>ID: LayoutChoices.A6Portrait</note>
-        <target xml:lang="sw" state="translated">Picha ya A6</target>
+        <target xml:lang="sw" state="final">Ukurasa wima wa A6</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.B5Portrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.B5Portrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">B5 Portrait</source>
         <note>ID: LayoutChoices.B5Portrait</note>
-        <target xml:lang="sw" state="translated">Ukurasa wima wa B5</target>
+        <target xml:lang="sw" state="final">Ukurasa wima wa B5</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.Device16x9Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Device16x9 Landscape</source>
