@@ -7,31 +7,31 @@
         <target xml:lang="sw" state="final">Jinsi ya kutumia kianzishi cha Kiolezo</target>
         <note>ID: template.starter</note>
       </trans-unit>
-      <trans-unit id="template.starter.firstusage">
+      <trans-unit id="template.starter.firstusage" approved="yes">
         <source xml:lang="en">This special template lets you make your own templates. A template provides a set of related page layouts that an author can choose from in writing an original book. Usually the text blocks and picture blocks on template pages will be empty, ready for an author to fill in. Sometimes there may be standard text or pictures that should be on every copy of the page.
 There are two ways people can use your template. The first way is to start new books. For example, imagine student books that have one page for each school day of the week. You could make a template with 5 pages, each with places to type in text and choose pictures. Curriculum authors could select your template and make a new book, one for each week<g id="genid-1" ctype="x-html-sup"><g id="genid-2" ctype="x-html-a" html:href="#note1">1</g></g>.</source>
-        <target xml:lang="sw" state="translated">Kiolezo hiki maalum kinakuwezesha kutengeneza violezo vyako mwenyewe. Kiolezo kinatoa seti ya mipangilio ya ukurasa inayohusiana ambayo mwandishi anaweza kuchagua kwa kuandika kitabu asili. Kawaida vijisanduku vya maandishi na picha kwenye kurasa za kiolezo huwa tupu, tayari kwa mwandishi kujaza. Wakati mwingine kunaweza kuwa na maandishi au picha za kawaida ambazo zinastahili kuwa kwenye kila nakala ya ukurasa.
+        <target xml:lang="sw" state="final">Kiolezo hiki maalum kinakuwezesha kutengeneza violezo vyako mwenyewe. Kiolezo kinatoa seti ya mipangilio ya ukurasa inayohusiana ambayo mwandishi anaweza kuchagua kwa kuandika kitabu asili. Kawaida vijisanduku vya maandishi na picha kwenye kurasa za kiolezo huwa tupu, tayari kwa mwandishi kujaza. Wakati mwingine kunaweza kuwa na maandishi au picha za kawaida ambazo zinastahili kuwa kwenye kila nakala ya ukurasa.
 Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni kuanza vitabu vipya. Kwa mfano, fikiria vitabu vya wanafunzi ambavyo vina ukurasa mmoja kwa kila siku ya shule ya wiki. Unaweza kutengeneza kiolezo na kurasa 5, kila mmoja ukiwa na mahali pa kuandikia maandishi na kuchagua picha. Waandishi wa mtaala wanaweza kuchagua kiolezo chako na kutengeneza kitabu kipya, kitabu kimoja kwa kila wiki<g id="genid-1" ctype="x-html-sup"><g id="genid-2" ctype="x-html-a" html:href="#note1"></g>.</target>
         <note>ID: template.starter.firstusage</note>
       </trans-unit>
-      <trans-unit id="template.starter.secondusage">
+      <trans-unit id="template.starter.secondusage" approved="yes">
         <source xml:lang="en">The second way people can use templates is as source of new pages, regardless of how they started the book. For example, in some places, each book requires a page as part of a government approval process. You might make a template containing that page and give it to others in your country. Then, when people translate a shellbook, they go to the end of the book and click “Add Page”. The page you made will appear in their list of choices. Some other ideas for templates are alphabet charts, glossaries, and instructions on how to use the book in a classroom. <g id="genid-3" ctype="x-html-sup"><g id="genid-4" ctype="x-html-a" html:href="#note2">2</g></g></source>
-        <target xml:lang="sw" state="translated">Njia ya pili ambayo watu wanaweza kutumia violezo ni kama chanzo cha kurasa mpya, bila kujali jinsi walivyoanza kitabu. Kwa mfano, katika maeneo mengine, kila kitabu kinahitaji ukurasa kama sehemu ya mchakato wa idhini ya serikali. Unaweza kutengeneza kiolezo kilicho na ukurasa huo na uwape wengine katika nchi yako. Halafu, wakati watu wanatafsiri kitabu cha shell, wanaenda kwenye mwisho wa kitabu na kubonyeza "Ongeza Ukurasa". Ukurasa ulioutengeneza utaonekana katika orodha yao ya kuchagua. Mawazo mengine ya kiolezo ni chati za alfabeti, faharasa, na maagizo ya jinsi ya kutumia kitabu darasani. <g id="genid-3" ctype="x-html-sup"><g id="genid-4" ctype="x-html-a" html:href="#note2">2</g></target>
+        <target xml:lang="sw" state="final">Njia ya pili ambayo watu wanaweza kutumia violezo ni kama chanzo cha kurasa mpya, bila kujali jinsi walivyoanza kitabu. Kwa mfano, katika maeneo mengine, kila kitabu kinahitaji ukurasa kama sehemu ya mchakato wa idhini ya serikali. Unaweza kutengeneza kiolezo kilicho na ukurasa huo na uwape wengine katika nchi yako. Halafu, wakati watu wanatafsiri kitabu cha shell, wanaenda kwenye mwisho wa kitabu na kubonyeza "Ongeza Ukurasa". Ukurasa ulioutengeneza utaonekana katika orodha yao ya kuchagua. Mawazo mengine ya kiolezo ni chati za alfabeti, faharasa, na maagizo ya jinsi ya kutumia kitabu darasani. <g id="genid-3" ctype="x-html-sup"><g id="genid-4" ctype="x-html-a" html:href="#note2">2</g></target>
         <note>ID: template.starter.secondusage</note>
       </trans-unit>
-      <trans-unit id="template.starter.waystohelp">
+      <trans-unit id="template.starter.waystohelp" approved="yes">
         <source xml:lang="en">Making templates is just like making any other custom book; all the same controls are available for making and customizing pages. But since you will probably be sharing with other people, there are a number of things you can do to help users of your template:</source>
-        <target xml:lang="sw" state="translated">Kutengeneza kiolezo ni kama kutengeneza kitabu kingine chochote cha kibinafsi; udhibiti wote unapatikana kwa kutengeneza na kubadilisha kurasa. Lakini kwa kuwa labda utashiriki na watu wengine, kuna mambo kadhaa ambayo unaweza kufanya kusaidia watumiaji wa kiolezo chako:</target>
+        <target xml:lang="sw" state="final">Kutengeneza kiolezo ni kama kutengeneza kitabu kingine chochote cha kibinafsi; udhibiti wote unapatikana kwa kutengeneza na kubadilisha kurasa. Lakini kwa kuwa labda utashiriki na watu wengine, kuna mambo kadhaa ambayo unaweza kufanya kusaidia watumiaji wa kiolezo chako:</target>
         <note>ID: template.starter.waystohelp</note>
       </trans-unit>
-      <trans-unit id="template.starter.labelpages">
+      <trans-unit id="template.starter.labelpages" approved="yes">
         <source xml:lang="en">Label Your Pages</source>
-        <target xml:lang="sw" state="translated">Weka lebo kwenye Kurasa Zako</target>
+        <target xml:lang="sw" state="final">Weka lebo kwenye Kurasa Zako</target>
         <note>ID: template.starter.labelpages</note>
       </trans-unit>
-      <trans-unit id="template.starter.labeleachpage">
+      <trans-unit id="template.starter.labeleachpage" approved="yes">
         <source xml:lang="en">When you add pages to your template, make sure to give each one a useful label<g id="genid-5" ctype="x-html-sup"><g id="genid-6" ctype="x-html-a" html:href="#note3">3</g>,<g id="genid-7" ctype="x-html-a" html:href="#note4">4</g></g>:</source>
-        <target xml:lang="sw" state="translated">Unapoongeza kurasa kwenye kiolezo chako, hakikisha umeupa kila ukurasa lebo muhimu<g id="genid-5" ctype="x-html-sup"><g id="genid-5" ctype="x-html-sup">:</target>
+        <target xml:lang="sw" state="final">Unapoongeza kurasa kwenye kiolezo chako, hakikisha umeupa kila ukurasa lebo muhimu<g id="genid-5" ctype="x-html-sup"><g id="genid-5" ctype="x-html-sup">:</target>
         <note>ID: template.starter.labeleachpage</note>
       </trans-unit>
       <trans-unit id="template.starter.thumbnails" approved="yes">
@@ -39,19 +39,19 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
         <target xml:lang="sw" state="final">Angalia vijipicha vyako</target>
         <note>ID: template.starter.thumbnails</note>
       </trans-unit>
-      <trans-unit id="template.starter.thumbnails.onlyonce">
+      <trans-unit id="template.starter.thumbnails.onlyonce" approved="yes">
         <source xml:lang="en">To speed things up, Bloom only makes this thumbnail once, and stores it in the "template" subdirectory of your template:</source>
-        <target xml:lang="sw" state="translated">Ili kufanya mambo yaende mbio, Bloom hutengeneza kijipicha hiki mara moja tu, na kukihifadhi kwenye "kiolezo" saraka ndogo ya kiolezo chako:</target>
+        <target xml:lang="sw" state="final">Ili kufanya mambo yaende mbio, Bloom hutengeneza kijipicha hiki mara moja tu, na kukihifadhi kwenye "kiolezo" saraka ndogo ya kiolezo chako:</target>
         <note>ID: template.starter.thumbnails.onlyonce</note>
       </trans-unit>
-      <trans-unit id="template.starter.thumbnails.update">
+      <trans-unit id="template.starter.thumbnails.update" approved="yes">
         <source xml:lang="en">If you later make a change to the page, the thumbnail will be out of date. To fix that, click the "Add Page" button, and Bloom will regenerate those thumbnails. If the automatically generated thumbnail doesn't convey the purpose of the page, you can make your own. Just make sure to mark the file as "Read Only" so that Bloom doesn't overwrite it. You can also make your thumbnails as svgs, if you like (that's what we do for templates we ship with Bloom).  In any case, make sure to click "Add Page" at least once before distributing your template, so that all the thumbnails are already generated.</source>
-        <target xml:lang="sw" state="translated">Ikiwa baadaye utafanya mabadiliko kwenye ukurasa, kijipicha kitakuwa kimepitwa na wakati. Ili kurekebisha hilo, bonyeza kitufe cha "Ongeza Ukurasa", na Bloom itatoa tena vijipicha hivyo. Ikiwa kijipicha kilichotolewa kiotomati hakijafikisha kusudi la ukurasa, unaweza kutengeneza chako mwenyewe. Hakikisha tu umeweka alama kwenye faili kama "Soma tu" ili Bloom isiiandike tena. Unaweza pia kutengeneza vijipicha vyako kama svgs, ikiwa unapenda (hivyo ndivyo tunavyofanya kwa violezo tunavyotuma na Bloom). Kwa hali yoyote, hakikisha kubonyeza "Ongeza Ukurasa" angalau mara moja kabla ya kusambaza kiolezo chako, ili vijipicha vyote viwe vimetengenezwa tayari.</target>
+        <target xml:lang="sw" state="final">Ikiwa baadaye utafanya mabadiliko kwenye ukurasa, kijipicha kitakuwa kimepitwa na wakati. Ili kurekebisha hilo, bonyeza kitufe cha "Ongeza Ukurasa", na Bloom itatoa tena vijipicha hivyo. Ikiwa kijipicha kilichotolewa kiotomati hakijafikisha kusudi la ukurasa, unaweza kutengeneza chako mwenyewe. Hakikisha tu umeweka alama kwenye faili kama "Soma tu" ili Bloom isiiandike tena. Unaweza pia kutengeneza vijipicha vyako kama svgs, ikiwa unapenda (hivyo ndivyo tunavyofanya kwa violezo tunavyotuma na Bloom). Kwa hali yoyote, hakikisha kubonyeza "Ongeza Ukurasa" angalau mara moja kabla ya kusambaza kiolezo chako, ili vijipicha vyote viwe vimetengenezwa tayari.</target>
         <note>ID: template.starter.thumbnails.update</note>
       </trans-unit>
-      <trans-unit id="template.starter.document">
+      <trans-unit id="template.starter.document" approved="yes">
         <source xml:lang="en">Document Your Template</source>
-        <target xml:lang="sw" state="translated">Andika Kiolezo Chako</target>
+        <target xml:lang="sw" state="final">Andika Kiolezo Chako</target>
         <note>ID: template.starter.document</note>
       </trans-unit>
       <trans-unit id="template.starter.describeyours" approved="yes">
