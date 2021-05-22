@@ -4944,7 +4944,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Step2" approved="yes">
         <source xml:lang="en">Step 2: Upload</source>
         <note>ID: PublishTab.Upload.Step2</note>
-        <target xml:lang="sw" state="final">Hatua ya 2: Weka</target>
+        <target xml:lang="sw" state="final">Hatua ya 2: Pakia</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.SuggestAssignCC" approved="yes">
         <source xml:lang="en">Suggestion: Assigning a Creative Commons License makes it easy for you to clearly grant certain permissions to everyone.</source>
@@ -4992,7 +4992,7 @@ Do you want to go ahead?</note>
       <trans-unit id="PublishTab.Upload.UploadButton" approved="yes">
         <source xml:lang="en">Upload Book</source>
         <note>ID: PublishTab.Upload.UploadButton</note>
-        <target xml:lang="sw" state="final">Weka Kitabu</target>
+        <target xml:lang="sw" state="final">Pakia Kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadCompleteNotice" approved="yes">
         <source xml:lang="en">Congratulations, "{0}" is now available on BloomLibrary.org ({1})</source>
@@ -5003,28 +5003,28 @@ Do you want to go ahead?</note>
       <trans-unit id="PublishTab.Upload.UploadNotAllowed" approved="yes">
         <source xml:lang="en">Upload Not Allowed</source>
         <note>ID: PublishTab.Upload.UploadNotAllowed</note>
-        <target xml:lang="sw" state="final">Haikubaliwi Kuweka Kitabu</target>
+        <target xml:lang="sw" state="final">Haikubaliwi Kupakia Kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem uploading your book. You may need to restart Bloom or get technical help.</source>
         <note>ID: PublishTab.Upload.UploadProblemNotice</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kuweka kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
+        <target xml:lang="sw" state="final">Kulikuwa na tatizo kupakia kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadProgress" approved="yes">
         <source xml:lang="en">Upload Progress</source>
         <note>ID: PublishTab.Upload.UploadProgress</note>
-        <target xml:lang="sw" state="final">Hali ya kuendelea kuweka</target>
+        <target xml:lang="sw" state="final">Pakia Maendeleo</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadingBookMetadata" approved="yes">
         <source xml:lang="en">Uploading book metadata</source>
         <note>ID: PublishTab.Upload.UploadingBookMetadata</note>
         <note>In this step, Bloom is uploading things like title, languages, and topic tags to the BloomLibrary.org database.</note>
-        <target xml:lang="sw" state="final">Kuweka metadata ya kitabu</target>
+        <target xml:lang="sw" state="final">Kupakia metadata ya kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadingStatus" approved="yes">
         <source xml:lang="en">Uploading {0}</source>
         <note>ID: PublishTab.Upload.UploadingStatus</note>
-        <target xml:lang="sw" state="final">Kuweka {0}</target>
+        <target xml:lang="sw" state="final">Kupakia {0}</target>
       </trans-unit>
       <trans-unit id="Quiz.CheckYourUnderstanding" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Check Your Understanding</source>
@@ -5035,12 +5035,12 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.AddLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Level</source>
         <note>ID: ReaderSetup.AddLevel</note>
-        <target xml:lang="sw" state="final">Ongeza Ngazi</target>
+        <target xml:lang="sw" state="final">Ongeza Kiwango</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.AddStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Stage</source>
         <note>ID: ReaderSetup.AddStage</note>
-        <target xml:lang="sw" state="final">Ongeza Awamu</target>
+        <target xml:lang="sw" state="final">Ongeza Hatua</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.AllowedWords" sil:dynamic="true" approved="yes">
         <source xml:lang="en">allowed words</source>
@@ -5081,7 +5081,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.ClickLetter" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click on letters to add them to this stage.</source>
         <note>ID: ReaderSetup.ClickLetter</note>
-        <target xml:lang="sw" state="final">Kliki kwenye herufi ili kuziongeza kwa awamu hii.</target>
+        <target xml:lang="sw" state="final">Bonyeza kwenye herufi ili kuziongeza kwa awamu hii.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.DecodableStages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Decodable Stages</source>
@@ -5152,7 +5152,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.LevelHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level</source>
         <note>ID: ReaderSetup.LevelHeader</note>
-        <target xml:lang="sw" state="final">Hatua</target>
+        <target xml:lang="sw" state="final">Kiwango</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.LevelLabelMax" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level {0} Maximums</source>
@@ -5163,7 +5163,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.Levels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Reader Levels</source>
         <note>ID: ReaderSetup.Levels</note>
-        <target xml:lang="sw" state="final">Ngazi za msomaji</target>
+        <target xml:lang="sw" state="final">Viwango vya Msomaji</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MatchingWords" sil:dynamic="true" approved="yes">
         <source xml:lang="en">matching words</source>
@@ -5277,17 +5277,17 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.ReaderLevels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Reader Levels</source>
         <note>ID: ReaderSetup.ReaderLevels</note>
-        <target xml:lang="sw" state="final">Ngazi za msomaji</target>
+        <target xml:lang="sw" state="final">Viwango vya Msomaji</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove Level {0}</source>
         <note>ID: ReaderSetup.RemoveLevel</note>
-        <target xml:lang="sw" state="final">Toa ngazi</target>
+        <target xml:lang="sw" state="final">Ondoa Kiwango {0}</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove Stage {0}</source>
         <note>ID: ReaderSetup.RemoveStage</note>
-        <target xml:lang="sw" state="final">Toa Awamu {0}</target>
+        <target xml:lang="sw" state="final">Ondoa Hatua {0}</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveWordList" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove from this stage</source>
@@ -5368,7 +5368,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SightWordsHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sight Words</source>
         <note>ID: ReaderSetup.SightWordsHeader</note>
-        <target xml:lang="sw" state="final">Majina yanayoonekana</target>
+        <target xml:lang="sw" state="final">Maneno yanayoonekana</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.StageHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stage</source>
