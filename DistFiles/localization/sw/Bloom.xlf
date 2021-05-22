@@ -3566,15 +3566,15 @@
         <note>ID: LayoutChoices.QuarterLetterPortrait</note>
         <target xml:lang="sw" state="translated">Barua robo kurasa mlalo</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.Cm13Landscape" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.Cm13Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">13cm Square</source>
         <note>ID: LayoutChoices.Cm13Landscape</note>
-        <target xml:lang="sw" state="translated">cm13 Mraba</target>
+        <target xml:lang="sw" state="final">Mraba 13cm</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.ComicPortrait" sil:dynamic="true">
+      <trans-unit id="LayoutChoices.ComicPortrait" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Comic Portrait</source>
         <note>ID: LayoutChoices.ComicPortrait</note>
-        <target xml:lang="sw" state="translated">Picha ya vichekesho</target>
+        <target xml:lang="sw" state="final">Picha ya vichekesho</target>
       </trans-unit>
       <trans-unit id="LicenseDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Bloom {0}</source>
@@ -3661,11 +3661,11 @@
         <note>ID: NewCollectionWizard.FinishPage</note>
         <target xml:lang="sw" state="final">Tayari kutengeneza Mkusanyiko Mpya</target>
       </trans-unit>
-      <trans-unit id="NewCollectionWizard.FinishPageContent">
+      <trans-unit id="NewCollectionWizard.FinishPageContent" approved="yes">
         <source xml:lang="en">OK, that's all we need to get started with your new '{0}' collection.\nClick on the 'Finish' button.</source>
         <note>ID: NewCollectionWizard.FinishPageContent</note>
         <note>{0} is the name of the new collection</note>
-        <target xml:lang="sw" state="translated">Sawa, hayo tu ndio tunahitaji ili kuanza mkusanyiko wako mpya wa '{0}'. \nBonyeza kitufe cha 'Maliza'.</target>
+        <target xml:lang="sw" state="final">Sawa, hayo tu ndio tunahitaji ili kuanza mkusanyiko wako mpya wa '{0}'. \nBonyeza kitufe cha 'Maliza'.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.FontAndScriptPage" approved="yes">
         <source xml:lang="en">Font and Script</source>
@@ -3743,10 +3743,10 @@
         <note>ID: NewCollectionWizard.ProjectName</note>
         <target xml:lang="sw" state="final">Jina la Mradi</target>
       </trans-unit>
-      <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName">
+      <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName" approved="yes">
         <source xml:lang="en">Unable to create a new collection using that name.</source>
         <note>ID: NewCollectionWizard.UnableToCreateANewCollectionUsingThatName</note>
-        <target xml:lang="sw" state="translated">Imeshindwa kutengeneza mkusanyiko mpya kwa kutumia jina hilo.</target>
+        <target xml:lang="sw" state="final">Imeshindwa kutengeneza mkusanyiko mpya kwa kutumia jina hilo.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.WelcomePage" approved="yes">
         <source xml:lang="en">Welcome To Bloom!</source>
@@ -3825,10 +3825,10 @@
         <note>ID: OpenCreateNewCollectionsDialog.TextAboutGetUsingChorus</note>
         <target xml:lang="sw" state="final">Je, kuna yeyote ambaye ametumia Tuma/Pokea kutumia mkusanyiko na wewe?\nTumia mojawapo wa vifute hivi vya rangi nyekundu ili kunakili mkusanyiko wake kwenye kompyuta yako.\nBaadaye, tumia Tuma/Pokea ili kuwatumia tena kazi yako.</target>
       </trans-unit>
-      <trans-unit id="OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_">
+      <trans-unit id="OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_" approved="yes">
         <source xml:lang="en">Change user interface language</source>
         <note>ID: OpenCreateNewCollectionsDialog.UILanguageMenu_ToolTip_</note>
-        <target xml:lang="sw" state="translated">Badilisha lugha ya kiolesura cha mtumiaji</target>
+        <target xml:lang="sw" state="final">Badilisha lugha ya kiolesura cha mtumiaji</target>
       </trans-unit>
       <trans-unit id="PageList.CantMoveWhenTranslating" approved="yes">
         <source xml:lang="en">Pages can not be re-ordered when you are translating a book.</source>
@@ -3874,11 +3874,11 @@
         <note/>
         <target xml:lang="sw" state="final">Kushiriki Faili za Bloomd</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.BloomD.Hint" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.BloomD.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can use sharing apps like email, Dropbox, and WhatsApp to get your .bloomd file onto a device.</source>
         <note>ID: PublishTab.Android.BloomD.Hint</note>
         <note/>
-        <target xml:lang="sw" state="translated">Unaweza kutumia programu za kushiriki kama vile barua pepe, Dropbox, na WhatsApp kupata faili yako ya .bloomd kwenye kifaa.</target>
+        <target xml:lang="sw" state="final">Unaweza kutumia programu za kushiriki kama vile barua pepe, Dropbox, na WhatsApp kupata faili yako ya .bloomd kwenye kifaa.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
@@ -3886,47 +3886,47 @@
         <note/>
         <target xml:lang="sw" state="final"> USB ni ngumu</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.USB.Hint" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.USB.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To Send via USB, you may need to get the right
                             cable, install phone drivers on your computer, or
                             modify settings on your phone.</source>
         <note>ID: PublishTab.Android.USB.Hint</note>
         <note/>
-        <target xml:lang="sw" state="translated">Kutuma kupitia USB, huenda ukahitaji kupata kebo inayofaa, kusakinisha kiendeshaji cha simu kwenye kompyuta yako, au kurekebisha mipangilio kwenye simu yako.</target>
+        <target xml:lang="sw" state="final">Kutuma kupitia USB, huenda ukahitaji kupata kebo inayofaa, sakinisha kiendeshaji cha simu kwenye kompyuta yako, au rekebisha mipangilio kwenye simu yako.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
         <note/>
-        <target xml:lang="sw" state="translated">Hakuna Mtandao wa Wi-Fi?</target>
+        <target xml:lang="sw" state="final">Hakuna Mtandao wa Wi-Fi?</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.WiFi.Hint" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.WiFi.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">There are several ways to start a temporary one.</source>
         <note>ID: </note>
         <note>This is preceded by a heading that says 'No Wi-Fi Network'. 'one' here refers to 'Wi Fi' network.</note>
-        <target xml:lang="sw" state="translated">Kuna njia kadhaa za kuanza moja ya muda mfupi.</target>
+        <target xml:lang="sw" state="final">Kuna njia kadhaa za kuanza moja ya muda mfupi.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.AboutMotionBooks" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.AboutMotionBooks" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Motion Books</source>
         <note>ID: PublishTab.Android.AboutMotionBooks</note>
         <note>Help link under Motion Book checkbox</note>
-        <target xml:lang="sw" state="translated">Kuhusu vitabu vya msogeo</target>
+        <target xml:lang="sw" state="final">Kuhusu vitabu vya msogeo</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Bookshelf" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Bookshelf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Reader Bookshelf</source>
         <note>ID: PublishTab.Android.BookShelf</note>
         <note>A heading in the Publish to Android screen.</note>
-        <target xml:lang="sw" state="translated">Rafu ya vitabu ya Bloom Reader</target>
+        <target xml:lang="sw" state="final">Rafu ya vitabu ya Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.CantGetLicenseInfo" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.CantGetLicenseInfo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To publish this book, Bloom must check which languages the copyright owner has permitted, but Bloom is having trouble reaching the server that has this information.</source>
         <note>ID: PublishTab.Android.CantGetLicenseInfo</note>
-        <target xml:lang="sw" state="translated">Ili kuchapisha kitabu hiki, Bloom lazima iangalie ni lugha zipi mmiliki wa hakimiliki ameruhusu, lakini Bloom ina shida kufikia seva iliyo na ujumbe huu.</target>
+        <target xml:lang="sw" state="final">Ili kuchapisha kitabu hiki, Bloom lazima iangalie ni lugha zipi mmiliki wa hakimiliki ameruhusu, lakini Bloom ina shida kufikia seva iliyo na ujumbe huu.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.ChooseFile" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.ChooseFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Save Bloom Reader File</source>
         <note>ID: PublishTab.Android.ChooseFile</note>
-        <target xml:lang="sw" state="translated">Hifadhi faili ya Bloom Reader</target>
+        <target xml:lang="sw" state="final">Hifadhi faili ya Bloom Reader</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true">
         <source xml:lang="en">Choose landscape to activate Motion Book mode</source>
@@ -3934,10 +3934,10 @@
         <note>Appears in portrait mode when Motion checkbox is checked</note>
         <target xml:lang="sw" state="translated">Chagua kurasa mlalo ili kuamsha hali ya Kitabu cha Msogeo</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Send over USB Cable</source>
         <note>ID: PublishTab.Android.ChooseUSB</note>
-        <target xml:lang="sw" state="translated">Tuma kwa kebo ya USB</target>
+        <target xml:lang="sw" state="final">Tuma kwa kebo ya USB</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseWifi" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Share over Wi-Fi</source>
@@ -3967,17 +3967,17 @@
         <note>{0} will be a language name or a list of them</note>
         <target xml:lang="sw" state="final">Mmiliki wa hakimiliki ya kitabu hiki hajaipa leseni ya kuchapishwa katika {0}. Tafadhali wasiliana na mwenye hakimiliki ili upate maelezo zaidi kuhusu leseni.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.File.Progress.CheckFontOK" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.File.Progress.CheckFontOK" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Checking {0} font: License OK for embedding.</source>
         <note>ID: PublishTab.Android.File.Progress.CheckFontOK</note>
         <note>{0} is a font name</note>
-        <target xml:lang="sw" state="translated">Kuangalia {0} fonti: Leseni Sawa ya kupachika.</target>
+        <target xml:lang="sw" state="final">Kuangalia {0} fonti: Leseni Sawa ya kupachika.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.File.Progress.Embedding" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.File.Progress.Embedding" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Embedding font {0} at a cost of {1} megs</source>
         <note>ID: PublishTab.Android.File.Progress.Embedding</note>
         <note>{1} is a number with one decimal place, the number of megabytes the font file takes up</note>
-        <target xml:lang="sw" state="translated">Kupachika fonti {0} kwa gharama ya megabaiti {1}</target>
+        <target xml:lang="sw" state="final">Kupachika fonti {0} kwa gharama ya megabaiti {1}</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.LicenseForbids" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book has text in a font named \"{0}\". The license for \"{0}\" does not permit Bloom to embed the font in the book.</source>
@@ -3991,11 +3991,11 @@
         <note>{0} is a font name</note>
         <target xml:lang="sw" state="final">Kitabu hiki kina maandishi katika fonti inayoitwa \"{0}\", lakini Bloom haikuweza kupata fonti hiyo kwenye kompyuta hii.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.File.Progress.PackagingBook" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.File.Progress.PackagingBook" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Packaging "{0}" for use with Bloom Reader...</source>
         <note>ID: PublishTab.Android.File.Progress.PackagingBook</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Ufungaji "{0}" wa kutumiwa na Bloom Reader...</target>
+        <target xml:lang="sw" state="final">Upakiaji "{0}" wa kutumiwa na Bloom Reader...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.File.Progress.Saving" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Saving as {0}</source>
@@ -4043,10 +4043,10 @@
         <note>ID: PublishTab.Android.Publish</note>
         <target xml:lang="sw" state="final">Chapisha</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Creating" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Creating" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Creating Digital Book</source>
         <note>ID: PublishTab.Android.Creating</note>
-        <target xml:lang="sw" state="translated">Kuunda kitabu cha kidijitali</target>
+        <target xml:lang="sw" state="final">Kuunda kitabu cha kidijitali</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.AboutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Bloom Reader</source>
@@ -4074,22 +4074,22 @@
         <note>The heading at the top of the Settings section, which shows a thumbnail of the front cover and can be used to change the underlying page color.</note>
         <target xml:lang="sw" state="final">Kijipicha</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Troubleshooting" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Troubleshooting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Troubleshooting Tips</source>
         <note>ID: PublishTab.Android.Troubleshooting</note>
-        <target xml:lang="sw" state="translated">Vidokezo vya utatuzi</target>
+        <target xml:lang="sw" state="final">Vidokezo vya utatuzi wa shida</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.BookSent" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.BookSent" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can now read "{0}" in Bloom Reader!</source>
         <note>ID: PublishTab.Android.Usb.Progress.BookSent</note>
         <note>{0} is a book title</note>
-        <target xml:lang="sw" state="translated">Sasa unaweza kusoma "{0}" katika Bloom Reader!</target>
+        <target xml:lang="sw" state="final">Sasa unaweza kusoma "{0}" katika Bloom Reader!</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.Connected" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.Connected" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connected to {0} via USB...</source>
         <note>ID: PublishTab.Android.Usb.Progress.Connected</note>
         <note>{0} is a the name of the device Bloom connected to</note>
-        <target xml:lang="sw" state="translated">Imeunganishwa{0} kupitia USB...</target>
+        <target xml:lang="sw" state="final">Imeunganishwa{0} kupitia USB...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceOutOfMemory" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The device reported that it does not have enough space for this book. The book is {0} MB.</source>
