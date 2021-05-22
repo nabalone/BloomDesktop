@@ -3429,7 +3429,7 @@
         <source xml:lang="en">BloomLibrary.org</source>
         <note>ID: HelpMenu.WebSiteMenuItem</note>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Web Site</note>
-        <target xml:lang="sw" state="final">Mfumo wa Kimtandao</target>
+        <target xml:lang="sw" state="final">BloomLibrary.org</target>
       </trans-unit>
       <trans-unit id="HelpMenu.trainingVideos" approved="yes">
         <source xml:lang="en">Training Videos</source>
@@ -3479,7 +3479,7 @@
       <trans-unit id="LayoutChoices.A3Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A3 Landscape</source>
         <note>ID: LayoutChoices.A3Landscape</note>
-        <target xml:lang="sw" state="final">Kurasa mlalo ya A3</target>
+        <target xml:lang="sw" state="final">Ukurasa mlalo wa A3</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.A4Landscape" sil:dynamic="true">
         <source xml:lang="en">A4 Landscape</source>
@@ -3604,17 +3604,17 @@
       <trans-unit id="LoginDialog.LoginButton" approved="yes">
         <source xml:lang="en">&amp;Login</source>
         <note>ID: LoginDialog.LoginButton</note>
-        <target xml:lang="sw" state="final">Ingia kwenye akaunti</target>
+        <target xml:lang="sw" state="final">&amp;Ingia</target>
       </trans-unit>
       <trans-unit id="LoginDialog.Password" approved="yes">
         <source xml:lang="en">Password</source>
         <note>ID: LoginDialog.Password</note>
-        <target xml:lang="sw" state="final">neno la siri</target>
+        <target xml:lang="sw" state="final">Nenosiri</target>
       </trans-unit>
       <trans-unit id="LoginDialog.ShowPassword" approved="yes">
         <source xml:lang="en">&amp;Show Password</source>
         <note>ID: LoginDialog.ShowPassword</note>
-        <target xml:lang="sw" state="final">onyesha neno la siri</target>
+        <target xml:lang="sw" state="final">&amp;Onyesha Nenosiri</target>
       </trans-unit>
       <trans-unit id="LoginDialog.ShowTerms" approved="yes">
         <source xml:lang="en">Show Terms of Use</source>
@@ -3680,7 +3680,7 @@
       <trans-unit id="NewCollectionWizard.KindOfCollectionPage.existingCollectionInstructions" approved="yes">
         <source xml:lang="en">If you already have a collection you want to open, click  the 'Cancel' button.</source>
         <note>ID: NewCollectionWizard.KindOfCollectionPage.existingCollectionInstructions</note>
-        <target xml:lang="sw" state="final">Iwapo tayari una mkusanyiko ambao ungependa kufungua, kliki kwenye kifute cha 'Batilisha'.</target>
+        <target xml:lang="sw" state="final">Iwapo tayari una mkusanyiko ambao ungependa kufungua, bonyeza kwenye kifute cha 'Batilisha'.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.KindOfCollectionPage.sourceCollection" approved="yes">
         <source xml:lang="en">Source Collection</source>
@@ -3766,7 +3766,7 @@
       <trans-unit id="NewCollectionWizard.WelcomePage.WelcomeLine3" approved="yes">
         <source xml:lang="en">Click 'Next' to get started.</source>
         <note>ID: NewCollectionWizard.WelcomePage.WelcomeLine3</note>
-        <target xml:lang="sw" state="final">Kliki 'Yanayofuata' ili kuanza.</target>
+        <target xml:lang="sw" state="final">Bonyeza 'Yanayofuata' ili kuanza.</target>
       </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InDropboxMessage" approved="yes">
         <source xml:lang="en">Bloom detected that this collection is located in your Dropbox folder. This can cause problems as Dropbox sometimes locks Bloom out of its own files. If you have problems, we recommend that you move your collection somewhere else or disable Dropbox while using Bloom.</source>
