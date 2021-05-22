@@ -4266,7 +4266,7 @@
         <source xml:lang="en">Share on the Web</source>
         <note>ID: PublishTab.ButtonThatShowsUploadForm</note>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Upload</note>
-        <target xml:lang="sw" state="final">Weka</target>
+        <target xml:lang="sw" state="final">Shiriki kwenye wavuti</target>
       </trans-unit>
       <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Upload your book to BloomLibrary.org so that other people can read it, download it to their devices and share it with other people.</source>
@@ -4276,7 +4276,7 @@
       <trans-unit id="PublishTab.CoverOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Cover</source>
         <note>ID: PublishTab.CoverOnlyRadio</note>
-        <target xml:lang="sw" state="final">Ngozi ya Kijitabu</target>
+        <target xml:lang="sw" state="final">Jalada la Kijitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.CoverOnlyRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make a PDF of just the front and back (both sides), so you can  print on colored paper.</source>
@@ -4633,7 +4633,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.PrintButton" approved="yes">
         <source xml:lang="en">&amp;Print...</source>
         <note>ID: PublishTab.PrintButton</note>
-        <target xml:lang="sw" state="final">U&amp;chapishe...</target>
+        <target xml:lang="sw" state="final">U&amp;chapisha...</target>
       </trans-unit>
       <trans-unit id="PublishTab.PrologToAdobeEula">
         <source xml:lang="en">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for print shop".  You must agree to the following license in order to perform this task in Bloom.</source>
@@ -4670,7 +4670,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Acknowledgments" approved="yes">
         <source xml:lang="en">Acknowledgments</source>
         <note>ID: PublishTab.Upload.Acknowledgments</note>
-        <target xml:lang="sw" state="final">Kukiri</target>
+        <target xml:lang="sw" state="final">Shukurani</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.AdditionalRequests" approved="yes">
         <source xml:lang="en">Additional Requests: </source>
@@ -4767,13 +4767,13 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">(incomplete translation)</source>
         <note>ID: PublishTab.Upload.IncompleteTranslation</note>
         <note>This is added after the language name, in order to indicate that some parts of the book have not been translated into this language yet.</note>
-        <target xml:lang="sw" state="final">(nusu)</target>
+        <target xml:lang="sw" state="final">(Tafsiri isiyo kamili)</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Languages" approved="yes">
         <source xml:lang="en">Upload Text</source>
         <note>ID: PublishTab.Upload.Languages</note>
         <note>Prior to 4.4, this was "Languages"</note>
-        <target xml:lang="sw" state="final">Lugha</target>
+        <target xml:lang="sw" state="final">Pakia Maandishi</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.License" approved="yes">
         <source xml:lang="en">Usage/License</source>
@@ -4825,7 +4825,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Login.PasswordMismatch" approved="yes">
         <source xml:lang="en">Password and user ID did not match</source>
         <note>ID: PublishTab.Upload.Login.PasswordMismatch</note>
-        <target xml:lang="sw" state="final">Neno la siri na jina lako la utambulizo havikuambatana</target>
+        <target xml:lang="sw" state="final">Nenosiri na kitambulisho cha mtumiaji havikuambatana</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.PleaseAgreeTerms" approved="yes">
         <source xml:lang="en">Please agree to terms of use</source>
@@ -4845,12 +4845,12 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Login.ResetFailed" approved="yes">
         <source xml:lang="en">Reset Password failed</source>
         <note>ID: PublishTab.Upload.Login.ResetFailed</note>
-        <target xml:lang="sw" state="final">Ubadilishaji wa neno la siri umefeli</target>
+        <target xml:lang="sw" state="final">Ubadilishaji wa nenosiri umefeli</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.ResetPassword" approved="yes">
         <source xml:lang="en">Resetting Password</source>
         <note>ID: PublishTab.Upload.Login.ResetPassword</note>
-        <target xml:lang="sw" state="final">Kubadilisha neno la siri</target>
+        <target xml:lang="sw" state="final">Kubadilisha nenosiri</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.SendingResetPassword" approved="yes">
         <source xml:lang="en">We are sending an email to {0} with instructions for how to reset your password.</source>
@@ -4883,12 +4883,12 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.MakingPdf" approved="yes">
         <source xml:lang="en">Making PDF Preview...</source>
         <note>ID: PublishTab.Upload.MakingPdf</note>
-        <target xml:lang="sw" state="final">Kutengeneza PDF Onyesho la awali...</target>
+        <target xml:lang="sw" state="final">Kutengeneza Uhakiki wa PDF...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.MakingThumbnail" approved="yes">
         <source xml:lang="en">Making thumbnail image...</source>
         <note>ID: PublishTab.Upload.MakingThumbnail</note>
-        <target xml:lang="sw" state="final">Kutengeneza picha ya ukucha wa dole gumbai...</target>
+        <target xml:lang="sw" state="final">Kutengeneza picha ya kijipicha...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Narration" approved="yes">
         <source xml:lang="en">Narration</source>
