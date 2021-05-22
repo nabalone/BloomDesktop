@@ -594,7 +594,7 @@
         <source xml:lang="en">Settings Protection...</source>
         <note>ID: SettingsProtection.LauncherButtonLabel</note>
         <note xml:lang="en">OLD TEXT (before 4.0): Settings...</note>
-        <target xml:lang="sw" state="final">Mipangilio...</target>
+        <target xml:lang="sw" state="final">Ulinzi wa Mipangilio...</target>
       </trans-unit>
       <trans-unit id="SettingsProtection.NormallyHiddenCheckbox" approved="yes">
         <source xml:lang="en">Hide the button that opens settings.</source>
@@ -641,12 +641,12 @@
       <trans-unit id="SettingsProtection.SettingProtectionDialogTitle" approved="yes">
         <source xml:lang="en">Settings Protection</source>
         <note>ID: SettingsProtection.SettingProtectionDialogTitle</note>
-        <target xml:lang="sw" state="final">Ulinzi wa mipangilio</target>
+        <target xml:lang="sw" state="final">Ulinzi wa Mipangilio</target>
       </trans-unit>
       <trans-unit id="ShowReleaseNotesDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Release Notes</source>
         <note>ID: ShowReleaseNotesDialog.WindowTitle</note>
-        <target xml:lang="sw" state="final">Muhtasari wa toleo</target>
+        <target xml:lang="sw" state="final">Toa Maelezo</target>
       </trans-unit>
       <trans-unit id="VoiceIdentifierView.betterLabel1" approved="yes">
         <source xml:lang="en">In applications which support this option, fields with this input system will be able to play and record voice.</source>
@@ -672,7 +672,7 @@
       <trans-unit id="WSFontControl.Size" approved="yes">
         <source xml:lang="en">&amp;Size:</source>
         <note>ID: WSFontControl.Size</note>
-        <target xml:lang="sw" state="final">U&amp;kubwa:</target>
+        <target xml:lang="sw" state="final">U&amp;Saizi:</target>
       </trans-unit>
       <trans-unit id="WSFontControl.TestArea" approved="yes">
         <source xml:lang="en">&amp;Test Area:</source>
@@ -701,7 +701,7 @@
         <source xml:lang="en">Emic (uses phonology of the language)</source>
         <note>ID: WSIdentifiers.IpaIdentifierView.Emic</note>
         <note>Only translate text inside of the parentheses ()</note>
-        <target xml:lang="sw" state="final">(hutumia fonolojia ya lugha)</target>
+        <target xml:lang="sw" state="final">Emic (hutumia fonolojia ya lugha)</target>
       </trans-unit>
       <trans-unit id="WSIdentifiers.IpaIdentifierView.Etic" approved="yes">
         <source xml:lang="en">Etic (raw phonetic transcription)</source>
@@ -717,7 +717,7 @@
       <trans-unit id="WSKeyboardControl.KeyboardSettingsLink" approved="yes">
         <source xml:lang="en">Windows keyboard settings</source>
         <note>ID: WSKeyboardControl.KeyboardSettingsLink</note>
-        <target xml:lang="sw" state="final">Mipangilio ya Windosi ya kibodi</target>
+        <target xml:lang="sw" state="final">Mipangilio ya kibodi ya Windows</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeyboardsAvailable" approved="yes">
         <source xml:lang="en">Available keyboards</source>
@@ -732,7 +732,7 @@
       <trans-unit id="WSKeyboardControl.KeymanConfigurationLink" approved="yes">
         <source xml:lang="en">Keyman Configuration</source>
         <note>ID: WSKeyboardControl.KeymanConfigurationLink</note>
-        <target xml:lang="sw" state="final">Mipangilio ya Keyman</target>
+        <target xml:lang="sw" state="final">Usanidi wa Keyman</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.KeymanNotInstalled" approved="yes">
         <source xml:lang="en">Keyman 5.0 or later is not Installed.</source>
@@ -742,7 +742,7 @@
       <trans-unit id="WSKeyboardControl.SelectKeyboardLabel" approved="yes">
         <source xml:lang="en">Select the &amp;keyboard with which to type {0} text</source>
         <note>ID: WSKeyboardControl.SelectKeyboardLabel</note>
-        <target xml:lang="sw" state="final">Chagua kibodi ambayo utatumia kuandika maandishi {0}</target>
+        <target xml:lang="sw" state="final">Chagua&amp; kibodi ambayo utatumia kuandika{0}maandishi</target>
       </trans-unit>
       <trans-unit id="WSKeyboardControl.SetupKeyboards" approved="yes">
         <source xml:lang="en">Set up keyboards</source>
