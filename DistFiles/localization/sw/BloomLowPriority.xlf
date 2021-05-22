@@ -26,15 +26,15 @@
         <note>After this text, the program will display the text of the current text box after being converted into the script of another language using the settings in the conversion file.</note>
         <target xml:lang="sw" state="translated">Matokeo ya ubadilishaji wa maandishi:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Upload.CheckEmailFailed">
+      <trans-unit id="PublishTab.Upload.CheckEmailFailed" approved="yes">
         <source xml:lang="en">Bloom needs to verify your email, but our attempt to resend the request failed, possibly because you made too many requests too close together. Please check your email, and if you can't find the message, try again later.</source>
         <note>ID: PublishTab.Upload.CheckEmailFailed</note>
-        <target xml:lang="sw" state="translated">Bloom inahitaji kuthibitisha barua pepe yako, lakini jaribio letu la kutuma ombi tena halikufaulu, labda kwa sababu ulifanya maombi mengi karibu sana. Tafadhali angalia barua pepe yako, na ikiwa huwezi kupata ujumbe, jaribu tena baadaye.</target>
+        <target xml:lang="sw" state="final">Bloom inahitaji kuthibitisha barua pepe yako, lakini jaribio letu la kutuma ombi tena halikufaulu, labda kwa sababu ulifanya maombi mengi kwa karibu sana. Tafadhali angalia barua pepe yako, na ikiwa huwezi kupata ujumbe, jaribu tena baadaye.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Community">
+      <trans-unit id="Settings.Enterprise.Community" approved="yes">
         <source xml:lang="en">Funded by the local community only</source>
         <note>ID: Settings.Enterprise.Community</note>
-        <target xml:lang="sw" state="translated">Imefadhiliwa na jamii ya karibu tu</target>
+        <target xml:lang="sw" state="final">Imefadhiliwa tu na jamii ya mtaa</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.CheckUpdates">
         <source xml:lang="en">Check for updates</source>
