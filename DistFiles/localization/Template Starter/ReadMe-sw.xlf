@@ -54,16 +54,16 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
         <target xml:lang="sw" state="translated">Andika Kiolezo Chako</target>
         <note>ID: template.starter.document</note>
       </trans-unit>
-      <trans-unit id="template.starter.describeyours">
+      <trans-unit id="template.starter.describeyours" approved="yes">
         <source xml:lang="en">Also consider adding a description of your template, like the one you are reading now. To do this, put a text file named <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g> in your template's folder. This file should follow the <g id="genid-9" ctype="x-html-a" html:href="http://spec.commonmark.org/dingus/">markdown standard</g>. To provide your instructions in other languages, make versions of that file that change the "en" to each language's two letter code. For example <g id="genid-10" ctype="x-html-code">ReadMe-fr.md</g> would be shown when Bloom is set to show labels in French. You can also include screenshots, like we have in this document. Place any images you use in a folder named "ReadMeImages", so that images are referenced like this:</source>
-        <target xml:lang="sw" state="translated">Pia fikiria kuongeza maelezo ya kiolezo chako, kama yale unayosoma sasa. Ili kufanya hivi, weka faili ya maandishi iitwayo <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g>kwenye folda ya kiolezo chako.
+        <target xml:lang="sw" state="final">Pia fikiria kuongeza maelezo ya kiolezo chako, kama yale unayosoma sasa. Ili kufanya hivi, weka faili ya maandishi iitwayo <g id="genid-8" ctype="x-html-code">ReadMe-en.md</g>kwenye folda ya kiolezo chako.
  Faili hii inastahili kufuata<g id="genid-9" ctype="x-html-a" html:href="http://spec.commonmark.org/dingus/">markdown standard</g>.
  Ili kutoa maagizo yako katika lugha zingine, fanya matoleo ya faili hiyo ambayo hubadilisha "en" kwa herufi mbili za msimbo za kila lugha. Kwa mfano<g id="genid-10" ctype="x-html-code"> ReadMe-fr.md </g> itaonyeshwa wakati Bloom imewekwa kuonyesha lebo kwa Kifaransa. Unaweza pia kujumuisha viwambo vya skrini, kama tulivyo navyo katika hati hii. Weka picha zozote unazotumia kwenye folda iitwayo "ReadMeImages", ili picha zirejelewe hivi:</target>
         <note>ID: template.starter.describeyours</note>
       </trans-unit>
-      <trans-unit id="template.starter.thumbnailsshown">
+      <trans-unit id="template.starter.thumbnailsshown" approved="yes">
         <source xml:lang="en">When the Add Page dialog box shows your template pages, it will show a thumbnail:</source>
-        <target xml:lang="sw" state="translated">Wakati kisanduku kidadisi cha Ongeza Ukurasa kinaonyesha kurasa zako za violezo, itaonyesha kijipicha:</target>
+        <target xml:lang="sw" state="final">Wakati kisanduku kidadisi cha Ongeza Ukurasa kinaonyesha kurasa zako za violezo, itaonyesha kijipicha:</target>
         <note>ID: template.starter.thumbnailsshown</note>
       </trans-unit>
       <trans-unit id="template.starter.share" approved="yes">
@@ -71,14 +71,14 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
         <target xml:lang="sw" state="final">Shiriki kiolezo chako</target>
         <note>ID: template.starter.share</note>
       </trans-unit>
-      <trans-unit id="template.starter.share.publish">
+      <trans-unit id="template.starter.share.publish" approved="yes">
         <source xml:lang="en">Remember that Bloom is about planting seeds, about sharing. So plan to share your template on the BloomLibrary for people around the world to find. This takes just a few clicks in the Publish Tab.</source>
-        <target xml:lang="sw" state="translated">Kumbuka kwamba Bloom inahusu kupanda mbegu, kuhusu kushiriki. Kwa hivyo panga kushiriki kiolezo chako kwenye BloomLibrary ili watu walioko ulimwenguni kote wapate. Hili huchukua mibofyo michache tu kwenye Kichupo cha Chapisha.</target>
+        <target xml:lang="sw" state="final">Kumbuka kwamba Bloom inahusu kupanda mbegu, kuhusu kushiriki. Kwa hivyo panga kushiriki kiolezo chako kwenye BloomLibrary ili watu walioko ulimwenguni kote wapate. Hili huchukua mibofyo michache tu kwenye Kichupo cha Chapisha.</target>
         <note>ID: template.starter.share.publish</note>
       </trans-unit>
-      <trans-unit id="template.starter.share.bloompack">
+      <trans-unit id="template.starter.share.bloompack" approved="yes">
         <source xml:lang="en">For local colleagues, an easy way to distribute your template is via a Bloom Pack. In the collections tab, right-click on your template's thumbnail. Choose 'Make Bloom Pack'. Save that somewhere, for example to a USB Key. Then take it to another computer, double click on the file you made, and your template will be added to the "Sources for New Books" on that computer.</source>
-        <target xml:lang="sw" state="translated">Kwa wenzako wa hapa, njia rahisi ya kusambaza kiolezo chako ni kupitia Kifurushi cha Bloom. Katika kichupo cha makusanyo, bonyeza-kulia kwenye kijipicha cha kiolezo chako. Chagua 'Tengeneza Kifurushi cha Bloom'. Hifadhi hilo mahali pengine, kwa mfano kwenye ufunguo wa USB. Kisha upeleke kwenye kompyuta nyingine, bonyeza mara mbili kwenye faili uliyotengeneza, na kiolezo chako kitaongezwa kwenye "Vyanzo vya Vitabu Vipya" kwenye kompyuta hiyo.</target>
+        <target xml:lang="sw" state="final">Kwa wenzako wa hapa, njia rahisi ya kusambaza kiolezo chako ni kupitia Kifurushi cha Bloom. Katika kichupo cha makusanyo, bonyeza-kulia kwenye kijipicha cha kiolezo chako. Chagua 'Tengeneza Kifurushi cha Bloom'. Hifadhi hilo mahali pengine, kwa mfano kwenye ufunguo wa USB. Kisha upeleke kwenye kompyuta nyingine, bonyeza mara mbili kwenye faili uliyotengeneza, na kiolezo chako kitaongezwa kwenye "Vyanzo vya Vitabu Vipya" kwenye kompyuta hiyo.</target>
         <note>ID: template.starter.share.bloompack</note>
       </trans-unit>
       <trans-unit id="template.starter.notes" approved="yes">
@@ -86,24 +86,24 @@ Kuna njia mbili ambazo watu wanaweza kutumia kiolezo chako. Njia ya kwanza ni ku
         <target xml:lang="sw" state="final">Maelezo</target>
         <note>ID: template.starter.notes</note>
       </trans-unit>
-      <trans-unit id="template.starter.nothingautomatic">
+      <trans-unit id="template.starter.nothingautomatic" approved="yes">
         <source xml:lang="en"><g id="genid-11" ctype="x-html-a" html:id="note1">1</g>: These books could later be combined using the forthcoming Folio feature. Note that Bloom does not yet give you a way to indicate that a page should be automatically included in new books; the author will have to add each one from the Add Page dialog.</source>
-        <target xml:lang="sw" state="translated"><g id="genid-11" ctype="x-html-a" html:id="note1">:Vitabu hivi vinaweza kuunganishwa baadaye kwa kutumia kipengele kijacho cha Folio. Kumbuka kuwa Bloom bado haikupi njia ya kuonyesha kwamba ukurasa unastahili kujumuishwa kiotomatiki katika vitabu vipya; mwandishi atalazimika kuongeza kila kitabu kutoka kwenye kisanduku kidadisi cha Ongeza Ukurasa.</target>
+        <target xml:lang="sw" state="final"><g id="genid-11" ctype="x-html-a" html:id="note1">:Vitabu hivi vinaweza kuunganishwa baadaye kwa kutumia kipengele kijacho cha Folio. Kumbuka kuwa Bloom bado haikupi njia ya kuonyesha kwamba ukurasa unastahili kujumuishwa kiotomatiki katika vitabu vipya; mwandishi atalazimika kuongeza kila kitabu kutoka kwenye kisanduku kidadisi cha Ongeza Ukurasa.</target>
         <note>ID: template.starter.nothingautomatic</note>
       </trans-unit>
-      <trans-unit id="template.starter.nametonotaddpage">
+      <trans-unit id="template.starter.nametonotaddpage" approved="yes">
         <source xml:lang="en"><g id="genid-12" ctype="x-html-a" html:id="note2">2</g>: If you don't want the pages in your template to show up in the Add Page dialog, you can indicate this to Bloom by creating a file in the book's template folder called NotForAddPage.txt.</source>
-        <target xml:lang="sw" state="translated"><g id="genid-12" ctype="x-html-a" html:id="note2"></g>Ikiwa hutaki kurasa zilizo kwenye kiolezo chako zionekane kwenye sanduku la mazungumzo ya Ongeza Ukurasa, unaweza kuonyesha hili kwa Bloom kwa kuunda faili kwenye folda ya kiolezo cha kitabu iitwayo NotForAddPage.txt.</target>
+        <target xml:lang="sw" state="final"><g id="genid-12" ctype="x-html-a" html:id="note2"></g>Ikiwa hutaki kurasa zilizo kwenye kiolezo chako zionekane kwenye sanduku la mazungumzo ya Ongeza Ukurasa, unaweza kuonyesha hili kwa Bloom kwa kuunda faili kwenye folda ya kiolezo cha kitabu iitwayo NotForAddPage.txt.</target>
         <note>ID: template.starter.nametonotaddpage</note>
       </trans-unit>
-      <trans-unit id="template.starter.labelsnottranslatable">
+      <trans-unit id="template.starter.labelsnottranslatable" approved="yes">
         <source xml:lang="en"><g id="genid-13" ctype="x-html-a" html:id="note3">3</g>: People will not be able to translate your labels and descriptions into other national languages. If this is a problem, please contact the Bloom team.</source>
-        <target xml:lang="sw" state="translated"><g id="genid-13" ctype="x-html-a" html:id="note3">3 </g>: Watu hawataweza kutafsiri lebo na maelezo yako katika lugha zingine za kitaifa. Ikiwa hili ni tatizo, tafadhali wasiliana na timu ya Bloom.</target>
+        <target xml:lang="sw" state="final"><g id="genid-13" ctype="x-html-a" html:id="note3">3 </g>: Watu hawataweza kutafsiri lebo na maelezo yako katika lugha zingine za kitaifa. Ikiwa hili ni tatizo, tafadhali wasiliana na timu ya Bloom.</target>
         <note>ID: template.starter.labelsnottranslatable</note>
       </trans-unit>
-      <trans-unit id="template.starter.editrawhtml">
+      <trans-unit id="template.starter.editrawhtml" approved="yes">
         <source xml:lang="en"><g id="genid-14" ctype="x-html-a" html:id="note4">4</g>: If you want the Add Page screen to also provide a short description of the page, you'll need to quit Bloom and edit the template's html in Notepad, like this: <x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></source>
-        <target xml:lang="sw" state="translated"><g id="genid-14" ctype="x-html-a" html:id="note4"> Ikiwa unataka skrini ya Ongeza Ukurasa pia itoe maelezo mafupi ya ukurasa, utahitaji kuacha Bloom na kuhariri html ya kiolezo kwenye Notepad, kama hii:<x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></target>
+        <target xml:lang="sw" state="final"><g id="genid-14" ctype="x-html-a" html:id="note4"> Ikiwa unataka skrini ya Ongeza Ukurasa pia itoe maelezo mafupi ya ukurasa, utahitaji kuacha Bloom na kuhariri html ya kiolezo kwenye Notepad, kama hii:<x id="genid-15" ctype="image" html:src="ReadMeImages/pageDescription.png" html:alt=""/></target>
         <note>ID: template.starter.editrawhtml</note>
       </trans-unit>
     </body>
