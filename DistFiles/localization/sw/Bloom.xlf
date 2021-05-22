@@ -2324,23 +2324,23 @@
         <note>Refers to the Background Color of the bubble used by the callout</note>
         <target xml:lang="sw" state="final">Rangi msingi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.OldLace" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.BackgroundColor.OldLace" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Old Lace</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.BackgroundColor.OldLace</note>
         <note>A background color that looks like old lace</note>
-        <target xml:lang="sw" state="translated">Rangi ya manjano-machungwa</target>
+        <target xml:lang="sw" state="final">Rangi ya manjano-machungwa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Duplicate" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Duplicate" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Duplicate</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Duplicate</note>
         <note>Tooltip for the bubble Duplicate icon</note>
-        <target xml:lang="sw" state="translated">Nakala</target>
+        <target xml:lang="sw" state="final">Nakili</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.OuterOutlineColor" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.OuterOutlineColor" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Outer Outline Color</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.OuterOutlineColor</note>
         <note>Refers to the Outer Outline Color of the bubble used by the callout</note>
-        <target xml:lang="sw" state="translated">Rangi ya muzunguko wa nje</target>
+        <target xml:lang="sw" state="final">Rangi ya muzunguko wa nje</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.OuterOutlineColor.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
@@ -2406,12 +2406,12 @@
         <note>This style represents standard speech/dialogue.</note>
         <target xml:lang="sw" state="final">Tamko</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Thought" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Thought" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Thought</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style.Thought</note>
         <note>Refers to the style of bubble used by the callout</note>
         <note>This style represents the thoughts of a person who is thinking.</note>
-        <target xml:lang="sw" state="translated">Wazo</target>
+        <target xml:lang="sw" state="final">Wazo</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.TextColor" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Color</source>
@@ -2458,10 +2458,10 @@
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer.RedGreen</note>
         <target xml:lang="sw" state="final">Nyekundu-Kijani</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.Intro" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.Intro" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Motion Books are Bloom Reader books with two modes. Normally, they are Talking Books. When you turn the phone sideways, the picture fills the screen. It pans and zooms from rectangle "1" to rectangle "2".</source>
         <note>ID: EditTab.Toolbox.Motion.Intro</note>
-        <target xml:lang="sw" state="translated">Vitabu vya sinema ni vitabu vya Bloom Reader vilivyo na namna mbili. Kwa kawaida, ni Vitabu vya Kuzungumza. Ukigeuza simu upande, picha hujaza skrini. Hupungua na kuongezeka kutoka mstatili "1" hadi mstatili "2".</target>
+        <target xml:lang="sw" state="final">Vitabu vya sinema ni vitabu vya Bloom Reader vilivyo na namna mbili. Kwa kawaida, ni Vitabu vya Kuzungumza. Ukigeuza simu upande, picha hujaza skrini. Hupungua na kuongezeka kutoka mstatili "1" hadi mstatili "2".</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Motion.Preview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Preview</source>
@@ -2502,10 +2502,10 @@
         <note>ID: EditTab.Toolbox.Music.Choose</note>
         <target xml:lang="sw" state="final">Chagua...</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.ContinueMusic" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Music.ContinueMusic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Continue music from previous page</source>
         <note>ID: EditTab.Toolbox.Music.ContinueMusic</note>
-        <target xml:lang="sw" state="translated">Endeleza muziki kutoka ukurasa uliopita</target>
+        <target xml:lang="sw" state="final">Endeleza muziki kutoka ukurasa uliopita</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.FileDialogSoundFiles" approved="yes">
         <source xml:lang="en">Sound files</source>
@@ -2524,10 +2524,10 @@
         <note>Title for a message box</note>
         <target xml:lang="sw" state="final">Chagua Faili Nyingine ya Sauti</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Music.Overview" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Music.Overview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can set up background music to play with this page when the book is viewed in the Bloom Reader app.</source>
         <note>ID: EditTab.Toolbox.Music.Overview</note>
-        <target xml:lang="sw" state="translated">Unaweza kuweka muziki wa nyuma ucheze na ukurasa huu wakati kitabu kinatazamwa katika programu ya Bloom Reader.</target>
+        <target xml:lang="sw" state="final">Unaweza kuweka muziki wa nyuma ucheze na ukurasa huu wakati kitabu kinatazamwa katika programu ya Bloom Reader.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Music.NewMusic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Start new music</source>
@@ -2539,10 +2539,10 @@
         <note>ID: EditTab.Toolbox.Music.NoMusic</note>
         <target xml:lang="sw" state="final">Hakuna muziki</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.MusicTool" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.MusicTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Music Tool</source>
         <note>ID: EditTab.Toolbox.MusicTool</note>
-        <target xml:lang="sw" state="translated">Zana ya Muziki</target>
+        <target xml:lang="sw" state="final">Zana ya Muziki</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Decodable Reader Tool</source>
@@ -2559,10 +2559,10 @@
         <note>ID: EditTab.Toolbox.DecodableReaderTool.AllowedWordsInThisStage</note>
         <target xml:lang="sw" state="final">Majina yanayokubaliwa katika awamu hii</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles" approved="yes">
         <source xml:lang="en">Text files</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles</note>
-        <target xml:lang="sw" state="translated">Faili za maandishi</target>
+        <target xml:lang="sw" state="final">Faili za maandishi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters" approved="yes">
         <source xml:lang="en">Letters: {0}</source>
@@ -2615,20 +2615,20 @@
         <note>ID: EditTab.Toolbox.DecodableReaderTool.SetUpStages</note>
         <target xml:lang="sw" state="final">Panga hatua</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortAlphabetically" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortAlphabetically" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sort alphabetically</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.SortAlphabetically</note>
-        <target xml:lang="sw" state="translated">Panga kwa herufi</target>
+        <target xml:lang="sw" state="final">Panga kwa herufi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortByFrequency" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortByFrequency" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sort by frequency</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.SortByFrequency</note>
-        <target xml:lang="sw" state="translated">Panga kwa mzunguko</target>
+        <target xml:lang="sw" state="final">Panga kwa mzunguko</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortByWordLength" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.SortByWordLength" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sort by word length</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.SortByWordLength</note>
-        <target xml:lang="sw" state="translated">Panga kwa urefu wa neno</target>
+        <target xml:lang="sw" state="final">Panga kwa urefu wa neno</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.Stage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stage</source>
@@ -2642,11 +2642,11 @@
         <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="sw" state="final">ya</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageNofM" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.DecodableReaderTool.StageNofM" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stage {0} of {1}</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.StageNofM</note>
         <note>{0} is replaced with the current level, and {1} with the total number of levels</note>
-        <target xml:lang="sw" state="translated">Hatua{0} ya{1}</target>
+        <target xml:lang="sw" state="final">Hatua{0} ya{1}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImageDescriptionTool" sil:dynamic="true">
         <source xml:lang="en">Image Description Tool</source>
