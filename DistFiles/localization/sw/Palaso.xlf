@@ -70,7 +70,7 @@
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: Common.CancelButton</note>
-        <target xml:lang="sw" state="final">U&amp;batilishe</target>
+        <target xml:lang="sw" state="final">U&amp;Ghairi</target>
       </trans-unit>
       <trans-unit id="Common.IgnoreButton" approved="yes">
         <source xml:lang="en">&amp;Ignore</source>
@@ -134,17 +134,17 @@
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Confirm Delete</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.WindowTitle</note>
-        <target xml:lang="sw" state="final">Thibitisha Kufutwa</target>
+        <target xml:lang="sw" state="final">Thibitisha Kufuta</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.cancelBtn" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.cancelBtn</note>
-        <target xml:lang="sw" state="final">U&amp;batilishe</target>
+        <target xml:lang="sw" state="final">U&amp;Ghairi</target>
       </trans-unit>
       <trans-unit id="DialogBoxes.ConfirmRecycleDialog.deleteBtn" approved="yes">
         <source xml:lang="en">&amp;Delete</source>
         <note>ID: DialogBoxes.ConfirmRecycleDialog.deleteBtn</note>
-        <target xml:lang="sw" state="final">U&amp;fute</target>
+        <target xml:lang="sw" state="final">U&amp;Futa</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.AlmostMatchingImages" approved="yes">
         <source xml:lang="en">Found {0} images with names close to “{1}”</source>
@@ -198,7 +198,7 @@
         <source xml:lang="en">Choose Picture File</source>
         <note>ID: ImageToolbox.FileChooserTitle</note>
         <note>Title shown for a file chooser dialog brought up by the ImageToolbox</note>
-        <target xml:lang="sw" state="final">Chagua Faili ya Picha</target>
+        <target xml:lang="sw" state="final">Chagua Faili la Picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.Galleries" approved="yes">
         <source xml:lang="en">Galleries</source>
@@ -228,7 +228,7 @@
       <trans-unit id="ImageToolbox.ImageToolboxWindowTitle" approved="yes">
         <source xml:lang="en">Image Toolbox</source>
         <note>ID: ImageToolbox.ImageToolboxWindowTitle</note>
-        <target xml:lang="sw" state="final">Kisanduku cha vifaa cha picha</target>
+        <target xml:lang="sw" state="final">Kisanduku cha kifaa cha picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.InstallArtOfReading" approved="yes">
         <source xml:lang="en">Install the Art Of Reading package (this may be very slow)</source>
@@ -266,7 +266,7 @@
         <source xml:lang="en">picture files</source>
         <note>ID: ImageToolbox.PictureFiles</note>
         <note>Shown in the file-picking dialog to describe what kind of files the dialog is filtering for</note>
-        <target xml:lang="sw" state="final">faili za picha</target>
+        <target xml:lang="sw" state="final">mafaili ya picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.ProblemGettingImageFromDevice" approved="yes">
         <source xml:lang="en">Problem Getting Image</source>
@@ -291,7 +291,7 @@
       <trans-unit id="ImageToolbox.SearchArtOfReading" approved="yes">
         <source xml:lang="en">Search the Art of Reading Gallery</source>
         <note>ID: ImageToolbox.SearchArtOfReading</note>
-        <target xml:lang="sw" state="final">Tafuta katika Sanaa ya Sanaa ya Kusoma</target>
+        <target xml:lang="sw" state="final">Tafuta Sanaa ya Kichanja cha Kusoma</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.SearchLanguage" approved="yes">
         <source xml:lang="en">The search box is currently set to {0}</source>
