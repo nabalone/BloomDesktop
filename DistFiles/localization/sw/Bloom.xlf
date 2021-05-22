@@ -948,7 +948,7 @@
       <trans-unit id="CollectionTab.Sample Shells" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sample Shells</source>
         <note>ID: CollectionTab.Sample Shells</note>
-        <target xml:lang="sw" state="final">Sampuli za Sheli</target>
+        <target xml:lang="sw" state="final">Sampuli za Shell</target>
       </trans-unit>
       <trans-unit id="CollectionTab.SendReceive" approved="yes">
         <source xml:lang="en">Send/Receive</source>
@@ -979,7 +979,7 @@
         <source xml:lang="en">Title Missing</source>
         <note>ID: CollectionTab.TitleMissing</note>
         <note>Shown as the thumbnail caption when the book doesn't have a title.</note>
-        <target xml:lang="sw" state="final">Mada iliyokosekana</target>
+        <target xml:lang="sw" state="final">Mada Haipo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UILanguageMenu.HelpTranslate" approved="yes">
         <source xml:lang="en">Help us translate Bloom (web)</source>
@@ -1007,19 +1007,19 @@
       <trans-unit id="CollectionTab.UpdateCheckInProgress" approved="yes">
         <source xml:lang="en">Bloom is already working on checking for updates.</source>
         <note>ID: CollectionTab.UpdateCheckInProgress</note>
-        <target xml:lang="sw" state="final">Bloom hufanya kazi kila wakati kwa kuchunguza utengenezaji upya.</target>
+        <target xml:lang="sw" state="final">Bloom tayari inafanya kazi kwa kuangalia sasisho.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateFailed" approved="yes">
         <source xml:lang="en">A new version appears to be available, but Bloom could not install it.</source>
         <note>ID: CollectionTab.UpdateFailed</note>
-        <target xml:lang="sw" state="final">Tafsiri mpya inaonekana kupatikana, lakini Bloom isiingeweza kuiweka.</target>
+        <target xml:lang="sw" state="final">Toleo jipya linaonekana linapatikana, lakini Bloom isingeweza kuiweka.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateInstalled" approved="yes">
         <source xml:lang="en">Update for {0} is ready</source>
         <note>ID: CollectionTab.UpdateInstalled</note>
         <note>Appears after Bloom has downloaded a program update in the background and is ready to switch the user to it the next time they run Bloom.</note>
         <note xml:lang="en">OLD TEXT (before 3.9, period at end): Update for {0} is ready.</note>
-        <target xml:lang="sw" state="final">Utengenezaji upya wa {0} uko tayari.</target>
+        <target xml:lang="sw" state="final">Sasisho la {0} liko tayari</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateNow" approved="yes">
         <source xml:lang="en">Update Now</source>
@@ -1035,7 +1035,7 @@
         <source xml:lang="en">Downloading update to {0} ({1}K)</source>
         <note>ID: CollectionTab.Updating</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Downloading update to {0} ({1}kb).</note>
-        <target xml:lang="sw" state="final">Kuchukua maboresho na kuweka kwa {0} ({1}kb).</target>
+        <target xml:lang="sw" state="final">Inapakua sasisho kwa {0} ({1}K)</target>
       </trans-unit>
       <trans-unit id="ColorPicker.PercentTransparent" sil:dynamic="true" approved="yes">
         <source xml:lang="en">{0}% Transparent</source>
@@ -1065,14 +1065,14 @@
         <source xml:lang="en">Cancel</source>
         <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".  In English, this is the same as "Common.CancelProcess", but could be different in your language.</note>
         <note>ID: Common.Cancel</note>
-        <target xml:lang="sw" state="final">Batilisha</target>
+        <target xml:lang="sw" state="final">Ghairi</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>This is identical to Common.Cancel. The duplication was introduced by a mistake.</note>
         <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".</note>
         <note>ID: Common.CancelButton</note>
-        <target xml:lang="sw" state="final">U&amp;batilishe</target>
+        <target xml:lang="sw" state="final">U&amp;Ghairi</target>
       </trans-unit>
       <trans-unit id="Common.Close" approved="yes">
         <source xml:lang="en">Close</source>
@@ -1126,7 +1126,7 @@
         <source xml:lang="en">&amp;Finish</source>
         <note>ID: Common.Finish</note>
         <note>Used for the Finish button in wizards, like that used for making a New Collection</note>
-        <target xml:lang="sw" state="final">U&amp;malize</target>
+        <target xml:lang="sw" state="final">U&amp;maliza</target>
       </trans-unit>
       <trans-unit id="Common.Help" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Help</source>
@@ -1136,7 +1136,7 @@
       <trans-unit id="Common.HelpButton" approved="yes">
         <source xml:lang="en">&amp;Help</source>
         <note>ID: Common.HelpButton</note>
-        <target xml:lang="sw" state="final">&amp;Usaidie</target>
+        <target xml:lang="sw" state="final">&amp;Msaada</target>
       </trans-unit>
       <trans-unit id="Common.Info" approved="yes">
         <source xml:lang="en">Info</source>
