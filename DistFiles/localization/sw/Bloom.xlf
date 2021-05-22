@@ -412,11 +412,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9): Show Experimental Commands (e.g. Export XML for InDesign)</note>
         <target xml:lang="sw" state="final">Vipengele vya majaribio</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources">
+      <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources" approved="yes">
         <source xml:lang="en">Show Experimental Book Sources</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources</note>
         <note>OLD TEXT (before 5.0/3.9): Show Experimental Templates (e.g. Picture Dictionary)</note>
-        <target xml:lang="sw" state="translated">Onyesha Vyanzo vya Kitabu vya Majaribio</target>
+        <target xml:lang="sw" state="final">Onyesha Vyanzo vya Kitabu cha Majaribio</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AndikaNewBasicUpdate1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is switching the default font for "{0}" to the new "Andika New Basic".</source>
@@ -467,11 +467,11 @@
         <note>Name of a Front/Back Matter Pack that has SIL Papua New Guinea customizations</note>
         <target xml:lang="sw" state="final">SIL-PNG</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Super Paper Saver" sil:dynamic="true">
+      <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Super Paper Saver" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Super Paper Saver</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Super Paper Saver</note>
         <note>Name of a Front/Back Matter Pack that puts title page on the inside of the front cover and credits on the inside of the back cover</note>
-        <target xml:lang="sw" state="translated">Kihifadhi cha Karatasi kilio bora</target>
+        <target xml:lang="sw" state="final">Kihifadhi Karatasi kilicho Bora zaidi</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Traditional" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Traditional</source>
@@ -485,10 +485,10 @@
         <note>Name of a Front/Back Matter Pack that is used for talking/animating experiences</note>
         <target xml:lang="sw" state="final">Video</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic" sil:dynamic="true">
+      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Arabic-Indic</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Arabic-Indic</note>
-        <target xml:lang="sw" state="translated">Arabic-Indic</target>
+        <target xml:lang="sw" state="final">Kiarabu-Indic</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Armenian" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Armenian</source>
@@ -1628,11 +1628,11 @@
         <note>Default style for comic bubbles</note>
         <target xml:lang="sw" state="final">Kiputo</target>
       </trans-unit>
-      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Cover-Default-style" sil:dynamic="true">
+      <trans-unit id="EditTab.FormatDialog.DefaultStyles.Cover-Default-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cover Default</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.Cover-Default-style</note>
         <note>A default style for various fields usually on the Front Cover</note>
-        <target xml:lang="sw" state="translated">Chaguo-msingi wa Jalada</target>
+        <target xml:lang="sw" state="final">Jalada Chaguo-msingi</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.Credits-Page-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Credits Page</source>
@@ -2701,10 +2701,10 @@
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.ContextKey</note>
         <target xml:lang="sw" state="final">Muktadha ni Muhimu</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.GeneralSpecific" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.GeneralSpecific" sil:dynamic="true" approved="yes">
         <source xml:lang="en">General to Specific</source>
         <note>ID: EditTab.Toolbox.ImageDescriptionTool.GeneralSpecific</note>
-        <target xml:lang="sw" state="translated">Jumla kwa maalum</target>
+        <target xml:lang="sw" state="final">Jumla kwa maalum</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImageDescriptionTool.LearnToMake" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn to make effective image descriptions</source>
@@ -2876,10 +2876,10 @@
         <note>ID: EditTab.Toolbox.LeveledReaderTool.WordCounts</note>
         <target xml:lang="sw" state="final">Idadi ya Maneno</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.WordLengths" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.WordLengths" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Word Lengths</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.WordLengths</note>
-        <target xml:lang="sw" state="translated">Urefu wa maneno</target>
+        <target xml:lang="sw" state="final">Urefu wa maneno</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.More" sil:dynamic="true" approved="yes">
         <source xml:lang="en">More...</source>
@@ -2896,10 +2896,10 @@
         <note>ID: EditTab.Toolbox.Settings.UnlockShellBookIntroductionText</note>
         <target xml:lang="sw" state="final">Bloom kwa kawaida huzuia mabadiliko mengi kwenye vitabu vya sheli. Iwapo utahitaji kuongeza kurasa, kubadlisha picha na kadhalika, weka alama kwenye kisanduku kilicho hapa chini.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.CameraUnavailable" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.CameraUnavailable" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Camera not available (perhaps in use by another program)</source>
         <note>ID: EditTab.Toolbox.SignLanguage.CameraUnavailable</note>
-        <target xml:lang="sw" state="translated">Kamera haipatikani (labda inatumiwa na programu nyingine)</target>
+        <target xml:lang="sw" state="final">Kamera haipatikani (labda inatumiwa na programu nyingine)</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.DeleteVideo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Delete</source>
@@ -2952,10 +2952,10 @@
         <note>ID: EditTab.Toolbox.SignLanguage.Recording</note>
         <target xml:lang="sw" state="final">Kurekodi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.RestoreOriginal" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.RestoreOriginal" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Restore Original</source>
         <note>ID: EditTab.Toolbox.SignLanguage.RestoreOriginal</note>
-        <target xml:lang="sw" state="translated">Rudisha ilivyokuwa mwanzoni</target>
+        <target xml:lang="sw" state="final">Rudisha ilivyokuwa mwanzoni</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.SelectedVideo" approved="yes">
         <source xml:lang="en">The selected video</source>
@@ -2973,10 +2973,10 @@
         <note>ID: EditTab.Toolbox.SignLanguage.StartRecording</note>
         <target xml:lang="sw" state="final">Anza Kurekodi</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.Timeout">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.Timeout" approved="yes">
         <source xml:lang="en">The initial processing of the video file timed out after one minute.  The raw video output will be stored.</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Timeout</note>
-        <target xml:lang="sw" state="translated">Usindikaji wa awali wa faili ya video unaisha baada ya dakika moja. Pato la nakala ya video ghafi litahifadhiwa.</target>
+        <target xml:lang="sw" state="final">Usindikaji wa awali wa faili ya video unaisha baada ya dakika moja. Pato la nakala ya video ghafi litahifadhiwa.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.Trim" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Trim</source>
@@ -2995,10 +2995,10 @@
         <note>ID: EditTab.Toolbox.SignLanguage.WhatCameraSees</note>
         <target xml:lang="sw" state="final">Hivi ndivyo kamera yako inavyoona:</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguageTool" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguageTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sign Language Tool</source>
         <note>ID: EditTab.Toolbox.SignLanguageTool</note>
-        <target xml:lang="sw" state="translated">Zana ya lugha ya ishara</target>
+        <target xml:lang="sw" state="final">Zana ya lugha ya ishara</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBook.BadState" approved="yes">
         <source xml:lang="en">Bloom recording is in an unusual state, possibly caused by unplugging a microphone. You will need to restart.</source>
@@ -3079,10 +3079,10 @@
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplace</note>
         <target xml:lang="sw" state="final">Badilisha na sauti mpya?</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">If you import this recording, it will replace all the audio for this text box.</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ImportRecording.ConfirmReplaceMessage</note>
-        <target xml:lang="sw" state="translated">Ukiagiza rekodi hii, itachukua nafasi ya sauti zote kwa kisanduku hiki cha maandishi.</target>
+        <target xml:lang="sw" state="final">Ukiagiza rekodi hii, itachukua nafasi ya sauti zote kwa kisanduku hiki cha maandishi.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.LookAtSentenceLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Look at the highlighted text</source>
@@ -3453,11 +3453,11 @@
         <note>short message for a popup toast notification</note>
         <target xml:lang="sw" state="final">Haiwezi kubadilisha faili ya mp3. Angalia kinga ya virusi</target>
       </trans-unit>
-      <trans-unit id="LameEncoder.DeleteFailedLong">
+      <trans-unit id="LameEncoder.DeleteFailedLong" approved="yes">
         <source xml:lang="en">Bloom could not replace an mp3 file. If this continues, check your antivirus.</source>
         <note>ID: LameEncoder.DeleteFailedLong</note>
         <note>longer message for a detailed description of the problem</note>
-        <target xml:lang="sw" state="translated">Bloom haikuweza kuchukua nafasi ya faili ya mp3. Ikiwa hii itaendelea, angalia antivirus yako.</target>
+        <target xml:lang="sw" state="final">Bloom haikuweza kuchukua nafasi ya faili ya mp3. Ikiwa hili itaendelea, angalia antivirus yako.</target>
       </trans-unit>
       <trans-unit id="LameEncoder.Progress" approved="yes">
         <source xml:lang="en"> Converting to mp3</source>
