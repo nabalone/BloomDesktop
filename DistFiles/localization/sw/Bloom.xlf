@@ -5456,7 +5456,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderTemplateBloomPackDialog.IntroLabel" approved="yes">
         <source xml:lang="en">The following books will be made into templates:</source>
         <note>ID: ReaderTemplateBloomPackDialog.IntroLabel</note>
-        <target xml:lang="sw" state="final">Vitabu vifuatavyo vitafanywa kuwa vigezo:</target>
+        <target xml:lang="sw" state="final">Vitabu vifuatavyo vitafanywa kuwa violezo:</target>
       </trans-unit>
       <trans-unit id="ReaderTemplateBloomPackDialog.IUnderstandCheckboxLabel" approved="yes">
         <source xml:lang="en">I understand what a template is and this is really what I want to do</source>
@@ -5476,7 +5476,7 @@ Do you want to go ahead?</note>
       <trans-unit id="RegisterDialog.Email" approved="yes">
         <source xml:lang="en">Email Address</source>
         <note>ID: RegisterDialog.Email</note>
-        <target xml:lang="sw" state="final">Barua pepe</target>
+        <target xml:lang="sw" state="final">Anwani ya Barua pepe</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.FirstName" approved="yes">
         <source xml:lang="en">First Name</source>
@@ -5503,7 +5503,7 @@ Do you want to go ahead?</note>
       <trans-unit id="RegisterDialog.Organization" approved="yes">
         <source xml:lang="en">Organization</source>
         <note>ID: RegisterDialog.Organization</note>
-        <target xml:lang="sw" state="final">Mpangilio</target>
+        <target xml:lang="sw" state="final">Shirika</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.RegisterButton" approved="yes">
         <source xml:lang="en">&amp;Register</source>
@@ -5630,13 +5630,13 @@ Do you want to go ahead?</note>
       <trans-unit id="ReportProblemDialog.SubmitButton" approved="yes">
         <source xml:lang="en">&amp;Submit</source>
         <note>ID: ReportProblemDialog.SubmitButton</note>
-        <target xml:lang="sw" state="final">U&amp;peane</target>
+        <target xml:lang="sw" state="final">U&amp;Wasilisha</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Submitting" approved="yes">
         <source xml:lang="en">Submitting to server...</source>
         <note>ID: ReportProblemDialog.Submitting</note>
         <note>This is shown while Bloom is sending the problem report to our server.</note>
-        <target xml:lang="sw" state="final">Inapeana kwa mtandao...</target>
+        <target xml:lang="sw" state="final">Inapeana kwa seva...</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Success" approved="yes">
         <source xml:lang="en">We received your report, thanks for taking the time to help make Bloom better!</source>
@@ -5670,7 +5670,7 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.Zipping</note>
         <note>This is shown while Bloom is creating the problem report. It's generally too fast to see, unless you include a large book.</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Zipping up book...</note>
-        <target xml:lang="sw" state="final">Kufunga kitabu...</target>
+        <target xml:lang="sw" state="final">Kupakia kitabu...</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.linkLabel1" approved="yes">
         <source xml:lang="en">Will not be private</source>
@@ -5685,7 +5685,7 @@ Do you want to go ahead?</note>
       <trans-unit id="SamplePrintNotification.PleaseNotice" approved="yes">
         <source xml:lang="en">Please notice the sample printer settings below. Use them as a guide while you set up the printer.</source>
         <note>ID: SamplePrintNotification.PleaseNotice</note>
-        <target xml:lang="sw" state="final">Tafadhali tambua sampuli ya mpangilio wa mtambo wa kuchapisha hapa chini. Utumia kama mwongozo unapoandaa mtambo wa kuchapisha.</target>
+        <target xml:lang="sw" state="final">Tafadhali tambua sampuli ya mpangilio wa mtambo wa kuchapisha hapa chini. Itumie kama mwongozo unapoandaa mtambo wa kuchapisha.</target>
       </trans-unit>
       <trans-unit id="SamplePrintNotification.WindowTitle">
         <source xml:lang="en">Sample Print Settings</source>
@@ -6156,7 +6156,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Basic Text &amp; Picture" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Basic Text &amp; Picture</source>
         <note>ID: TemplateBooks.PageLabel.Basic Text &amp; Picture</note>
-        <target xml:lang="sw" state="final">Matini ya Kimsingi na Picha</target>
+        <target xml:lang="sw" state="final">Matini ya Kimsingi&amp; Picha</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot Text Over Video" sil:dynamic="true">
         <source xml:lang="en">Big Picture Diglot Text Over Video</source>
@@ -6313,7 +6313,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Picture &amp; Word" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture &amp; Word</source>
         <note>ID: TemplateBooks.PageLabel.Picture &amp; Word</note>
-        <target xml:lang="sw" state="final">Picha na neno</target>
+        <target xml:lang="sw" state="final">Picha &amp; Neno</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Picture in Middle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture in Middle</source>
@@ -6516,7 +6516,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Traditional Story</source>
         <note>ID: Topics.Traditional Story</note>
         <note>shows in the topics chooser in the edit tab</note>
-        <target xml:lang="sw" state="final">Hadithi za Kitamaduni</target>
+        <target xml:lang="sw" state="final">Hadithi ya Kitamaduni</target>
       </trans-unit>
       <trans-unit id="Warning" approved="yes">
         <source xml:lang="en">Warning</source>
