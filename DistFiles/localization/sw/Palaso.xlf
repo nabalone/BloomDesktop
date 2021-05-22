@@ -452,7 +452,7 @@
         <source xml:lang="en">You may not use this work for commercial purposes.</source>
         <note>ID: MetadataDisplay.Licenses.CreativeCommons.NonCommercial</note>
         <note>See http://creativecommons.org/ to find out how this is normally translated in your language. What we're aiming for here is an easy to understand summary.</note>
-        <target xml:lang="sw" state="final">Huruhusiwi kutumia toleo hili kwa shughuli za kibiashara.</target>
+        <target xml:lang="sw" state="final">Huruhusiwi kutumia kazi hii kwa shughuli za kibiashara.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.Licenses.CreativeCommons.PublicDomain" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</source>
@@ -464,7 +464,7 @@
         <source xml:lang="en">For permission to reuse, contact the copyright holder.</source>
         <note>ID: MetadataDisplay.Licenses.NullLicense</note>
         <note>This is used when all we have is a copyright, no other license.</note>
-        <target xml:lang="sw" state="final">Iwapo utataka kuitumia tena, tafadhali wasiliana na aliye na haki ya kumiliki.</target>
+        <target xml:lang="sw" state="final">Ili upate idhini ya kuitumia tena, wasiliana na mmiliki wa hakimiliki.</target>
       </trans-unit>
       <trans-unit id="MetadataDisplay.NoLicense" approved="yes">
         <source xml:lang="en">No license specified</source>
@@ -499,7 +499,7 @@
       <trans-unit id="MetadataEditor.CreativeCommons.Intergovernmental" approved="yes">
         <source xml:lang="en">Intergovernmental Version</source>
         <note>ID: MetadataEditor.CreativeCommons.Intergovernmental</note>
-        <target xml:lang="sw" state="final">Tafsiri ya kati ya kiserikali</target>
+        <target xml:lang="sw" state="final">Toleo la kiserikali</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.CreatorLabel" approved="yes">
         <source xml:lang="en">Creator</source>
@@ -524,17 +524,17 @@
       <trans-unit id="MetadataEditor.TitleNoCredit" approved="yes">
         <source xml:lang="en">Copyright and License</source>
         <note>ID: MetadataEditor.TitleNoCredit</note>
-        <target xml:lang="sw" state="final">Haki ya kunakili na Leseni</target>
+        <target xml:lang="sw" state="final">Hakimiliki na Leseni</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.TitleWithCredit" approved="yes">
         <source xml:lang="en">Credit, Copyright, and License</source>
         <note>ID: MetadataEditor.TitleWithCredit</note>
-        <target xml:lang="sw" state="final">Sifa, Haki ya kunakili, na Leseni</target>
+        <target xml:lang="sw" state="final">Sifa, Hakimiliki, na Leseni</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.UnknownLicense" approved="yes">
         <source xml:lang="en">Contact the copyright holder for any permissions</source>
         <note>ID: MetadataEditor.UnknownLicense</note>
-        <target xml:lang="sw" state="final">Wasiliana na aliye na haki ya kunakili ili kupata idhini</target>
+        <target xml:lang="sw" state="final">Wasiliana na mmiliki wa hakimiliki ili kupata idhini</target>
       </trans-unit>
       <trans-unit id="MetadataEditor.YesShareAlike" approved="yes">
         <source xml:lang="en">Yes, as long as others share alike</source>
