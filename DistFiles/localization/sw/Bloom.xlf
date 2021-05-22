@@ -796,10 +796,10 @@
         <note>ID: CollectionTab.BookMenu.ExportToXMLForInDesign</note>
         <target xml:lang="sw" state="final">Peleka kwa XML kwa mtindo wa ndani...</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BookMenu.MakeBloomPack">
+      <trans-unit id="CollectionTab.BookMenu.MakeBloomPack" approved="yes">
         <source xml:lang="en">Make Bloom Pack...</source>
         <note>ID: CollectionTab.BookMenu.MakeBloomPack</note>
-        <target xml:lang="sw" state="translated">Tengeneza seti ya Bloom...</target>
+        <target xml:lang="sw" state="final">Tengeneza seti ya Bloom...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.SaveAsBloomToolStripMenuItem" approved="yes">
         <source xml:lang="en">Save as single file (.bloom)...</source>
@@ -1095,15 +1095,15 @@
         <note>ID: Common.Colors.White</note>
         <target xml:lang="sw" state="final">Nyeupe</target>
       </trans-unit>
-      <trans-unit id="Common.Colors.Yellow">
+      <trans-unit id="Common.Colors.Yellow" approved="yes">
         <source xml:lang="en">Yellow</source>
         <note>ID: Common.Colors.Yellow</note>
-        <target xml:lang="sw" state="translated">Manjano</target>
+        <target xml:lang="sw" state="final">Manjano</target>
       </trans-unit>
-      <trans-unit id="Common.Copy">
+      <trans-unit id="Common.Copy" approved="yes">
         <source xml:lang="en">Copy</source>
         <note>ID: Common.Copy</note>
-        <target xml:lang="sw" state="translated">Nakili</target>
+        <target xml:lang="sw" state="final">Nakili</target>
       </trans-unit>
       <trans-unit id="Common.Delete" approved="yes">
         <source xml:lang="en">Delete</source>
