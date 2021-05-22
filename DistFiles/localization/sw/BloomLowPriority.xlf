@@ -75,42 +75,42 @@
         <note>ID: Settings.Enterprise.None</note>
         <target xml:lang="sw" state="final">Hakuna. Vipengele vya Enterprise havitapatikana.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.NeedsCode">
+      <trans-unit id="Settings.Enterprise.NeedsCode" approved="yes">
         <source xml:lang="en">In an older version of Bloom, this project used **%0**. To continue to use this you will need to enter a current subscription code. Codes for SIL brandings can be found [here](%1). For other subscriptions, contact your project administrator.</source>
         <note>ID: Settings.Enterprise.NeedsCode</note>
         <note>%0 will be replaced with the name of the branding. Keep surrounding **...**. [here](%1) will become a hot link; %1 will not be seen, but will be the URL for the destination page. Translate "here" and keep the [](%1) around it.</note>
-        <target xml:lang="sw" state="translated">Katika toleo la zamani la Bloom, mradi huu ulitumia **%0**. Ili kuendelea kutumia hii utahitaji kuingiza nambari ya usajili ya sasa. Nambari za chapa za SIL zinaweza kupatikana [here]] (%1). Kwa usajili mwingine, wasiliana na msimamizi wa mradi wako.</target>
+        <target xml:lang="sw" state="final">Katika toleo la zamani la Bloom, mradi huu ulitumia **%0**. Ili kuendelea kutumia hii utahitaji kuingiza nambari ya usajili ya sasa. Misimbo ya chapa ya SIL inaweza kupatikana [here]] (%1). Kwa usajili mwingine, wasiliana na msimamizi wako wa mradi.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.NotValid">
+      <trans-unit id="Settings.Enterprise.NotValid" approved="yes">
         <source xml:lang="en">That code appears to be incorrect.</source>
         <note>ID: Settings.Enterprise.NotValid</note>
-        <target xml:lang="sw" state="translated">Msimbo huo unaonekana kuwa si sahihi.</target>
+        <target xml:lang="sw" state="final">Msimbo huo unaonekana kuwa si sahihi.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Status">
+      <trans-unit id="Settings.Enterprise.Status" approved="yes">
         <source xml:lang="en">Bloom Enterprise Status</source>
         <note>ID: Settings.Enterprise.Status</note>
-        <target xml:lang="sw" state="translated">Hali ya Bloom Enterprise</target>
+        <target xml:lang="sw" state="final">Hali ya Bloom Enterprise</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Subscription">
+      <trans-unit id="Settings.Enterprise.Subscription" approved="yes">
         <source xml:lang="en">Enterprise Subscription</source>
         <note>ID: Settings.Enterprise.Subscription</note>
-        <target xml:lang="sw" state="translated">Usajili kwa Enterprise</target>
+        <target xml:lang="sw" state="final">Usajili wa Enterprise</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.SubscriptionCode">
+      <trans-unit id="Settings.Enterprise.SubscriptionCode" approved="yes">
         <source xml:lang="en">Subscription Code:</source>
         <note>ID: Settings.Enterprise.SubscriptionCode</note>
-        <target xml:lang="sw" state="translated">Nambari ya usajili:</target>
+        <target xml:lang="sw" state="final">Msimbo wa usajili:</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.UnknownCode">
+      <trans-unit id="Settings.Enterprise.UnknownCode" approved="yes">
         <source xml:lang="en">This version of Bloom does not have the artwork that goes with that subscription.</source>
         <note>ID: Settings.Enterprise.UnknownCode</note>
-        <target xml:lang="sw" state="translated">Toleo hili la Bloom halina mchoro unaokwenda na usajili huo.</target>
+        <target xml:lang="sw" state="final">Toleo hili la Bloom halina mchoro unaoambatana na usajili huo.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.WhatsThis">
+      <trans-unit id="Settings.Enterprise.WhatsThis" approved="yes">
         <source xml:lang="en">What's This?</source>
         <note>ID: Settings.Enterprise.WhatsThis</note>
         <note>A link offering more information about the Funded Local Community Only option</note>
-        <target xml:lang="sw" state="translated">Hii ni nini?</target>
+        <target xml:lang="sw" state="final">Hii ni nini?</target>
       </trans-unit>
     </body>
   </file>
