@@ -164,7 +164,7 @@
       <trans-unit id="BloomPackInstallDialog.BloomPackInstalled" approved="yes">
         <source xml:lang="en">The {0} Collection is now ready to use on this computer.</source>
         <note>ID: BloomPackInstallDialog.BloomPackInstalled</note>
-        <target xml:lang="sw" state="final">Mkusanyiko sasa uko tayari kutumika kwenye kompyuta hii {0}.</target>
+        <target xml:lang="sw" state="final">Mkusanyiko {0} sasa uko tayari kutumika kwenye kompyuta hii.</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.BloomPackInstaller" approved="yes">
         <source xml:lang="en">Bloom Pack Installer</source>
