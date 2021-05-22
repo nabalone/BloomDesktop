@@ -3370,11 +3370,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="sw" state="final">Kuhusu Blooom</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="sw" state="translated">Hifadhi ya hati...</target>
+        <target xml:lang="sw" state="final">Vinjari Usaidizi...</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -3544,7 +3544,7 @@
       <trans-unit id="LayoutChoices.HalfLetterPortrait" sil:dynamic="true">
         <source xml:lang="en">HalfLetter Portrait</source>
         <note>ID: LayoutChoices.HalfLetterPortrait</note>
-        <target xml:lang="sw" state="translated">PIcha ya Nusu Herufi</target>
+        <target xml:lang="sw" state="translated">Ukurasa wima wa Nusu-Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true">
         <source xml:lang="en">Letter Landscape</source>
