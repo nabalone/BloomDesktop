@@ -4191,10 +4191,10 @@
         <note>{0} is the name of the book, {1} is the name of the device</note>
         <target xml:lang="sw" state="final">Kutuma "{0}"kwa kifaa {1}</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stopped Advertising.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
-        <target xml:lang="sw" state="translated">Ilisimamisha matangazo.</target>
+        <target xml:lang="sw" state="final">Ilisimamisha matangazo.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
@@ -4206,10 +4206,10 @@
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions2</note>
         <target xml:lang="sw" state="final">Unaweza kufanya hivyo kwenye vifaa vingi unavyopenda. Hakikisha kila kifaa kimeunganishwa kwenye mtandao sawa na kompyuta hii.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.beginAdvertising" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.beginAdvertising" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Advertising book to Bloom Readers on local network...</source>
         <note>ID: PublishTab.Android.Wifi.Progress.beginAdvertising</note>
-        <target xml:lang="sw" state="translated">Kutangaza kitabu kwa programu za Bloom reader kwenye mtandao wa ndani...</target>
+        <target xml:lang="sw" state="final">Kutangaza kitabu kwa programu za Bloom reader kwenye mtandao wa ndani...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Share</source>
@@ -4217,11 +4217,11 @@
         <note>Button that tells Bloom to begin offering this book on the wifi network.</note>
         <target xml:lang="sw" state="final">Shiriki</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.WrongLayout.Message">
+      <trans-unit id="PublishTab.Android.WrongLayout.Message" approved="yes">
         <source xml:lang="en">The layout of this book is currently "{0}". Bloom Reader will display it using "{1}", so text might not fit. To see if anything needs adjusting, go back to the Edit Tab and change the layout to "{1}".</source>
         <note>ID: PublishTab.Android.WrongLayout.Message</note>
         <note>{0} and {1} are book layout tags.</note>
-        <target xml:lang="sw" state="translated">Mpangilio wa kitabu hiki kwa sasa ni "{0}". Bloom Reader itauonyesha kwa kutumia "{1}", kwa hivyo maandishi yanaweza kosa kutoshea. Ili kuona ikiwa kuna kitu kinachohitaji kurekebishwa, rudi kwenye Kichupo cha Hariri na ubadilishe mpangilio kuwa "{1}".</target>
+        <target xml:lang="sw" state="final">Mpangilio wa kitabu hiki kwa sasa ni "{0}". Bloom Reader itauonyesha kwa kutumia "{1}", kwa hivyo maandishi yanaweza kosa kutoshea. Ili kuona ikiwa kuna kitu kinachohitaji kurekebishwa, rudi kwenye Kichupo cha Hariri na ubadilishe mpangilio kuwa "{1}".</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.bloomdFileFormatLabel" approved="yes">
         <source xml:lang="en">Bloom Book for Devices</source>
@@ -4239,11 +4239,11 @@
         <note>ID: PublishTab.AndroidButton-tooltip</note>
         <target xml:lang="sw" state="final">Chapisha kwenye kifaa cha Android.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Audio.ElementsMissingId">
+      <trans-unit id="PublishTab.Audio.ElementsMissingId" approved="yes">
         <source xml:lang="en">Some audio elements are missing ids</source>
         <note>ID: PublishTab.Audio.ElementsMissingId</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Baadhi ya vipengele vya sauti havina vitambulisho</target>
+        <target xml:lang="sw" state="final">Baadhi ya vipengele vya sauti havina vitambulisho</target>
       </trans-unit>
       <trans-unit id="PublishTab.BodyOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Insides</source>
@@ -4268,10 +4268,10 @@
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Upload</note>
         <target xml:lang="sw" state="final">Weka</target>
       </trans-unit>
-      <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true">
+      <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Upload your book to BloomLibrary.org so that other people can read it, download it to their devices and share it with other people.</source>
         <note>ID: PublishTab.ButtonThatShowsUploadForm-tooltip</note>
-        <target xml:lang="sw" state="translated">Weka kitabu chako kwenye BloomLibrary.org, ndio watu wengine waweze kukisoma, kukipakua katika vifaa vyao na kukishirikisha na watu wengine.</target>
+        <target xml:lang="sw" state="final">Weka kitabu chako kwenye BloomLibrary.org, ndio watu wengine waweze kukisoma, kukipakua katika vifaa vyao na kukishirikisha na watu wengine.</target>
       </trans-unit>
       <trans-unit id="PublishTab.CoverOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Cover</source>
@@ -4289,10 +4289,10 @@
         <note>Used in Epubs as the text of a link that leads from the image description back to the main page</note>
         <target xml:lang="sw" state="final">Nyuma</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Accessible.MainContent">
+      <trans-unit id="PublishTab.Epub.Accessible.MainContent" approved="yes">
         <source xml:lang="en">Main Content</source>
         <note>ID: PublishTab.Epub.Accessible.MainContent</note>
-        <target xml:lang="sw" state="translated">Maudhui Kuu</target>
+        <target xml:lang="sw" state="final">Maudhui Kuu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Accessibility" approved="yes">
         <source xml:lang="en">Accessibility</source>
@@ -4306,10 +4306,10 @@
         <note>Shown in a progress box when Bloom is starting to create an ePUB</note>
         <target xml:lang="sw" state="final">Kutengeneza ePUB</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Creating">
+      <trans-unit id="PublishTab.Epub.Creating" approved="yes">
         <source xml:lang="en">Creating ePUB...</source>
         <note>ID: PublishTab.Epub.Creating</note>
-        <target xml:lang="sw" state="translated">Kuunda ePUB...</target>
+        <target xml:lang="sw" state="final">Kuunda ePUB...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Done" approved="yes">
         <source xml:lang="en">Done</source>
@@ -4321,10 +4321,10 @@
         <note>ID: PublishTab.Epub.Help.AboutEpubs</note>
         <target xml:lang="sw" state="final">Kuhusu ePUBs</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Help.EReaders">
+      <trans-unit id="PublishTab.Epub.Help.EReaders" approved="yes">
         <source xml:lang="en">Compatible ePUB Readers</source>
         <note>ID: PublishTab.Epub.Help.EReaders</note>
-        <target xml:lang="sw" state="translated">ePUB Readers zilizotangamana</target>
+        <target xml:lang="sw" state="final">ePUB Readers zilizotangamana</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Help.Publishing" approved="yes">
         <source xml:lang="en">Getting ePUBs onto a device</source>
@@ -4342,22 +4342,22 @@
         <note>ID: PublishTab.Epub.IncludeOnPage</note>
         <target xml:lang="sw" state="final">Jumuisha maelezo ya picha kwenye ukurasa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.NoAudioDescriptions">
+      <trans-unit id="PublishTab.Epub.NoAudioDescriptions" approved="yes">
         <source xml:lang="en">No recorded audio image descriptions</source>
         <note>ID: PublishTab.Epub.NoAudioDescriptions</note>
-        <target xml:lang="sw" state="translated">Hakuna maelezo ya picha ya sauti</target>
+        <target xml:lang="sw" state="final">Hakuna maelezo ya picha ya sauti</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.NoComicSupport">
+      <trans-unit id="PublishTab.Epub.NoComicSupport" approved="yes">
         <source xml:lang="en">Sorry, Bloom cannot produce ePUBs if there are any comic bubbles. The first comic bubble is on page {0}.</source>
         <note>ID: PublishTab.Epub.NoComicSupport</note>
         <note>The {0} will be replaced with the page number (or name of page). For example, it might be replaced by "1" or "Front Cover"</note>
-        <target xml:lang="sw" state="translated">Samahani, Bloom haiwezi kutoa ePUBs ikiwa kuna viputo vyovyote vya vicheshi. Kiputo cha kwanza cha vicheshi kiko kwenye ukurasa wa {0}.</target>
+        <target xml:lang="sw" state="final">Samahani, Bloom haiwezi kutoa ePUBs ikiwa kuna viputo vyovyote vya vicheshi. Kiputo cha kwanza cha vicheshi kiko kwenye ukurasa wa {0}.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.OmittedPages">
+      <trans-unit id="PublishTab.Epub.OmittedPages" approved="yes">
         <source xml:lang="en">The following pages were removed because they are not supported in ePUBs:</source>
         <note>ID: PublishTab.Epub.OmittedPages</note>
         <note>Shown in a progress box when Bloom finds interactive pages in an EPUB. Followed by a list of page labels.</note>
-        <target xml:lang="sw" state="translated">Kurasa zifuatazo ziliondolewa kwa sababu haziwezi kutumika katika ePUBs:</target>
+        <target xml:lang="sw" state="final">Kurasa zifuatazo ziliondolewa kwa sababu haziwezi kutumika katika ePUBs:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.PageLabel.Content" approved="yes">
         <source xml:lang="en">Content</source>
@@ -4370,27 +4370,27 @@
         <note>ID: PublishTab.Epub.PreparingDoc</note>
         <target xml:lang="sw" state="final">Kuandaa hati</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.PreparingPreview">
+      <trans-unit id="PublishTab.Epub.PreparingPreview" approved="yes">
         <source xml:lang="en">Preparing Preview</source>
         <note>ID: PublishTab.Epub.PreparingPreview</note>
-        <target xml:lang="sw" state="translated">Inaandaa Kuhakiki</target>
+        <target xml:lang="sw" state="final">Inaandaa Kuhakiki</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.ReadiumCredit">
+      <trans-unit id="PublishTab.Epub.ReadiumCredit" approved="yes">
         <source xml:lang="en">This ePUB preview is provided by [Readium]. This book may render differently in various ePUB readers.</source>
         <note>ID: PublishTab.Epub.ReadiumCredit</note>
         <note>[Readium] should be left untranslated as a noun.  It will be changed into an HTML link to the Readium web page (https://readium.org/).  If the term "Readium" has been translated on a translated version of that web page, then the translated term may be substituted within the square brackets.  (Be sure to keep the square brackets [] around Readium or its translation!)</note>
-        <target xml:lang="sw" state="translated">Uhakiki huu wa ePUB umetolewa na [Readium]. Kitabu hiki kinaweza kutoa maana tofauti kwa wasomaji anuwai wa ePUB.</target>
+        <target xml:lang="sw" state="final">Uhakiki huu wa ePUB umetolewa na [Readium]. Kitabu hiki kinaweza kutoa maana tofauti kwa wasomaji anuwai wa ePUB.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.RemoveFontSizes">
+      <trans-unit id="PublishTab.Epub.RemoveFontSizes" approved="yes">
         <source xml:lang="en">Use ePUB reader's text size</source>
         <note>ID: PublishTab.Epub.RemoveFontSizes</note>
-        <target xml:lang="sw" state="translated">Tumia saizi ya maandishi ya 
+        <target xml:lang="sw" state="final">Tumia saizi ya maandishi ya 
 kisomaji cha ePUB</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Epub.Saving">
+      <trans-unit id="PublishTab.Epub.Saving" approved="yes">
         <source xml:lang="en">Saving</source>
         <note>ID: PublishTab.Epub.Saving</note>
-        <target xml:lang="sw" state="translated">Inahifadhi</target>
+        <target xml:lang="sw" state="final">Inahifadhi</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Title" approved="yes">
         <source xml:lang="en">Create an ePUB book</source>
@@ -4458,11 +4458,11 @@ kisomaji cha ePUB</target>
         <note>was previously just "Options"</note>
         <target xml:lang="sw" state="final">Chaguzi za PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.OptionsMenu.PreparePrintshop">
+      <trans-unit id="PublishTab.OptionsMenu.PreparePrintshop" approved="yes">
         <source xml:lang="en">Prepare for Print Shop:</source>
         <note>ID: PublishTab.OptionsMenu.PreparePrintshop</note>
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
-        <target xml:lang="sw" state="translated">Andaa kwa duka la kuchapisha:</target>
+        <target xml:lang="sw" state="final">Andaa kwa duka la kuchapisha:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
@@ -4486,17 +4486,17 @@ kisomaji cha ePUB</target>
         <note>Error message displayed in a message dialog box. {0} is the filename, {1} is a newline character.</note>
         <target xml:lang="sw" state="final">Bloom haikuweza kuunda faili ya PDF ({0}). {1} {1} Maelezo: BloomPdfMaker (mstari wa amri) haukutoa hati inayotarajiwa.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PDF.Error.PrinterError">
+      <trans-unit id="PublishTab.PDF.Error.PrinterError" approved="yes">
         <source xml:lang="en">Bloom requires access to a printer in order to make a PDF, even though you are not printing.  Windows gave this error when Bloom tried to access the default printer: {0}</source>
         <note>ID: PublishTab.PDF.Error.PrinterError</note>
         <note>Error message displayed in a message dialog box.  {0} is replaced by a Windows error message at runtime</note>
-        <target xml:lang="sw" state="translated">Bloom inahitaji ufikiaji wa printa ili kutengeneza PDF, ingawa hauchapishi. Windows ilitoa hitilafu hii wakati Bloom ilijaribu kupata printa chaguomsingi: {0}</target>
+        <target xml:lang="sw" state="final">Bloom inahitaji ufikiaji wa printa ili kutengeneza PDF, ingawa hauchapishi. Windows ilitoa hitilafu hii wakati Bloom ilijaribu kupata printa chaguomsingi: {0}</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PDF.Error.NoPrinter">
+      <trans-unit id="PublishTab.PDF.Error.NoPrinter" approved="yes">
         <source xml:lang="en">Bloom needs you to have a printer selected on this computer before it can make a PDF, even though you are not printing.  It appears that you might not have a printer set as the default.  Please go to Devices and Printers and select a printer as a default. If you don't have a real printer attached, just select the Microsoft XPS or PDF printers.</source>
         <note>ID: PublishTab.PDF.Error.NoPrinter</note>
         <note>Error message displayed in a message dialog box.</note>
-        <target xml:lang="sw" state="translated">Bloom inahitaji uwe na printa iliyochaguliwa kwenye kompyuta hii kabla ya kufanya PDF, ingawa hauchapishi. Inaonekana unaweza kuwa hauna printa iliyowekwa kama chaguomsingi. Tafadhali nenda kwenye Vifaa na Printa na uchague printa kama chaguomsingi. Ikiwa hauna printa halisi iliyoambatanishwa, chagua tu Microsoft XPS au printa za PDF.</target>
+        <target xml:lang="sw" state="final">Bloom inahitaji uwe na printa iliyochaguliwa kwenye kompyuta hii kabla ya kutengeneza PDF, ingawaje hauchapishi. Inaonekana unaweza kuwa hauna printa iliyowekwa kama chaguomsingi. Tafadhali nenda kwenye Vifaa na Printa na uchague printa kama chaguomsingi. Ikiwa hauna printa halisi iliyoambatanishwa, chagua tu Microsoft XPS au printa za PDF.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PDF.Error.TrySinglePage">
         <source xml:lang="en">The book's images might have exceeded the amount of RAM memory available. Please turn on the "Use Less Memory" option which is slower but uses less memory.</source>
