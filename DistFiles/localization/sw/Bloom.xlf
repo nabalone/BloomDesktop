@@ -23,11 +23,11 @@
         <note>ID: AccessibilityCheck.audioForAllImageDescriptions</note>
         <target xml:lang="sw" state="final">Sauti kwa maelezo yote ya picha</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.AudioForAllImageDescriptions.MissingOnPage">
+      <trans-unit id="AccessibilityCheck.AudioForAllImageDescriptions.MissingOnPage" approved="yes">
         <source xml:lang="en">Some text is missing a recording for an image description on page {0}</source>
         <note>ID: AccessibilityCheck.AudioForAllImageDescriptions.MissingOnPage</note>
         <note>The {0} is where the page number will be inserted.</note>
-        <target xml:lang="sw" state="translated">Maandishi mengine hayana rekodi kwa maelezo ya picha kwenye ukurasa {0}</target>
+        <target xml:lang="sw" state="final">Maandishi mengine hayana rekodi kwa maelezo ya picha kwenye ukurasa {0}</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.AudioForAllText.MissingOnPage" approved="yes">
         <source xml:lang="en">Some text is missing a recording on page {0}</source>
@@ -35,10 +35,10 @@
         <note>The {0} is where the page number will be inserted.</note>
         <target xml:lang="sw" state="final">Baadhi ya maandishi hayana rekodi kwenye ukurasa {0}</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.AutomaticChecksHeading" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.AutomaticChecksHeading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom can automatically check these for you:</source>
         <note>ID: AccessibilityCheck.AutomaticChecksHeading</note>
-        <target xml:lang="sw" state="translated">Bloom inaweza kuangalia haya yenyewe kwaajili yako:</target>
+        <target xml:lang="sw" state="final">Bloom inaweza kuangalia haya kiotomatiki kwaajili yako:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.Checklist" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Accessibility Checklist</source>
@@ -73,31 +73,31 @@
         <note>Used as the name on a tab of the Accessibility Checks screen.</note>
         <target xml:lang="sw" state="final">Jifunze Kuhusu Ufikiaji</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.LearnAbout.AccessibleBookDefinition" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.LearnAbout.AccessibleBookDefinition" sil:dynamic="true" approved="yes">
         <source xml:lang="en">"Accessible Books" are books that work well for people with impaired vision. With the ePUB format*, it is possible to make "Born Accessible" books that work well for everyone**, regardless of vision. Bloom has the following tools to help you create these books:</source>
         <note>ID: AccessibilityCheck.LearnAbout.AccessibleBookDefinition</note>
         <note>The * and ** are footnote markers that should remain the same.</note>
-        <target xml:lang="sw" state="translated">"Vitabu vifikivu" ni vitabu vinavyowafaa watu wasio na uwezo wa kuona vizuri. Kwa muundo wa ePUB *, kuna uwezekano wa kutengeneza "Born Accessible" vitabu ambavyo huwafaa watu wote **, bila kujali uwezo wa kuona. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
+        <target xml:lang="sw" state="final">"Vitabu vifikivu" ni vitabu vinavyowafaa watu wasio na uwezo wa kuona vizuri. Kwa muundo wa ePUB *, kuna uwezekano wa kutengeneza "Born Accessible" vitabu ambavyo huwafaa watu wote **, bila kujali uwezo wa kuona. Bloom ina zana zifuatazo za kukusaidia kuunda vitabu hivi:</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.CheckerHas" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This tool, the Accessibility Checker, has:</source>
         <note>ID: AccessibilityCheck.LearnAbout.CheckerHas</note>
         <target xml:lang="sw" state="final">Zana hii, Kikaguaji fikivu, ina:</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.LearnAbout.AccessibilityCheckList" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.LearnAbout.AccessibilityCheckList" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The "Accessibility Checklist" which is where Bloom checks over your book and points you to anything that needs attention, especially for speakers of minority languages.</source>
         <note>ID: AccessibilityCheck.LearnAbout.AccessibilityCheckList</note>
-        <target xml:lang="sw" state="translated">"Orodha ya Upatikanaji" ambayo ni sehemu ambapo Bloom hukagua kitabu chako na kukuelekeza kwa chochote kinachohitaji umakini, haswa kwa watu wanaoungumza lugha zisizozungumzwa na watu wengi.</target>
+        <target xml:lang="sw" state="final">"Orodha ya Upatikanaji" ambayo ni sehemu ambapo Bloom hukagua kitabu chako na kukuelekeza kwa chochote kinachohitaji umakini, haswa kwa watu wanaoungumza lugha zisizozungumzwa na watu wengi.</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.AceByDaisyChecker" sil:dynamic="true">
         <source xml:lang="en">The "Ace by DAISY Checker" searches the actual ePUB generated by Bloom looking for any problems.</source>
         <note>ID: AccessibilityCheck.LearnAbout.AceByDaisyChecker</note>
         <target xml:lang="sw" state="translated">Kikaguzi cha"Ace kwaDAISY" hutafuta ePUB halisi inayotengenezwa na Bloom ikitafuta hitilafu yoyote.</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.LearnAbout.EpubDefinition" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.LearnAbout.EpubDefinition" sil:dynamic="true" approved="yes">
         <source xml:lang="en">definition of the ePUB format</source>
         <note>ID: AccessibilityCheck.LearnAbout.EpubDefinition</note>
-        <target xml:lang="sw" state="translated">ufafanuzi wa muundo wa ePUB</target>
+        <target xml:lang="sw" state="final">ufafanuzi wa muundo wa ePUB</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.LearnAbout.Footnote" sil:dynamic="true">
         <source xml:lang="en">While the ideal is that a single book can serve everyone, the ePUB standard and ePUB readers do not actually support that. They currently only work for blind people who speak a language that is supported by "Text to Speech" (TTS) systems. At this time, TTS is only available for large or commercially interesting languages. Until the standard and accessible readers improve, it is necessary to make special versions of accessible books for minority language speakers. For blind readers to hear the image descriptions, we need to put something special on the page. In this version of Bloom, you do this by clicking the "Include image descriptions on page" checkbox in the Publish:ePUB screen. Future versions may have other options in this area.</source>
@@ -119,10 +119,10 @@
         <note>ID: AccessibilityCheck.WindowTitle</note>
         <target xml:lang="sw" state="final">Kikagua ufikikaji cha Bloom</target>
       </trans-unit>
-      <trans-unit id="AutoUpdateSoftwareDialog.SoftwareUpdates" sil:dynamic="true">
+      <trans-unit id="AutoUpdateSoftwareDialog.SoftwareUpdates" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Software Updates</source>
         <note>ID: AutoUpdateSoftwareDialog.SoftwareUpdates</note>
-        <target xml:lang="sw" state="translated">Sasisho za Programu</target>
+        <target xml:lang="sw" state="final">Sasisho za Programu</target>
       </trans-unit>
       <trans-unit id="AutoUpdateSoftwareDialog.WhatShouldBloomDo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">What should Bloom do when a new version is available?</source>
@@ -135,11 +135,11 @@
         <note>Radio button label</note>
         <target xml:lang="sw" state="final">Pakua kiatomati na usakinishe</target>
       </trans-unit>
-      <trans-unit id="AutoUpdateSoftwareDialog.LetMeKnow" sil:dynamic="true">
+      <trans-unit id="AutoUpdateSoftwareDialog.LetMeKnow" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Just let me know about the new version</source>
         <note>ID: AutoUpdateSoftwareDialog.LetMeKnow</note>
         <note>Radio button label</note>
-        <target xml:lang="sw" state="translated">Nijulishe tu kuhusu toleo jipya</target>
+        <target xml:lang="sw" state="final">Nijulishe tu kuhusu toleo jipya</target>
       </trans-unit>
       <trans-unit id="BloomIntegrity.WindowTitle" approved="yes">
         <source xml:lang="en">Bloom Problem</source>
@@ -255,15 +255,15 @@
         <note>ID: BookMetadata.a11yCertifier</note>
         <target xml:lang="sw" state="final">Kiwango kimethibitiswa na</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yFeatures">
+      <trans-unit id="BookMetadata.a11yFeatures" approved="yes">
         <source xml:lang="en">Accessibility features</source>
         <note>ID: BookMetadata.a11yFeatures</note>
-        <target xml:lang="sw" state="translated">Vipengele vya ufifikaji</target>
+        <target xml:lang="sw" state="final">Vipengele vya ufifikaji</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yLevel">
+      <trans-unit id="BookMetadata.a11yLevel" approved="yes">
         <source xml:lang="en">Accessibility level</source>
         <note>ID: BookMetadata.a11yLevel</note>
-        <target xml:lang="sw" state="translated">Kiwango cha upatikanaji</target>
+        <target xml:lang="sw" state="final">Kiwango cha upatikanaji</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelNone" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None</source>
@@ -271,20 +271,20 @@
         <note>indicates that no level of accessibility conformance is claimed</note>
         <target xml:lang="sw" state="final">Hamna</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yLevelA" sil:dynamic="true">
+      <trans-unit id="BookMetadata.a11yLevelA" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level A conformance</source>
         <note>ID: BookMetadata.a11yLevelA</note>
-        <target xml:lang="sw" state="translated">Ulinganifu wa Kiwango cha A</target>
+        <target xml:lang="sw" state="final">Ulinganifu wa Kiwango cha A</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yLevelAA" sil:dynamic="true">
+      <trans-unit id="BookMetadata.a11yLevelAA" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level AA conformance</source>
         <note>ID: BookMetadata.a11yLevelAA</note>
-        <target xml:lang="sw" state="translated">Ulinganifu wa kiwango cha AA</target>
+        <target xml:lang="sw" state="final">Ulinganifu wa kiwango cha AA</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.a11yLevelAAA" sil:dynamic="true">
+      <trans-unit id="BookMetadata.a11yLevelAAA" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level AAA conformance</source>
         <note>ID: BookMetadata.a11yLevelAAA</note>
-        <target xml:lang="sw" state="translated">Ulinganifu wa kiwango cha AAA</target>
+        <target xml:lang="sw" state="final">Ulinganifu wa kiwango cha AAA</target>
       </trans-unit>
       <trans-unit id="BookMetadata.alternativeText" approved="yes">
         <source xml:lang="en">Has Image Descriptions</source>
@@ -296,10 +296,10 @@
         <note>ID: BookMetadata.author</note>
         <target xml:lang="sw" state="final">Mwandishi</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.flashingHazard">
+      <trans-unit id="BookMetadata.flashingHazard" approved="yes">
         <source xml:lang="en">Flashing Hazard</source>
         <note>ID: BookMetadata.flashingHazard</note>
-        <target xml:lang="sw" state="translated">Kuangaza Hatari</target>
+        <target xml:lang="sw" state="final">Kuangaza Hatari</target>
       </trans-unit>
       <trans-unit id="BookMetadata.hazards" approved="yes">
         <source xml:lang="en">Hazards</source>
@@ -362,10 +362,10 @@
         <note>minimal question indicating a link to information</note>
         <target xml:lang="sw" state="final">Hii ni nini?</target>
       </trans-unit>
-      <trans-unit id="BookStorage.CorruptBook">
+      <trans-unit id="BookStorage.CorruptBook" approved="yes">
         <source xml:lang="en">Bloom had a problem reading this book and recovered by restoring a recent backup. Please check recent changes to this book. If this happens for no obvious reason, please click Details below and report it to us.</source>
         <note>ID: BookStorage.CorruptBook</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo la kusoma kitabu hiki na ilirekebishwa kwa kurejesha nakala rudufu ya hivi kmajuzi. Tafadhali angalia mabadiliko ya hivi karibuni kwenye kitabu hiki. Ikiwa hili limetokea bila sababu dhahiri, tafadhali bonyeza Maelezo hapa chini na uripoti kwetu.</target>
+        <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo la kusoma kitabu hiki na ilirekebishwa kwa kurejesha nakala rudufu ya hivi kmajuzi. Tafadhali angalia mabadiliko ya hivi karibuni kwenye kitabu hiki. Ikiwa hili limetokea bila sababu dhahiri, tafadhali bonyeza Maelezo hapa chini na uripoti kwetu.</target>
       </trans-unit>
       <trans-unit id="BookStorage.FolderMoved" approved="yes">
         <source xml:lang="en">It appears that some part of the folder path to this book has been moved or renamed. As a result, Bloom cannot save your changes to this page, and will need to exit now. If you haven't been renaming or moving things, please click Details below and report the problem to the developers.</source>
@@ -387,21 +387,21 @@
         <note>ID: Browser.ProblemSaving</note>
         <target xml:lang="sw" state="final">Kulikuwa na tatizo wakati wa kuhifadhi. Tafadhali rudi kwenye ukurasa uliopita na uhakikishe unaonekana kuwa sahihi.</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.AboutBloomEnterprise">
+      <trans-unit id="CollectionSettingsDialog.AboutBloomEnterprise" approved="yes">
         <source xml:lang="en">About the Bloom Enterprise Service</source>
         <note>ID: CollectionSettingsDialog.AboutBloomEnterprise</note>
         <note>New string in Bloom 4.1</note>
-        <target xml:lang="sw" state="translated">Kuhusu huduma ya Bloom enterprise</target>
+        <target xml:lang="sw" state="final">Kuhusu huduma ya Bloom enterprise</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel" approved="yes">
         <source xml:lang="en">Advanced Program Settings</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel</note>
         <target xml:lang="sw" state="final">Mpangilio wa hali ya Juu wa Programu</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate">
+      <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate" approved="yes">
         <source xml:lang="en">Automatically Update Bloom</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AutoUpdate</note>
-        <target xml:lang="sw" state="translated">Sasisha Bloom kiotomatiki</target>
+        <target xml:lang="sw" state="final">Sasisha Bloom kiotomatiki</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ExperimentalFeatures" approved="yes">
         <source xml:lang="en">Experimental Features</source>
@@ -510,20 +510,20 @@
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Cjk-Decimal</note>
         <target xml:lang="sw" state="final">Nukta-cjk</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Decimal" sil:dynamic="true">
+      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Decimal" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Decimal</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Decimal</note>
-        <target xml:lang="sw" state="translated">Nukta</target>
+        <target xml:lang="sw" state="final">Nukta</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Devanagari" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Devanagari</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Devanagari</note>
         <target xml:lang="sw" state="final">Kidevanagari</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Georgian" sil:dynamic="true">
+      <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Georgian" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Georgian</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Georgian</note>
-        <target xml:lang="sw" state="translated">Kijojiajia</target>
+        <target xml:lang="sw" state="final">Kijojiajia</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Gujarati" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Gujarati</source>
@@ -753,11 +753,11 @@
         <note>Shown at the bottom of the list of books. User can click on it and it will attempt to open a browser to show the Bloom Library</note>
         <target xml:lang="sw" state="final">Pata vitabu vingi zaidi vya vyanzo kwenye BloomLibrary.org</target>
       </trans-unit>
-      <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part1">
+      <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part1" approved="yes">
         <source xml:lang="en">Note: The Bloom Library contains shell books, whereas your current collection is a "source collection", meaning it is for making shell books, not for translating them into the local language.</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerification.Part1</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="translated">Tanbihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
+        <target xml:lang="sw" state="final">Tanbihi: Maktaba ya Bloom ina vitabu vya shell, ilhali mkusanyiko wako wa sasa ni "mkusanyiko wa chanzo", kumaanisha ni ya kutengeneza vitabu vya shell, sio ya kutafsiri kwa lugha ya mtaani.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part2">
         <source xml:lang="en">When you've made a shell, you can then upload it to the Bloom Library from the Publish tab.</source>
