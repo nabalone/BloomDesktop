@@ -2901,20 +2901,20 @@
         <note>ID: EditTab.Toolbox.SignLanguage.CameraUnavailable</note>
         <target xml:lang="sw" state="translated">Kamera haipatikani (labda inatumiwa na programu nyingine)</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.DeleteVideo" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.DeleteVideo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Delete</source>
         <note>ID: EditTab.Toolbox.SignLanguage.DeleteVideo</note>
-        <target xml:lang="sw" state="translated">Futa</target>
+        <target xml:lang="sw" state="final">Futa</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.EditOutside" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.EditOutside" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Edit outside of Bloom</source>
         <note>ID: EditTab.Toolbox.SignLanguage.EditOutside</note>
-        <target xml:lang="sw" state="translated">Hariri nje ya Bloom</target>
+        <target xml:lang="sw" state="final">Hariri nje ya Bloom</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.FileDialogVideoFiles">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.FileDialogVideoFiles" approved="yes">
         <source xml:lang="en">Video files</source>
         <note>ID: EditTab.Toolbox.SignLanguage.FileDialogVideoFiles</note>
-        <target xml:lang="sw" state="translated">Faili za Video</target>
+        <target xml:lang="sw" state="final">Mafaili ya Video</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.ImportVideo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Import</source>
@@ -2931,21 +2931,21 @@
         <note>ID: EditTab.Toolbox.SignLanguage.NoCameraFound</note>
         <target xml:lang="sw" state="final">Hakuna Kamera iliyopatikana</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.PressCancel" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.PressCancel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Press any key to cancel</source>
         <note>ID: EditTab.Toolbox.SignLanguage.PressCancel</note>
-        <target xml:lang="sw" state="translated">Bonyeza kitufe chochote kughairi</target>
+        <target xml:lang="sw" state="final">Bonyeza kitufe chochote kughairi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.PressStop" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Press any key to stop</source>
         <note>ID: EditTab.Toolbox.SignLanguage.PressStop</note>
         <target xml:lang="sw" state="final">Bonyeza kitufe chochote kuacha</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.SignLanguage.Processing" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.SignLanguage.Processing" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Processing</source>
         <note>ID: EditTab.Toolbox.SignLanguage.Processing</note>
         <note>Displayed while video just recorded is processed into a more compressed form</note>
-        <target xml:lang="sw" state="translated">Usindikaji</target>
+        <target xml:lang="sw" state="final">Usindikaji</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.SignLanguage.Recording" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Recording</source>
@@ -3546,10 +3546,10 @@
         <note>ID: LayoutChoices.HalfLetterPortrait</note>
         <target xml:lang="sw" state="translated">PIcha ya Nusu Herufi</target>
       </trans-unit>
-      <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true" approved="yes">
+      <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true">
         <source xml:lang="en">Letter Landscape</source>
         <note>ID: LayoutChoices.LetterLandscape</note>
-        <target xml:lang="sw" state="final">Muundo wa Herufi</target>
+        <target xml:lang="sw" state="translated">Muundo wa Herufi wa Ukurasa mlalo</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.LetterPortrait" sil:dynamic="true">
         <source xml:lang="en">Letter Portrait</source>
@@ -3928,11 +3928,11 @@
         <note>ID: PublishTab.Android.ChooseFile</note>
         <target xml:lang="sw" state="final">Hifadhi faili ya Bloom Reader</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.ChooseLandscapeForMotion" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choose landscape to activate Motion Book mode</source>
         <note>ID: PublishTab.Android.ChooseLandscapeForMotion</note>
         <note>Appears in portrait mode when Motion checkbox is checked</note>
-        <target xml:lang="sw" state="translated">Chagua kurasa mlalo ili kuamsha hali ya Kitabu cha Msogeo</target>
+        <target xml:lang="sw" state="final">Chagua kurasa mlalo ili kuanzisha hali ya Kitabu cha Msogeo</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.ChooseUSB" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Send over USB Cable</source>
@@ -5594,10 +5594,10 @@ Do you want to go ahead?</note>
         <note>The title of the dialog caused by a NonFatal error.</note>
         <target xml:lang="sw" state="translated">Bloom ilikuwa na shida</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.PleaseHelpUs">
+      <trans-unit id="ReportProblemDialog.PleaseHelpUs" approved="yes">
         <source xml:lang="en">Please help us reproduce this problem on our computers.</source>
         <note>ID: ReportProblemDialog.PleaseHelpUs</note>
-        <target xml:lang="sw" state="translated">Tafadhali tusaidie kuzaa tatizo hili kwenye kompyuta zetu.</target>
+        <target xml:lang="sw" state="final">Tafadhali tusaidie kutoa tena tatizo hili kwenye kompyuta zetu.</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.PrivacyInfo">
         <source xml:lang="en">Your report will go into our issue tracking system and will be visible via the web. If you have something private to say, please email to '{0}'.</source>
@@ -5610,11 +5610,11 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.PrivacyNotice</note>
         <target xml:lang="sw" state="translated">Bloom itajumuisha habari ya uchunguzi na ripoti yako. Ripoti yako haitakuwa ya faragha.</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.Quit">
+      <trans-unit id="ReportProblemDialog.Quit" approved="yes">
         <source xml:lang="en">Quit</source>
         <note>ID: ReportProblemDialog.Quit</note>
         <note>Shown in the button that closes the dialog after a successful report submission, if there was a fatal error and we need to exit the program.</note>
-        <target xml:lang="sw" state="translated">Ondoka</target>
+        <target xml:lang="sw" state="final">Ondoka</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Retry" approved="yes">
         <source xml:lang="en">Retry</source>
@@ -5643,22 +5643,22 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.Success</note>
         <target xml:lang="sw" state="final">Tulipokea ripoti yako, asante kwa kutenga muda wako ili kusaidia Bloom kuwa bora zaidi!</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.UserTitle">
+      <trans-unit id="ReportProblemDialog.UserTitle" approved="yes">
         <source xml:lang="en">Report a Problem</source>
         <note>ID: ReportProblemDialog.UserTitle</note>
         <note>The title of the dialog when a user chooses to Report a Problem.</note>
-        <target xml:lang="sw" state="translated">Ripoti Tatizo</target>
+        <target xml:lang="sw" state="final">Ripoti Tatizo</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.WhatsTheProblem" approved="yes">
         <source xml:lang="en">What seems to be the problem?</source>
         <note>ID: ReportProblemDialog.WhatsTheProblem</note>
         <target xml:lang="sw" state="final">Je, ni nini inaonekana kuwa tatizo?</target>
       </trans-unit>
-      <trans-unit id="ReportProblemDialog.WhatDoing">
+      <trans-unit id="ReportProblemDialog.WhatDoing" approved="yes">
         <source xml:lang="en">What were you doing?</source>
         <note>ID: ReportProblemDialog.WhatDoing</note>
         <note>This is the label for the text field where the user enters what they were doing at the time of the problem.</note>
-        <target xml:lang="sw" state="translated">Ulikuwa unafanya nini?</target>
+        <target xml:lang="sw" state="final">Ulikuwa unafanya nini?</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.WindowTitle" approved="yes">
         <source xml:lang="en">Report A Problem</source>
@@ -5687,55 +5687,55 @@ Do you want to go ahead?</note>
         <note>ID: SamplePrintNotification.PleaseNotice</note>
         <target xml:lang="sw" state="final">Tafadhali tambua sampuli ya mpangilio wa mtambo wa kuchapisha hapa chini. Itumie kama mwongozo unapoandaa mtambo wa kuchapisha.</target>
       </trans-unit>
-      <trans-unit id="SamplePrintNotification.WindowTitle">
+      <trans-unit id="SamplePrintNotification.WindowTitle" approved="yes">
         <source xml:lang="en">Sample Print Settings</source>
         <note>ID: SamplePrintNotification.WindowTitle</note>
-        <target xml:lang="sw" state="translated">Mfano wa Mipangilio ya Kuchapisha</target>
+        <target xml:lang="sw" state="final">Mfano wa Mipangilio ya Kuchapisha</target>
       </trans-unit>
-      <trans-unit id="ScriptSettingsDialog.DefaultLineSpacing" sil:dynamic="true">
+      <trans-unit id="ScriptSettingsDialog.DefaultLineSpacing" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Default line spacing</source>
         <note>ID: ScriptSettingsDialog.DefaultLineSpacing</note>
-        <target xml:lang="sw" state="translated">Nafasi kati ya mistari chaguo-msingi</target>
+        <target xml:lang="sw" state="final">Nafasi kati ya mistari chaguo-msingi</target>
       </trans-unit>
-      <trans-unit id="ScriptSettingsDialog.LineBreakCheckBox">
+      <trans-unit id="ScriptSettingsDialog.LineBreakCheckBox" approved="yes">
         <source xml:lang="en">Do not use special Asian script word breaking</source>
         <note>ID: ScriptSettingsDialog.LineBreakCheckBox</note>
-        <target xml:lang="sw" state="translated">Usitumie uvunjaji wa neno maalum kwa hati ya kiasia</target>
+        <target xml:lang="sw" state="final">Usitumie uvunjaji wa neno maalum kwa hati ya kiasia</target>
       </trans-unit>
-      <trans-unit id="ScriptSettingsDialog.RightToLeftScriptCheckBox">
+      <trans-unit id="ScriptSettingsDialog.RightToLeftScriptCheckBox" approved="yes">
         <source xml:lang="en">This script is right to left</source>
         <note>ID: ScriptSettingsDialog.RightToLeftScriptCheckBox</note>
-        <target xml:lang="sw" state="translated">Hati hii imeandikwa kutoka kulia kwenda kushoto</target>
+        <target xml:lang="sw" state="final">Hati hii imeandikwa kutoka kulia kwenda kushoto</target>
       </trans-unit>
-      <trans-unit id="ScriptSettingsDialog.ScriptSettingsWindowTitle">
+      <trans-unit id="ScriptSettingsDialog.ScriptSettingsWindowTitle" approved="yes">
         <source xml:lang="en">Special Script Settings...</source>
         <note>ID: ScriptSettingsDialog.ScriptSettingsWindowTitle</note>
-        <target xml:lang="sw" state="translated">Mipangilio Maalum ya Hati...</target>
+        <target xml:lang="sw" state="final">Mipangilio Maalum ya Hati...</target>
       </trans-unit>
-      <trans-unit id="ScriptSettingsDialog.TallerLinesCheckBox">
+      <trans-unit id="ScriptSettingsDialog.TallerLinesCheckBox" approved="yes">
         <source xml:lang="en">This script requires taller lines</source>
         <note>ID: ScriptSettingsDialog.TallerLinesCheckBox</note>
-        <target xml:lang="sw" state="translated">Hati hii inahitaji mistari mirefu zaidi</target>
+        <target xml:lang="sw" state="final">Hati hii inahitaji mistari mirefu zaidi</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Community" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.Community" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Funded by the local community only</source>
         <note>ID: Settings.Enterprise.Community</note>
-        <target xml:lang="sw" state="translated">Imefadhiliwa na jamii ya karibu tu</target>
+        <target xml:lang="sw" state="final">Imefadhiliwa na jamii ya karibu tu</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.LearnMore" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.LearnMore" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn More</source>
         <note>ID: Settings.Enterprise.LearnMore</note>
-        <target xml:lang="sw" state="translated">Jifunze Zaidi</target>
+        <target xml:lang="sw" state="final">Jifunze Zaidi</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.None" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None. Bloom will not show Enterprise features.</source>
         <note>ID: Settings.Enterprise.None</note>
-        <target xml:lang="sw" state="translated">Hakuna. Bloom haitaonyesha vipengele vya Enterprise.</target>
+        <target xml:lang="sw" state="final">Hakuna. Bloom haitaonyesha vipengele vya Enterprise.</target>
       </trans-unit>
-      <trans-unit id="Settings.Enterprise.Overview" sil:dynamic="true">
+      <trans-unit id="Settings.Enterprise.Overview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Enterprise adds features and services that are important for publishers, governments, and international organizations. This paid subscription meets their unique needs while supporting the development and user support of Bloom for the community at large.</source>
         <note>ID: Settings.Enterprise.Overview</note>
-        <target xml:lang="sw" state="translated">Bloom Enterprise huongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa utumiaji wa Bloom kwa jamii kwa ujumla.</target>
+        <target xml:lang="sw" state="final">Bloom Enterprise huongeza vipengele na huduma ambazo ni muhimu kwa wachapishaji, serikali, na mashirika ya kimataifa. Usajili huu unaolipiwa unakidhi mahitaji yao ya kipekee huku ukisaidia ujenzi na msaada kwa utumiaji wa Bloom kwa jamii kwa ujumla.</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Enterprise Status</source>
@@ -5752,15 +5752,15 @@ Do you want to go ahead?</note>
         <note>ID: Settings.Enterprise.SubscriptionCode</note>
         <target xml:lang="sw" state="final">Nambari ya usajili:</target>
       </trans-unit>
-      <trans-unit id="TeamCollection.TeamCollection">
+      <trans-unit id="TeamCollection.TeamCollection" approved="yes">
         <source xml:lang="en">Team Collection</source>
         <note>ID: TeamCollection.TeamCollection</note>
-        <target xml:lang="sw" state="translated">Mkusanyiko wa Timu</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa Timu</target>
       </trans-unit>
-      <trans-unit id="TeamCollection.Available" sil:dynamic="true">
+      <trans-unit id="TeamCollection.Available" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book is available for editing</source>
         <note>ID: TeamCollection.Available</note>
-        <target xml:lang="sw" state="translated">Kitabu kinapatikani ili kuhaririwa</target>
+        <target xml:lang="sw" state="final">Kitabu kinapatikani ili kuhaririwa</target>
       </trans-unit>
       <!--
 // Don't want these actually translated until things stabilize. Will need re-ordering.
@@ -5972,10 +5972,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.BookName.Wall Calendar</note>
         <target xml:lang="sw" state="final">Kalenda ya Ukuta</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageDescription.Bloom Reader Quiz" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageDescription.Bloom Reader Quiz" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Use for comprehension testing on devices.</source>
         <note>ID: TemplateBooks.PageDescription.Bloom Reader Quiz</note>
-        <target xml:lang="sw" state="translated">Tumia kwa upimaji wa ufahamu kwenye vifaa.</target>
+        <target xml:lang="sw" state="final">Tumia kwa upimaji wa ufahamu kwenye vifaa.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Custom" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A blank page that allows you to add items.</source>
@@ -5992,16 +5992,16 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageDescription.Picture &amp; Word</note>
         <target xml:lang="sw" state="final">Ukurasa ulio na picha juu na jina kubwa lilioandikwa katikati hapa chini.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageDescription.Picture on Left" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageDescription.Picture on Left" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For use with Landscape orientation.</source>
         <note>ID: TemplateBooks.PageDescription.Picture on Left</note>
         <note>New string in Bloom 4.2</note>
-        <target xml:lang="sw" state="translated">Kwa matumizi na mwelekeo wa ukurasa mlalo.</target>
+        <target xml:lang="sw" state="final">Kwa matumizi na mwelekeo wa ukurasa mlalo.</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageDescription.Quiz Page" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageDescription.Quiz Page" sil:dynamic="true" approved="yes">
         <source xml:lang="en">An interactive page with a question and some answers. Works on the web and Bloom Reader. When used with Bloom Reader, your project's dashboard can show aggregated comprehension scores.</source>
         <note>ID: TemplateBooks.PageDescription.Quiz Page</note>
-        <target xml:lang="sw" state="translated">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako inaweza kuonyesha alama za jumla za ufahamu.</target>
+        <target xml:lang="sw" state="final">Ukurasa wa maingiliano ulio na swali na majibu kadhaa. Unafanya kazi kwenye wavuti na kwenye Bloom Reader. Unapotumiwa na Bloom Reader, dashibodi ya mradi wako inaweza kuonyesha alama za jumla za ufahamu.</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageDescription.Translation Instructions" sil:dynamic="true" approved="yes">
         <source xml:lang="en">A page of instructions to translators which appears only in the Edit tab.</source>
@@ -6158,10 +6158,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Basic Text &amp; Picture</note>
         <target xml:lang="sw" state="final">Matini ya Kimsingi&amp; Picha</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot Text Over Video" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot Text Over Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Picture Diglot Text Over Video</source>
         <note>ID: TemplateBooks.PageLabel.Big Picture Diglot Text Over Video</note>
-        <target xml:lang="sw" state="translated">Picha kubwa kwa maandishi ya lugha mbili juu ya video</target>
+        <target xml:lang="sw" state="final">Picha kubwa kwa maandishi ya lugha mbili juu ya video</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Picture Diglot</source>
@@ -6228,10 +6228,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Factory</note>
         <target xml:lang="sw" state="final">Kiwanda</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Flyleaf" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Flyleaf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Flyleaf</source>
         <note>ID: TemplateBooks.PageLabel.Flyleaf</note>
-        <target xml:lang="sw" state="translated">Ukurasa mtupu</target>
+        <target xml:lang="sw" state="final">Ukurasa mtupu</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Front Cover" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Front Cover</source>
@@ -6243,11 +6243,11 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.FrontBackMatter</note>
         <target xml:lang="sw" state="final">Machapisho ya Mbele/Nyuma</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Image For Thumbnail" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Image For Thumbnail" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image For Thumbnail</source>
         <note>ID: TemplateBooks.PageLabel.Image For Thumbnail</note>
         <note>Caption of first page in books made from Template Starter</note>
-        <target xml:lang="sw" state="translated">Picha ya Kijipicha</target>
+        <target xml:lang="sw" state="final">Picha ya Kijipicha</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Image On Bottom" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image On Bottom</source>
@@ -6325,11 +6325,11 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Picture on Bottom</note>
         <target xml:lang="sw" state="final">Picha upande wa Chini</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.Picture on Left" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.Picture on Left" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture on Left</source>
         <note>ID: TemplateBooks.PageLabel.Picture on Left</note>
         <note>New string in Bloom 4.2</note>
-        <target xml:lang="sw" state="translated">Picha upande wa Kushoto</target>
+        <target xml:lang="sw" state="final">Picha upande wa Kushoto</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Quiz" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz</source>
@@ -6342,10 +6342,10 @@ Do you want to go ahead?</note>
         <note>ID: TemplateBooks.PageLabel.Quiz Page</note>
         <target xml:lang="sw" state="final">Ukurasa wa Jaribio</target>
       </trans-unit>
-      <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true">
+      <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true" approved="yes">
         <source xml:lang="en">SIL-Cameroon</source>
         <note>ID: TemplateBooks.PageLabel.SIL-Cameroon</note>
-        <target xml:lang="sw" state="translated">SIL-Kamerun</target>
+        <target xml:lang="sw" state="final">SIL-Kameruni</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Super Paper Saver" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Super Paper Saver</source>
