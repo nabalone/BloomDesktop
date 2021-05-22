@@ -1916,7 +1916,7 @@
       <trans-unit id="EditTab.FrontMatter.OriginalAcknowledgmentsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Original (or Shell) Acknowledgments in {lang}</source>
         <note>ID: EditTab.FrontMatter.OriginalAcknowledgmentsPrompt</note>
-        <target xml:lang="sw" state="final">Ya kwanza au utambulizi wa (Sheli) katika {lang}</target>
+        <target xml:lang="sw" state="final">Ya asili (au Shell) Shukrani katika {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalContributorsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The contributions made by writers, illustrators, editors, etc., in {lang}</source>
@@ -1972,7 +1972,7 @@
       <trans-unit id="EditTab.FrontMatter.TranslatedAcknowledgmentsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Acknowledgments for translated version, in {lang}</source>
         <note>ID: EditTab.FrontMatter.TranslatedAcknowledgmentsPrompt</note>
-        <target xml:lang="sw" state="final">Utambulizi wa tafsiri, katika {lang}</target>
+        <target xml:lang="sw" state="final">Utambuzi wa toleo lililotafsiriwa, katika {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.HowToUnlockBook" approved="yes">
         <source xml:lang="en">To unlock this shellbook, click the lock icon in the lower left corner.</source>
@@ -2015,7 +2015,7 @@
         <source xml:lang="en">Edit Image Credits, Copyright, &amp; License</source>
         <note>ID: EditTab.Image.EditMetadata</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Edit Image Credits, Copyright, and License</note>
-        <target xml:lang="sw" state="final">Hariri Sifa za Picha, Haki ya kunakili, na Leseni</target>
+        <target xml:lang="sw" state="final">Hariri Sifa za Picha, Hakimiliki, &amp; Leseni</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.MissingInfo" sil:dynamic="true">
         <source xml:lang="en">Image is missing information on Credits, Copyright, or License</source>
@@ -2045,12 +2045,12 @@
       <trans-unit id="EditTab.JpegWarningDialog.DoNotUse" approved="yes">
         <source xml:lang="en">Cancel this import</source>
         <note>ID: EditTab.JpegWarningDialog.DoNotUse</note>
-        <target xml:lang="sw" state="final">Batilisha ubebaji huu</target>
+        <target xml:lang="sw" state="final">Ghairi uagizaji huu</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.Photograph" approved="yes">
         <source xml:lang="en">Use the JPEG file</source>
         <note>ID: EditTab.JpegWarningDialog.Photograph</note>
-        <target xml:lang="sw" state="final">Tumia faili ya JPEG</target>
+        <target xml:lang="sw" state="final">Tumia faili la JPEG</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.WarningText" approved="yes">
         <source xml:lang="en">The file you’ve chosen is a “JPEG” file. JPEG files are perfect for photographs and color artwork. However, JPEG files are a big problem for black and white line art. Problems include:\n• Fuzziness and grey dots.\n• Large file sizes, making the book hard to share.\n• If there are many large JPEGs, Bloom may not have enough memory to make PDF files.\n\nNote: Because JPEG is “lossy”, converting a JPEG to PNG, TIFF, or BMP actually makes things even worse. If this is black and white line art, you want to get an original scan in one of those formats.\n\nPlease select from one of the following, then click “OK”:</source>
@@ -2060,12 +2060,12 @@
       <trans-unit id="EditTab.JpegWarningDialog.WindowTitle" approved="yes">
         <source xml:lang="en">JPEG Warning</source>
         <note>ID: EditTab.JpegWarningDialog.WindowTitle</note>
-        <target xml:lang="sw" state="final">JPEG Onyo</target>
+        <target xml:lang="sw" state="final">Onyo la JPEG</target>
       </trans-unit>
       <trans-unit id="EditTab.LayoutInPublishTabOnlyNotice" approved="yes">
         <source xml:lang="en">This option is only available in the Publish tab.</source>
         <note>ID: EditTab.LayoutInPublishTabOnlyNotice</note>
-        <target xml:lang="sw" state="final">Chaguo hili linapatikana tu kwenye nembo ya Kuchapisha.</target>
+        <target xml:lang="sw" state="final">Chaguo hili linapatikana tu kwenye kichupo cha Chapisha.</target>
       </trans-unit>
       <trans-unit id="EditTab.LockBook.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book is temporarily unlocked.</source>
@@ -2094,7 +2094,7 @@
       <trans-unit id="EditTab.NoImageFoundOnClipboard" approved="yes">
         <source xml:lang="en">Before you can paste an image, copy one onto your 'clipboard', from another program.</source>
         <note>ID: EditTab.NoImageFoundOnClipboard</note>
-        <target xml:lang="sw" state="final">Kabla ya kuweka picha, nakili moja kwa 'klipbodi', kutoka kwa programu nyingine.</target>
+        <target xml:lang="sw" state="final">Kabla ya kupachika picha, nakili moja kwa 'klipbodi', kutoka kwa programu nyingine.</target>
       </trans-unit>
       <trans-unit id="EditTab.NoValidImageFoundOnClipboard" approved="yes">
         <source xml:lang="en">Bloom failed to interpret the clipboard contents as an image. Possibly it was a damaged file, or too large. Try copying something else.</source>
@@ -2116,7 +2116,7 @@
         <source xml:lang="en">A container on this page is overflowing</source>
         <note>ID: EditTab.OverflowContainer</note>
         <note>This shows up in pages like the cover where sizing is very flexible. No one thing is too big, but not everything on the page will fit. To see it, put a lot of text on a cover page, until a red bar appears at the bottom; then hover over the bar. </note>
-        <target xml:lang="sw" state="final">Kifaa kwenye ukurasa huu kimejaa kupita kiasi</target>
+        <target xml:lang="sw" state="final">Kifaa kwenye ukurasa huu kinafurika</target>
       </trans-unit>
       <trans-unit id="EditTab.PageList.CantMoveXMatter" approved="yes">
         <source xml:lang="en">That change is not allowed. Front matter and back matter pages must remain where they are.</source>
