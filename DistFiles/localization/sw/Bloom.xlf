@@ -57,10 +57,10 @@
         <note>The {0} is where the page number will be inserted.</note>
         <target xml:lang="sw" state="final">Maelezo ya picha hayapo kwenye ukurasa{0}</target>
       </trans-unit>
-      <trans-unit id="AccessibilityCheck.FindingAce" sil:dynamic="true">
+      <trans-unit id="AccessibilityCheck.FindingAce" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Finding Ace by DAISY on this computer...</source>
         <note>ID: AccessibilityCheck.FindingAce</note>
-        <target xml:lang="sw" state="translated">Kupata Ace na DAISY kwenye kompyuta hii...</target>
+        <target xml:lang="sw" state="final">Kupata Ace na DAISY kwenye kompyuta hii...</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.FoundAce" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Found.</source>
@@ -326,10 +326,10 @@
         <note>ID: BookMetadata.metapicture</note>
         <target xml:lang="sw" state="final">Picha</target>
       </trans-unit>
-      <trans-unit id="BookMetadata.motionSimulationHazard">
+      <trans-unit id="BookMetadata.motionSimulationHazard" approved="yes">
         <source xml:lang="en">Motion Simulation Hazard</source>
         <note>ID: BookMetadata.motionSimulationHazard</note>
-        <target xml:lang="sw" state="translated">Athari ya uigaji wa mwendo</target>
+        <target xml:lang="sw" state="final">Athari ya uigaji wa mwendo</target>
       </trans-unit>
       <trans-unit id="BookMetadata.name" approved="yes">
         <source xml:lang="en">Name</source>
