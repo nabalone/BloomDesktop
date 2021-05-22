@@ -4498,58 +4498,58 @@ kisomaji cha ePUB</target>
         <note>Error message displayed in a message dialog box.</note>
         <target xml:lang="sw" state="final">Bloom inahitaji uwe na printa iliyochaguliwa kwenye kompyuta hii kabla ya kutengeneza PDF, ingawaje hauchapishi. Inaonekana unaweza kuwa hauna printa iliyowekwa kama chaguomsingi. Tafadhali nenda kwenye Vifaa na Printa na uchague printa kama chaguomsingi. Ikiwa hauna printa halisi iliyoambatanishwa, chagua tu Microsoft XPS au printa za PDF.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PDF.Error.TrySinglePage">
+      <trans-unit id="PublishTab.PDF.Error.TrySinglePage" approved="yes">
         <source xml:lang="en">The book's images might have exceeded the amount of RAM memory available. Please turn on the "Use Less Memory" option which is slower but uses less memory.</source>
         <note>ID: PublishTab.PDF.Error.TrySinglePage</note>
         <note>Error message displayed in a message dialog box.</note>
-        <target xml:lang="sw" state="translated">Picha za kitabu hicho zinaweza kuzidi kiwango cha kumbukumbu ya RAM iliyopo. Tafadhali washa chaguo la "Tumia Kumbukumbu Mdogo" ambayo ni polepole lakini haitumii kumbukumbu ndogo.</target>
+        <target xml:lang="sw" state="final">Picha za kitabu zinawezakuwa zimezidi kiwango cha kumbukumbu ya RAM iliyopo. Tafadhali washa chaguo la "Tumia Kumbukumbu Ndogo" ambayo iko polepole lakini hutumia kumbukumbu ndogo.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.BadPdf" approved="yes">
         <source xml:lang="en">Bloom had a problem making a PDF of this book. You may need technical help or to contact the developers. But here are some things you can try:</source>
         <note>ID: PublishTab.PdfMaker.BadPdf</note>
         <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo katika kutengeneza PDF kitabu hiki. Unaweza kuhitaji usaidizi wa kifundi au uwasiliane na wataalamu husika wa Bloom. Lakini hapa ni baadhi ya mambo unayoweza kujaribu:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.BadPdfShort">
+      <trans-unit id="PublishTab.PdfMaker.BadPdfShort" approved="yes">
         <source xml:lang="en">Bloom had a problem making a PDF of this book.</source>
         <note>ID: PublishTab.PdfMaker.BadPdfShort</note>
-        <target xml:lang="sw" state="translated">Bloom ilikuwa na tatizo kutengeneza PDF ya kitabu hiki.</target>
+        <target xml:lang="sw" state="final">Bloom ilikuwa na tatizo kutengeneza PDF ya kitabu hiki.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.Compress">
+      <trans-unit id="PublishTab.PdfMaker.Compress" approved="yes">
         <source xml:lang="en">Compressing PDF</source>
         <note>ID: PublishTab.PdfMaker.Compress</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Kukandamiza PDF</target>
+        <target xml:lang="sw" state="final">Kubana PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.CompressConvertColor">
+      <trans-unit id="PublishTab.PdfMaker.CompressConvertColor" approved="yes">
         <source xml:lang="en">Compressing PDF &amp; Converting Color to CMYK</source>
         <note>ID: PublishTab.PdfMaker.CompressConvertColor</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Kukandamiza PDF &amp; Kubadilisha Rangi kuwa CMYK</target>
+        <target xml:lang="sw" state="final">Kubana PDF &amp; Kubadilisha Rangi kuwa CMYK</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.Creating">
+      <trans-unit id="PublishTab.PdfMaker.Creating" approved="yes">
         <source xml:lang="en">Creating PDF...</source>
         <note>ID: PublishTab.PdfMaker.Creating</note>
         <note>Message displayed in a progress report dialog box</note>
         <note xml:lang="en">OLD TEXT (before 4.0, removed space): Creating PDF ...</note>
-        <target xml:lang="sw" state="translated">Kuunda PDF...</target>
+        <target xml:lang="sw" state="final">Kuunda PDF...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.ErrorProcessing">
+      <trans-unit id="PublishTab.PdfMaker.ErrorProcessing" approved="yes">
         <source xml:lang="en">Error creating, compressing, or recoloring the PDF file</source>
         <note>ID: PublishTab.PdfMaker.ErrorProcessing</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Hitilafu wakati wa kuunda, kukandamiza, au kuweka rangi tena faili ya PDF</target>
+        <target xml:lang="sw" state="final">Hitilafu katika kuunda, kubana, au kuweka rangi tena faili ya PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.ErrorSaving">
+      <trans-unit id="PublishTab.PdfMaker.ErrorSaving" approved="yes">
         <source xml:lang="en">Error compressing or recoloring the PDF file</source>
         <note>ID: PublishTab.PdfMaker.ErrorProcessing</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="sw" state="translated">Hitilafu ya kufupisha au kuweka rangi tena kwenye faili ya PDF</target>
+        <target xml:lang="sw" state="final">Hitilafu katika kubana au kuweka rangi tena kwenye faili ya PDF</target>
       </trans-unit>
-      <trans-unit id="PublishTab.PdfMaker.Finished">
+      <trans-unit id="PublishTab.PdfMaker.Finished" approved="yes">
         <source xml:lang="en">Finished making PDF from HTML</source>
         <note>ID: PublishTab.PdfMaker.Finished</note>
         <note>Message displayed in a progress report dialog box</note>
-        <target xml:lang="sw" state="translated">Imekamilisha kutengeneza PDF kutoka kwa HTML</target>
+        <target xml:lang="sw" state="final">Imemaliza kutengeneza PDF kutoka kwa HTML</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.FullBleed">
         <source xml:lang="en">Full Bleed</source>
