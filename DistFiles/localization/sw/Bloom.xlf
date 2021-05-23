@@ -3549,22 +3549,22 @@
       <trans-unit id="LayoutChoices.LetterLandscape" sil:dynamic="true">
         <source xml:lang="en">Letter Landscape</source>
         <note>ID: LayoutChoices.LetterLandscape</note>
-        <target xml:lang="sw" state="translated">Muundo wa Herufi wa Ukurasa mlalo</target>
+        <target xml:lang="sw" state="translated">Ukurasa Mlalo wa Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.LetterPortrait" sil:dynamic="true">
         <source xml:lang="en">Letter Portrait</source>
         <note>ID: LayoutChoices.LetterPortrait</note>
-        <target xml:lang="sw" state="translated">Picha ya Herufi</target>
+        <target xml:lang="sw" state="translated">Ukurasa Wima wa Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.QuarterLetterLandscape" sil:dynamic="true">
         <source xml:lang="en">QuarterLetter Landscape</source>
         <note>ID: LayoutChoices.QuarterLetterLandscape</note>
-        <target xml:lang="sw" state="translated">Muundo wa Nusu Herufi</target>
+        <target xml:lang="sw" state="translated">Ukurasa mlalo wa Robo-Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.QuarterLetterPortrait" sil:dynamic="true">
         <source xml:lang="en">QuarterLetter Portrait</source>
         <note>ID: LayoutChoices.QuarterLetterPortrait</note>
-        <target xml:lang="sw" state="translated">Barua robo kurasa mlalo</target>
+        <target xml:lang="sw" state="translated">Ukurasa wima wa RoboHerufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.Cm13Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">13cm Square</source>
