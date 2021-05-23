@@ -2426,7 +2426,7 @@
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer" sil:dynamic="true">
         <source xml:lang="en">Impairment Visualizer</source>
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer</note>
-        <target xml:lang="sw" state="translated">Kionyeshi cha uharibifu</target>
+        <target xml:lang="sw" state="translated">Mwonekano wa Kuharibika</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.BlueYellow" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Blue-Yellow</source>
