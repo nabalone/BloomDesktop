@@ -2436,7 +2436,7 @@
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.Cataracts" sil:dynamic="true">
         <source xml:lang="en">Cataracts</source>
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer.Cataracts</note>
-        <target xml:lang="sw" state="translated">Mionzi</target>
+        <target xml:lang="sw" state="translated">Kingo</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.ColorBlindness" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Color Blindness</source>
@@ -2448,10 +2448,10 @@
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer.Complete</note>
         <target xml:lang="sw" state="final">Kamili</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.Overview" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.Overview" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can use these check boxes to have Bloom simulate how your images would look with various visual impairments.</source>
         <note>ID: EditTab.Toolbox.ImpairmentVisualizer.Overview</note>
-        <target xml:lang="sw" state="translated">Unaweza kutumia visanduku hivi vya kukagua Bloom kuiga jinsi picha zako zingeonekana na matatizo kadhaa za kuona.</target>
+        <target xml:lang="sw" state="final">Unaweza kutumia visanduku hivi vya kukagua Bloom kuiga jinsi picha zako zingeonekana na matatizo kadhaa za kuona.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ImpairmentVisualizer.RedGreen" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Red-Green</source>
@@ -2486,10 +2486,10 @@
         <note>The label of a checkbox controlling whether voice narration plays during Preview.</note>
         <target xml:lang="sw" state="final">Sauti</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.Motion.ThisPage" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.Motion.ThisPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Enable motion on this page</source>
         <note>ID: EditTab.Toolbox.Motion.ThisPage</note>
-        <target xml:lang="sw" state="translated">Washa msogeo kwenye ukurasa huu</target>
+        <target xml:lang="sw" state="final">Wezesha msogezo kwenye ukurasa huu</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.MotionTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Motion Tool</source>
@@ -3127,11 +3127,11 @@
         <note>Shown if you open TalkingBookTool and then attempt to toggle the "Record by Sentences" input on an XMatter page</note>
         <target xml:lang="sw" state="final">Samahani, kurasa za mbele na nyuma lazima zirekodiwe na sentensi.</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ShowPlaybackOrder" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.TalkingBookTool.ShowPlaybackOrder" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Show playback order buttons</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.ShowPlaybackOrder</note>
         <note>Shown if you open TalkingBookTool and then open the 'Advanced' subsection</note>
-        <target xml:lang="sw" state="translated">Onyesha vitufe vya mpangilio wa uchezaji</target>
+        <target xml:lang="sw" state="final">Onyesha vitufe vya mpangilio wa uchezaji</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.SpeakLabel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Speak</source>
