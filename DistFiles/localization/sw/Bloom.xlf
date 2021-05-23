@@ -3217,11 +3217,11 @@
         <note>ID: Errors.CouldNotSavePage</note>
         <target xml:lang="sw" state="final">Bloom ilipata shida kuhifadhi ukurasa. Tafadhali bonyeza Maelezo hapa chini na uturipotie hii. Kisha toka kwenye Bloom, urudi tena, na angalia ikiwa ukurasa ambao umeubadilisha umekosa chochote. Samahani!</target>
       </trans-unit>
-      <trans-unit id="Errors.CurrentRunningVersion">
+      <trans-unit id="Errors.CurrentRunningVersion" approved="yes">
         <source xml:lang="en">You are running Bloom {0}</source>
         <note>ID: Errors.CurrentRunningVersion</note>
         <note>The placeholder {0} represents the current version of Bloom. For example, {0} might be replaced with "4.3"</note>
-        <target xml:lang="sw" state="translated">Unaendesha Bloom{0}</target>
+        <target xml:lang="sw" state="final">Unaendesha Bloom{0}</target>
       </trans-unit>
       <trans-unit id="Errors.DefenderFolderProtection" approved="yes">
         <source xml:lang="en">This might be caused by Windows Defender "Controlled Folder Access" or some other virus protection.</source>
@@ -3564,7 +3564,7 @@
       <trans-unit id="LayoutChoices.QuarterLetterPortrait" sil:dynamic="true">
         <source xml:lang="en">QuarterLetter Portrait</source>
         <note>ID: LayoutChoices.QuarterLetterPortrait</note>
-        <target xml:lang="sw" state="translated">Ukurasa wima wa RoboHerufi</target>
+        <target xml:lang="sw" state="translated">Ukurasa wima wa Robo-Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.Cm13Landscape" sil:dynamic="true" approved="yes">
         <source xml:lang="en">13cm Square</source>
