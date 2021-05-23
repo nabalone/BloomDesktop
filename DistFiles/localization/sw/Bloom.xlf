@@ -3539,7 +3539,7 @@
       <trans-unit id="LayoutChoices.HalfLetterLandscape" sil:dynamic="true">
         <source xml:lang="en">HalfLetter Landscape</source>
         <note>ID: LayoutChoices.HalfLetterLandscape</note>
-        <target xml:lang="sw" state="translated">Barua nusu Kurasa Mlalo</target>
+        <target xml:lang="sw" state="translated">Ukurasa Mlalo wa Nusu-Herufi</target>
       </trans-unit>
       <trans-unit id="LayoutChoices.HalfLetterPortrait" sil:dynamic="true">
         <source xml:lang="en">HalfLetter Portrait</source>
