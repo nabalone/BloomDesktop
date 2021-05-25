@@ -3200,6 +3200,13 @@
         <note>ID: Errors.BookProblem</note>
         <target xml:lang="bn" state="final">এই বইটি দেখাতে ব্লুমের সমস্যা হচ্ছে।এর অর্থ এই না যে আপনার কাজ নষ্ট হয়ে গেছে, কিন্তু এর অর্থ এটি যে কোন কিছু মেয়াদত্তীর্ণ হয়েছে, হারিয়েছে অথবা ভুল হয়েছে।</target>
       </trans-unit>
+      <trans-unit id="Errors.CopyImageMetadata">
+        <source xml:lang="en">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</source>
+        <note>ID: Errors.BookProblem</note>
+        <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
+        <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
+        <target xml:lang="bn" state="needs-translation">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</target>
+      </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cannot access {0}</source>
         <note>ID: Errors.CannotAccessFile</note>
@@ -4463,11 +4470,11 @@
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="bn" state="needs-translation">Prepare for Print Shop:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
-        <source xml:lang="en">Choose a page size and orientation</source>
+      <trans-unit id="PublishTab.Options_ToolTip_">
+        <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
-        <note>menu header in the Publish tab</note>
-        <target xml:lang="bn" state="final">পৃষ্ঠার আকার ও অভিমুখ পছন্দ করুন</target>
+        <note>tooltip for the menu header in the Publish tab</note>
+        <target xml:lang="bn" state="translated">পৃষ্ঠার আকার ও অভিমুখ পছন্দ করুন</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
