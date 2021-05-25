@@ -3200,6 +3200,13 @@
         <note>ID: Errors.BookProblem</note>
         <target xml:lang="ha" state="final">Bloom ya samu matsalar nuna wannan littafin.Wannan ba ya na nufin cewa ka rasa aikinka ba, amma yana nufin wani abu ya tsufa, ko ya ɓata, ko kuma ya samu matsala.</target>
       </trans-unit>
+      <trans-unit id="Errors.CopyImageMetadata">
+        <source xml:lang="en">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</source>
+        <note>ID: Errors.BookProblem</note>
+        <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
+        <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
+        <target xml:lang="ha" state="needs-translation">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</target>
+      </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true">
         <source xml:lang="en">Cannot access {0}</source>
         <note>ID: Errors.CannotAccessFile</note>
@@ -4466,10 +4473,10 @@
         <target xml:lang="ha" state="needs-translation">Prepare for Print Shop:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Options_ToolTip_">
-        <source xml:lang="en">Choose a page size and orientation</source>
+        <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
-        <note>menu header in the Publish tab</note>
-        <target xml:lang="ha" state="needs-translation">Choose a page size and orientation</target>
+        <note>tooltip for the menu header in the Publish tab</note>
+        <target xml:lang="ha" state="needs-translation">Choose print shop setup</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
