@@ -3201,6 +3201,13 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: Errors.BookProblem</note>
         <target xml:lang="sw" state="final">Bloom imekuwa na tatizo katika kuonyesha kitabu hiki. Hii haimaanishi kuwa kazi yako imepotea, lakini inamaanisha kuwa kuna kitu kimepitwa na wakati, kimepotea, au kimeharibika.</target>
       </trans-unit>
+      <trans-unit id="Errors.CopyImageMetadata">
+        <source xml:lang="en">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</source>
+        <note>ID: Errors.BookProblem</note>
+        <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
+        <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
+        <target xml:lang="sw" state="needs-translation">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</target>
+      </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cannot access {0}</source>
         <note>ID: Errors.CannotAccessFile</note>
@@ -4465,11 +4472,11 @@ kisomaji cha ePUB</target>
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="sw" state="final">Andaa kwa duka la kuchapisha:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
-        <source xml:lang="en">Choose a page size and orientation</source>
+      <trans-unit id="PublishTab.Options_ToolTip_">
+        <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
-        <note>menu header in the Publish tab</note>
-        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na mwelekeo</target>
+        <note>tooltip for the menu header in the Publish tab</note>
+        <target xml:lang="sw" state="translated">Chagua ukubwa wa ukurasa na mwelekeo</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
