@@ -3207,7 +3207,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: Errors.BookProblem</note>
         <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
         <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
-        <target xml:lang="es-ES" state="needs-translation">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</target>
+        <target xml:lang="es-ES" state="translated">Bloom no ha podido copiar los metadatos a {0} imagen(es): {1}. Intente reiniciar su computadora. Si eso no soluciona el problema, envíenos un informe y le ayudaremos a solucionarlo.</target>
       </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cannot access {0}</source>
