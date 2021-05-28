@@ -3206,7 +3206,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: Errors.BookProblem</note>
         <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
         <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
-        <target xml:lang="sw" state="translated">Bloom haikuweza kunakili metadata kwa picha {0}:{1}. Jaribu kuiwasha tena kompyuta yako. Ikiwa hiyo haitasuluhisha tatizo hilo, tafadhali tutumie ripoti na tutakusaidia kulitatua.</target>
+        <target xml:lang="sw" state="translated">Bloom haikuweza kunakili metadata kwa {0} picha: {1}. Jaribu kuiwasha tena kompyuta yako. Ikiwa hiyo haitasuluhisha tatizo hilo, tafadhali tutumie ripoti na tutakusaidia kulitatua.</target>
       </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cannot access {0}</source>
