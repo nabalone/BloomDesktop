@@ -2760,7 +2760,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">Copy Book Stats</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.CopyBookStatistics</note>
         <note>Stats is short for statistics</note>
-        <target xml:lang="es-ES" state="needs-translation">Copy Book Stats</target>
+        <target xml:lang="es-ES" state="translated">Copiar las estadísticas del libro</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.FoThisLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For this Level</source>
