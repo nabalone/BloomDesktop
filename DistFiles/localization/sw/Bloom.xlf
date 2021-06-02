@@ -2755,6 +2755,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: EditTab.Toolbox.LeveledReaderTool.ChoiceOfTopic</note>
         <target xml:lang="sw" state="final">Uchaguzi wa Mada</target>
       </trans-unit>
+      <trans-unit id="EditTab.Toolbox.LeveledReaderTool.CopyBookStatistics" sil:dynamic="true">
+        <source xml:lang="en">Copy Book Stats</source>
+        <note>ID: EditTab.Toolbox.LeveledReaderTool.CopyBookStatistics</note>
+        <note>Stats is short for statistics</note>
+        <target xml:lang="sw" state="needs-translation">Copy Book Stats</target>
+      </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.FoThisLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For this Level</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.FoThisLevel</note>
