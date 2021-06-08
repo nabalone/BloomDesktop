@@ -11,7 +11,7 @@
       <trans-unit id="AboutDialog.NoUpdates" approved="yes">
         <source xml:lang="en">No Updates</source>
         <note>ID: AboutDialog.NoUpdates</note>
-        <target xml:lang="sw" state="final">Hakuna Sasisho</target>
+        <target xml:lang="sw" state="final">Hakuna jipya</target>
       </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle" approved="yes">
         <source xml:lang="en">About {0}</source>
@@ -29,83 +29,83 @@
         <note>ID: AboutDialog._releaseNotesLabel</note>
         <target xml:lang="sw" state="final">Toa Maelezo</target>
       </trans-unit>
-      <trans-unit id="Application.AlreadyRunning.General" approved="yes">
+      <trans-unit id="Application.AlreadyRunning.General">
         <source xml:lang="en">Another copy of the application is already running. If you cannot find it, restart your computer.</source>
         <note>ID: Application.AlreadyRunning.General</note>
-        <target xml:lang="sw" state="final">Nakala nyingine ya programu tayari inaendelea. Iwapo huwezi kuipata, fungua upya kompyuta yako.</target>
+        <target xml:lang="sw" state="translated">Nakala nyingine ya programu tayari inaendelea. Iwapo huwezi kuipata, fungua upya kompyuta yako.</target>
       </trans-unit>
-      <trans-unit id="Application.AlreadyRunning.Specific" approved="yes">
+      <trans-unit id="Application.AlreadyRunning.Specific">
         <source xml:lang="en">Another copy of {0} is already running. If you cannot find that copy of {0}, restart your computer.</source>
         <note>ID: Application.AlreadyRunning.Specific</note>
         <note>{0} is the application name</note>
-        <target xml:lang="sw" state="final">Nakala nyingine ya {0} tayari inaendelea. Iwapo huwezi kupata nakala hiyo ya {0}, fungua upya kompyuta yako.</target>
+        <target xml:lang="sw" state="translated">Nakala nyingine ya {0} tayari inaendelea. Iwapo huwezi kupata nakala hiyo ya {0}, fungua upya kompyuta yako.</target>
       </trans-unit>
-      <trans-unit id="Application.ProblemStarting.General" approved="yes">
+      <trans-unit id="Application.ProblemStarting.General">
         <source xml:lang="en">There was a problem starting the application which might require that you restart your computer.</source>
         <note>ID: Application.ProblemStarting.General</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kuanzisha programu ambayo inaweza kukuhitaji kufungua upya kompyuta yako.</target>
+        <target xml:lang="sw" state="translated">Kulikuwa na tatizo katika kuanzisha programu ambayo inaweza kukuhitaji kufungua upya kompyuta yako.</target>
       </trans-unit>
-      <trans-unit id="Application.ProblemStarting.Specific" approved="yes">
+      <trans-unit id="Application.ProblemStarting.Specific">
         <source xml:lang="en">There was a problem starting {0} which might require that you restart your computer.</source>
         <note>ID: Application.ProblemStarting.Specific</note>
         <note>{0} is the application name</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kuanzisha {0} ambayo inaweza kukuhitaji kufungua upya kompyuta yako.</target>
+        <target xml:lang="sw" state="translated">Kulikuwa na tatizo katika kuanzisha {0} ambayo inaweza kukuhitaji kufungua upya kompyuta yako.</target>
       </trans-unit>
-      <trans-unit id="Application.WaitingFinish.General" approved="yes">
+      <trans-unit id="Application.WaitingFinish.General">
         <source xml:lang="en">Waiting for other application to finish...</source>
         <note>ID: Application.WaitingFinish.General</note>
-        <target xml:lang="sw" state="final">Inangojea programu nyingine imalize...</target>
+        <target xml:lang="sw" state="translated">Inangojea programu nyingine imalize...</target>
       </trans-unit>
-      <trans-unit id="Application.WaitingFinish.Specific" approved="yes">
+      <trans-unit id="Application.WaitingFinish.Specific">
         <source xml:lang="en">Waiting for other {0} to finish...</source>
         <note>ID: Application.WaitingFinish.Specific</note>
         <note>{0} is the application name</note>
-        <target xml:lang="sw" state="final">Inangojea nyingine {0} imalize...</target>
+        <target xml:lang="sw" state="translated">Inangojea nyingine {0} imalize...</target>
       </trans-unit>
       <trans-unit id="Common.AbortButton" approved="yes">
         <source xml:lang="en">&amp;Abort</source>
         <note>ID: Common.AbortButton</note>
-        <target xml:lang="sw" state="final">&amp;Katisha</target>
+        <target xml:lang="sw" state="final">&amp;Sitisha</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>ID: Common.CancelButton</note>
         <target xml:lang="sw" state="final">U&amp;Ghairi</target>
       </trans-unit>
-      <trans-unit id="Common.IgnoreButton" approved="yes">
+      <trans-unit id="Common.IgnoreButton">
         <source xml:lang="en">&amp;Ignore</source>
         <note>ID: Common.IgnoreButton</note>
-        <target xml:lang="sw" state="final">&amp;Puuza</target>
+        <target xml:lang="sw" state="translated">&amp;Puuza</target>
       </trans-unit>
-      <trans-unit id="Common.No" approved="yes">
+      <trans-unit id="Common.No">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="sw" state="final">Hapana</target>
+        <target xml:lang="sw" state="translated">Hapana</target>
       </trans-unit>
       <trans-unit id="Common.NoButton" approved="yes">
         <source xml:lang="en">&amp;No</source>
         <note>ID: Common.NoButton</note>
         <target xml:lang="sw" state="final">&amp;La</target>
       </trans-unit>
-      <trans-unit id="Common.OKButton" approved="yes">
+      <trans-unit id="Common.OKButton">
         <source xml:lang="en">&amp;OK</source>
         <note>ID: Common.OKButton</note>
-        <target xml:lang="sw" state="final">&amp;Sawa</target>
+        <target xml:lang="sw" state="translated">&amp;Sawa</target>
       </trans-unit>
-      <trans-unit id="Common.RetryButton" approved="yes">
+      <trans-unit id="Common.RetryButton">
         <source xml:lang="en">&amp;Retry</source>
         <note>ID: Common.RetryButton</note>
-        <target xml:lang="sw" state="final">&amp;Jaribu tena</target>
+        <target xml:lang="sw" state="translated">&amp;Jaribu tena</target>
       </trans-unit>
-      <trans-unit id="Common.Yes" approved="yes">
+      <trans-unit id="Common.Yes">
         <source xml:lang="en">Yes</source>
         <note>ID: Common.Yes</note>
-        <target xml:lang="sw" state="final">Ndiyo</target>
+        <target xml:lang="sw" state="translated">Ndiyo</target>
       </trans-unit>
-      <trans-unit id="Common.YesButton" approved="yes">
+      <trans-unit id="Common.YesButton">
         <source xml:lang="en">&amp;Yes</source>
         <note>ID: Common.YesButton</note>
-        <target xml:lang="sw" state="final">&amp;Ndiyo</target>
+        <target xml:lang="sw" state="translated">&amp;Ndiyo</target>
       </trans-unit>
       <trans-unit id="CustomIdentifierView.betterLabel1" approved="yes">
         <source xml:lang="en">RFC5646 code:</source>
