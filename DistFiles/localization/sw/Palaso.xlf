@@ -324,7 +324,7 @@
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LanguageLookup.CannotFindMyLanguageExplanation2" approved="yes">
         <source xml:lang="en">This list should include all the ISO-639 languages, including all the alternative names known to ethnologue.com.\n\nIf necessary, use the "Unlisted Language" option, which will be selected for you now.</source>
         <note>ID: LanguageLookup.CannotFindMyLanguage.LanguageLookup.CannotFindMyLanguageExplanation2</note>
-        <target xml:lang="sw" state="final">Orodha hii inapaswa kujumuisha lugha zote za ISO-639 ikijumuisha majina yote mbadala yanayojulikana kwa ethnologue.com.\n\nIkiwa itahitajika, tumia chaguo la "Lugha isiyoorodheshwa", ambalo litachaguliwa sasa.</target>
+        <target xml:lang="sw" state="final">Orodha hii inapaswa hujumuisha lugha zote za ISO-639, ikijumuisha majina yote mbadala yanayojulikana na ethnologue.com.\n\nIkiwa itahitajika, tumia chaguo la "Lugha isiyoorodheshwa", ambalo litachaguliwa sasa.</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LinkToEthnologue" approved="yes">
         <source xml:lang="en">Ethnologue.com</source>
