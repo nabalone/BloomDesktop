@@ -146,11 +146,11 @@
         <note>ID: DialogBoxes.ConfirmRecycleDialog.deleteBtn</note>
         <target xml:lang="sw" state="translated">U&amp;Futa</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.AlmostMatchingImages" approved="yes">
+      <trans-unit id="ImageToolbox.AlmostMatchingImages">
         <source xml:lang="en">Found {0} images with names close to “{1}”</source>
         <note>ID: ImageToolbox.AlmostMatchingImages</note>
         <note>The {0} will be replaced by the number of images found.  The {1} will be replaced with the search string.</note>
-        <target xml:lang="sw" state="final">Zipo picha {0} zilizo na majina karibiana na</target>
+        <target xml:lang="sw" state="translated">Zipo picha {0} zilizo na majina karibu na</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.ArtOfReading">
         <source xml:lang="en">Art Of Reading</source>
@@ -168,10 +168,10 @@
         <note>Used to copy a previous metadata set to the current image. The  {0} will be replaced with the name of the exemplar image.</note>
         <target xml:lang="sw" state="translated">Tumia {0}</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.Crop" approved="yes">
+      <trans-unit id="ImageToolbox.Crop">
         <source xml:lang="en">Crop</source>
         <note>ID: ImageToolbox.Crop</note>
-        <target xml:lang="sw" state="final">Ongeza/Punguza ukubwa wa Picha</target>
+        <target xml:lang="sw" state="translated">Ongeza/Punguza ukubwa wa Picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.DownloadArtOfReading">
         <source xml:lang="en">Download Art Of Reading Installer</source>
@@ -183,11 +183,11 @@
         <note>ID: ImageToolbox.EditMetadataLink</note>
         <target xml:lang="sw" state="translated">Hariri...</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.EnterSearchTerms" approved="yes">
+      <trans-unit id="ImageToolbox.EnterSearchTerms">
         <source xml:lang="en">In the box above, type what you are searching for, then press ENTER.</source>
         <note>ID: ImageToolbox.EnterSearchTerms</note>
         <note xml:lang="en">OLD TEXT (before 4.1.000.0): This is the 'Art Of Reading' gallery. In the box above, type what you are searching for, then press ENTER. You can type words in English and Indonesian.</note>
-        <target xml:lang="sw" state="final">Katika kisanduku hiko, andika unachotafuta, kisha ubonyeze INGIA.</target>
+        <target xml:lang="sw" state="translated">Katika kisanduku hiko, andika unachotafuta, kisha ubonyeze INGIA.</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.FileButton">
         <source xml:lang="en">File</source>
@@ -200,10 +200,10 @@
         <note>Title shown for a file chooser dialog brought up by the ImageToolbox</note>
         <target xml:lang="sw" state="translated">Chagua Faili la Picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.Galleries" approved="yes">
+      <trans-unit id="ImageToolbox.Galleries">
         <source xml:lang="en">Galleries</source>
         <note>ID: ImageToolbox.Galleries</note>
-        <target xml:lang="sw" state="final">Vichanja</target>
+        <target xml:lang="sw" state="translated">Vihifadhi</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.GenericGettingImageProblem">
         <source xml:lang="en">Sorry, something went wrong while getting the image.</source>
@@ -220,106 +220,106 @@
         <note>ID: ImageToolbox.GetPicture</note>
         <target xml:lang="sw" state="translated">Pata picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.ImageGalleries" approved="yes">
+      <trans-unit id="ImageToolbox.ImageGalleries">
         <source xml:lang="en">Image Galleries</source>
         <note>ID: ImageToolbox.ImageGalleries</note>
-        <target xml:lang="sw" state="final">Kihifadhi Picha</target>
+        <target xml:lang="sw" state="translated">Kihifadhi Picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.ImageToolboxWindowTitle" approved="yes">
+      <trans-unit id="ImageToolbox.ImageToolboxWindowTitle">
         <source xml:lang="en">Image Toolbox</source>
         <note>ID: ImageToolbox.ImageToolboxWindowTitle</note>
-        <target xml:lang="sw" state="final">Zana za Picha</target>
+        <target xml:lang="sw" state="translated">Zana za Picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.InstallArtOfReading">
         <source xml:lang="en">Install the Art Of Reading package (this may be very slow)</source>
         <note>ID: ImageToolbox.InstallArtOfReading</note>
         <target xml:lang="sw" state="translated">Weka kifurushi cha Sanaa ya Kusoma (hii inaweza kutendeka polepole sana)</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.MatchingImages" approved="yes">
+      <trans-unit id="ImageToolbox.MatchingImages">
         <source xml:lang="en">Found {0} images</source>
         <note>ID: ImageToolbox.MatchingImages</note>
         <note>The {0} will be replaced by the number of matching images</note>
-        <target xml:lang="sw" state="final">Picha {0} zilipatikana</target>
+        <target xml:lang="sw" state="translated">Picha {0} zilipatikana</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.NewMultilingual" approved="yes">
+      <trans-unit id="ImageToolbox.NewMultilingual">
         <source xml:lang="en">Did you know that there is a new version of this collection which lets you search in Arabic, Bengali, Chinese, English, French, Indonesian, Hindi, Portuguese, Spanish, Thai, or Swahili?  It is free and available for downloading.</source>
         <note>ID: ImageToolbox.NewMultilingual</note>
         <note xml:lang="en">OLD TEXT (before 4.0, added space): Did you know that there is a new version of this collection which lets you search in Arabic, Bengali, Chinese, English, French, Indonesian, Hindi, Portuguese, Spanish, Thai, or Swahili? It is free and available for downloading.</note>
-        <target xml:lang="sw" state="final">Je, unajua kuwa kuna toleo jipya la mkusanyiko huu inayokuruhusu kutafuta kwa Kiarabu, Kibengali, Kichina, Kiingereza, Kifaransa, Kiindonesia, Kihindi, Kireno, Kihispania, Kithai au Kiswahili? Ni bure na inapatika kupakua.</target>
+        <target xml:lang="sw" state="translated">Je, unajua kwamba kuna toleo jipya la mkusanyiko huu linalokuwezesha kufanya utafiti kwa Kiarabu, Kibengali, Kichina, Kiingereza, Kifaransa, Kiindonesia, Kihindi, Kireno, Kihispania, Kithai, au Kiswahili? Ni bure na linapatikana kwa kupakua.</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.NoArtOfReading" approved="yes">
+      <trans-unit id="ImageToolbox.NoArtOfReading">
         <source xml:lang="en">This computer doesn't appear to have the 'Art Of Reading' gallery installed yet.</source>
         <note>ID: ImageToolbox.NoArtOfReading</note>
-        <target xml:lang="sw" state="final">Kompyuta hii inaonekana bado haijawekwa kichanja cha 'Sanaa ya Kusoma'.</target>
+        <target xml:lang="sw" state="translated">Kompyuta hii inaonekana bado haijawekwa kihifadhi cha 'Sanaa ya Kusoma'.</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.NoGalleries" approved="yes">
+      <trans-unit id="ImageToolbox.NoGalleries">
         <source xml:lang="en">This computer doesn't appear to have any galleries installed yet.</source>
         <note>ID: ImageToolbox.NoGalleries</note>
-        <target xml:lang="sw" state="final">Kompyuta hii haionekani kuwa na vichanja vyovyote vilivyosakinishwa.</target>
+        <target xml:lang="sw" state="translated">Kompyuta hii haionekani kuwa na vichanja vyovyote vilivyosakinishwa.</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.NoMatchingImages" approved="yes">
+      <trans-unit id="ImageToolbox.NoMatchingImages">
         <source xml:lang="en">Found no matching images</source>
         <note>ID: ImageToolbox.NoMatchingImages</note>
-        <target xml:lang="sw" state="final">Hakuna picha zinazoambatana zilizopatikana</target>
+        <target xml:lang="sw" state="translated">Hakuna picha zinazofanana</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.PictureFiles" approved="yes">
+      <trans-unit id="ImageToolbox.PictureFiles">
         <source xml:lang="en">picture files</source>
         <note>ID: ImageToolbox.PictureFiles</note>
         <note>Shown in the file-picking dialog to describe what kind of files the dialog is filtering for</note>
-        <target xml:lang="sw" state="final">mafaili ya picha</target>
+        <target xml:lang="sw" state="translated">mafaili ya picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.ProblemGettingImageFromDevice" approved="yes">
+      <trans-unit id="ImageToolbox.ProblemGettingImageFromDevice">
         <source xml:lang="en">Problem Getting Image</source>
         <note>ID: ImageToolbox.ProblemGettingImageFromDevice</note>
-        <target xml:lang="sw" state="final">Tatizo katika kupata picha</target>
+        <target xml:lang="sw" state="translated">Tatizo katika kupata picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.ProblemLoadingImage" approved="yes">
+      <trans-unit id="ImageToolbox.ProblemLoadingImage">
         <source xml:lang="en">Sorry, there was a problem loading that image.</source>
         <note>ID: ImageToolbox.ProblemLoadingImage</note>
-        <target xml:lang="sw" state="final">Samahani, kulikuwa na tatizo katika kupata picha hiyo.</target>
+        <target xml:lang="sw" state="translated">Samahani, kulikuwa na tatizo katika kupata picha hiyo.</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.PromptForMissingMetadata" approved="yes">
+      <trans-unit id="ImageToolbox.PromptForMissingMetadata">
         <source xml:lang="en">This image does not know:\n\nWho created it?\nWho can use it?</source>
         <note>ID: ImageToolbox.PromptForMissingMetadata</note>
-        <target xml:lang="sw" state="final">Picha hii haijui:\n\nNi nani aliyeitengeneza?\nNi nani anayeweza kuitumia?</target>
+        <target xml:lang="sw" state="translated">Picha hii haijui:\n\nNi nani aliyeitengeneza?\nNi nani anayeweza kuitumia?</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.Scanner" approved="yes">
+      <trans-unit id="ImageToolbox.Scanner">
         <source xml:lang="en">Scanner</source>
         <note>ID: ImageToolbox.Scanner</note>
-        <target xml:lang="sw" state="final">Skana</target>
+        <target xml:lang="sw" state="translated">Skana</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.SearchArtOfReading" approved="yes">
+      <trans-unit id="ImageToolbox.SearchArtOfReading">
         <source xml:lang="en">Search the Art of Reading Gallery</source>
         <note>ID: ImageToolbox.SearchArtOfReading</note>
-        <target xml:lang="sw" state="final">Tafuta Sanaa ya Kichanja cha Kusoma</target>
+        <target xml:lang="sw" state="translated">Tafuta Kihifadhi  cha Sanaa ya Kusoma</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.SearchLanguage" approved="yes">
+      <trans-unit id="ImageToolbox.SearchLanguage">
         <source xml:lang="en">The search box is currently set to {0}</source>
         <note>ID: ImageToolbox.SearchLanguage</note>
         <note>The {0} will be replaced by the name of the language used in the searches.</note>
-        <target xml:lang="sw" state="final">Kwa sasa kisanduku cha kutafuta kiko {0}</target>
+        <target xml:lang="sw" state="translated">Kwa sasa kisanduku cha kutafuta kiko {0}</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.SetUpMetadataLink" approved="yes">
+      <trans-unit id="ImageToolbox.SetUpMetadataLink">
         <source xml:lang="en">Set up metadata...</source>
         <note>ID: ImageToolbox.SetUpMetadataLink</note>
-        <target xml:lang="sw" state="final">Tayarisha Metadata...</target>
+        <target xml:lang="sw" state="translated">Tayarisha Metadata...</target>
       </trans-unit>
-      <trans-unit id="IpaIdentifierView.betterLabel1" approved="yes">
+      <trans-unit id="IpaIdentifierView.betterLabel1">
         <source xml:lang="en">Purpose:</source>
         <note>ID: IpaIdentifierView.betterLabel1</note>
         <note>In writing system setup when IPA special option is selected: Label for the purpose combo box</note>
-        <target xml:lang="sw" state="final">Lengo:</target>
+        <target xml:lang="sw" state="translated">Lengo:</target>
       </trans-unit>
-      <trans-unit id="IpaIdentifierView.linkLabel1" approved="yes">
+      <trans-unit id="IpaIdentifierView.linkLabel1">
         <source xml:lang="en">Read about IPA transcription on the web</source>
         <note>ID: IpaIdentifierView.linkLabel1</note>
         <note>In writing system setup when IPA special option is selected: text used in link to a webpage describing IPA transcription</note>
-        <target xml:lang="sw" state="final">Soma kuhusu unukuzi wa IPA kwenye wavuti</target>
+        <target xml:lang="sw" state="translated">Soma maelezo ya IPA kwenye wavuti</target>
       </trans-unit>
-      <trans-unit id="LanguageLookup.AlternateNamesHeader" approved="yes">
+      <trans-unit id="LanguageLookup.AlternateNamesHeader">
         <source xml:lang="en">Other Names</source>
         <note>ID: LanguageLookup.AlternateNamesHeader</note>
-        <target xml:lang="sw" state="final">Majina Mengine</target>
+        <target xml:lang="sw" state="translated">Majina Mengine</target>
       </trans-unit>
       <trans-unit id="LanguageLookup.CannotFindMyLanguage.LanguageLookup.CannotFindMyLanguageExplanation2" approved="yes">
         <source xml:lang="en">This list should include all the ISO-639 languages, including all the alternative names known to ethnologue.com.\n\nIf necessary, use the "Unlisted Language" option, which will be selected for you now.</source>
