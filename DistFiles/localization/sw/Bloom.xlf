@@ -4482,7 +4482,7 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>tooltip for the menu header in the Publish tab</note>
-        <target xml:lang="sw" state="translated">Chagua ukubwa wa ukurasa na mwelekeo</target>
+        <target xml:lang="sw" state="translated">Chagua mpangilio jinsi ya kutoa nakala</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
