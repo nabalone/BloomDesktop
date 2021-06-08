@@ -205,35 +205,35 @@
         <note>ID: ImageToolbox.Galleries</note>
         <target xml:lang="sw" state="final">Vichanja</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.GenericGettingImageProblem" approved="yes">
+      <trans-unit id="ImageToolbox.GenericGettingImageProblem">
         <source xml:lang="en">Sorry, something went wrong while getting the image.</source>
         <note>ID: ImageToolbox.GenericGettingImageProblem</note>
-        <target xml:lang="sw" state="final">Samahani, kulikuwa na hitilafu katika kupata picha.</target>
+        <target xml:lang="sw" state="translated">Samahani, kulikuwa na hitilafu katika kupata picha.</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.GenericProblem" approved="yes">
+      <trans-unit id="ImageToolbox.GenericProblem">
         <source xml:lang="en">Sorry, something went wrong with the ImageToolbox</source>
         <note>ID: ImageToolbox.GenericProblem</note>
-        <target xml:lang="sw" state="final">Samahani kulikuwa na hitilafu kwenye Kisanduku cha vifaa cha picha</target>
+        <target xml:lang="sw" state="translated">Samahani kulikuwa na hitilafu kwenye Kisanduku cha vifaa cha picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.GetPicture" approved="yes">
+      <trans-unit id="ImageToolbox.GetPicture">
         <source xml:lang="en">Get Picture</source>
         <note>ID: ImageToolbox.GetPicture</note>
-        <target xml:lang="sw" state="final">Pata picha</target>
+        <target xml:lang="sw" state="translated">Pata picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.ImageGalleries" approved="yes">
         <source xml:lang="en">Image Galleries</source>
         <note>ID: ImageToolbox.ImageGalleries</note>
-        <target xml:lang="sw" state="final">Vichanja vya Picha</target>
+        <target xml:lang="sw" state="final">Kihifadhi Picha</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.ImageToolboxWindowTitle" approved="yes">
         <source xml:lang="en">Image Toolbox</source>
         <note>ID: ImageToolbox.ImageToolboxWindowTitle</note>
-        <target xml:lang="sw" state="final">Kisanduku cha kifaa cha picha</target>
+        <target xml:lang="sw" state="final">Zana za Picha</target>
       </trans-unit>
-      <trans-unit id="ImageToolbox.InstallArtOfReading" approved="yes">
+      <trans-unit id="ImageToolbox.InstallArtOfReading">
         <source xml:lang="en">Install the Art Of Reading package (this may be very slow)</source>
         <note>ID: ImageToolbox.InstallArtOfReading</note>
-        <target xml:lang="sw" state="final">Weka kifurushi cha Sanaa ya Kusoma (hii inaweza kutendeka polepole sana)</target>
+        <target xml:lang="sw" state="translated">Weka kifurushi cha Sanaa ya Kusoma (hii inaweza kutendeka polepole sana)</target>
       </trans-unit>
       <trans-unit id="ImageToolbox.MatchingImages" approved="yes">
         <source xml:lang="en">Found {0} images</source>
