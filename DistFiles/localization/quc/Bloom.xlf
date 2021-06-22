@@ -107,7 +107,7 @@
       <trans-unit id="AccessibilityCheck.ManualChecksHeading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You need to check these yourself:</source>
         <note>ID: AccessibilityCheck.ManualChecksHeading</note>
-        <target xml:lang="quc" state="final">Rajawaxik rilik rib': </target>
+        <target xml:lang="quc" state="final">Rajawaxik rilik rib':</target>
       </trans-unit>
       <trans-unit id="AccessibilityCheck.noEssentialInfoByColor" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No essential information by color</source>
@@ -280,9 +280,7 @@ K'ate k'u ri' chatzoqopij ri cholnak'tz'ib' ri xapitz'o rech kuk'ut ri cholb'i'a
       <trans-unit id="BookMetadata.a11yLevelAA" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level AA conformance</source>
         <note>ID: BookMetadata.a11yLevelAA</note>
-        <target xml:lang="quc" state="final">Junamam q’at AA 
-
-</target>
+        <target xml:lang="quc" state="final">Junamam q’at AA</target>
       </trans-unit>
       <trans-unit id="BookMetadata.a11yLevelAAA" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level AAA conformance</source>
@@ -940,7 +938,7 @@ K'ate k'u ri' chatzoqopij ri cholnak'tz'ib' ri xapitz'o rech kuk'ut ri cholb'i'a
       <trans-unit id="CollectionTab.Progress" approved="yes">
         <source xml:lang="en">({0}% complete)</source>
         <note>ID: CollectionTab.Progress</note>
-        <target xml:lang="quc" state="final">({0}% xtz'aqatisaxik) </target>
+        <target xml:lang="quc" state="final">({0}% xtz'aqatisaxik)</target>
       </trans-unit>
       <trans-unit id="CollectionTab.RestartToUpdate" approved="yes">
         <source xml:lang="en">Restart Bloom to Update</source>
@@ -956,7 +954,7 @@ K'ate k'u ri' chatzoqopij ri cholnak'tz'ib' ri xapitz'o rech kuk'ut ri cholb'i'a
       <trans-unit id="CollectionTab.SendReceive" approved="yes">
         <source xml:lang="en">Send/Receive</source>
         <note>ID: CollectionTab.SendReceive</note>
-        <target xml:lang="quc" state="final">Utaqik/Uk’amik  </target>
+        <target xml:lang="quc" state="final">Utaqik/Uk’amik</target>
       </trans-unit>
       <trans-unit id="CollectionTab.SettingsButton" approved="yes">
         <source xml:lang="en">Settings</source>
@@ -976,13 +974,13 @@ K'ate k'u ri' chatzoqopij ri cholnak'tz'ib' ri xapitz'o rech kuk'ut ri cholb'i'a
       <trans-unit id="CollectionTab.Templates" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Templates</source>
         <note>ID: CollectionTab.Templates</note>
-        <target xml:lang="quc" state="final">Raqanib’al </target>
+        <target xml:lang="quc" state="final">Raqanib’al</target>
       </trans-unit>
       <trans-unit id="CollectionTab.TitleMissing" approved="yes">
         <source xml:lang="en">Title Missing</source>
         <note>ID: CollectionTab.TitleMissing</note>
         <note>Shown as the thumbnail caption when the book doesn't have a title.</note>
-        <target xml:lang="quc" state="final">Ub’i’ chak karaj na </target>
+        <target xml:lang="quc" state="final">Ub’i’ chak karaj na</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UILanguageMenu.HelpTranslate" approved="yes">
         <source xml:lang="en">Help us translate Bloom (web)</source>
@@ -2034,8 +2032,7 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
       <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true">
         <source xml:lang="en">Bloom ran out of memory loading this image ({0}), which is quite large ({1} by {2} pixels). Click Help for suggestions.</source>
         <note>ID: EditTab.Image.TooLarge</note>
-        <target xml:lang="quc" state="translated">Bloom ma jamal ta chik rumal upaqab’axik we wachaj ({0}), sib’alaj nim ({1} rumal {2} pixeles). Chb’ana pitz’ che ri to'b’anik rech ya’ol taq no’j.
-</target>
+        <target xml:lang="quc" state="translated">Bloom ma jamal ta chik rumal upaqab’axik we wachaj ({0}), sib’alaj nim ({1} rumal {2} pixeles). Chb’ana pitz’ che ri to'b’anik rech ya’ol taq no’j.</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.TryRestart" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Try closing other programs and restart your computer if necessary.</source>
@@ -3009,7 +3006,7 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
       <trans-unit id="EditTab.Toolbox.SignLanguageTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sign Language Tool</source>
         <note>ID: EditTab.Toolbox.SignLanguageTool</note>
-        <target xml:lang="quc" state="final">Chakub'al rech tzijob'al ruk' retal </target>
+        <target xml:lang="quc" state="final">Chakub'al rech tzijob'al ruk' retal</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBook.BadState" approved="yes">
         <source xml:lang="en">Bloom recording is in an unusual state, possibly caused by unplugging a microphone. You will need to restart.</source>
@@ -3301,7 +3298,7 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>ID: Errors.NeedNewerVersion</note>
         <note>{0} will get the name of the book, {1} will give a link to open the Bloom Library Web page.</note>
         <note xml:lang="en">OLD TEXT (before 3.9, removed period): {0} requires a newer version of Bloom. Download the latest version of Bloom from {1}.</note>
-        <target xml:lang="quc" state="final">{0} kutoq'ij jun k'ak' uwach chak rech Bloom. Chaqasaj ri jun uwach chak k'ate naqaj xwoktajik pa {1} </target>
+        <target xml:lang="quc" state="final">{0} kutoq'ij jun k'ak' uwach chak rech Bloom. Chaqasaj ri jun uwach chak k'ate naqaj xwoktajik pa {1}</target>
       </trans-unit>
       <trans-unit id="Errors.NewVersionNeededHeader" approved="yes">
         <source xml:lang="en">This book needs a new version of Bloom.</source>
@@ -3388,11 +3385,11 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="quc" state="final">Pa uwi' le Bloom...</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="quc" state="translated">Uwujil (inglés)</target>
+        <target xml:lang="quc" state="final">Uwujil (inglés)</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -4482,11 +4479,11 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="quc" state="needs-translation">Prepare for Print Shop:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_">
+      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>tooltip for the menu header in the Publish tab</note>
-        <target xml:lang="quc" state="translated">Chacha' ri unimal xuquje' ukolomal ri uxaq</target>
+        <target xml:lang="quc" state="final">Chacha' ri unimal xuquje' ukolomal ri uxaq</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
