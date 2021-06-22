@@ -4079,6 +4079,12 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>ID: PublishTab.Android.Settings</note>
         <target xml:lang="quc" state="final">Suk'umanem</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.TalkingBookLanguages" sil:dynamic="true">
+        <source xml:lang="en">Talking Book Languages</source>
+        <note>ID: PublishTab.Android.TalkingBookLanguages</note>
+        <note>Which languages will have the "Talking Book" (books with both text and narrated audio) feature enabled</note>
+        <target xml:lang="quc" state="needs-translation">Talking Book Languages</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.TextLanguages" sil:dynamic="true">
         <source xml:lang="en">Text Languages</source>
         <note>ID: PublishTab.Android.TextLanguages</note>
