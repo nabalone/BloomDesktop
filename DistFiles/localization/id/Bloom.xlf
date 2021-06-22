@@ -3383,11 +3383,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="id" state="final">Tentang Bloom</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="id" state="translated">Dokumentasi</target>
+        <target xml:lang="id" state="final">Dokumentasi</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
