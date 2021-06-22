@@ -3385,11 +3385,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="es-ES" state="final">Acerca de Bloom...</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="es-ES" state="translated">Documentación (inglés)</target>
+        <target xml:lang="es-ES" state="final">Documentación (inglés)</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -4478,11 +4478,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="es-ES" state="final">Preparar para la imprenta:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_">
+      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>tooltip for the menu header in the Publish tab</note>
-        <target xml:lang="es-ES" state="translated">Elija el tamaño y orientación de página</target>
+        <target xml:lang="es-ES" state="final">Elija el tamaño y orientación de página</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
