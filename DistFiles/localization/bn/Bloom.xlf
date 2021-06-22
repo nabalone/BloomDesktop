@@ -149,7 +149,7 @@
       <trans-unit id="BloomIntegrityDialog.ReportProblem" approved="yes">
         <source xml:lang="en">Report Problem</source>
         <note>ID: BloomIntegrityDialog.ReportProblem</note>
-        <target xml:lang="bn" state="final">সমস্যাটি জানান </target>
+        <target xml:lang="bn" state="final">সমস্যাটি জানান</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.BadCharsInFileName" approved="yes">
         <source xml:lang="en">Possibly this is an old Bloom Pack created before Bloom Packs could handle special characters in file names. You may be able to get the author to re-create it using a current version. If that's not possible a technical expert may be able to repair things.</source>
@@ -159,7 +159,7 @@
       <trans-unit id="BloomPackInstallDialog.BloomPackInstallation" approved="yes">
         <source xml:lang="en">Bloom Pack Installation</source>
         <note>ID: BloomPackInstallDialog.BloomPackInstallation</note>
-        <target xml:lang="bn" state="final">ব্লুম দল স্থাপন </target>
+        <target xml:lang="bn" state="final">ব্লুম দল স্থাপন</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.BloomPackInstalled" approved="yes">
         <source xml:lang="en">The {0} Collection is now ready to use on this computer.</source>
@@ -170,7 +170,7 @@
         <source xml:lang="en">Bloom Pack Installer</source>
         <note>ID: BloomPackInstallDialog.BloomPackInstaller</note>
         <note>Displayed as the message box title</note>
-        <target xml:lang="bn" state="final">ব্লুম দল প্রতিষ্ঠানকারী </target>
+        <target xml:lang="bn" state="final">ব্লুম দল প্রতিষ্ঠানকারী</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.CorruptBloomPack" approved="yes">
         <source xml:lang="en">This BloomPack appears to be incomplete or corrupt.</source>
@@ -583,7 +583,7 @@
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.PageNumberingStyleLabel" approved="yes">
         <source xml:lang="en">Page Numbering Style</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.PageNumberingStyleLabel</note>
-        <target xml:lang="bn" state="final">পৃষ্ঠা সংখ্যাকরণ শৈলী/ধরন </target>
+        <target xml:lang="bn" state="final">পৃষ্ঠা সংখ্যাকরণ শৈলী/ধরন</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.PageNumberingStyle.Persian" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Persian</source>
@@ -1679,7 +1679,7 @@
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizAnswer-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Answer</source>
         <note>ID: EditTab.FormatDialog.DefaultStyles.QuizAnswer-style</note>
-        <target xml:lang="bn" state="final">কুইজ এর উত্তর </target>
+        <target xml:lang="bn" state="final">কুইজ এর উত্তর</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.DefaultStyles.QuizHeader-style" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Header</source>
@@ -3383,11 +3383,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="bn" state="final">ব্লুম সম্পর্কে</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="bn" state="translated">ডকুমেন্টেশন</target>
+        <target xml:lang="bn" state="final">ডকুমেন্টেশন</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -3891,13 +3891,13 @@
         <source xml:lang="en">You can use sharing apps like email, Dropbox, and WhatsApp to get your .bloomd file onto a device.</source>
         <note>ID: PublishTab.Android.BloomD.Hint</note>
         <note/>
-        <target xml:lang="bn" state="final">আপনি আপনার ফাইলগুলিকে একটি ডিভাইসে পেতে অ্যাপস গুলিকে যেমন ইমেইল ড্রপবক্স এবং হোয়াটসঅ্যাপকে শেযার করার জন্য ব্যবহার করতে পারেন  </target>
+        <target xml:lang="bn" state="final">আপনি আপনার ফাইলগুলিকে একটি ডিভাইসে পেতে অ্যাপস গুলিকে যেমন ইমেইল ড্রপবক্স এবং হোয়াটসঅ্যাপকে শেযার করার জন্য ব্যবহার করতে পারেন</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en"> USB is Difficult</source>
         <note>ID: PublishTab.Android.USB.Hint.Heading</note>
         <note/>
-        <target xml:lang="bn" state="final"> ইউএসবি কঠিন হয় </target>
+        <target xml:lang="bn" state="final"> ইউএসবি কঠিন হয়</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.USB.Hint" sil:dynamic="true" approved="yes">
         <source xml:lang="en">To Send via USB, you may need to get the right
@@ -4059,17 +4059,17 @@
       <trans-unit id="PublishTab.Android.Creating" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Creating Digital Book</source>
         <note>ID: PublishTab.Android.Creating</note>
-        <target xml:lang="bn" state="final">ডিজিটাল বুক তৈরি করা </target>
+        <target xml:lang="bn" state="final">ডিজিটাল বুক তৈরি করা</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.AboutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Bloom Reader</source>
         <note>ID: PublishTab.Android.AboutBloomReader</note>
-        <target xml:lang="bn" state="final">ব্লুম পাঠক সম্বন্ধে </target>
+        <target xml:lang="bn" state="final">ব্লুম পাঠক সম্বন্ধে</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.AboutBookFeatures" sil:dynamic="true" approved="yes">
         <source xml:lang="en">About Book Features</source>
         <note>ID: PublishTab.Android.AboutBookFeatures</note>
-        <target xml:lang="bn" state="final">বইয়ের ফিচারগুলোর সম্পর্কে </target>
+        <target xml:lang="bn" state="final">বইয়ের ফিচারগুলোর সম্পর্কে</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Settings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Settings</source>
@@ -4245,7 +4245,7 @@
       <trans-unit id="PublishTab.AndroidButton" approved="yes">
         <source xml:lang="en">Bloom Reader</source>
         <note>ID: PublishTab.AndroidButton</note>
-        <target xml:lang="bn" state="final">ব্লুম পাঠক </target>
+        <target xml:lang="bn" state="final">ব্লুম পাঠক</target>
       </trans-unit>
       <trans-unit id="PublishTab.AndroidButton-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Publish to an Android device.</source>
@@ -4256,7 +4256,7 @@
         <source xml:lang="en">Some audio elements are missing ids</source>
         <note>ID: PublishTab.Audio.ElementsMissingId</note>
         <note>Message briefly displayed to the user in a toast</note>
-        <target xml:lang="bn" state="final">কিছু অডিও উপাদান সমূহ আইডিগুলোকে হারিয়েছে  </target>
+        <target xml:lang="bn" state="final">কিছু অডিও উপাদান সমূহ আইডিগুলোকে হারিয়েছে</target>
       </trans-unit>
       <trans-unit id="PublishTab.BodyOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Insides</source>
@@ -4300,7 +4300,7 @@
         <source xml:lang="en">Back</source>
         <note>ID: PublishTab.Epub.BackLinkLabel</note>
         <note>Used in Epubs as the text of a link that leads from the image description back to the main page</note>
-        <target xml:lang="bn" state="final">পিছনে </target>
+        <target xml:lang="bn" state="final">পিছনে</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Accessible.MainContent" approved="yes">
         <source xml:lang="en">Main Content</source>
@@ -4317,12 +4317,12 @@
         <source xml:lang="en">Building ePUB</source>
         <note>ID: PublishTab.Epub.BuildingEPub</note>
         <note>Shown in a progress box when Bloom is starting to create an ePUB</note>
-        <target xml:lang="bn" state="final">ইপাব তৈরী করা  </target>
+        <target xml:lang="bn" state="final">ইপাব তৈরী করা</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Creating" approved="yes">
         <source xml:lang="en">Creating ePUB...</source>
         <note>ID: PublishTab.Epub.Creating</note>
-        <target xml:lang="bn" state="final">ইপাব সৃষ্টি করা  </target>
+        <target xml:lang="bn" state="final">ইপাব সৃষ্টি করা</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.Done" approved="yes">
         <source xml:lang="en">Done</source>
@@ -4348,7 +4348,7 @@
         <source xml:lang="en">Image Description</source>
         <note>ID: PublishTab.Epub.ImageDescriptionLinkLabel</note>
         <note>Used in Epubs as the text of a link that leads to the description of an image</note>
-        <target xml:lang="bn" state="final">ছবির বর্ণনা </target>
+        <target xml:lang="bn" state="final">ছবির বর্ণনা</target>
       </trans-unit>
       <trans-unit id="PublishTab.Epub.IncludeOnPage" approved="yes">
         <source xml:lang="en">Include image descriptions on page</source>
@@ -4476,11 +4476,11 @@
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="bn" state="needs-translation">Prepare for Print Shop:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_">
+      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>tooltip for the menu header in the Publish tab</note>
-        <target xml:lang="bn" state="translated">পৃষ্ঠার আকার ও অভিমুখ পছন্দ করুন</target>
+        <target xml:lang="bn" state="final">পৃষ্ঠার আকার ও অভিমুখ পছন্দ করুন</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
@@ -4717,7 +4717,7 @@
       <trans-unit id="PublishTab.Upload.ChooseSignLanguageWarning" approved="yes">
         <source xml:lang="en">Please choose the sign language for this book</source>
         <note>ID: PublishTab.Upload.ChooseSignLanguageWarning</note>
-        <target xml:lang="bn" state="final">এই বইয়ের জন্য সাইন ভাষা পছন্দ করুন </target>
+        <target xml:lang="bn" state="final">এই বইয়ের জন্য সাইন ভাষা পছন্দ করুন</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.ConfirmReplaceExisting" approved="yes">
         <source xml:lang="en">BloomLibrary.org already has a previous version of this book from you.  If you upload it again, it will be replaced with your current version.</source>
@@ -4931,7 +4931,7 @@
       <trans-unit id="PublishTab.Upload.SetSignLanguageLink" approved="yes">
         <source xml:lang="en">Set Sign Language...</source>
         <note>ID: PublishTab.Upload.SetSignLanguageLink</note>
-        <target xml:lang="bn" state="final">সাইন ভাষা সেট করুন </target>
+        <target xml:lang="bn" state="final">সাইন ভাষা সেট করুন</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.SignLanguage" approved="yes">
         <source xml:lang="en">Sign Language</source>
@@ -5727,17 +5727,17 @@ Do you want to go ahead?</note>
       <trans-unit id="ScriptSettingsDialog.TallerLinesCheckBox" approved="yes">
         <source xml:lang="en">This script requires taller lines</source>
         <note>ID: ScriptSettingsDialog.TallerLinesCheckBox</note>
-        <target xml:lang="bn" state="final">এই লিপিটির দীর্ঘ সারির প্রয়োজন আছে </target>
+        <target xml:lang="bn" state="final">এই লিপিটির দীর্ঘ সারির প্রয়োজন আছে</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.Community" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Funded by the local community only</source>
         <note>ID: Settings.Enterprise.Community</note>
-        <target xml:lang="bn" state="final">শুধুমাত্র স্থানীয় সম্প্রদায় অর্থ দিয়েছে </target>
+        <target xml:lang="bn" state="final">শুধুমাত্র স্থানীয় সম্প্রদায় অর্থ দিয়েছে</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.LearnMore" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Learn More</source>
         <note>ID: Settings.Enterprise.LearnMore</note>
-        <target xml:lang="bn" state="final">আরও শিখুন </target>
+        <target xml:lang="bn" state="final">আরও শিখুন</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.None" sil:dynamic="true" approved="yes">
         <source xml:lang="en">None. Bloom will not show Enterprise features.</source>
@@ -5752,7 +5752,7 @@ Do you want to go ahead?</note>
       <trans-unit id="Settings.Enterprise.Status" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom Enterprise Status</source>
         <note>ID: Settings.Enterprise.Status</note>
-        <target xml:lang="bn" state="final">ব্লুম এন্টারপ্রাইজ পরিস্থিতি </target>
+        <target xml:lang="bn" state="final">ব্লুম এন্টারপ্রাইজ পরিস্থিতি</target>
       </trans-unit>
       <trans-unit id="Settings.Enterprise.Subscription" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Enterprise Subscription</source>
@@ -6352,7 +6352,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Quiz Page" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Quiz Page</source>
         <note>ID: TemplateBooks.PageLabel.Quiz Page</note>
-        <target xml:lang="bn" state="final">কুইজের পৃষ্ঠা/পাতা </target>
+        <target xml:lang="bn" state="final">কুইজের পৃষ্ঠা/পাতা</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.SIL-Cameroon" sil:dynamic="true" approved="yes">
         <source xml:lang="en">SIL-Cameroon</source>
