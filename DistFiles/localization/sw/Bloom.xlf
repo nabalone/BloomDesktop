@@ -165,7 +165,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="BloomPackInstallDialog.BloomPackInstalled" approved="yes">
         <source xml:lang="en">The {0} Collection is now ready to use on this computer.</source>
         <note>ID: BloomPackInstallDialog.BloomPackInstalled</note>
-        <target xml:lang="sw" state="final">Mkusanyiko {0} sasa uko tayari kutumika kwenye kompyuta hii.</target>
+        <target xml:lang="sw" state="final">Mkusanyiko sasa uko tayari kutumika kwenye kompyuta hii {0}.</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.BloomPackInstaller" approved="yes">
         <source xml:lang="en">Bloom Pack Installer</source>
@@ -186,7 +186,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="BloomPackInstallDialog.ErrorInstallingBloomPack" approved="yes">
         <source xml:lang="en">Bloom was not able to install that Bloom Pack</source>
         <note>ID: BloomPackInstallDialog.ErrorInstallingBloomPack</note>
-        <target xml:lang="sw" state="final">Bloom haikuweza kusakinisha Seti hiyo ya Bloom</target>
+        <target xml:lang="sw" state="final">Bloom haikuweza kuweka Seti hiyo ya Bloom.</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.Extracting" approved="yes">
         <source xml:lang="en">Extracting...</source>
@@ -197,12 +197,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="BloomPackInstallDialog.MustRestartToSee" approved="yes">
         <source xml:lang="en">Bloom is already running, but the contents will not show up until the next time you run Bloom</source>
         <note>ID: BloomPackInstallDialog.MustRestartToSee</note>
-        <target xml:lang="sw" state="final">Bloom tayari inaendelea kufanya kazi, lakini yaliyomo hayatajitokeza hadi wakati huo mwingine utakapofungua Bloom</target>
+        <target xml:lang="sw" state="final">Bloom tayari inaendelea, lakini yaliyomo hayatajitokeza hadi wakati huo mwingine utakapofungua Bloom</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.NotInstalled" approved="yes">
         <source xml:lang="en">The Bloom collection will not be installed.</source>
         <note>ID: BloomPackInstallDialog.NotInstalled</note>
-        <target xml:lang="sw" state="final">Mkusanyiko wa Bloom hautasakinishwa.</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa Bloom hautaweza kuweka.</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.Opening" approved="yes">
         <source xml:lang="en">Opening {0}...</source>
@@ -381,7 +381,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Browser.OpenPageInFirefox" approved="yes">
         <source xml:lang="en">Open Page in Firefox (which must be in the PATH environment variable)</source>
         <note>ID: Browser.OpenPageInFirefox</note>
-        <target xml:lang="sw" state="final">Fungua Ukurasa katika Firefox (ambayo lazima iwe katika anuwai ya mazingira ya PATH)</target>
+        <target xml:lang="sw" state="final">Fungua ukurasa kwenye Mtandao (ambao ni lazima uwe kwenye hali inayoweza kubadilika ya NJIA).</target>
       </trans-unit>
       <trans-unit id="Browser.ProblemSaving" approved="yes">
         <source xml:lang="en">There was a problem while saving. Please return to the previous page and make sure it looks correct.</source>
@@ -397,7 +397,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel" approved="yes">
         <source xml:lang="en">Advanced Program Settings</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel</note>
-        <target xml:lang="sw" state="final">Mipangilio ya hali ya Juu ya Programu</target>
+        <target xml:lang="sw" state="final">Mpangilio wa hali ya Juu wa Programu</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate" approved="yes">
         <source xml:lang="en">Automatically Update Bloom</source>
@@ -478,7 +478,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Traditional</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Traditional</note>
         <note>Name of the default Front/Back Matter Pack</note>
-        <target xml:lang="sw" state="final">Jadi</target>
+        <target xml:lang="sw" state="final">Desturi</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.Front/BackMatterPack.Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Video</source>
@@ -619,7 +619,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionSettingsDialog.BookMakingTab.SpecialScriptSettingsLink" approved="yes">
         <source xml:lang="en">Special Script Settings</source>
         <note>ID: CollectionSettingsDialog.BookMakingTab.SpecialScriptSettingsLink</note>
-        <target xml:lang="sw" state="final">Mipangilio Maalum ya Hati</target>
+        <target xml:lang="sw" state="final">Mipangilio ya Kipekee ya Hati</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.CollectionSettingsWindowTitle" approved="yes">
         <source xml:lang="en">Settings</source>
@@ -657,7 +657,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionSettingsDialog.LanguageTab.RemoveLanguageLink" approved="yes">
         <source xml:lang="en">Remove</source>
         <note>ID: CollectionSettingsDialog.LanguageTab.RemoveLanguageLink</note>
-        <target xml:lang="sw" state="final">Ondoa</target>
+        <target xml:lang="sw" state="final">Toa</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab.SetThirdLanguageLink" approved="yes">
         <source xml:lang="en">Set...</source>
@@ -668,18 +668,18 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionSettingsDialog.LanguageTab.VernacularLanguageLabel" approved="yes">
         <source xml:lang="en">Local Language</source>
         <note>ID: CollectionSettingsDialog.LanguageTab.VernacularLanguageLabel</note>
-        <target xml:lang="sw" state="final">Lugha ya Mtaa</target>
+        <target xml:lang="sw" state="final">Lugha ya Mama</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab._language2Label" approved="yes">
         <source xml:lang="en">Language 2 (e.g. National Language)</source>
         <note>ID: CollectionSettingsDialog.LanguageTab._language2Label</note>
-        <target xml:lang="sw" state="final">Lugha ya 2 (mf. Lugha ya Kitaifa)</target>
+        <target xml:lang="sw" state="final">Lugha ya 2 (e.g. Lugha ya Kitaifa)</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab._language3Label" approved="yes">
         <source xml:lang="en">Language 3 (e.g. Regional Language)   (Optional)</source>
         <note>ID: CollectionSettingsDialog.LanguageTab._language3Label</note>
         <note xml:lang="en">OLD TEXT (before 3.9, 1 fewer space): Language 3 (e.g. Regional Language)  (Optional)</note>
-        <target xml:lang="sw" state="final">Lugha yangu 3 (mf. lugha ya eneo) (Hiari)</target>
+        <target xml:lang="sw" state="final">Lugha yangu 3 (kama vile lugha ya eneo) (Sio lazima)</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.LanguageTab.SignLanguageOptional" approved="yes">
         <source xml:lang="en">Sign Language   (Optional)</source>
@@ -689,7 +689,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionSettingsDialog.ProjectInformationTab.BloomCollectionName" approved="yes">
         <source xml:lang="en">Bloom Collection Name</source>
         <note>ID: CollectionSettingsDialog.ProjectInformationTab.BloomCollectionName</note>
-        <target xml:lang="sw" state="final">Jina la Mkusanyiko la Bloom</target>
+        <target xml:lang="sw" state="final">Jina la Mkusanyiko wa Bloom</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.ProjectInformationTab.BloomEnterpriseProject" approved="yes">
         <source xml:lang="en">Bloom Enterprise Project</source>
@@ -721,7 +721,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Restart</source>
         <note>ID: CollectionSettingsDialog.Restart</note>
         <note>If you make certain changes in the settings dialog, the OK button changes to this.</note>
-        <target xml:lang="sw" state="final">Anzisha tena</target>
+        <target xml:lang="sw" state="final">Anzisha upya</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.RestartMessage" approved="yes">
         <source xml:lang="en">Bloom will close and re-open this project with the new settings.</source>
@@ -731,7 +731,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.AddMakeReaderTemplateBloomPackToolStripMenuItem" approved="yes">
         <source xml:lang="en">Make Reader Template Bloom Pack...</source>
         <note>ID: CollectionTab.AddMakeReaderTemplateBloomPackToolStripMenuItem</note>
-        <target xml:lang="sw" state="final">Tengeneza Seti ya Bloom ya Kiolezo cha Msomaji...</target>
+        <target xml:lang="sw" state="final">Tengeneza Seti ya Bloom ya Kigezo cha Msomaji...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.AdminManagesUpdates" approved="yes">
         <source xml:lang="en">Your system administrator manages Bloom updates for this computer.</source>
@@ -752,7 +752,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Get more source books at BloomLibrary.org</source>
         <note>ID: CollectionTab.BloomLibraryLinkLabel</note>
         <note>Shown at the bottom of the list of books. User can click on it and it will attempt to open a browser to show the Bloom Library</note>
-        <target xml:lang="sw" state="final">Pata vitabu vingine zaidi vya mwanzo kwenye BloomLibrary.org</target>
+        <target xml:lang="sw" state="final">Pata vitabu vingi zaidi vya vyanzo kwenye BloomLibrary.org</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BloomLibraryLinkVerification.Part1" approved="yes">
         <source xml:lang="en">Note: The Bloom Library contains shell books, whereas your current collection is a "source collection", meaning it is for making shell books, not for translating them into the local language.</source>
@@ -770,7 +770,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Source Collection</source>
         <note>ID: CollectionTab.BloomLibraryLinkVerificationCaption</note>
         <note>get this clicking on BloomLibrary.org link in source collection</note>
-        <target xml:lang="sw" state="final">Mkusanyiko wa chanzo</target>
+        <target xml:lang="sw" state="final">Mkusanyiko wa vyanzo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.DeleteBook" approved="yes">
         <source xml:lang="en">Delete Book</source>
@@ -790,7 +790,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.BookMenu.ExportToWordOrLibreOffice" approved="yes">
         <source xml:lang="en">Export to Word or LibreOffice...</source>
         <note>ID: CollectionTab.BookMenu.ExportToWordOrLibreOffice</note>
-        <target xml:lang="sw" state="final">Peleka kwenye Word au LibreOffice...</target>
+        <target xml:lang="sw" state="final">Peleka kwenye neno au Ofisi ya Libre...</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.ExportToXMLForInDesign" approved="yes">
         <source xml:lang="en">Export to XML for InDesign...</source>
@@ -810,12 +810,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.BookMenu.UpdateFrontMatterToolStrip" approved="yes">
         <source xml:lang="en">Update Book</source>
         <note>ID: CollectionTab.BookMenu.UpdateFrontMatterToolStrip</note>
-        <target xml:lang="sw" state="final">Sasisha Kitabu</target>
+        <target xml:lang="sw" state="final">Tengeneza upya Kitabu</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookMenu.UpdateThumbnail" approved="yes">
         <source xml:lang="en">Update Thumbnail</source>
         <note>ID: CollectionTab.BookMenu.UpdateThumbnail</note>
-        <target xml:lang="sw" state="final">Sasisha kijipicha</target>
+        <target xml:lang="sw" state="final">Tengeneza upya ukucha wa dole gumba</target>
       </trans-unit>
       <trans-unit id="CollectionTab.BookSourceHeading" approved="yes">
         <source xml:lang="en">Sources For New Books</source>
@@ -835,7 +835,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.CollectionMenu.doChecksAndUpdatesOfAllBooks" approved="yes">
         <source xml:lang="en">Do Updates of All Books</source>
         <note>ID: CollectionTab.CollectionMenu.doChecksAndUpdatesOfAllBooks</note>
-        <target xml:lang="sw" state="final">Sasisha Vitabu Vyote</target>
+        <target xml:lang="sw" state="final">Tengeneza Upya Vitabu Vyote</target>
       </trans-unit>
       <trans-unit id="CollectionTab.CollectionMenu.doChecksOfAllBooks" approved="yes">
         <source xml:lang="en">Do Checks of All Books</source>
@@ -949,7 +949,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.Sample Shells" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sample Shells</source>
         <note>ID: CollectionTab.Sample Shells</note>
-        <target xml:lang="sw" state="final">Sampuli za Shell</target>
+        <target xml:lang="sw" state="final">Sampuli za Sheli</target>
       </trans-unit>
       <trans-unit id="CollectionTab.SendReceive" approved="yes">
         <source xml:lang="en">Send/Receive</source>
@@ -974,13 +974,13 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.Templates" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Templates</source>
         <note>ID: CollectionTab.Templates</note>
-        <target xml:lang="sw" state="final">Violezo</target>
+        <target xml:lang="sw" state="final">Vielelezo</target>
       </trans-unit>
       <trans-unit id="CollectionTab.TitleMissing" approved="yes">
         <source xml:lang="en">Title Missing</source>
         <note>ID: CollectionTab.TitleMissing</note>
         <note>Shown as the thumbnail caption when the book doesn't have a title.</note>
-        <target xml:lang="sw" state="final">Mada Haipo</target>
+        <target xml:lang="sw" state="final">Mada iliyokosekana</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UILanguageMenu.HelpTranslate" approved="yes">
         <source xml:lang="en">Help us translate Bloom (web)</source>
@@ -1008,35 +1008,35 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="CollectionTab.UpdateCheckInProgress" approved="yes">
         <source xml:lang="en">Bloom is already working on checking for updates.</source>
         <note>ID: CollectionTab.UpdateCheckInProgress</note>
-        <target xml:lang="sw" state="final">Bloom tayari inafanya kazi kwa kuangalia sasisho.</target>
+        <target xml:lang="sw" state="final">Bloom hufanya kazi kila wakati kwa kuchunguza utengenezaji upya.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateFailed" approved="yes">
         <source xml:lang="en">A new version appears to be available, but Bloom could not install it.</source>
         <note>ID: CollectionTab.UpdateFailed</note>
-        <target xml:lang="sw" state="final">Toleo jipya linaonekana linapatikana, lakini Bloom isingeweza kuiweka.</target>
+        <target xml:lang="sw" state="final">Tafsiri mpya inaonekana kupatikana, lakini Bloom isiingeweza kuiweka.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateInstalled" approved="yes">
         <source xml:lang="en">Update for {0} is ready</source>
         <note>ID: CollectionTab.UpdateInstalled</note>
         <note>Appears after Bloom has downloaded a program update in the background and is ready to switch the user to it the next time they run Bloom.</note>
         <note xml:lang="en">OLD TEXT (before 3.9, period at end): Update for {0} is ready.</note>
-        <target xml:lang="sw" state="final">Sasisho la {0} liko tayari</target>
+        <target xml:lang="sw" state="final">Utengenezaji upya wa {0} uko tayari.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdateNow" approved="yes">
         <source xml:lang="en">Update Now</source>
         <note>ID: CollectionTab.UpdateNow</note>
-        <target xml:lang="sw" state="final">Sasisha Sasa</target>
+        <target xml:lang="sw" state="final">Fanya maboresho upya Sasa</target>
       </trans-unit>
       <trans-unit id="CollectionTab.UpdatesAvailable" approved="yes">
         <source xml:lang="en">A new version of Bloom is available.</source>
         <note>ID: CollectionTab.UpdatesAvailable</note>
-        <target xml:lang="sw" state="final">Toleo jipya la Bloom linapatikana.</target>
+        <target xml:lang="sw" state="final">Tafsiri mpya ya Bloom inapatikana.</target>
       </trans-unit>
       <trans-unit id="CollectionTab.Updating" approved="yes">
         <source xml:lang="en">Downloading update to {0} ({1}K)</source>
         <note>ID: CollectionTab.Updating</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Downloading update to {0} ({1}kb).</note>
-        <target xml:lang="sw" state="final">Inapakua sasisho kwa {0} ({1}K)</target>
+        <target xml:lang="sw" state="final">Kuchukua maboresho na kuweka kwa {0} ({1}kb).</target>
       </trans-unit>
       <trans-unit id="ColorPicker.PercentTransparent" sil:dynamic="true" approved="yes">
         <source xml:lang="en">{0}% Transparent</source>
@@ -1066,14 +1066,14 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Cancel</source>
         <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".  In English, this is the same as "Common.CancelProcess", but could be different in your language.</note>
         <note>ID: Common.Cancel</note>
-        <target xml:lang="sw" state="final">Ghairi</target>
+        <target xml:lang="sw" state="final">Batilisha</target>
       </trans-unit>
       <trans-unit id="Common.CancelButton" approved="yes">
         <source xml:lang="en">&amp;Cancel</source>
         <note>This is identical to Common.Cancel. The duplication was introduced by a mistake.</note>
         <note>This is shown at the bottom of a dialog box. It is paired with an action button like "OK" and it means "do not do the action".</note>
         <note>ID: Common.CancelButton</note>
-        <target xml:lang="sw" state="final">U&amp;Ghairi</target>
+        <target xml:lang="sw" state="final">U&amp;batilishe</target>
       </trans-unit>
       <trans-unit id="Common.Close" approved="yes">
         <source xml:lang="en">Close</source>
@@ -1127,7 +1127,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">&amp;Finish</source>
         <note>ID: Common.Finish</note>
         <note>Used for the Finish button in wizards, like that used for making a New Collection</note>
-        <target xml:lang="sw" state="final">U&amp;maliza</target>
+        <target xml:lang="sw" state="final">U&amp;malize</target>
       </trans-unit>
       <trans-unit id="Common.Help" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Help</source>
@@ -1137,7 +1137,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Common.HelpButton" approved="yes">
         <source xml:lang="en">&amp;Help</source>
         <note>ID: Common.HelpButton</note>
-        <target xml:lang="sw" state="final">&amp;Msaada</target>
+        <target xml:lang="sw" state="final">&amp;Usaidie</target>
       </trans-unit>
       <trans-unit id="Common.Info" approved="yes">
         <source xml:lang="en">Info</source>
@@ -1189,7 +1189,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Common.Optional" approved="yes">
         <source xml:lang="en">optional</source>
         <note>ID: Common.Optional</note>
-        <target xml:lang="sw" state="final">hiari</target>
+        <target xml:lang="sw" state="final">Hiyari</target>
       </trans-unit>
       <trans-unit id="Common.Preview" approved="yes">
         <source xml:lang="en">Preview</source>
@@ -1249,7 +1249,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Download.CompletedCaption" approved="yes">
         <source xml:lang="en">Download complete</source>
         <note>ID: Download.CompletedCaption</note>
-        <target xml:lang="sw" state="final">Upakuaji umekamilika</target>
+        <target xml:lang="sw" state="final">Upakuaji mtandaoni umekamilika</target>
       </trans-unit>
       <trans-unit id="Download.CopyFailed" approved="yes">
         <source xml:lang="en">Bloom downloaded the book but had problems making it available in Bloom. Please restart your computer and try again. If you get this message again, please click the 'Details' button and report the problem to the Bloom developers</source>
@@ -1260,7 +1260,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Download.DownloadingDialogTitle" approved="yes">
         <source xml:lang="en">Downloading book</source>
         <note>ID: Download.DownloadingDialogTitle</note>
-        <target xml:lang="sw" state="final">Kupakua kitabu</target>
+        <target xml:lang="sw" state="final">Kupakua kitabu mtandaoni</target>
       </trans-unit>
       <trans-unit id="Download.GenericNetworkProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading the book.  You can try again at a different time, or write to us at issues@bloomlibrary.org if you cannot get the download to work from your location.</source>
@@ -1271,7 +1271,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="Download.ProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading your book. You may need to restart Bloom or get technical help.</source>
         <note>ID: Download.ProblemNotice</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo kukipakua kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
+        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika upakuaji kitabu chako.Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
       </trans-unit>
       <trans-unit id="Download.TimeoutProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem downloading the book: something took too long. You can try again at a different time, or write to us at issues@bloomlibrary.org if you cannot get the download to work from your location.</source>
@@ -1314,7 +1314,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.AddPageDialog.ChooseLayoutWillLoseData" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Converting to this layout will cause some content to be lost.</source>
         <note>ID: EditTab.AddPageDialog.ChooseLayoutWillLoseData</note>
-        <target xml:lang="sw" state="final">Kubadilisha kwa muundo huu kutafanya baadhi ya yaliyomo kupotea.</target>
+        <target xml:lang="sw" state="final">Kubadilisha hadi kuwa katika muundo huu kutafanya baadhi ya yaliyohumu kupotea.</target>
       </trans-unit>
       <trans-unit id="EditTab.AddPageDialog.DigitalPage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This kind of page will be included only in digital book outputs, not in PDF.</source>
@@ -1357,12 +1357,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.BookContextMenu.openHtmlInBrowser" approved="yes">
         <source xml:lang="en">Open the HTML used to make this PDF, in Firefox (must be on path)</source>
         <note>ID: EditTab.BookContextMenu.openHtmlInBrowser</note>
-        <target xml:lang="sw" state="final">Fungua HTML iliyotumika kutengeneza PDF hii, kwenye Firefox (lazima iwe kwenye njia)</target>
+        <target xml:lang="sw" state="final">Fungua  iliyotumika kutengeneza hima , kwenye mtandao (lazima iwe kwenye njia)</target>
       </trans-unit>
       <trans-unit id="EditTab.CannotChangeCopyright" approved="yes">
         <source xml:lang="en">Sorry, the copyright and license for this book cannot be changed.</source>
         <note>ID: EditTab.CannotChangeCopyright</note>
-        <target xml:lang="sw" state="final">Samahani, hakimiliki na leseni ya kitabu hiki haviwezi kubadilishwa.</target>
+        <target xml:lang="sw" state="final">Samahani, haki ya kunakili na leseni ya kitabu hiki haiwezi kubadilishwa.</target>
       </trans-unit>
       <trans-unit id="EditTab.CantPasteImageLocked" approved="yes">
         <source xml:lang="en">Sorry, this book is locked down so that images cannot be changed.</source>
@@ -1384,7 +1384,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">&amp;Remove</source>
         <note>ID: EditTab.ConfirmRemovePageDialog.DeleteButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): &amp;Delete</note>
-        <target xml:lang="sw" state="final">U&amp;ondoa</target>
+        <target xml:lang="sw" state="final">U&amp;fute</target>
       </trans-unit>
       <trans-unit id="EditTab.ConfirmRemovePageDialog._messageLabel" approved="yes">
         <source xml:lang="en">This page will be permanently removed.</source>
@@ -1419,7 +1419,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.CopyButton.ToolTipWhenDisabled" approved="yes">
         <source xml:lang="en">You need to select some text before you can copy it</source>
         <note>ID: EditTab.CopyButton.ToolTipWhenDisabled</note>
-        <target xml:lang="sw" state="final">Unapaswa kuchagua baadhi ya maandishi kabla ya kuyanakili</target>
+        <target xml:lang="sw" state="final">Unapaswa kuchagua baadhi ya maandishi kabla ya kuinakili</target>
       </trans-unit>
       <trans-unit id="EditTab.CopyImageIPMetadataQuestion" approved="yes">
         <source xml:lang="en">Copy this information to all other pictures in this book?</source>
@@ -1484,7 +1484,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Remove Page</source>
         <note>ID: EditTab.DeletePageButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Remove\n  Page</note>
-        <target xml:lang="sw" state="final">Ondoa Ukurasa</target>
+        <target xml:lang="sw" state="final">Toa  \n Ukurasa</target>
       </trans-unit>
       <trans-unit id="EditTab.DeletePageButton.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove this page from the book</source>
@@ -1526,7 +1526,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Duplicate Page</source>
         <note>ID: EditTab.DuplicatePageButton</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Duplicate\n  Page</note>
-        <target xml:lang="sw" state="final">Nakili ukurasa</target>
+        <target xml:lang="sw" state="final">Fanya kurasa\n kuwa mbili</target>
       </trans-unit>
       <trans-unit id="EditTab.DuplicatePageButton.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Insert a new page which is a duplicate of this one</source>
@@ -1543,7 +1543,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Edit" approved="yes">
         <source xml:lang="en">Edit</source>
         <note>ID: EditTab.Edit</note>
-        <target xml:lang="sw" state="final">Hariri</target>
+        <target xml:lang="sw" state="final">Hakiki</target>
       </trans-unit>
       <trans-unit id="EditTab.EditNotAllowed" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You cannot change these because this is not the original copy.</source>
@@ -1558,7 +1558,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This word is not decodable in this stage.</source>
         <note>ID: EditTab.EditTab.Toolbox.DecodableReaderTool.WordNotDecodable</note>
-        <target xml:lang="sw" state="final">Neno hili haliwezi kufasiriwa katika ukurasa huu.</target>
+        <target xml:lang="sw" state="final">Neno ili haliwezi kufasiriwa katika ukurasa huu.</target>
       </trans-unit>
       <trans-unit id="EditTab.EditTab.Toolbox.LeveledReaderTool.SentenceTooLong" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This sentence is too long for this level.</source>
@@ -1732,7 +1732,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.FormatDialog.FontSizeToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Change the font size</source>
         <note>ID: EditTab.FormatDialog.FontSizeToolTip</note>
-        <target xml:lang="sw" state="final">Badilisha saizi ya fonti</target>
+        <target xml:lang="sw" state="final">Badilisha ukubwa wa fonti</target>
       </trans-unit>
       <trans-unit id="EditTab.FormatDialog.Format" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Format</source>
@@ -1835,7 +1835,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.FrontMatter.CopyrightPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click to Edit Copyright &amp; License</source>
         <note>ID: EditTab.FrontMatter.CopyrightPrompt</note>
-        <target xml:lang="sw" state="final">Bofya Kuhariri Hakimiliki &amp; Leseni</target>
+        <target xml:lang="sw" state="final">Bofya kwenye Kuhakiki Haki ya Kunakili na Leseni.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.CreditTranslator" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Acknowledgments for this version, in {lang}. For example, give credit to the translator for this version.</source>
@@ -1912,12 +1912,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.FrontMatter.NameofTranslatorPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Name of Translator, in {lang}</source>
         <note>ID: EditTab.FrontMatter.NameofTranslatorPrompt</note>
-        <target xml:lang="sw" state="final">Jina la mtafsiri, katika {lang}</target>
+        <target xml:lang="sw" state="final">Jina la mtafsiri, aliyepo {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalAcknowledgmentsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Original (or Shell) Acknowledgments in {lang}</source>
         <note>ID: EditTab.FrontMatter.OriginalAcknowledgmentsPrompt</note>
-        <target xml:lang="sw" state="final">Ya asili (au Shell) Shukrani katika {lang}</target>
+        <target xml:lang="sw" state="final">Ya kwanza au utambulizi wa (Sheli) katika {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.OriginalContributorsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The contributions made by writers, illustrators, editors, etc., in {lang}</source>
@@ -1973,7 +1973,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.FrontMatter.TranslatedAcknowledgmentsPrompt" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Acknowledgments for translated version, in {lang}</source>
         <note>ID: EditTab.FrontMatter.TranslatedAcknowledgmentsPrompt</note>
-        <target xml:lang="sw" state="final">Utambuzi wa toleo lililotafsiriwa, katika {lang}</target>
+        <target xml:lang="sw" state="final">Utambulizi wa tafsiri, katika {lang}</target>
       </trans-unit>
       <trans-unit id="EditTab.HowToUnlockBook" approved="yes">
         <source xml:lang="en">To unlock this shellbook, click the lock icon in the lower left corner.</source>
@@ -2016,7 +2016,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Edit Image Credits, Copyright, &amp; License</source>
         <note>ID: EditTab.Image.EditMetadata</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Edit Image Credits, Copyright, and License</note>
-        <target xml:lang="sw" state="final">Hariri Sifa za Picha, Hakimiliki, &amp; Leseni</target>
+        <target xml:lang="sw" state="final">Hariri Sifa za Picha, Haki ya kunakili, na Leseni</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.MissingInfo" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Image is missing information on Credits, Copyright, or License</source>
@@ -2026,7 +2026,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Image.PasteImage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Paste Image</source>
         <note>ID: EditTab.Image.PasteImage</note>
-        <target xml:lang="sw" state="final">Bandika Picha</target>
+        <target xml:lang="sw" state="final">Weka Picha</target>
       </trans-unit>
       <trans-unit id="EditTab.Image.TooLarge" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom ran out of memory loading this image ({0}), which is quite large ({1} by {2} pixels). Click Help for suggestions.</source>
@@ -2046,12 +2046,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.JpegWarningDialog.DoNotUse" approved="yes">
         <source xml:lang="en">Cancel this import</source>
         <note>ID: EditTab.JpegWarningDialog.DoNotUse</note>
-        <target xml:lang="sw" state="final">Ghairi uagizaji huu</target>
+        <target xml:lang="sw" state="final">Batilisha ubebaji huu</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.Photograph" approved="yes">
         <source xml:lang="en">Use the JPEG file</source>
         <note>ID: EditTab.JpegWarningDialog.Photograph</note>
-        <target xml:lang="sw" state="final">Tumia faili la JPEG</target>
+        <target xml:lang="sw" state="final">Tumia JPEG Jalada</target>
       </trans-unit>
       <trans-unit id="EditTab.JpegWarningDialog.WarningText" approved="yes">
         <source xml:lang="en">The file you’ve chosen is a “JPEG” file. JPEG files are perfect for photographs and color artwork. However, JPEG files are a big problem for black and white line art. Problems include:\n• Fuzziness and grey dots.\n• Large file sizes, making the book hard to share.\n• If there are many large JPEGs, Bloom may not have enough memory to make PDF files.\n\nNote: Because JPEG is “lossy”, converting a JPEG to PNG, TIFF, or BMP actually makes things even worse. If this is black and white line art, you want to get an original scan in one of those formats.\n\nPlease select from one of the following, then click “OK”:</source>
@@ -2061,12 +2061,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.JpegWarningDialog.WindowTitle" approved="yes">
         <source xml:lang="en">JPEG Warning</source>
         <note>ID: EditTab.JpegWarningDialog.WindowTitle</note>
-        <target xml:lang="sw" state="final">Onyo la JPEG</target>
+        <target xml:lang="sw" state="final">JPEG Onyo</target>
       </trans-unit>
       <trans-unit id="EditTab.LayoutInPublishTabOnlyNotice" approved="yes">
         <source xml:lang="en">This option is only available in the Publish tab.</source>
         <note>ID: EditTab.LayoutInPublishTabOnlyNotice</note>
-        <target xml:lang="sw" state="final">Chaguo hili linapatikana tu kwenye kichupo cha Chapisha.</target>
+        <target xml:lang="sw" state="final">Chaguo hili linapatikana tu kwenye nembo ya Kuchapisha.</target>
       </trans-unit>
       <trans-unit id="EditTab.LockBook.ToolTip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">This book is temporarily unlocked.</source>
@@ -2095,7 +2095,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.NoImageFoundOnClipboard" approved="yes">
         <source xml:lang="en">Before you can paste an image, copy one onto your 'clipboard', from another program.</source>
         <note>ID: EditTab.NoImageFoundOnClipboard</note>
-        <target xml:lang="sw" state="final">Kabla ya kupachika picha, nakili moja kwa 'klipbodi', kutoka kwa programu nyingine.</target>
+        <target xml:lang="sw" state="final">Kabla ya kuweka picha, nakili moja kwa 'klipbodi', kutoka kwa programu nyingine.</target>
       </trans-unit>
       <trans-unit id="EditTab.NoValidImageFoundOnClipboard" approved="yes">
         <source xml:lang="en">Bloom failed to interpret the clipboard contents as an image. Possibly it was a damaged file, or too large. Try copying something else.</source>
@@ -2117,7 +2117,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">A container on this page is overflowing</source>
         <note>ID: EditTab.OverflowContainer</note>
         <note>This shows up in pages like the cover where sizing is very flexible. No one thing is too big, but not everything on the page will fit. To see it, put a lot of text on a cover page, until a red bar appears at the bottom; then hover over the bar. </note>
-        <target xml:lang="sw" state="final">Kifaa kwenye ukurasa huu kinafurika</target>
+        <target xml:lang="sw" state="final">Kifaa kwenye ukurasa huu kimejaa kupita kiasi</target>
       </trans-unit>
       <trans-unit id="EditTab.PageList.CantMoveXMatter" approved="yes">
         <source xml:lang="en">That change is not allowed. Front matter and back matter pages must remain where they are.</source>
@@ -2132,17 +2132,17 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: EditTab.PageSizeAndOrientation.Tooltip</note>
-        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na mwelekeo</target>
+        <target xml:lang="sw" state="final">Chagua ukubwa wa ukurasa na maelekezo</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton" approved="yes">
         <source xml:lang="en">Paste</source>
         <note>ID: EditTab.PasteButton</note>
-        <target xml:lang="sw" state="final">Bandika</target>
+        <target xml:lang="sw" state="final">Weka baada ya kunakili</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton.ToolTip" approved="yes">
         <source xml:lang="en">Paste (Ctrl+V)</source>
         <note>ID: EditTab.PasteButton.ToolTip</note>
-        <target xml:lang="sw" state="final">Bandika (Ctrl+V)</target>
+        <target xml:lang="sw" state="final">Weka baada ya kunakili(Ctrl+V)</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton.ToolTipWhenDisabled" approved="yes">
         <source xml:lang="en">There is nothing on the Clipboard that you can paste here.</source>
@@ -2563,7 +2563,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles" approved="yes">
         <source xml:lang="en">Text files</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.FileDialogTextFiles</note>
-        <target xml:lang="sw" state="final">Mafaili ya maandishi</target>
+        <target xml:lang="sw" state="final">Jalada za  maandishi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportLetters" approved="yes">
         <source xml:lang="en">Letters: {0}</source>
@@ -2579,7 +2579,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportNewDecodableWords" approved="yes">
         <source xml:lang="en">New Decodable Words: {0}</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportNewDecodableWords</note>
-        <target xml:lang="sw" state="final">Maneno Mapya Yanayoweza Kufasiriwa: {0}</target>
+        <target xml:lang="sw" state="final">Majina Mapya Yanayoweza Kufasiriwa: {0}</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportSightWords" approved="yes">
         <source xml:lang="en">New Sight Words: {0}</source>
@@ -2594,7 +2594,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList" approved="yes">
         <source xml:lang="en">Complete Word List</source>
         <note>ID: EditTab.Toolbox.DecodableReaderTool.LetterWordReportWordList</note>
-        <target xml:lang="sw" state="final">Orodha ya Maneno Iliyokamilika</target>
+        <target xml:lang="sw" state="final">Kamilisha Orodha ya Majina</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.DecodableReaderTool.LettersInThisStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Letters in this stage</source>
@@ -2764,7 +2764,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.FoThisLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">For this Level</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.FoThisLevel</note>
-        <target xml:lang="sw" state="final">Kwa kiwango hiki</target>
+        <target xml:lang="sw" state="final">Kwa ngazi hii</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Formatting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Formatting</source>
@@ -2786,7 +2786,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: EditTab.Toolbox.LeveledReaderTool.Level</note>
         <note>Used to create string "Level # of #". The space after this word is added programmatically.</note>
         <note>Obsolete as of Bloom 5.0</note>
-        <target xml:lang="sw" state="final">Kiwango</target>
+        <target xml:lang="sw" state="final">Ngazi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.LevelOf" sil:dynamic="true" approved="yes">
         <source xml:lang="en">of</source>
@@ -2835,7 +2835,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SetUpLevels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Set up Levels</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.SetUpLevels</note>
-        <target xml:lang="sw" state="final">Weka Viwango</target>
+        <target xml:lang="sw" state="final">Anzisha ngazi</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.SentenceCounts" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sentence Counts</source>
@@ -2896,7 +2896,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="EditTab.Toolbox.Settings.Unlock" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Allow changes to this shellbook</source>
         <note>ID: EditTab.Toolbox.Settings.Unlock</note>
-        <target xml:lang="sw" state="final">Kubali mabadiliko kwenye kitabu hiki cha shell</target>
+        <target xml:lang="sw" state="final">Kubali mabadiliko kwenye kitabu hiki cha sheli</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.Settings.UnlockShellBookIntroductionText" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom normally prevents most changes to shellbooks. If you need to add pages, change images, etc., tick the box below.</source>
@@ -3062,7 +3062,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Clear</source>
         <note>ID: EditTab.Toolbox.TalkingBookTool.Clear</note>
         <note>As in, "CLEAR" (or delete) the existing recording file.</note>
-        <target xml:lang="sw" state="final">Futa</target>
+        <target xml:lang="sw" state="final">Maliza</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.TalkingBookTool.ESpeakPreview.Error" approved="yes">
         <source xml:lang="en">eSpeak failed.</source>
@@ -3388,12 +3388,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="sw" state="final">Vinjari Usaidizi...</target>
+        <target xml:lang="sw" state="final">Hifadhi ya hati</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
         <note>ID: HelpMenu.Help Menu</note>
-        <target xml:lang="sw" state="final">Msaada</target>
+        <target xml:lang="sw" state="final">Usaidizi</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu_ToolTip_" approved="yes">
         <source xml:lang="en">Get Help</source>
@@ -3421,7 +3421,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="HelpMenu.ReleaseNotesMenuItem" approved="yes">
         <source xml:lang="en">Release Notes...</source>
         <note>ID: HelpMenu.ReleaseNotesMenuItem</note>
-        <target xml:lang="sw" state="final">Toa Maelezo...</target>
+        <target xml:lang="sw" state="final">Achilia muhtasari...</target>
       </trans-unit>
       <trans-unit id="HelpMenu.ReportAProblemToolStripMenuItem" approved="yes">
         <source xml:lang="en">Report a Problem...</source>
@@ -3443,7 +3443,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">BloomLibrary.org</source>
         <note>ID: HelpMenu.WebSiteMenuItem</note>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Web Site</note>
-        <target xml:lang="sw" state="final">BloomLibrary.org</target>
+        <target xml:lang="sw" state="final">Mfumo wa Kimtandao</target>
       </trans-unit>
       <trans-unit id="HelpMenu.trainingVideos" approved="yes">
         <source xml:lang="en">Training Videos</source>
@@ -3618,17 +3618,17 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="LoginDialog.LoginButton" approved="yes">
         <source xml:lang="en">&amp;Login</source>
         <note>ID: LoginDialog.LoginButton</note>
-        <target xml:lang="sw" state="final">&amp;Ingia</target>
+        <target xml:lang="sw" state="final">Ingia kwenye akaunti</target>
       </trans-unit>
       <trans-unit id="LoginDialog.Password" approved="yes">
         <source xml:lang="en">Password</source>
         <note>ID: LoginDialog.Password</note>
-        <target xml:lang="sw" state="final">Nenosiri</target>
+        <target xml:lang="sw" state="final">neno la siri</target>
       </trans-unit>
       <trans-unit id="LoginDialog.ShowPassword" approved="yes">
         <source xml:lang="en">&amp;Show Password</source>
         <note>ID: LoginDialog.ShowPassword</note>
-        <target xml:lang="sw" state="final">&amp;Onyesha Nenosiri</target>
+        <target xml:lang="sw" state="final">onyesha neno la siri</target>
       </trans-unit>
       <trans-unit id="LoginDialog.ShowTerms" approved="yes">
         <source xml:lang="en">Show Terms of Use</source>
@@ -3694,7 +3694,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="NewCollectionWizard.KindOfCollectionPage.existingCollectionInstructions" approved="yes">
         <source xml:lang="en">If you already have a collection you want to open, click  the 'Cancel' button.</source>
         <note>ID: NewCollectionWizard.KindOfCollectionPage.existingCollectionInstructions</note>
-        <target xml:lang="sw" state="final">Iwapo tayari una mkusanyiko ambao ungependa kufungua, bonyeza kwenye kifute cha 'Batilisha'.</target>
+        <target xml:lang="sw" state="final">Iwapo tayari una mkusanyiko ambao ungependa kufungua, kliki kwenye kifute cha 'Batilisha'.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.KindOfCollectionPage.sourceCollection" approved="yes">
         <source xml:lang="en">Source Collection</source>
@@ -3760,7 +3760,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="NewCollectionWizard.UnableToCreateANewCollectionUsingThatName" approved="yes">
         <source xml:lang="en">Unable to create a new collection using that name.</source>
         <note>ID: NewCollectionWizard.UnableToCreateANewCollectionUsingThatName</note>
-        <target xml:lang="sw" state="final">Imeshindwa kutengeneza mkusanyiko mpya kwa kutumia jina hilo.</target>
+        <target xml:lang="sw" state="final">Imeshindwa kutengeneza jina la mkusanyiko.</target>
       </trans-unit>
       <trans-unit id="NewCollectionWizard.WelcomePage" approved="yes">
         <source xml:lang="en">Welcome To Bloom!</source>
@@ -3780,7 +3780,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="NewCollectionWizard.WelcomePage.WelcomeLine3" approved="yes">
         <source xml:lang="en">Click 'Next' to get started.</source>
         <note>ID: NewCollectionWizard.WelcomePage.WelcomeLine3</note>
-        <target xml:lang="sw" state="final">Bonyeza 'Yanayofuata' ili kuanza.</target>
+        <target xml:lang="sw" state="final">Kliki 'Yanayofuata' ili kuanza.</target>
       </trans-unit>
       <trans-unit id="OpenCreateCloneControl.InDropboxMessage" approved="yes">
         <source xml:lang="en">Bloom detected that this collection is located in your Dropbox folder. This can cause problems as Dropbox sometimes locks Bloom out of its own files. If you have problems, we recommend that you move your collection somewhere else or disable Dropbox while using Bloom.</source>
@@ -4280,7 +4280,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <source xml:lang="en">Share on the Web</source>
         <note>ID: PublishTab.ButtonThatShowsUploadForm</note>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Upload</note>
-        <target xml:lang="sw" state="final">Shiriki kwenye wavuti</target>
+        <target xml:lang="sw" state="final">Weka</target>
       </trans-unit>
       <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Upload your book to BloomLibrary.org so that other people can read it, download it to their devices and share it with other people.</source>
@@ -4290,7 +4290,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="PublishTab.CoverOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Cover</source>
         <note>ID: PublishTab.CoverOnlyRadio</note>
-        <target xml:lang="sw" state="final">Jalada la Kijitabu</target>
+        <target xml:lang="sw" state="final">Ngozi ya Kijitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.CoverOnlyRadio-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Make a PDF of just the front and back (both sides), so you can  print on colored paper.</source>
@@ -4647,7 +4647,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.PrintButton" approved="yes">
         <source xml:lang="en">&amp;Print...</source>
         <note>ID: PublishTab.PrintButton</note>
-        <target xml:lang="sw" state="final">U&amp;chapisha...</target>
+        <target xml:lang="sw" state="final">U&amp;chapishe...</target>
       </trans-unit>
       <trans-unit id="PublishTab.PrologToAdobeEula" approved="yes">
         <source xml:lang="en">Bloom uses Adobe color profiles to convert PDF files from using RGB color to using CMYK color.  This is part of preparing a "PDF for print shop".  You must agree to the following license in order to perform this task in Bloom.</source>
@@ -4669,7 +4669,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.SaveButton" approved="yes">
         <source xml:lang="en">&amp;Save PDF...</source>
         <note>ID: PublishTab.SaveButton</note>
-        <target xml:lang="sw" state="final">&amp; Hifadhi PDF...</target>
+        <target xml:lang="sw" state="final">&amp;Uhifadhi ...</target>
       </trans-unit>
       <trans-unit id="PublishTab.SaveEpub" approved="yes">
         <source xml:lang="en">&amp;Save ePUB...</source>
@@ -4684,7 +4684,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Acknowledgments" approved="yes">
         <source xml:lang="en">Acknowledgments</source>
         <note>ID: PublishTab.Upload.Acknowledgments</note>
-        <target xml:lang="sw" state="final">Shukurani</target>
+        <target xml:lang="sw" state="final">Kukiri</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.AdditionalRequests" approved="yes">
         <source xml:lang="en">Additional Requests: </source>
@@ -4781,13 +4781,13 @@ kisomaji cha ePUB</target>
         <source xml:lang="en">(incomplete translation)</source>
         <note>ID: PublishTab.Upload.IncompleteTranslation</note>
         <note>This is added after the language name, in order to indicate that some parts of the book have not been translated into this language yet.</note>
-        <target xml:lang="sw" state="final">(Tafsiri isiyo kamili)</target>
+        <target xml:lang="sw" state="final">(nusu)</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Languages" approved="yes">
         <source xml:lang="en">Upload Text</source>
         <note>ID: PublishTab.Upload.Languages</note>
         <note>Prior to 4.4, this was "Languages"</note>
-        <target xml:lang="sw" state="final">Pakia Maandishi</target>
+        <target xml:lang="sw" state="final">Lugha</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.License" approved="yes">
         <source xml:lang="en">Usage/License</source>
@@ -4839,7 +4839,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Login.PasswordMismatch" approved="yes">
         <source xml:lang="en">Password and user ID did not match</source>
         <note>ID: PublishTab.Upload.Login.PasswordMismatch</note>
-        <target xml:lang="sw" state="final">Nenosiri na kitambulisho cha mtumiaji havikuambatana</target>
+        <target xml:lang="sw" state="final">Neno la siri na jina lako la utambulizo havikuambatana</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.PleaseAgreeTerms" approved="yes">
         <source xml:lang="en">Please agree to terms of use</source>
@@ -4859,12 +4859,12 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Login.ResetFailed" approved="yes">
         <source xml:lang="en">Reset Password failed</source>
         <note>ID: PublishTab.Upload.Login.ResetFailed</note>
-        <target xml:lang="sw" state="final">Ubadilishaji wa nenosiri umefeli</target>
+        <target xml:lang="sw" state="final">Ubadilishaji wa neno la siri umefeli</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.ResetPassword" approved="yes">
         <source xml:lang="en">Resetting Password</source>
         <note>ID: PublishTab.Upload.Login.ResetPassword</note>
-        <target xml:lang="sw" state="final">Kubadilisha nenosiri</target>
+        <target xml:lang="sw" state="final">Kubadilisha neno la siri</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Login.SendingResetPassword" approved="yes">
         <source xml:lang="en">We are sending an email to {0} with instructions for how to reset your password.</source>
@@ -4897,12 +4897,12 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.MakingPdf" approved="yes">
         <source xml:lang="en">Making PDF Preview...</source>
         <note>ID: PublishTab.Upload.MakingPdf</note>
-        <target xml:lang="sw" state="final">Kutengeneza Uhakiki wa PDF...</target>
+        <target xml:lang="sw" state="final">Kutengeneza PDF Onyesho la awali...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.MakingThumbnail" approved="yes">
         <source xml:lang="en">Making thumbnail image...</source>
         <note>ID: PublishTab.Upload.MakingThumbnail</note>
-        <target xml:lang="sw" state="final">Kutengeneza picha ya kijipicha...</target>
+        <target xml:lang="sw" state="final">Kutengeneza picha ya ukucha wa dole gumbai...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Narration" approved="yes">
         <source xml:lang="en">Narration</source>
@@ -4958,7 +4958,7 @@ kisomaji cha ePUB</target>
       <trans-unit id="PublishTab.Upload.Step2" approved="yes">
         <source xml:lang="en">Step 2: Upload</source>
         <note>ID: PublishTab.Upload.Step2</note>
-        <target xml:lang="sw" state="final">Hatua ya 2: Pakia</target>
+        <target xml:lang="sw" state="final">Hatua ya 2: Weka</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.SuggestAssignCC" approved="yes">
         <source xml:lang="en">Suggestion: Assigning a Creative Commons License makes it easy for you to clearly grant certain permissions to everyone.</source>
@@ -5006,7 +5006,7 @@ Do you want to go ahead?</note>
       <trans-unit id="PublishTab.Upload.UploadButton" approved="yes">
         <source xml:lang="en">Upload Book</source>
         <note>ID: PublishTab.Upload.UploadButton</note>
-        <target xml:lang="sw" state="final">Pakia Kitabu</target>
+        <target xml:lang="sw" state="final">Weka Kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadCompleteNotice" approved="yes">
         <source xml:lang="en">Congratulations, "{0}" is now available on BloomLibrary.org ({1})</source>
@@ -5017,28 +5017,28 @@ Do you want to go ahead?</note>
       <trans-unit id="PublishTab.Upload.UploadNotAllowed" approved="yes">
         <source xml:lang="en">Upload Not Allowed</source>
         <note>ID: PublishTab.Upload.UploadNotAllowed</note>
-        <target xml:lang="sw" state="final">Haikubaliwi Kupakia Kitabu</target>
+        <target xml:lang="sw" state="final">Haikubaliwi Kuweka Kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadProblemNotice" approved="yes">
         <source xml:lang="en">There was a problem uploading your book. You may need to restart Bloom or get technical help.</source>
         <note>ID: PublishTab.Upload.UploadProblemNotice</note>
-        <target xml:lang="sw" state="final">Kulikuwa na tatizo kupakia kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
+        <target xml:lang="sw" state="final">Kulikuwa na tatizo katika kuweka kitabu chako. Unaweza kuhitajika kufungua upya Bloom au kupata usaidizii wa kiufudi.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadProgress" approved="yes">
         <source xml:lang="en">Upload Progress</source>
         <note>ID: PublishTab.Upload.UploadProgress</note>
-        <target xml:lang="sw" state="final">Pakia Maendeleo</target>
+        <target xml:lang="sw" state="final">Hali ya kuendelea kuweka</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadingBookMetadata" approved="yes">
         <source xml:lang="en">Uploading book metadata</source>
         <note>ID: PublishTab.Upload.UploadingBookMetadata</note>
         <note>In this step, Bloom is uploading things like title, languages, and topic tags to the BloomLibrary.org database.</note>
-        <target xml:lang="sw" state="final">Kupakia metadata ya kitabu</target>
+        <target xml:lang="sw" state="final">Kuweka metadata ya kitabu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.UploadingStatus" approved="yes">
         <source xml:lang="en">Uploading {0}</source>
         <note>ID: PublishTab.Upload.UploadingStatus</note>
-        <target xml:lang="sw" state="final">Kupakia {0}</target>
+        <target xml:lang="sw" state="final">Kuweka {0}</target>
       </trans-unit>
       <trans-unit id="Quiz.CheckYourUnderstanding" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Check Your Understanding</source>
@@ -5049,12 +5049,12 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.AddLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Level</source>
         <note>ID: ReaderSetup.AddLevel</note>
-        <target xml:lang="sw" state="final">Ongeza Kiwango</target>
+        <target xml:lang="sw" state="final">Ongeza Ngazi</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.AddStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Add Stage</source>
         <note>ID: ReaderSetup.AddStage</note>
-        <target xml:lang="sw" state="final">Ongeza Hatua</target>
+        <target xml:lang="sw" state="final">Ongeza Awamu</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.AllowedWords" sil:dynamic="true" approved="yes">
         <source xml:lang="en">allowed words</source>
@@ -5095,7 +5095,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.ClickLetter" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Click on letters to add them to this stage.</source>
         <note>ID: ReaderSetup.ClickLetter</note>
-        <target xml:lang="sw" state="final">Bonyeza kwenye herufi ili kuziongeza kwa awamu hii.</target>
+        <target xml:lang="sw" state="final">Kliki kwenye herufi ili kuziongeza kwa awamu hii.</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.DecodableStages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Decodable Stages</source>
@@ -5166,7 +5166,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.LevelHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level</source>
         <note>ID: ReaderSetup.LevelHeader</note>
-        <target xml:lang="sw" state="final">Kiwango</target>
+        <target xml:lang="sw" state="final">Hatua</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.LevelLabelMax" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Level {0} Maximums</source>
@@ -5177,7 +5177,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.Levels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Reader Levels</source>
         <note>ID: ReaderSetup.Levels</note>
-        <target xml:lang="sw" state="final">Viwango vya Msomaji</target>
+        <target xml:lang="sw" state="final">Ngazi za msomaji</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MatchingWords" sil:dynamic="true" approved="yes">
         <source xml:lang="en">matching words</source>
@@ -5291,17 +5291,17 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.ReaderLevels" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Reader Levels</source>
         <note>ID: ReaderSetup.ReaderLevels</note>
-        <target xml:lang="sw" state="final">Viwango vya Msomaji</target>
+        <target xml:lang="sw" state="final">Ngazi za msomaji</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveLevel" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove Level {0}</source>
         <note>ID: ReaderSetup.RemoveLevel</note>
-        <target xml:lang="sw" state="final">Ondoa Kiwango {0}</target>
+        <target xml:lang="sw" state="final">Toa ngazi</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveStage" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove Stage {0}</source>
         <note>ID: ReaderSetup.RemoveStage</note>
-        <target xml:lang="sw" state="final">Ondoa Hatua {0}</target>
+        <target xml:lang="sw" state="final">Toa Awamu {0}</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.RemoveWordList" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Remove from this stage</source>
@@ -5382,7 +5382,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderSetup.SightWordsHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Sight Words</source>
         <note>ID: ReaderSetup.SightWordsHeader</note>
-        <target xml:lang="sw" state="final">Maneno yanayoonekana</target>
+        <target xml:lang="sw" state="final">Majina yanayoonekana</target>
       </trans-unit>
       <trans-unit id="ReaderSetup.StageHeader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stage</source>
@@ -5470,7 +5470,7 @@ Do you want to go ahead?</note>
       <trans-unit id="ReaderTemplateBloomPackDialog.IntroLabel" approved="yes">
         <source xml:lang="en">The following books will be made into templates:</source>
         <note>ID: ReaderTemplateBloomPackDialog.IntroLabel</note>
-        <target xml:lang="sw" state="final">Vitabu vifuatavyo vitafanywa kuwa violezo:</target>
+        <target xml:lang="sw" state="final">Vitabu vifuatavyo vitafanywa kuwa vigezo:</target>
       </trans-unit>
       <trans-unit id="ReaderTemplateBloomPackDialog.IUnderstandCheckboxLabel" approved="yes">
         <source xml:lang="en">I understand what a template is and this is really what I want to do</source>
@@ -5490,7 +5490,7 @@ Do you want to go ahead?</note>
       <trans-unit id="RegisterDialog.Email" approved="yes">
         <source xml:lang="en">Email Address</source>
         <note>ID: RegisterDialog.Email</note>
-        <target xml:lang="sw" state="final">Anwani ya Barua pepe</target>
+        <target xml:lang="sw" state="final">Barua pepe</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.FirstName" approved="yes">
         <source xml:lang="en">First Name</source>
@@ -5517,7 +5517,7 @@ Do you want to go ahead?</note>
       <trans-unit id="RegisterDialog.Organization" approved="yes">
         <source xml:lang="en">Organization</source>
         <note>ID: RegisterDialog.Organization</note>
-        <target xml:lang="sw" state="final">Shirika</target>
+        <target xml:lang="sw" state="final">Mpangilio</target>
       </trans-unit>
       <trans-unit id="RegisterDialog.RegisterButton" approved="yes">
         <source xml:lang="en">&amp;Register</source>
@@ -5644,13 +5644,13 @@ Do you want to go ahead?</note>
       <trans-unit id="ReportProblemDialog.SubmitButton" approved="yes">
         <source xml:lang="en">&amp;Submit</source>
         <note>ID: ReportProblemDialog.SubmitButton</note>
-        <target xml:lang="sw" state="final">U&amp;Wasilisha</target>
+        <target xml:lang="sw" state="final">U&amp;peane</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Submitting" approved="yes">
         <source xml:lang="en">Submitting to server...</source>
         <note>ID: ReportProblemDialog.Submitting</note>
         <note>This is shown while Bloom is sending the problem report to our server.</note>
-        <target xml:lang="sw" state="final">Inapeana kwa seva...</target>
+        <target xml:lang="sw" state="final">Inapeana kwa mtandao...</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.Success" approved="yes">
         <source xml:lang="en">We received your report, thanks for taking the time to help make Bloom better!</source>
@@ -5684,7 +5684,7 @@ Do you want to go ahead?</note>
         <note>ID: ReportProblemDialog.Zipping</note>
         <note>This is shown while Bloom is creating the problem report. It's generally too fast to see, unless you include a large book.</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Zipping up book...</note>
-        <target xml:lang="sw" state="final">Kupakia kitabu...</target>
+        <target xml:lang="sw" state="final">Kufunga kitabu...</target>
       </trans-unit>
       <trans-unit id="ReportProblemDialog.linkLabel1" approved="yes">
         <source xml:lang="en">Will not be private</source>
@@ -5699,7 +5699,7 @@ Do you want to go ahead?</note>
       <trans-unit id="SamplePrintNotification.PleaseNotice" approved="yes">
         <source xml:lang="en">Please notice the sample printer settings below. Use them as a guide while you set up the printer.</source>
         <note>ID: SamplePrintNotification.PleaseNotice</note>
-        <target xml:lang="sw" state="final">Tafadhali tambua sampuli ya mpangilio wa mtambo wa kuchapisha hapa chini. Itumie kama mwongozo unapoandaa mtambo wa kuchapisha.</target>
+        <target xml:lang="sw" state="final">Tafadhali tambua sampuli ya mpangilio wa mtambo wa kuchapisha hapa chini. Utumia kama mwongozo unapoandaa mtambo wa kuchapisha.</target>
       </trans-unit>
       <trans-unit id="SamplePrintNotification.WindowTitle" approved="yes">
         <source xml:lang="en">Sample Print Settings</source>
@@ -6170,7 +6170,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Basic Text &amp; Picture" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Basic Text &amp; Picture</source>
         <note>ID: TemplateBooks.PageLabel.Basic Text &amp; Picture</note>
-        <target xml:lang="sw" state="final">Matini ya Kimsingi&amp; Picha</target>
+        <target xml:lang="sw" state="final">Matini ya Kimsingi na Picha</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Big Picture Diglot Text Over Video" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Big Picture Diglot Text Over Video</source>
@@ -6327,7 +6327,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.PageLabel.Picture &amp; Word" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture &amp; Word</source>
         <note>ID: TemplateBooks.PageLabel.Picture &amp; Word</note>
-        <target xml:lang="sw" state="final">Picha &amp; Neno</target>
+        <target xml:lang="sw" state="final">Picha na neno</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.PageLabel.Picture in Middle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture in Middle</source>
@@ -6530,7 +6530,7 @@ Do you want to go ahead?</note>
         <source xml:lang="en">Traditional Story</source>
         <note>ID: Topics.Traditional Story</note>
         <note>shows in the topics chooser in the edit tab</note>
-        <target xml:lang="sw" state="final">Hadithi ya Kitamaduni</target>
+        <target xml:lang="sw" state="final">Hadithi za Kitamaduni</target>
       </trans-unit>
       <trans-unit id="Warning" approved="yes">
         <source xml:lang="en">Warning</source>
