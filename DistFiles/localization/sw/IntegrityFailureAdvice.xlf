@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="integrity.causes" approved="yes">
         <source xml:lang="en">Possible Causes</source>
-        <target xml:lang="sw" state="final">Sababu zinazowezekana</target>
+        <target xml:lang="sw" state="final">Sababu</target>
         <note>ID: integrity.causes</note>
       </trans-unit>
       <trans-unit id="integrity.causes.1" approved="yes">
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="integrity.todo" approved="yes">
         <source xml:lang="en">What To Do</source>
-        <target xml:lang="sw" state="final">Cha Kufanya</target>
+        <target xml:lang="sw" state="final">Unachopaswa Kufanya</target>
         <note>ID: integrity.todo</note>
       </trans-unit>
       <trans-unit id="integrity.todo.ideas" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="integrity.todo.ideas.Reinstall" approved="yes">
         <source xml:lang="en">Run the Bloom installer again, and see if it starts up OK this time.</source>
-        <target xml:lang="sw" state="final">Fungua kifaa cha kusakinisha Bloom tena, na uone iwapo itafunguka vizuri wakati huu.</target>
+        <target xml:lang="sw" state="final">Fungua kifaa cha kuweka Bloom tena, na uone iwapo itafunguka vyema wakati huu.</target>
         <note>ID: integrity.todo.ideas.Reinstall</note>
       </trans-unit>
       <trans-unit id="integrity.todo.ideas.Antivirus" approved="yes">
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="integrity.missing" approved="yes">
         <source xml:lang="en">Missing Files</source>
-        <target xml:lang="sw" state="final">Mafaili yaliyopotea</target>
+        <target xml:lang="sw" state="final">Faili Zilizopotea</target>
         <note>ID: integrity.missing</note>
       </trans-unit>
     </body>
