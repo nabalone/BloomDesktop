@@ -4082,7 +4082,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">Talking Book Languages</source>
         <note>ID: PublishTab.Android.TalkingBookLanguages</note>
         <note>Which languages will have the "Talking Book" (books with both text and narrated audio) feature enabled</note>
-        <target xml:lang="es-ES" state="needs-translation">Talking Book Languages</target>
+        <target xml:lang="es-ES" state="translated">Idiomas de los audiolibros</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.TextLanguages" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Text Languages</source>
