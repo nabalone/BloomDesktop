@@ -3383,11 +3383,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="ru" state="final">О программе Bloom</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="ru" state="translated">Помощь. Очень много помощи!</target>
+        <target xml:lang="ru" state="final">Помощь. Очень много помощи!</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -4515,8 +4515,7 @@
         <source xml:lang="en">The book's images might have exceeded the amount of RAM memory available. Please turn on the "Use Less Memory" option which is slower but uses less memory.</source>
         <note>ID: PublishTab.PDF.Error.TrySinglePage</note>
         <note>Error message displayed in a message dialog box.</note>
-        <target xml:lang="ru" state="translated">Изображения в книге могли превышать объем доступной оперативной памяти. Включите параметр «Использовать меньше памяти», который работает медленнее, но использует меньше памяти.
-</target>
+        <target xml:lang="ru" state="translated">Изображения в книге могли превышать объем доступной оперативной памяти. Включите параметр «Использовать меньше памяти», который работает медленнее, но использует меньше памяти.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.BadPdf" approved="yes">
         <source xml:lang="en">Bloom had a problem making a PDF of this book. You may need technical help or to contact the developers. But here are some things you can try:</source>
@@ -5206,6 +5205,7 @@ Do you want to go ahead?</note>
         <note>follows headings like "Level 1 Maximum" and "Words". Should combine with those to convey "Maximum average words per page" (in book is implied). Surround text that should be bold in double asterisks.</note>
         <target xml:lang="ru" state="translated">
           
+          
 Среднее по <g id="mawpp-1" ctype="x-html-strong">Странице</g></target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MaxAverageSentencesPerPage" sil:dynamic="true">
@@ -5216,7 +5216,9 @@ Do you want to go ahead?</note>
         <note>follows headings like "Level 1 Maximum" and "Sentences". Should combine with those to convey "Maximum sentences per page". Surround text that should be bold in double asterisks.</note>
         <target xml:lang="ru" state="translated">
           
+          
 Среднее по <g id="maspp-1" ctype="x-html-strong">странице</g>        
+        
         </target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MaxGlyphsPerWord" sil:dynamic="true">
@@ -5233,7 +5235,9 @@ Do you want to go ahead?</note>
         <note>follows headings like "Level 1 Maximum" and "Sentences". Should combine with those to convey "Maximum sentences per page". Surround text that should be bold in double asterisks.</note>
         <target xml:lang="ru" state="translated">
           
+          
 За<g id="mspp-1" ctype="x-html-strong">страницу</g>        
+        
         </target>
       </trans-unit>
       <trans-unit id="ReaderSetup.MaxUniqueWords" sil:dynamic="true" approved="yes">
