@@ -180,7 +180,7 @@
       <trans-unit id="BloomPackInstallDialog.DoesNotExist" approved="yes">
         <source xml:lang="en">{0} does not exist</source>
         <note>ID: BloomPackInstallDialog.DoesNotExist</note>
-        <target xml:lang="mam" state="final">mixti' {0} </target>
+        <target xml:lang="mam" state="final">mixti' {0}</target>
       </trans-unit>
       <trans-unit id="BloomPackInstallDialog.ErrorInstallingBloomPack" approved="yes">
         <source xml:lang="en">Bloom was not able to install that Bloom Pack</source>
@@ -1371,7 +1371,7 @@
       <trans-unit id="EditTab.ChooseLayoutButton" approved="yes">
         <source xml:lang="en">Choose Different Layout</source>
         <note>ID: EditTab.ChooseLayoutButton</note>
-        <target xml:lang="mam" state="final">Qsak'etil juntl ak'aj tumlal </target>
+        <target xml:lang="mam" state="final">Qsak'etil juntl ak'aj tumlal</target>
       </trans-unit>
       <trans-unit id="EditTab.ConfirmRemovePageDialog.ConformRemovePageWindowTitle" approved="yes">
         <source xml:lang="en">Really Remove Page?</source>
@@ -1954,7 +1954,7 @@
       <trans-unit id="EditTab.FrontMatter.SimpleLineDrawings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Simple line drawings look best. Instead of using this page, you can also make your own thumbnail.png file and set it to Read-only so Bloom doesn't write over it.</source>
         <note>ID: EditTab.FrontMatter.SimpleLineDrawings</note>
-        <target xml:lang="mam" state="final">Qe tilb'ilal tuk' qe sqit tb'anil chi kye'yin. Te t-xel ttenb'il u'j lu', jaku b'ant tu'n tkub' tb'incha'na jun  thumbnail.png  (tal b'o'tz) ex tu'n tku'x tsqitina O'kx te u'jb'il (Read-only) tu'ntzun min ku'b' ttz'ib'an Bloom tib'aj b'o'tz techil. </target>
+        <target xml:lang="mam" state="final">Qe tilb'ilal tuk' qe sqit tb'anil chi kye'yin. Te t-xel ttenb'il u'j lu', jaku b'ant tu'n tkub' tb'incha'na jun  thumbnail.png  (tal b'o'tz) ex tu'n tku'x tsqitina O'kx te u'jb'il (Read-only) tu'ntzun min ku'b' ttz'ib'an Bloom tib'aj b'o'tz techil.</target>
       </trans-unit>
       <trans-unit id="EditTab.FrontMatter.SingleImageCredit" approved="yes">
         <source xml:lang="en">Image on page {0} by {1}.</source>
@@ -2071,7 +2071,7 @@
         <source xml:lang="en">This book is temporarily unlocked.</source>
         <note>ID: EditTab.LockBook.ToolTip</note>
         <note>Button that tells Bloom to re-lock a shell book so it can't be modified (other than translation).</note>
-        <target xml:lang="mam" state="final">Mya' maqo'n u'jb'il te amb'il lu'. </target>
+        <target xml:lang="mam" state="final">Mya' maqo'n u'jb'il te amb'il lu'.</target>
       </trans-unit>
       <trans-unit id="EditTab.Monolingual" approved="yes">
         <source xml:lang="en">One Language</source>
@@ -2116,12 +2116,12 @@
         <source xml:lang="en">A container on this page is overflowing</source>
         <note>ID: EditTab.OverflowContainer</note>
         <note>This shows up in pages like the cover where sizing is very flexible. No one thing is too big, but not everything on the page will fit. To see it, put a lot of text on a cover page, until a red bar appears at the bottom; then hover over the bar. </note>
-        <target xml:lang="mam" state="final">Ma jaw piq'un jun k'ub'il  toj t-xaq lu'. </target>
+        <target xml:lang="mam" state="final">Ma jaw piq'un jun k'ub'il  toj t-xaq lu'.</target>
       </trans-unit>
       <trans-unit id="EditTab.PageList.CantMoveXMatter" approved="yes">
         <source xml:lang="en">That change is not allowed. Front matter and back matter pages must remain where they are.</source>
         <note>ID: EditTab.PageList.CantMoveXMatter</note>
-        <target xml:lang="mam" state="final">Mixti' nk'amet tx'ixpu'b'il lu'. Qe t-xaq te tnejil tqanil na'mxtaq t-xi' xtokit ex xtokintl ilti'j tu'n kyten toj kytenb'il. </target>
+        <target xml:lang="mam" state="final">Mixti' nk'amet tx'ixpu'b'il lu'. Qe t-xaq te tnejil tqanil na'mxtaq t-xi' xtokit ex xtokintl ilti'j tu'n kyten toj kytenb'il.</target>
       </trans-unit>
       <trans-unit id="EditTab.PageList.Heading" approved="yes">
         <source xml:lang="en">Pages</source>
@@ -2131,7 +2131,7 @@
       <trans-unit id="EditTab.PageSizeAndOrientation.Tooltip" approved="yes">
         <source xml:lang="en">Choose a page size and orientation</source>
         <note>ID: EditTab.PageSizeAndOrientation.Tooltip</note>
-        <target xml:lang="mam" state="final">Sak'onkytza twe'  ex tten t-xaq u'j. </target>
+        <target xml:lang="mam" state="final">Sak'onkytza twe'  ex tten t-xaq u'j.</target>
       </trans-unit>
       <trans-unit id="EditTab.PasteButton" approved="yes">
         <source xml:lang="en">Paste</source>
@@ -2188,7 +2188,7 @@
       <trans-unit id="EditTab.TextBoxProperties.BorderSides" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Border Sides</source>
         <note>ID: EditTab.TextBoxProperties.BorderSides</note>
-        <target xml:lang="mam" state="final">Ttxlaj ttxa'n </target>
+        <target xml:lang="mam" state="final">Ttxlaj ttxa'n</target>
       </trans-unit>
       <trans-unit id="EditTab.TextBoxProperties.BorderStyle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Border Style</source>
@@ -2724,7 +2724,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Leveled Reader Tool</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool</note>
-        <target xml:lang="mam" state="final">Aq'unb'il kye U'jb'il Aq'unanqe'. </target>
+        <target xml:lang="mam" state="final">Aq'unb'il kye U'jb'il Aq'unanqe'.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.Actual" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Actual</source>
@@ -2752,7 +2752,7 @@
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.ChoiceOfTopic" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Choice of Topic</source>
         <note>ID: EditTab.Toolbox.LeveledReaderTool.ChoiceOfTopic</note>
-        <target xml:lang="mam" state="final">Sik'ob'il tb'i xnaq'tz. </target>
+        <target xml:lang="mam" state="final">Sik'ob'il tb'i xnaq'tz.</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.LeveledReaderTool.CopyBookStatistics" sil:dynamic="true">
         <source xml:lang="en">Copy Book Stats</source>
@@ -3204,7 +3204,7 @@
       <trans-unit id="Errors.BookProblem" approved="yes">
         <source xml:lang="en">Bloom had a problem showing this book. This doesn't mean your work is lost, but it does mean that something is out of date, is missing, or has gone wrong.</source>
         <note>ID: Errors.BookProblem</note>
-        <target xml:lang="mam" state="final">Nti' ma tzaj tyek'an Bloom u'jb'il lu'. Mya' tu'n tlaj qa ma tz'el naj taq'una, naqtzun aju in tq'uma'n qa at jun aq'unb'il mya' b'an ta'ya ma qa ma kub' tzakj jun makb'il ti'j. </target>
+        <target xml:lang="mam" state="final">Nti' ma tzaj tyek'an Bloom u'jb'il lu'. Mya' tu'n tlaj qa ma tz'el naj taq'una, naqtzun aju in tq'uma'n qa at jun aq'unb'il mya' b'an ta'ya ma qa ma kub' tzakj jun makb'il ti'j.</target>
       </trans-unit>
       <trans-unit id="Errors.CopyImageMetadata">
         <source xml:lang="en">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</source>
@@ -3383,11 +3383,11 @@
         <note xml:lang="en">OLD TEXT (before 3.9, added dots): About Bloom</note>
         <target xml:lang="mam" state="final">Pakb'al tib'aj Bloom...</target>
       </trans-unit>
-      <trans-unit id="HelpMenu.DocumentationMenuItem">
+      <trans-unit id="HelpMenu.DocumentationMenuItem" approved="yes">
         <source xml:lang="en">Browse Help...</source>
         <note>ID: HelpMenu.DocumentationMenuItem</note>
         <note>Prior to 5.0, this was "Documentation"</note>
-        <target xml:lang="mam" state="translated">U'jb'il (inglés)</target>
+        <target xml:lang="mam" state="final">U'jb'il (inglés)</target>
       </trans-unit>
       <trans-unit id="HelpMenu.Help Menu" approved="yes">
         <source xml:lang="en">Help</source>
@@ -4074,7 +4074,7 @@
       <trans-unit id="PublishTab.Android.Settings" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Settings</source>
         <note>ID: PublishTab.Android.Settings</note>
-        <target xml:lang="mam" state="final">B'inchal tumlal aq'unb'il </target>
+        <target xml:lang="mam" state="final">B'inchal tumlal aq'unb'il</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.TextLanguages" sil:dynamic="true">
         <source xml:lang="en">Text Languages</source>
@@ -4207,7 +4207,7 @@
       <trans-unit id="PublishTab.Android.Wifi.Progress.Stopped" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Stopped Advertising.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
-        <target xml:lang="mam" state="final">Min tq'uma'ntl tqanil </target>
+        <target xml:lang="mam" state="final">Min tq'uma'ntl tqanil</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
@@ -4476,11 +4476,11 @@
         <note>Header for a region of the menu which lists various options useful for jobs that will be printed at a commercial print shop</note>
         <target xml:lang="mam" state="needs-translation">Prepare for Print Shop:</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Options_ToolTip_">
+      <trans-unit id="PublishTab.Options_ToolTip_" approved="yes">
         <source xml:lang="en">Choose print shop setup</source>
         <note>ID: PublishTab.Options_ToolTip_</note>
         <note>tooltip for the menu header in the Publish tab</note>
-        <target xml:lang="mam" state="translated">Sak'onkytza twe' ex qa q'e'l mo wa'l t-xaq</target>
+        <target xml:lang="mam" state="final">Sak'onkytza twe' ex qa q'e'l mo wa'l t-xaq</target>
       </trans-unit>
       <trans-unit id="PublishTab.OverwriteWarning.ReplaceExistingButton" approved="yes">
         <source xml:lang="en">Replace Existing</source>
@@ -4618,7 +4618,7 @@
       <trans-unit id="PublishTab.PdfMaker.TryMoreMemory" approved="yes">
         <source xml:lang="en">Try doing this on a computer with more memory</source>
         <note>ID: PublishTab.PdfMaker.TryMoreMemory</note>
-        <target xml:lang="mam" state="final">B'inchanxa aq'untl lu toj juntl xk'utz'ib' at nim amb'il tokx toj. </target>
+        <target xml:lang="mam" state="final">B'inchanxa aq'untl lu toj juntl xk'utz'ib' at nim amb'il tokx toj.</target>
       </trans-unit>
       <trans-unit id="PublishTab.PdfMaker.TryRestart" approved="yes">
         <source xml:lang="en">Restart your computer and try this again right away</source>
@@ -4697,7 +4697,7 @@
       <trans-unit id="PublishTab.Upload.BackgroundMusic" approved="yes">
         <source xml:lang="en">Background Music</source>
         <note>ID: PublishTab.Upload.BackgroundMusic</note>
-        <target xml:lang="mam" state="final">Tq'ojq'oj twi' chnab' </target>
+        <target xml:lang="mam" state="final">Tq'ojq'oj twi' chnab'</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.Cancelled" approved="yes">
         <source xml:lang="en">Upload was cancelled</source>
@@ -4773,7 +4773,7 @@
       <trans-unit id="PublishTab.Upload.HelpEachOther" approved="yes">
         <source xml:lang="en">In the Bloom community, we help each other by sharing both new and newly translated books on the Bloom Library.</source>
         <note>ID: PublishTab.Upload.HelpEachOther</note>
-        <target xml:lang="mam" state="final">Toj k'loj xjal te Bloom, in b'aj qsipan ak'aj miltz'u'n u'jb'il toj ja te u'jb'il te Bloom (Bloom Library). </target>
+        <target xml:lang="mam" state="final">Toj k'loj xjal te Bloom, in b'aj qsipan ak'aj miltz'u'n u'jb'il toj ja te u'jb'il te Bloom (Bloom Library).</target>
       </trans-unit>
       <trans-unit id="PublishTab.Upload.IncompleteTranslation" approved="yes">
         <source xml:lang="en">(incomplete translation)</source>
