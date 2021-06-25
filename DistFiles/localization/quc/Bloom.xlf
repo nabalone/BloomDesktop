@@ -3909,6 +3909,12 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note/>
         <target xml:lang="quc" state="translated">Rech utaqik pa USB, kaj ne rajawaxik uk'amil r k'a'm qas are',  ukujok chajinelab'  chcech ri  oyonib'al pa ri kematz'ib o uk'exik ri ilol rech ri oyonib'al.</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true">
+        <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
+        <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
+        <note/>
+        <target xml:lang="quc" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
@@ -4122,6 +4128,7 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="quc" state="final">Le jule' taq wiqkemchakub'al e tiqitalik xa are man katajin ta kechaku ruk' Bloom Reader:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true" approved="yes">
@@ -4129,11 +4136,12 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
         <target xml:lang="quc" state="final">Xaq chakuyu' xk'ulmataj jun k'axk'olil xuquje' le no'jwuj man xtaq ta ub'ik pa le wiqkemchakub'al Android.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
+        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for file transfer (MTP)...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
-        <target xml:lang="quc" state="final">Katajin ktzukux jun wiqkemchakub'al Android tiqom ruk' le k'a'mq'axb'al rech USB xuquje' suk'umam chech MTP...</target>
+        <note>Prior to 5.0, this was "Looking for an Android device connected by USB cable and set up for MTP..."</note>
+        <target xml:lang="quc" state="translated">Katajin ktzukux jun wiqkemchakub'al Android tiqom ruk' le k'a'mq'axb'al rech USB xuquje' suk'umam chech MTP...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
@@ -4141,11 +4149,11 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>{0} is a book title</note>
         <target xml:lang="quc" state="final">Katajin kutzukuj le no'jwuj "{0}" k'o chik...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
+        <source xml:lang="en">Please connect only one of the following devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
-        <note>{0} is a book title</note>
-        <target xml:lang="quc" state="final">Bloom Reader katajin kjeqeb'ax pa ronojel taq le wiqkemchakub'al e tiqitalik. Chab'ana jun toq'ob'. Chab'ana jun toq'ob' chatiqa xa ju chi kech e are'.</target>
+        <note>Prior to 5.0, this was "The following connected devices all have Bloom Reader installed. Please connect only one of these devices."</note>
+        <target xml:lang="quc" state="translated">Bloom Reader katajin kjeqeb'ax pa ronojel taq le wiqkemchakub'al e tiqitalik. Chab'ana jun toq'ob'. Chab'ana jun toq'ob' chatiqa xa ju chi kech e are'.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No device found. Still looking...</source>
@@ -4175,10 +4183,11 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
         <target xml:lang="quc" state="final">Xqatex uwach</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
+        <source xml:lang="en">Unable to connect to any Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
-        <target xml:lang="quc" state="final">Man loq' ta utiqik pa ruk' jun wiqkem chakub'al Android chi k'o Bloom Reader chech.</target>
+        <note>Prior to 5.0, this was "Unable to connect to any Android device which has Bloom Reader."</note>
+        <target xml:lang="quc" state="translated">Man loq' ta utiqik pa ruk' jun wiqkem chakub'al Android chi k'o Bloom Reader chech.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connect with USB cable</source>
@@ -4218,10 +4227,11 @@ K'amab’al no’j, chya uq'ij ri q'axanel tzijob'al rech we jun rilik ub'ixik.<
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
         <target xml:lang="quc" state="final">Xutanab'a' ub'ixik.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
+        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books via WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
-        <target xml:lang="quc" state="final">Pa le wiqkemchakub'al Android, chab'ana' ukojik Bloom Reader, chatoro le cholb'al chak k'ate k'u ri' chacha' Uk'amik le no'jtaq wuj ruk' WiFi'.</target>
+        <note>Prior to 5.0, this was "On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'."</note>
+        <target xml:lang="quc" state="translated">Pa le wiqkemchakub'al Android, chab'ana' ukojik Bloom Reader, chatoro le cholb'al chak k'ate k'u ri' chacha' Uk'amik le no'jtaq wuj ruk' WiFi'.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
