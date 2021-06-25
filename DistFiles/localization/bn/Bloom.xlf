@@ -3907,6 +3907,12 @@
         <note/>
         <target xml:lang="bn" state="final">ইউএসবির মাধ্যমে প্রেরণ করতে, আপনার সঠিক তারের  প্রয়োজন হতে পারে, আপনার কম্পিউটারে ফোন ড্রাইভার ইনস্টল করুন, বা আপনার ফোনে সেটিংস পরিবর্তন করুন ।</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true">
+        <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
+        <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
+        <note/>
+        <target xml:lang="bn" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
@@ -4119,6 +4125,7 @@
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="bn" state="final">নিম্নবর্ণিত ডিভাইসগুলি যুক্ত আছে কিন্তু ব্লুম পুস্তক চলমান আছে বলে মনে হয় না।</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true" approved="yes">
@@ -4126,11 +4133,12 @@
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
         <target xml:lang="bn" state="final">একটি ত্রুটি দেখা দিয়েছে এবং বইটি আপনার অ্যান্ড্রয়েড ডিভাইসে পাঠানো হয় নি।</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
+        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for file transfer (MTP)...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
-        <target xml:lang="bn" state="final">USB কেবল দ্বারা সংযুক্ত অ্যান্ড্রয়েড ডিভাইসের এবং MTP সেট আপ করার জন্য অনুসন্ধান চলছে...</target>
+        <note>Prior to 5.0, this was "Looking for an Android device connected by USB cable and set up for MTP..."</note>
+        <target xml:lang="bn" state="translated">USB কেবল দ্বারা সংযুক্ত অ্যান্ড্রয়েড ডিভাইসের এবং MTP সেট আপ করার জন্য অনুসন্ধান চলছে...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
@@ -4138,11 +4146,11 @@
         <note>{0} is a book title</note>
         <target xml:lang="bn" state="final">বিদ্যমান "{0}"এর অনুসন্ধান চলছে...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
+        <source xml:lang="en">Please connect only one of the following devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
-        <note>{0} is a book title</note>
-        <target xml:lang="bn" state="final">নিম্নলিখিত সমস্ত সংযুক্ত ডিভাইসগুলিতে ব্লুম পুস্তক সংস্থাপন করা আছে। দয়া করে এর মধ্য থেকে একটি মাত্র ডিভাইস সংযুক্ত করুন।</target>
+        <note>Prior to 5.0, this was "The following connected devices all have Bloom Reader installed. Please connect only one of these devices."</note>
+        <target xml:lang="bn" state="translated">নিম্নলিখিত সমস্ত সংযুক্ত ডিভাইসগুলিতে ব্লুম পুস্তক সংস্থাপন করা আছে। দয়া করে এর মধ্য থেকে একটি মাত্র ডিভাইস সংযুক্ত করুন।</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No device found. Still looking...</source>
@@ -4172,10 +4180,11 @@
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
         <target xml:lang="bn" state="final">বন্ধ হয়ে গেছে</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
+        <source xml:lang="en">Unable to connect to any Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
-        <target xml:lang="bn" state="final">ব্লুম রিডার আছে এমন কোন আন্ড্রোইড ডিভাইসের সাথে সংযুক্ত হতে অসমর্থ।</target>
+        <note>Prior to 5.0, this was "Unable to connect to any Android device which has Bloom Reader."</note>
+        <target xml:lang="bn" state="translated">ব্লুম রিডার আছে এমন কোন আন্ড্রোইড ডিভাইসের সাথে সংযুক্ত হতে অসমর্থ।</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connect with USB cable</source>
@@ -4215,10 +4224,11 @@
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
         <target xml:lang="bn" state="final">বিজ্ঞাপন বন্ধ।</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
+        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books via WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
-        <target xml:lang="bn" state="final">অ্যান্ড্রয়েডে ব্লুম পুস্তক চালান, তালিকা খুলুন এবং ‘কম্পিউটার থেকে বই গ্রহন করুন‘ চয়ন করুন।</target>
+        <note>Prior to 5.0, this was "On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'."</note>
+        <target xml:lang="bn" state="translated">অ্যান্ড্রয়েডে ব্লুম পুস্তক চালান, তালিকা খুলুন এবং ‘কম্পিউটার থেকে বই গ্রহন করুন‘ চয়ন করুন।</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
