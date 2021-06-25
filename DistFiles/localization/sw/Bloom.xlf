@@ -3908,6 +3908,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note/>
         <target xml:lang="sw" state="final">Kutuma kupitia USB, huenda ukahitaji kupata kebo inayofaa, sakinisha kiendeshaji cha simu kwenye kompyuta yako, au rekebisha mipangilio kwenye simu yako.</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true">
+        <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
+        <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
+        <note/>
+        <target xml:lang="sw" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
@@ -4120,6 +4126,7 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="sw" state="final">Vifaa vifuatavyo vimeunganishwa lakini havionekani kuwa na Bloom Reader inayofanya kazi:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true" approved="yes">
@@ -4127,11 +4134,12 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: PublishTab.Android.Usb.Progress.FailureToSend</note>
         <target xml:lang="sw" state="final">Hitilafu ilitokea na kitabu hakikutumwa kwa kifaa chako cha Android.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
+        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for file transfer (MTP)...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
-        <target xml:lang="sw" state="final">Inatafuta kifaa cha Android kilichounganishwa na kebo ya USB na kusanidiwa kwa MTP...</target>
+        <note>Prior to 5.0, this was "Looking for an Android device connected by USB cable and set up for MTP..."</note>
+        <target xml:lang="sw" state="translated">Inatafuta kifaa cha Android kilichounganishwa na kebo ya USB na kusanidiwa kwa MTP...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
@@ -4139,11 +4147,11 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>{0} is a book title</note>
         <target xml:lang="sw" state="final">Inatafuta "{0}" iliyopo...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
+        <source xml:lang="en">Please connect only one of the following devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
-        <note>{0} is a book title</note>
-        <target xml:lang="sw" state="final">Vifaa vifuatavyo vilivyounganishwa vyote vimewekwa Bloom Reader. Tafadhali unganisha moja tu ya vifaa hivi.</target>
+        <note>Prior to 5.0, this was "The following connected devices all have Bloom Reader installed. Please connect only one of these devices."</note>
+        <target xml:lang="sw" state="translated">Vifaa vifuatavyo vilivyounganishwa vyote vimewekwa Bloom Reader. Tafadhali unganisha moja tu ya vifaa hivi.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No device found. Still looking...</source>
@@ -4173,10 +4181,11 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
         <target xml:lang="sw" state="final">Imesimamishwa</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
+      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
+        <source xml:lang="en">Unable to connect to any Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
-        <target xml:lang="sw" state="final">Imeshindwa kuunganisha kwenye kifaa chochote cha Android ambacho kina Bloom Reader.</target>
+        <note>Prior to 5.0, this was "Unable to connect to any Android device which has Bloom Reader."</note>
+        <target xml:lang="sw" state="translated">Imeshindwa kuunganisha kwenye kifaa chochote cha Android ambacho kina Bloom Reader.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connect with USB cable</source>
@@ -4216,10 +4225,11 @@ Hadi wakati ambapo vitabu vya kiwango na kufasiriwa vitakapobereshwa, ni muhimu 
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
         <target xml:lang="sw" state="final">Ilisimamisha matangazo.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
-        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
+        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books via WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
-        <target xml:lang="sw" state="final">Kwenye Android, endesha Bloom Reader, fungua menyu na uchague 'Pokea Vitabu kutoka kwa kompyuta'.</target>
+        <note>Prior to 5.0, this was "On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'."</note>
+        <target xml:lang="sw" state="translated">Kwenye Android, endesha Bloom Reader, fungua menyu na uchague 'Pokea Vitabu kutoka kwa kompyuta'.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
