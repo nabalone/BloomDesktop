@@ -3909,6 +3909,12 @@
                             cable, install phone drivers on your computer, or
                             modify settings on your phone.</target>
       </trans-unit>
+      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true">
+        <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
+        <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
+        <note/>
+        <target xml:lang="tr" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+      </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true">
         <source xml:lang="en">No Wi-Fi Network?</source>
         <note>ID: PublishTab.Android.WiFi.Hint.Heading</note>
@@ -4121,6 +4127,7 @@
       <trans-unit id="PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader" sil:dynamic="true">
         <source xml:lang="en">The following devices are connected but do not seem to have Bloom Reader running:</source>
         <note>ID: PublishTab.Android.Usb.Progress.DeviceWithoutBloomReader</note>
+        <note>Obsolete as of Bloom 5.0</note>
         <target xml:lang="tr" state="translated">Aşağıda ki aygıtlar bağlı görünüyor fakat Bloom okuyucusu çalışır durumda görünmüyor:</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.FailureToSend" sil:dynamic="true">
@@ -4129,9 +4136,10 @@
         <target xml:lang="tr" state="translated">Bir hata oluştu ve kitap Android cihazınıza gönderilmedi.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForDevice" sil:dynamic="true">
-        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for MTP...</source>
+        <source xml:lang="en">Looking for an Android device connected by USB cable and set up for file transfer (MTP)...</source>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
+        <note>Prior to 5.0, this was "Looking for an Android device connected by USB cable and set up for MTP..."</note>
         <target xml:lang="tr" state="translated">USB kablosuyla bağlı ve MTP için ayarlanmış bir Android cihaz aranıyor...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true">
@@ -4141,9 +4149,9 @@
         <target xml:lang="tr" state="translated">Varolan bir "{0}" bakılıyor...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
-        <source xml:lang="en">The following connected devices all have Bloom Reader installed. Please connect only one of these devices.</source>
+        <source xml:lang="en">Please connect only one of the following devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
-        <note>{0} is a book title</note>
+        <note>Prior to 5.0, this was "The following connected devices all have Bloom Reader installed. Please connect only one of these devices."</note>
         <target xml:lang="tr" state="translated">Aşşağıdaki aygıtların hepsinde Bloom Reader yüklü. Lütfen sadece bir tane aygıt bağlayın.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true">
@@ -4175,8 +4183,9 @@
         <target xml:lang="tr" state="translated">Durduruldu</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
-        <source xml:lang="en">Unable to connect to any Android device which has Bloom Reader.</source>
+        <source xml:lang="en">Unable to connect to any Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
+        <note>Prior to 5.0, this was "Unable to connect to any Android device which has Bloom Reader."</note>
         <target xml:lang="tr" state="translated">Bloom okuyucu olan herhangi bir cihaza bağlanılamıyor.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true">
@@ -4218,8 +4227,9 @@
         <target xml:lang="tr" state="translated">Reklam durduruldu.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
-        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'.</source>
+        <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books via WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
+        <note>Prior to 5.0, this was "On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'."</note>
         <target xml:lang="tr" state="translated">Android'de Bloom Reader'ı çalıştırın, menüyü açın ve 'Kablosuz üzerinden Kitap Al' ı seçin.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true">
