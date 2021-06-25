@@ -3909,11 +3909,11 @@
                             installer des pilotes de téléphone sur votre ordinateur, ou
                             modifier les paramètres sur votre téléphone.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.USB.OpenMenuItem" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
         <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
         <note/>
-        <target xml:lang="fr" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+        <target xml:lang="fr" state="final">Sur l'appareil Android, exécutez Bloom Reader, ouvrez le menu et sélectionnez "Recevoir les livres via USB".</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
