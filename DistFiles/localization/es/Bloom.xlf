@@ -3913,7 +3913,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
         <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
         <note/>
-        <target xml:lang="es-ES" state="needs-translation">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</target>
+        <target xml:lang="es-ES" state="translated">En el dispositivo Android, ejecuta Bloom Reader, abra el menú y elige 'Receive books via USB' ('Recibir libros por USB").</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
