@@ -399,25 +399,25 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AdvancedProgramSettingsTabLabel</note>
         <target xml:lang="es-ES" state="final">Configuración avanzada del programa</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate">
+      <trans-unit id="CollectionSettingsDialog.AdvancedTab.AutoUpdate" approved="yes">
         <source xml:lang="en">Automatically Update Bloom</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.AutoUpdate</note>
-        <target xml:lang="es-ES" state="translated">Actualizar Bloom automáticamente</target>
+        <target xml:lang="es-ES" state="final">Actualizar Bloom automáticamente</target>
       </trans-unit>
-      <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ExperimentalFeatures">
+      <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ExperimentalFeatures" approved="yes">
         <source xml:lang="en">Experimental Features</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.Experimental.ExperimentalFeatures</note>
         <note>This string is now a heading for a collection of checkboxes rather than a checkbox itself.</note>
         <note xml:lang="en">OLD TEXT (before 5.0): Show Experimental Features</note>
         <note xml:lang="en">OLD TEXT (before 4.3): Show Experimental Commands</note>
         <note xml:lang="en">OLD TEXT (before 3.9): Show Experimental Commands (e.g. Export XML for InDesign)</note>
-        <target xml:lang="es-ES" state="translated">Funciones Experimentales</target>
+        <target xml:lang="es-ES" state="final">Funciones experimentales</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources">
         <source xml:lang="en">Show Experimental Book Sources</source>
         <note>ID: CollectionSettingsDialog.AdvancedTab.Experimental.ShowExperimentalBookSources</note>
         <note>OLD TEXT (before 5.0/3.9): Show Experimental Templates (e.g. Picture Dictionary)</note>
-        <target xml:lang="es-ES" state="translated">Mostrar las Funciones Experimentales</target>
+        <target xml:lang="es-ES" state="translated">Mostrar fuentes de libros experimentales</target>
       </trans-unit>
       <trans-unit id="CollectionSettingsDialog.AndikaNewBasicUpdate1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Bloom is switching the default font for "{0}" to the new "Andika New Basic".</source>
@@ -1224,11 +1224,11 @@ Luego suelte la tecla que apretó para mostrar esta lista.</target>
         <note>Used to point the user to a web page. Put the '{0}' where the web page URL will go.</note>
         <target xml:lang="es-ES" state="final">Ver {0}.</target>
       </trans-unit>
-      <trans-unit id="Common.SelectAll">
+      <trans-unit id="Common.SelectAll" approved="yes">
         <source xml:lang="en">Select all</source>
         <note>ID: Common.SelectAll</note>
         <note>used for a menu item for selecting all text in a text box</note>
-        <target xml:lang="es-ES" state="translated">Seleccione todo</target>
+        <target xml:lang="es-ES" state="final">Seleccione todo</target>
       </trans-unit>
       <trans-unit id="Common.Settings" approved="yes">
         <source xml:lang="en">Settings</source>
@@ -2374,11 +2374,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>This style represents a description which is not directly stated by any characters.</note>
         <target xml:lang="es-ES" state="final">Título</target>
       </trans-unit>
-      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Circle" sil:dynamic="true">
+      <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Circle" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Circle</source>
         <note>ID: EditTab.Toolbox.ComicTool.Options.Style.Circle</note>
         <note>Refers to the shape of a comic bubble </note>
-        <target xml:lang="es-ES" state="translated">Círculo</target>
+        <target xml:lang="es-ES" state="final">Círculo</target>
       </trans-unit>
       <trans-unit id="EditTab.Toolbox.ComicTool.Options.Style.Ellipse" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Ellipse</source>
@@ -3208,12 +3208,12 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: Errors.BookProblem</note>
         <target xml:lang="es-ES" state="final">Bloom no pudo mostrar este libro. Esto no significa que su trabajo se haya perdido, pero sí significa que algo no está actualizado, hace falta o ha fallado.</target>
       </trans-unit>
-      <trans-unit id="Errors.CopyImageMetadata">
+      <trans-unit id="Errors.CopyImageMetadata" approved="yes">
         <source xml:lang="en">Bloom was not able to copy the metadata to {0} image(s): {1}. Try restarting your computer. If that does not fix the problem, please send us a report and we will help you fix it.</source>
         <note>ID: Errors.BookProblem</note>
         <note>The placeholder {0} will get a number that is the count of how many image files had a problem.</note>
         <note>The placeholder {1} will get a list of the names of image files that had a problem.</note>
-        <target xml:lang="es-ES" state="translated">Bloom no ha podido copiar los metadatos a {0} imagen(es): {1}. Intente reiniciar su computadora. Si eso no soluciona el problema, envíenos un informe y le ayudaremos a solucionarlo.</target>
+        <target xml:lang="es-ES" state="final">Bloom no ha podido copiar los metadatos a {0} imagen(es): {1}. Intente reiniciar su computadora. Si eso no soluciona el problema, envíenos un informe y le ayudaremos a solucionarlo.</target>
       </trans-unit>
       <trans-unit id="Errors.CannotAccessFile" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Cannot access {0}</source>
@@ -3913,7 +3913,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <source xml:lang="en">On the Android device, run Bloom Reader, open the menu and choose 'Receive books via USB'.</source>
         <note>ID: PublishTab.Android.USB.OpenMenuItem</note>
         <note/>
-        <target xml:lang="es-ES" state="translated">En el dispositivo Android, ejecuta Bloom Reader, abra el menú y elige 'Receive books via USB' ('Recibir libros por USB").</target>
+        <target xml:lang="es-ES" state="translated">En el dispositivo Android, ejecute Bloom Reader, abra el menú y elija 'Recibir libros por USB'.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.WiFi.Hint.Heading" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No Wi-Fi Network?</source>
@@ -4140,7 +4140,7 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.Android.Usb.Progress.LookingForDevice</note>
         <note>This is a progress message; MTP is an acronym for the system that allows computers to access files on devices.</note>
         <note>Prior to 5.0, this was "Looking for an Android device connected by USB cable and set up for MTP..."</note>
-        <target xml:lang="es-ES" state="translated">Buscando un dispositivo Android conectado al cable USB y configurado para MTP...</target>
+        <target xml:lang="es-ES" state="translated">Buscando un dispositivo Android conectado al cable USB y configurado para transferencia de archivos (MTP)...</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.LookingForExisting" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Looking for an existing "{0}"...</source>
@@ -4148,11 +4148,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>{0} is a book title</note>
         <target xml:lang="es-ES" state="final">Buscando el libro "{0}" existente...</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.MoreThanOne" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Please connect only one of the following devices.</source>
         <note>ID: PublishTab.Android.Usb.Progress.MoreThanOne</note>
         <note>Prior to 5.0, this was "The following connected devices all have Bloom Reader installed. Please connect only one of these devices."</note>
-        <target xml:lang="es-ES" state="translated">Bloom Reader está instalado en todos los siguientes dispositivos conectados. Por favor, conecte solamente uno de ellos.</target>
+        <target xml:lang="es-ES" state="final">Bloom Reader está instalado en todos los siguientes dispositivos conectados. Por favor, conecte solamente uno de ellos.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Progress.NoDeviceFound" sil:dynamic="true" approved="yes">
         <source xml:lang="en">No device found. Still looking...</source>
@@ -4182,11 +4182,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.Android.Usb.Progress.Stopped</note>
         <target xml:lang="es-ES" state="final">Detenido</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Usb.Progress.UnableToConnect" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Unable to connect to any Android device.</source>
         <note>ID: PublishTab.Android.Usb.Progress.UnableToConnect</note>
         <note>Prior to 5.0, this was "Unable to connect to any Android device which has Bloom Reader."</note>
-        <target xml:lang="es-ES" state="translated">No es posible conectarse a ningún dispositivo Android que tenga Bloom Reader.</target>
+        <target xml:lang="es-ES" state="final">No es posible conectarse a ningún dispositivo Android que tenga Bloom Reader.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Usb.Start" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Connect with USB cable</source>
@@ -4226,11 +4226,11 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note>ID: PublishTab.Android.Wifi.Progress.Stopped</note>
         <target xml:lang="es-ES" state="final">Paró de anunciar.</target>
       </trans-unit>
-      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true">
+      <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions1" sil:dynamic="true" approved="yes">
         <source xml:lang="en">On the Android, run Bloom Reader, open the menu and choose 'Receive Books via WiFi'.</source>
         <note>ID: PublishTab.Android.Wifi.Progress.WifiInstructions1</note>
         <note>Prior to 5.0, this was "On the Android, run Bloom Reader, open the menu and choose 'Receive Books from computer'."</note>
-        <target xml:lang="es-ES" state="translated">En el dispositivo Android, ejecute Bloom Reader, abra el menú y elija 'Recibir libros por WiFi'.</target>
+        <target xml:lang="es-ES" state="final">En el dispositivo Android, ejecute Bloom Reader, abra el menú y elija 'Recibir libros por WiFi'.</target>
       </trans-unit>
       <trans-unit id="PublishTab.Android.Wifi.Progress.WifiInstructions2" sil:dynamic="true" approved="yes">
         <source xml:lang="en">You can do this on as many devices as you like. Make sure each device is connected to the same network as this computer.</source>
@@ -4299,10 +4299,10 @@ Por ejemplo, darle crédito al traductor de esta versión.</target>
         <note xml:lang="en">OLD TEXT (before 3.9, reworded): Upload</note>
         <target xml:lang="es-ES" state="final">Compartir en la Web</target>
       </trans-unit>
-      <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true">
+      <trans-unit id="PublishTab.ButtonThatShowsUploadForm-tooltip" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Upload your book to BloomLibrary.org so that other people can read it, download it to their devices and share it with other people.</source>
         <note>ID: PublishTab.ButtonThatShowsUploadForm-tooltip</note>
-        <target xml:lang="es-ES" state="translated">Cargar a BloomLibrary.org, donde otros pueden descargarlo para traducirlo a su propio idioma.</target>
+        <target xml:lang="es-ES" state="final">Cargar a BloomLibrary.org, donde otros pueden descargarlo para traducirlo a su propio idioma.</target>
       </trans-unit>
       <trans-unit id="PublishTab.CoverOnlyRadio" approved="yes">
         <source xml:lang="en">Booklet Cover</source>
