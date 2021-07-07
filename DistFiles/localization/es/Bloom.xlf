@@ -5965,7 +5965,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.Digital Comic Book" sil:dynamic="true">
         <source xml:lang="en">Digital Comic Book</source>
         <note>ID: TemplateBooks.BookName.Digital Comic Book</note>
-        <target xml:lang="es-ES" state="needs-translation">Digital Comic Book</target>
+        <target xml:lang="es-ES" state="translated">Cómic digital</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Leveled Reader" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Leveled Reader</source>
@@ -5975,7 +5975,7 @@ Do you want to go ahead?</note>
       <trans-unit id="TemplateBooks.BookName.Paper Comic Book" sil:dynamic="true">
         <source xml:lang="en">Paper Comic Book</source>
         <note>ID: TemplateBooks.BookName.Paper Comic Book</note>
-        <target xml:lang="es-ES" state="needs-translation">Paper Comic Book</target>
+        <target xml:lang="es-ES" state="translated">Cómic impreso</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Picture Dictionary" sil:dynamic="true" approved="yes">
         <source xml:lang="en">Picture Dictionary</source>
