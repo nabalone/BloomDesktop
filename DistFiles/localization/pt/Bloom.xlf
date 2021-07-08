@@ -5967,7 +5967,7 @@ Deseja continuar?</target>
       <trans-unit id="TemplateBooks.BookName.Digital Comic Book" sil:dynamic="true">
         <source xml:lang="en">Digital Comic Book</source>
         <note>ID: TemplateBooks.BookName.Digital Comic Book</note>
-        <target xml:lang="pt-PT" state="needs-translation">Digital Comic Book</target>
+        <target xml:lang="pt-PT" state="translated">Banda desenhada digital</target>
       </trans-unit>
       <trans-unit id="TemplateBooks.BookName.Leveled Reader" sil:dynamic="true">
         <source xml:lang="en">Leveled Reader</source>
